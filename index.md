@@ -27,6 +27,13 @@ sections:
         - title: Book appointment
           description: Already have the code?
           url: 'https://appointment.vaccine.gov.sg'
+  - infobar:
+      description: >-
+        We are aware of websites, emails, SMS text messages and phone calls
+        falsely claiming to offer registration for COVID-19 vaccination
+      button: Learn more
+      url: /scam/
+      title: Beware of Scams
   - infopic:
       title: How to Sign Up
       description: >-
@@ -69,9 +76,4 @@ sections:
       button: Read FAQ
       url: /faq
       alt: Read FAQ
-  - infobar:
-      title: Beware of scam
-      description: 'When in doubt, please verify by calling MOH hotline 1800-333-9999'
-      button: Learn more
-      url: /scam/
 ---
