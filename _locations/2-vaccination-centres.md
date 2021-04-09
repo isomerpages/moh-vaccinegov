@@ -55,6 +55,24 @@ Locations that are administering the Covid-19 Vaccines.
       <td>1 Telok Blangah Crescent, Singapore 098915</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Kolam Ayer Community Club  </td>
+      <td>1 Geylang Bahru Lane, Singapore 339631</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Buona Vista Community Club </td>
+      <td>36 Holland Drive, Singapore 270036</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Potong Pasir Community Club </td>
+      <td>6 Potong Pasir Avenue 2, Singapore 358361</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
 
@@ -102,6 +120,12 @@ Locations that are administering the Covid-19 Vaccines.
     <tr>
       <td>Arena@ Our Tampines Hub (Hockey Court)  </td>
       <td>1 Tampines Walk, Singapore 528523</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Tampines East Community Club </td>
+      <td>10 Tampines Street 23, Singapore 529341</td>
     </tr>
     <!--end of row-->
   </tbody>
@@ -168,6 +192,24 @@ Locations that are administering the Covid-19 Vaccines.
     <tr>
       <td>Marsiling Community Club   </td>
       <td>100 Admiralty Road, Singapore 739980</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Kebun Baru Community Club   </td>
+      <td>216 Ang Mo Kio Avenue 4, Singapore 569897</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Yew Tee Community Club   </td>
+      <td>20 Choa Chu Kang Street 52, Singapore 689286</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Woodlands Community Club   </td>
+      <td>1 Woodlands Street 81, Singapore 738526</td>
     </tr>
     <!--end of row-->
   </tbody>
