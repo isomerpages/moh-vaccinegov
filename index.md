@@ -28,12 +28,12 @@ sections:
           description: Already have the code?
           url: 'https://appointment.vaccine.gov.sg'
   - infobar:
-      title: Beware of scam
       description: >-
         Scam can be from websites, emails, SMS text messages and phone calls
         falsely claiming to offer registration for COVID-19 vaccination
       button: Learn more
       url: /scam/
+      subtitle: BEWARE OF SCAMS
   - infopic:
       title: How to Sign Up
       description: >-
