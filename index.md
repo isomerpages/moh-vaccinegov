@@ -29,11 +29,11 @@ sections:
           url: 'https://appointment.vaccine.gov.sg'
   - infobar:
       description: >-
-        Scam can be from websites, emails, SMS text messages and phone calls
+        We are aware of websites, emails, SMS text messages and phone calls
         falsely claiming to offer registration for COVID-19 vaccination
       button: Learn more
       url: /scam/
-      subtitle: BEWARE OF SCAMS
+      title: Beware of Scams
   - infopic:
       title: How to Sign Up
       description: >-
