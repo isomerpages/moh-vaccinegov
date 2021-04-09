@@ -33,7 +33,7 @@ sections:
         falsely claiming to offer registration for COVID-19 vaccination
       button: Learn more
       url: /scam/
-      title: Beware of Scams
+      title: ##Beware of Scams
   - infopic:
       title: How to Sign Up
       description: >-
