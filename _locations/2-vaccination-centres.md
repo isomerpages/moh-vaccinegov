@@ -86,6 +86,20 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
 			<td>Moderna</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Marine Parade Community Club </td>
+      <td>278 Marine Parade Road, Singapore 449282</td>
+			<td>Pfizer</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Bukit Timah Community Club</td>
+      <td>20 Toh Yi Drive, Singapore 596569</td>
+			<td>Pfizer</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
 
@@ -104,13 +118,6 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
     <tr>
       <td>Changi Airport Terminal 4</td>
       <td>10 Airport Boulevard #01-01 Passenger Building Terminal 4 Singapore 819665</td>
-			<td>Pfizer</td>
-    </tr>
-    <!--end of row-->
-		<!--start of row-->
-    <tr>
-      <td>Marine Parade Community Club </td>
-      <td>278 Marine Parade Road, Singapore 449282</td>
 			<td>Pfizer</td>
     </tr>
     <!--end of row-->
@@ -187,13 +194,6 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
     <tr>
       <td>Canberra Community Club</td>
       <td>2 Sembawang Crescent, Singapore 757632</td>
-			<td>Pfizer</td>
-    </tr>
-    <!--end of row-->
-		<!--start of row-->
-    <tr>
-      <td>Bukit Timah Community Club</td>
-      <td>20 Toh Yi Drive, Singapore 596569</td>
 			<td>Pfizer</td>
     </tr>
     <!--end of row-->
