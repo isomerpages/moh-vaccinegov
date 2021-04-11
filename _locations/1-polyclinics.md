@@ -112,31 +112,10 @@ Locations that are administering the Covid-19 Vaccines.
 			<td> Pfizer</td>
     </tr>
     <!--end of row-->
-    <!--start of row-->
-    <tr>
-      <td>Bukit Batok Polyclinic</td>
-      <td>50 Bukit Batok West Avenue 3, Singapore 659164</td>
-			<td> Pfizer</td>
-    </tr>
-    <!--end of row-->
-		<!--start of row-->
-    <tr>
-      <td>Choa Chu Kang Polyclinic</td>
-      <td>2 Teck Whye Crescent, Singapore 688846</td>
-			<td> Pfizer</td>
-    </tr>
-    <!--end of row-->
 		<!--start of row-->
     <tr>
       <td>Yishun Polyclinic</td>
       <td>2 Yishun Avenue 9, Singapore 768898</td>
-			<td> Pfizer</td>
-    </tr>
-    <!--end of row-->
-		<!--start of row-->
-    <tr>
-      <td>Ang Mo Kio Polyclinic</td>
-      <td>21 Ang Mo Kio Central 2, Singapore 569666</td>
 			<td> Pfizer</td>
     </tr>
     <!--end of row-->
@@ -174,6 +153,13 @@ Locations that are administering the Covid-19 Vaccines.
 			<td> Pfizer</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Ang Mo Kio Polyclinic</td>
+      <td>21 Ang Mo Kio Central 2, Singapore 569666</td>
+			<td> Pfizer</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
 
@@ -205,6 +191,20 @@ Locations that are administering the Covid-19 Vaccines.
     <tr>
       <td>Jurong Polyclinic</td>
       <td>90 Jurong East Avenue 1, Singapore 609788</td>
+			<td> Pfizer</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Bukit Batok Polyclinic</td>
+      <td>50 Bukit Batok West Avenue 3, Singapore 659164</td>
+			<td> Pfizer</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Choa Chu Kang Polyclinic</td>
+      <td>2 Teck Whye Crescent, Singapore 688846</td>
 			<td> Pfizer</td>
     </tr>
     <!--end of row-->
