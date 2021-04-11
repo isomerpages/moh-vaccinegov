@@ -338,60 +338,7 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
 	</tbody>
 </table>
 
-### **North East**
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Address</th>
-			<th>Vaccine Type</th>
-    </tr>
-  </thead>
-  <tbody>
-		<!--start of row-->
-    <tr>
-      <td>Kebun Baru Community Club   </td>
-      <td>216 Ang Mo Kio Avenue 4, Singapore 569897</td>
-			<td>Moderna</td>
-    </tr>
-    <!--end of row-->
-		<!--start of row-->
-    <tr>
-      <td>Punggol 21 Community Club   </td>
-      <td>80 Punggol Field #01-01, Singapore 828815</td>
-			<td>Moderna</td>
-    </tr>
-    <!--end of row-->
-    <!--start of row-->
-    <tr>
-      <td>The Serangoon Community Club </td>
-      <td>10 Serangoon North Avenue 2, Singapore 555877</td>
-			<td>Pfizer</td>
-    </tr>
-    <!--end of row-->
-		<!--start of row-->
-    <tr>
-      <td>Sengkang Community Club  </td>
-      <td>2 Sengkang Square,  #01-01 Sengkang Community Hub, Singapore 545025</td>
-			<td>Pfizer</td>
-    </tr>
-    <!--end of row-->
-		<!--start of row-->
-    <tr>
-      <td>Hougang Community Club    </td>
-      <td>35 Hougang Avenue 3, Singapore 538840</td>
-			<td>Pfizer</td>
-    </tr>
-    <!--end of row-->
-		<!--start of row-->
-    <tr>
-      <td>Teck Ghee Community Club</td>
-      <td>861 Ang Mo Kio Avenue 10, Singapore 569734</td>
-			<td>Pfizer</td>
-    </tr>
-    <!--end of row-->
-  </tbody>
-</table>
+
 		
 		
 		
