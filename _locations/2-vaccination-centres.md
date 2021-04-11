@@ -74,7 +74,7 @@ Locations that are administering the Covid-19 Vaccines.
     <tr>
       <td>Buona Vista Community Club </td>
       <td>36 Holland Drive, Singapore 270036</td>
-			<td>Pfizer</td>
+			<td>Moderna</td>
     </tr>
     <!--end of row-->
 		<!--start of row-->
