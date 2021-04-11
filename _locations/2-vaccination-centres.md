@@ -274,7 +274,7 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
   <tbody>
 		<!--start of row-->
     <tr>
-      <td>Hong Kah North Community Club  </td>
+      <td>Hong Kah North Community Club </td>
       <td>30 Bukit Batok Street 31, Singapore 659440</td>
 			<td>Moderna</td>
     </tr>
@@ -326,12 +326,15 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
       <td>Senja-Cashew Community Club</td>
       <td>101 Bukit Panjang Road, Singapore 679910</td>
 			<td>Pfizer</td>
-			<!--start of row-->
+		</tr>
+		<!--end of row-->
+		<!--start of row-->
     <tr>
       <td>Chua Chu Kang Community Club </td>
       <td>35 Teck Whye Avenue, Singapore 688892</td>
 			<td>Pfizer</td>
     </tr>
     <!--end of row-->
-  </tbody>
+	</tbody>
+		
 </table>
