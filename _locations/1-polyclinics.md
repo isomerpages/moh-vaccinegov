@@ -50,6 +50,13 @@ Locations that are administering the Covid-19 Vaccines.
 			<td> Pfizer</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Marine Parade Polyclinic</td>
+      <td>80 Marine Parade Central, Singapore 440080</td>
+			<td> Pfizer</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
 
@@ -75,13 +82,6 @@ Locations that are administering the Covid-19 Vaccines.
     <tr>
       <td>Bedok Polyclinic</td>
       <td>11 Bedok North Street 1 Heartbeat@ #02-01, #03-01, Singapore 469662</td>
-			<td> Pfizer</td>
-    </tr>
-    <!--end of row-->
-		<!--start of row-->
-    <tr>
-      <td>Marine Parade Polyclinic</td>
-      <td>80 Marine Parade Central, Singapore 440080</td>
 			<td> Pfizer</td>
     </tr>
     <!--end of row-->
