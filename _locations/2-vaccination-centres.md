@@ -81,7 +81,7 @@ Locations that are administering the Covid-19 Vaccines.
     <tr>
       <td>Potong Pasir Community Club </td>
       <td>6 Potong Pasir Avenue 2, Singapore 358361</td>
-			<td>Pfizer</td>
+			<td>Moderna</td>
     </tr>
     <!--end of row-->
   </tbody>
