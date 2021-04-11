@@ -333,5 +333,4 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
 			<td>Pfizer</td>
     </tr>
     <!--end of row-->
-
 </table>
