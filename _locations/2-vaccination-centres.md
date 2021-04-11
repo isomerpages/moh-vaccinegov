@@ -274,7 +274,7 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
   <tbody>
 		<!--start of row-->
     <tr>
-      <td>Hong Kah North Community Club  </td>
+      <td>Hong Kah North Community Club </td>
       <td>30 Bukit Batok Street 31, Singapore 659440</td>
 			<td>Moderna</td>
     </tr>
