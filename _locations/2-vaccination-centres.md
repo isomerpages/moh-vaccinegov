@@ -336,6 +336,5 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
     </tr>
     <!--end of row-->
 	</tbody>
-</table>
 		
 </table>
