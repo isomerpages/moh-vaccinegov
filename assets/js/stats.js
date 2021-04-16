@@ -5,7 +5,14 @@ function formatNumber(n){
   if (n >= 1e9 && n < 1e12) return +(n / 1e9).toFixed(1) + "B";
   if (n >= 1e12) return +(n / 1e12).toFixed(1) + "T";
 };
-axios.get('https://api.vaccine.gov.sg/staging/stats')
+function getUri(){
+  let env = 'staging'
+  if(window.location.hostname === 'www.vaccine.gov.sg' || window.location.hostname === 'vaccine.gov.sg'){
+    env = 'production'
+  }
+  return `https://api.vaccine.gov.sg/${env}/stats`
+}
+axios.get(getUri())
 .then(function (response) {
   const numTotalPrereg = document.getElementById('num-total-preregistrations')
   const numTotalBookingLinks = document.getElementById('num-total-booking-links-sent')
