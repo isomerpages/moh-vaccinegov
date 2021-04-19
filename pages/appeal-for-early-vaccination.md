@@ -18,7 +18,7 @@ At this time, MOH is approving appeals only for Singapore Citizens and Permanent
 (2)	To take up or complete a formal education/vocational programme overseas    | Please submit your application <u>only</u> if you are travelling to take up or completing a formal education/vocational programme. <br> <br>	•	Physical presence in the foreign institution is required to start/complete course<br>•	Physical presence in the foreign institution is required for course examination.  <br>•	Physical presence is required to gain entry to the institution
 (3)	To take up a new job or return to employment overseas    | Take up or return to overseas employment, or be based overseas for work for which working from Singapore is not possible <u> and</u> not going overseas would result in <u>the loss of the job</u>. 
 
- Applications with no supporting documents attached will not be entertained. All other applications will be considered on an exceptional basis only.
+Applications with no supporting documents attached will not be entertained and applications with insufficient documentation may be rejected. We are only able to accept English language documentation (please provide translations for non-English documentation). All other applications will be considered on an exceptional basis only.
 
 We will prioritise applicants who are able to receive the full COVID-19 vaccination. Please note that for the current vaccines available, two doses are required three to four weeks apart, and require a further two weeks after the second dose to be fully effective. To provide sufficient lead time for processing and scheduling, you should submit your request at least **8 weeks** before departure from Singapore.
 
