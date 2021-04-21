@@ -15,13 +15,6 @@ colors:
       color: '#12115A'
     - title: media-color-five
       color: '#8292A6'
-collections:
-  health-advisory:
-    output: true
-  how-to-sign-up:
-    output: true
-  locations:
-    output: true
 resources_name: News
 description: COVID-19 Vaccination Registration
 permalink: none
@@ -51,10 +44,13 @@ custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+is_government: true
+google_analytics: UA-191846183-3
+staging: https://moh-vaccinegov-staging.netlify.app
+prod: https://moh-vaccinegov-prod.netlify.app
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-is_government: true
-google_analytics: UA-191846183-3
+  - jekyll-remote-theme
