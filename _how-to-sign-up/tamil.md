@@ -1,5 +1,5 @@
 ---
-title: Tamil
+title: தமிழ்
 permalink: /how-to-sign-up-ta
 ---
 

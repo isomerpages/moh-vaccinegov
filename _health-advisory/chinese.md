@@ -1,5 +1,5 @@
 ---
-title: Chinese
+title: 华语
 permalink: /health-advisory-zh
 ---
 
