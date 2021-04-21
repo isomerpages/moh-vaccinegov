@@ -1,5 +1,5 @@
 ---
-title: 华语
+title: Chinese
 permalink: /how-to-sign-up-zh
 ---
 

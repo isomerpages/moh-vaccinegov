@@ -1,5 +1,5 @@
 ---
-title: தமிழ்
+title: Tamil
 permalink: /health-advisory-ta
 ---
 
