@@ -100,6 +100,42 @@ permalink: /faq
     				</div>
     			</div>
 					<!-- end of each question -->
+				<!-- start of each question -->
+					<div class="tab">
+						<input type="checkbox" id="question-1-11">
+						<label class="tab-label" for="question-1-11">Why do we need to have a two-step
+booking process?</label>
+						<div class="tab-content">
+							<p>
+								As part of the two-step booking process,
+individuals must first (i) register their interest
+to be vaccinated at vaccine.gov.sg, and then
+(ii) receive a Short Message Service (SMS)
+invitation (within a few days to up to three
+weeks after registration) with a personalised
+booking link to book their vaccination
+appointments.
+							</p>
+							<p>
+								This two-step process is necessary to ensure
+that we have verified the correct mobile
+number being used by the interested
+individuals to process their bookings, and
+more importantly, allow us to balance the
+demand for vaccination slots with our existing
+vaccine supplies. Our supply of vaccines
+remains limited by the ability of vaccine
+manufacturers to deliver at a faster rate, given
+the high levels of global demand. This may
+result in limited booking slots, and hence a
+longer wait for some before they receive their
+booking SMS. As more supplies arrive, we will
+progressively invite more individuals to book
+their appointments.
+							</p>
+							</div>
+					</div>
+					<!-- end of each question -->
     		</div>
 				<!-- 2nd section start-->
 				<div class="tabs">
@@ -247,6 +283,40 @@ permalink: /faq
     				</label>
     				<div class="tab-content">
     					<p>There is no evidence at this time suggesting that the Pfizer-BioNTech and Moderna’s vaccines do not protect against specific COVID-19 strains, including the UK’s new reported variant. HSA and the EC19V are closely monitoring this issue.
+							</p>
+    				</div>
+    			</div>
+    			<!-- end of each question -->
+	<!-- start of each question -->
+    			<div class="tab">
+    				<input type="checkbox" id="question-3-7">
+    				<label class="tab-label" for="question-3-7">Can someone who was vaccinated with 1
+COVID-19 vaccine get dose #2 with a
+different brand? Or if they have
+completed 2 doses, can they still get
+another brand of COVID-19 vaccine
+because they want to be really sure they
+are protected?
+    				</label>
+    				<div class="tab-content">
+    					<p>	All vaccines requiring 2 doses should be
+completed using the same brand. There is no
+data at this time to support switching vaccines
+between dose 1 and dose 2, except for very
+specific medical conditions, and it is therefore
+not advisable to do so.
+							</p>
+							<p>
+								There is no recommendation at this time for
+someone who has completed 2 doses of
+COVID-19 vaccine to get further vaccinated
+with another brand of COVID-19 vaccine.
+								</p>
+							<p>
+								The Ministry of Health will provide
+recommendations as follow-up data become
+available from studies, if a booster is required
+later on.
 							</p>
     				</div>
     			</div>
