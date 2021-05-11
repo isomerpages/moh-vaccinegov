@@ -305,8 +305,9 @@ data at this time to support switching vaccines
 between dose 1 and dose 2, except for very
 specific medical conditions, and it is therefore
 not advisable to do so. 
-
-								There is no recommendation at this time for
+						</p>
+							<p>
+There is no recommendation at this time for
 someone who has completed 2 doses of
 COVID-19 vaccine to get further vaccinated
 with another brand of COVID-19 vaccine.
