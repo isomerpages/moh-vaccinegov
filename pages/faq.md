@@ -299,19 +299,21 @@ because they want to be really sure they
 are protected?
     				</label>
     				<div class="tab-content">
-    					<p>All vaccines requiring 2 doses should be
+    					<p>	All vaccines requiring 2 doses should be
 completed using the same brand. There is no
 data at this time to support switching vaccines
 between dose 1 and dose 2, except for very
 specific medical conditions, and it is therefore
-not advisable to do so. 
-						</p>
+not advisable to do so.
+							</p>
 							<p>
-There is no recommendation at this time for
+								There is no recommendation at this time for
 someone who has completed 2 doses of
 COVID-19 vaccine to get further vaccinated
 with another brand of COVID-19 vaccine.
-The Ministry of Health will provide
+								</p>
+							<p>
+								The Ministry of Health will provide
 recommendations as follow-up data become
 available from studies, if a booster is required
 later on.
