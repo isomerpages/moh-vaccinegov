@@ -1,0 +1,7 @@
+collections:
+  locations:
+    output: true
+    order:
+      - clinics.md
+      - polyclinics.md
+      - vaccination-centres.md
