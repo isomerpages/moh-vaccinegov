@@ -287,6 +287,36 @@ their appointments.
     				</div>
     			</div>
     			<!-- end of each question -->
+	<!-- start of each question -->
+    			<div class="tab">
+    				<input type="checkbox" id="question-3-7">
+    				<label class="tab-label" for="question-3-7">Can someone who was vaccinated with 1
+COVID-19 vaccine get dose #2 with a
+different brand? Or if they have
+completed 2 doses, can they still get
+another brand of COVID-19 vaccine
+because they want to be really sure they
+are protected?
+    				</label>
+    				<div class="tab-content">
+    					<p>All vaccines requiring 2 doses should be
+completed using the same brand. There is no
+data at this time to support switching vaccines
+between dose 1 and dose 2, except for very
+specific medical conditions, and it is therefore
+not advisable to do so. 
+There is no recommendation at this time for
+someone who has completed 2 doses of
+COVID-19 vaccine to get further vaccinated
+with another brand of COVID-19 vaccine.
+The Ministry of Health will provide
+recommendations as follow-up data become
+available from studies, if a booster is required
+later on.
+							</p>
+    				</div>
+    			</div>
+    			<!-- end of each question -->
     	</div>
 			<!-- 3rd section end-->
 </div>
