@@ -4,7 +4,7 @@ title: MOH COVID-19 Vaccination Registration
 description: MOH COVID-19 Vaccination in Singapore
 image: /images/isomer-logo.svg
 permalink: /
-notification: ''
+notification: 'Vaccine.gov.sg will be under scheduled maintenance on 12 May (Wed), 12am to 2am. To register or book appointments, please return after this maintenance period. Thank you for your patience.'
 sections:
   - hero:
       title: COVID-19 Vaccination Registration
