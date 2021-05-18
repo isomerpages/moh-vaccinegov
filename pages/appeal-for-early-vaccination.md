@@ -20,7 +20,7 @@ At this time, MOH is considering appeals only for Singapore Citizens and Permane
 
 Applications with no supporting documents attached will not be entertained and applications with insufficient documentation may be rejected.  All other applications will be considered on an exceptional basis only. We are only able to accept English language documentation (please provide translations for non-English documentation). 
 
-We will prioritise applicants who are able to receive the full COVID-19 vaccination. Please note that for the current vaccines available, two doses are required three to four weeks apart, and require a further two weeks after the second dose to be fully effective. To provide sufficient lead time for processing and scheduling, you should submit your request at least **eight weeks** before departure from Singapore.
+We will prioritise applicants who are able to receive the full COVID-19 vaccination. Please note that for the current vaccines available, two doses are required six to eight weeks apart, and require a further two weeks after the second dose to be fully effective. To provide sufficient lead time for processing and scheduling, you should submit your request at least **ten weeks** before departure from Singapore.
 
 
 **Submission of this form does not guarantee prioritisation for vaccination**. Successful applicants will be notified by email. Re-appeals will not be entertained unless there are new grounds for consideration.
