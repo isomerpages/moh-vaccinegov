@@ -128,13 +128,6 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
 			<td>Moderna</td>
     </tr>
     <!--end of row--
-    <!--start of row-->
-    <tr>
-      <td>Changi Airport Terminal 4</td>
-      <td>10 Airport Boulevard #01-01 Passenger Building Terminal 4 Singapore 819665</td>
-			<td>Pfizer</td>
-    </tr>
-    <!--end of row-->
 		<!--start of row-->
     <tr>
       <td>Bedok Community Centre   </td>
