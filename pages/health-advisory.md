@@ -4,7 +4,7 @@ permalink: /health-advisory/
 ---
 **Full COVID-19 vaccination consists of two doses**
 
-- The dosing regimen is at day 0 and 21 (i.e. 21 days apart) for the Pfizer-BioNTech vaccine, and day 0 and 28 (i.e. 28 days apart) for the Moderna vaccine. MOH will be extending the interval period for the administration of second dose for both vaccines (Pfizer and Moderna) to be between 42 Days to 56 Days. This will apply to vaccination registrations that occur from 19 May 2021 onwards.
+- Doses for Pfizer-BioNTech and Moderna vaccines should be at least 21 and 28 days apart, respectively, but can be taken with an interval of up to six to eight weeks (42 days-56 days) apart. This will apply to vaccination registrations that occur from 19 May 2021 onwards.
 - It is recommended for those who have received the COVID-19 vaccinations to defer other non-COVID-19 vaccinations for 2 weeks or more, if possible
   <br/>
   <br/>
