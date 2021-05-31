@@ -30,7 +30,7 @@ permalink: /health-advisory/
 - Are unwell
 - Have a fever in the last 24 hours
 - 
- Are serving Stay-Home Notice (SHN) or Quarantine Order
+ Are serving Stay-Home Notice (SHN) or Quarantine Order (QO)
 
 
-For more information, please refer to the [FAQ](/faq)
+If you are pregnant, on active cancer treatment, being treated for other medical conditions and are unsure if you can be vaccinated, you are advised to consult your doctor. For more information, please refer to the [FAQ](/faq)
