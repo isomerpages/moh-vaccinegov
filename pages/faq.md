@@ -20,7 +20,7 @@ permalink: /faq
 						<label class="tab-label" for="question-1-2">Who is eligible for the vaccine?</label>
 						<div class="tab-content">
 							<p>
-								At the moment, only healthcare, frontline workers and persons from 40 years old and above are eligible.
+								At the moment, only healthcare, frontline workers and persons from 40 years old and above, and Students aged 12 years and above 
 							</p>
 							<p>
 								Please note that your health will be assessed on the following <a href="/health-advisory" >criteria</a> to ensure your safety.
