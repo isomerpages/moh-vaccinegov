@@ -20,9 +20,8 @@ permalink: /health-advisory/
 **Important reminders for the day of vaccination**
 
 - Wear short sleeved or loose clothes
-- Bring your NRIC or FIN with you for both appointments
+- Bring your ID (NRIC/FIN/Student Pass) with you for both appointments
 - It is advisable to stay hydrated, not come with an empty stomach, and avoid strenuous exercise
- <br/>
  <br/>
 
 **Postpone your appointment if you**
