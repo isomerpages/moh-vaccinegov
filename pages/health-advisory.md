@@ -13,7 +13,7 @@ permalink: /health-advisory/
 
 - Individuals below 12 years of age for the Pfizer-BioNTech vaccine, and individuals below 18 years of age for the Moderna vaccine
 - Persons with a severely weakened immune system
-- Persons with a history of a life-threatening allergic reaction (anaphylaxis)
+
   <br/>
   <br/>
 
