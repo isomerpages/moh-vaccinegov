@@ -20,7 +20,7 @@ permalink: /faq
 						<label class="tab-label" for="question-1-2">Who is eligible for the vaccine?</label>
 						<div class="tab-content">
 							<p>
-								At the moment, only healthcare, frontline workers and persons from 40 years old and above, and Students aged 12 years old and above 
+							All persons aged 12 and above, starting with Singapore Citizens are eligible
 							</p>
 							<p>
 								Please note that your health will be assessed on the following <a href="/health-advisory" >criteria</a> to ensure your safety.
@@ -33,7 +33,7 @@ permalink: /faq
 						<input type="checkbox" id="question-1-3">
 						<label class="tab-label" for="question-1-3">How can I register?</label>
 						<div class="tab-content">
-							<p>For healthcare and frontline workers: <br>If your employer has submitted your details to MOH for pre-registration, you will receive a link to book your appointments with a unique booking code sent by SMS.<br><br> For seniors from 60 years old and above: <br>You can <a href="https://preregister.vaccine.gov.sg" target="_blank">register your interest</a> using the link or at any community centre/club with your NRIC / FIN.</p> 
+							<p> You will receive a link to book your appointments with a unique booking code sent by SMS after registration.<br><br> For seniors from 60 years old and above: <br>You can <a href="https://preregister.vaccine.gov.sg" target="_blank">register your interest</a> using the link or at any community centre/club with your NRIC / FIN.</p> 
 							</div>
 					</div>
 					<!-- end of each question -->
