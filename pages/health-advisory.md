@@ -7,7 +7,6 @@ permalink: /health-advisory/
 - Doses for Pfizer-BioNTech and Moderna vaccines should be at least 21 and 28 days apart, respectively, but can be taken with an interval of up to six to eight weeks (42 days-56 days) apart. This will apply to vaccination registrations that occur from 19 May 2021 onwards.
 - It is recommended for those who have received the COVID-19 vaccinations to defer other non-COVID-19 vaccinations for 2 weeks or more, if possible
   <br/>
-  <br/>
 
 **COVID-19 vaccine is currently not recommended for**
 
