@@ -32,7 +32,7 @@ permalink: /health-advisory/
 If you are pregnant, on active cancer treatment, being treated for other medical conditions and are unsure if you can be vaccinated, you are advised to consult your doctor. For more information, please refer to the [FAQ](/faq)
  <br/>
  
- **COVID-19 vaccination related documents**<br>
+ **COVID-19 Vaccination Related Documents**<br>
  [Parental consent form](https://go.gov.sg/parcf)
   <br/>
 	
