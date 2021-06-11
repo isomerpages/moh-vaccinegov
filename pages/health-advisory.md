@@ -37,6 +37,6 @@ If you are pregnant, on active cancer treatment, being treated for other medical
  
 [Screening Form and Vaccination Information Sheet - Pfizer*](http://go.gov.sg/visp)<br>
 
- [Screening Form and Vaccination Information Sheet - Moderna*](https://go.gov.sg/vism)<br><br>
+ [Screening Form and Vaccination Information Sheet - Moderna*](https://go.gov.sg/vism)<br>
  
   *These forms will be provided and filled up at the vaccination site
