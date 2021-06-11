@@ -35,8 +35,6 @@ If you are pregnant, on active cancer treatment, being treated for other medical
  **COVID-19 Vaccination Related Documents**<br>
  [Parental Consent Form](https://go.gov.sg/parcf)
   <br/>
-[Screening Form and Vaccination Information Sheet - Pfizer*](https://go.gov.sg/visp)<br>
-[Screening Form and Vaccination information Sheet - Moderna*](https://go.gov.sg/vism)<br>
+[Screening Form and Vaccination Information Sheet - Pfizer*](https://go.gov.sg/visp)<br>[Screening Form and Vaccination information Sheet - Moderna*](https://go.gov.sg/vism)<br>
 
  *These forms will be provided and filled up at the vaccination site<br>
- 
