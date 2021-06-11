@@ -32,10 +32,11 @@ permalink: /health-advisory/
 If you are pregnant, on active cancer treatment, being treated for other medical conditions and are unsure if you can be vaccinated, you are advised to consult your doctor. For more information, please refer to the [FAQ](/faq)
  <br/>
  
- **COVID-19 vaccination related documents**<br>
- [Parental consent form](https://go.gov.sg/parcf)
-  <br/>
-	
- *These forms will be provided and fill up at the vaccination site<br>
-*[Screening form and Vaccination Information Sheet - Pfizer](https://go.gov.sg/visp)<br>
-*[Screening form and Vaccination information Sheet - Moderna](https://go.gov.sg/vism)
+ **COVID-19 Vaccination Related Documents**<br>
+ [Parental Consent Form](https://go.gov.sg/parcf) <br>
+ 
+[Screening Form and Vaccination Information Sheet - Pfizer*](http://go.gov.sg/visp)<br>
+
+ [Screening Form and Vaccination Information Sheet - Moderna*](https://go.gov.sg/vism)<br>
+ 
+  *These forms will be provided and filled up at the vaccination site
