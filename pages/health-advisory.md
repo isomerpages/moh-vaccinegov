@@ -36,6 +36,7 @@ If you are pregnant, on active cancer treatment, being treated for other medical
  [Parental Consent Form](https://go.gov.sg/parcf) <br>
 [Screening Form and Vaccination Information Sheet - Pfizer*](http://go.gov.sg/visp)<br>
 
- *These forms will be provided and filled up at the vaccination site<br>
+
+ [Screening Form and Vaccination Information Sheet - Moderna*](https://go.gov.sg/vism)<br><br>
  
- [Screening Form and Vaccination Information Sheet - Moderna*](https://go.gov.sg/vism)
+  *These forms will be provided and filled up at the vaccination site
