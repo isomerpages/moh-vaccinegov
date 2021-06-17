@@ -156,10 +156,12 @@ their appointments.
 							<p>
 						Parents/guardians can register interest for their child/ward to receive the vaccination on vaccine.gov.sg. To facilitate the booking process,
 parents/guardians should use their contact details to register for their child/ward. A SMS with a personalised booking link will then be sent to
-this contact number to book a vaccination appointment. </p
+this contact number to book a vaccination appointment. 
+							</p
 							</p>
 								Under the national vaccination programme, children/wards below the age of 18 will require the consent of their parents/guardians to book an
-appointment. </p
+appointment. 
+							</p
 							</p>
 Parents/guardians of their child/ward aged 13 and above are not required to accompany their child/ward to the vaccination site on the day of
 vaccination. Children/wards aged 12 will need to be accompanied by a parent or guardian.
