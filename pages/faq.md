@@ -83,27 +83,9 @@ permalink: /faq
     			</div>
 					<!-- end of each question -->
 				<!-- start of each question -->
-    			<div class="tab">
-    				<input type="checkbox" id="question-1-9">
-    				<label class="tab-label" for="question-1-9">What does the 14-day time limit mean? </label>
-    				<div class="tab-content">
-    					<p>Upon successful <a href="https://preregister.vaccine.gov.sg" target="_blank">registration of your interest</a> , you will be sent an SMS with a unique booking link to make an appointment to be vaccinated.  You will  have 14 days from receipt of this SMS to schedule an appointment via the booking link.</p><p>Within the 14 days, you will have priority to schedule your appointment.  If you have not booked a slot within the 14-day time limit, but are still keen to be vaccinated, you may re-register your interest and will be notified to make an appointment when there are slots available. You can re-register by clicking on the same unique link in the original SMS notification.</p><p>Please note that the 14-day limit applies to the time window given to make an appointment. It does not mean that you must be vaccinated within 14 days of receiving the SMS.</p>
-    				</div>
-    			</div>
-					<!-- end of each question -->
-									<!-- start of each question -->
-    			<div class="tab">
-    				<input type="checkbox" id="question-1-10">
-    				<label class="tab-label" for="question-1-10">Why is there a time-limit to make an appointment? </label>
-    				<div class="tab-content">
-    					<p>We aim to ensure that everyone who wishes to be vaccinated is able to do so at the earliest opportunity. As vaccine supplies are limited at the outset, holding slots for those who may need more time to decide whether to get vaccinated would deprive others of a slot.</p><p>While we have prioritised certain groups for vaccination, we will move on to the next priority group to give others who wish to be vaccinated the opportunity to do so quickly.</p>
-    				</div>
-    			</div>
-					<!-- end of each question -->
-				<!-- start of each question -->
 					<div class="tab">
-						<input type="checkbox" id="question-1-11">
-						<label class="tab-label" for="question-1-11">Why do we need to have a two-step
+						<input type="checkbox" id="question-1-9">
+						<label class="tab-label" for="question-1-9">Why do we need to have a two-step
 booking process?</label>
 						<div class="tab-content">
 							<p>
@@ -119,8 +101,8 @@ their appointments.
 					<!-- end of each question -->
 				<!-- start of each question -->
 					<div class="tab">
-						<input type="checkbox" id="question-1-12">
-						<label class="tab-label" for="question-1-12">My child/ward turns 12 this year. Can I get him/her vaccinated?</label>
+						<input type="checkbox" id="question-1-10">
+						<label class="tab-label" for="question-1-10">My child/ward turns 12 this year. Can I get him/her vaccinated?</label>
 						<div class="tab-content">
 							<p>
 						Children who turn 12 in 2021 must have crossed their birthday before they are eligible to book a vaccination appointment.</p>
@@ -129,8 +111,8 @@ their appointments.
 					<!-- end of each question -->
 				<!-- start of each question -->
 					<div class="tab">
-						<input type="checkbox" id="question-1-13">
-						<label class="tab-label" for="question-1-13">I want to get my child/ward vaccinated. What do I need to do?</label>
+						<input type="checkbox" id="question-1-11">
+						<label class="tab-label" for="question-1-11">I want to get my child/ward vaccinated. What do I need to do?</label>
 						<div class="tab-content">
 							<p>
 						Parents/guardians can register interest for their child/ward to receive the vaccination on vaccine.gov.sg. To facilitate the booking process,
