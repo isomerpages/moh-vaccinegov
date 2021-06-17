@@ -83,56 +83,49 @@ permalink: /faq
     			</div>
 					<!-- end of each question -->
 				<!-- start of each question -->
-    			<div class="tab">
-    				<input type="checkbox" id="question-1-9">
-    				<label class="tab-label" for="question-1-9">What does the 14-day time limit mean? </label>
-    				<div class="tab-content">
-    					<p>Upon successful <a href="https://preregister.vaccine.gov.sg" target="_blank">registration of your interest</a> , you will be sent an SMS with a unique booking link to make an appointment to be vaccinated.  You will  have 14 days from receipt of this SMS to schedule an appointment via the booking link.</p><p>Within the 14 days, you will have priority to schedule your appointment.  If you have not booked a slot within the 14-day time limit, but are still keen to be vaccinated, you may re-register your interest and will be notified to make an appointment when there are slots available. You can re-register by clicking on the same unique link in the original SMS notification.</p><p>Please note that the 14-day limit applies to the time window given to make an appointment. It does not mean that you must be vaccinated within 14 days of receiving the SMS.</p>
-    				</div>
-    			</div>
+					<div class="tab">
+						<input type="checkbox" id="question-1-9">
+						<label class="tab-label" for="question-1-9">Why do we need to have a two-step
+booking process?</label>
+						<div class="tab-content">
+							<p>
+								As part of the two-step booking process, individuals must first (i) register their interest to be vaccinated at vaccine.gov.sg, and then (ii) receive a Short Message Service (SMS) invitation (within a few days to up to three weeks after registration) with a personalised booking link to book their vaccination appointments.
+							</p>
+							<p>
+								This two-step process is necessary to ensure that we have verified the correct mobile number being used by the interested individuals to process their bookings, and more importantly, allow us to balance the demand for vaccination slots with our existing vaccine supplies. Our supply of vaccines remains limited by the ability of vaccine manufacturers to deliver at a faster rate, given the high levels of global demand. This may
+result in limited booking slots, and hence a longer wait for some before they receive their booking SMS. As more supplies arrive, we will progressively invite more individuals to book
+their appointments.
+							</p>
+							</div>
+					</div>
 					<!-- end of each question -->
-									<!-- start of each question -->
-    			<div class="tab">
-    				<input type="checkbox" id="question-1-10">
-    				<label class="tab-label" for="question-1-10">Why is there a time-limit to make an appointment? </label>
-    				<div class="tab-content">
-    					<p>We aim to ensure that everyone who wishes to be vaccinated is able to do so at the earliest opportunity. As vaccine supplies are limited at the outset, holding slots for those who may need more time to decide whether to get vaccinated would deprive others of a slot.</p><p>While we have prioritised certain groups for vaccination, we will move on to the next priority group to give others who wish to be vaccinated the opportunity to do so quickly.</p>
-    				</div>
-    			</div>
+				<!-- start of each question -->
+					<div class="tab">
+						<input type="checkbox" id="question-1-10">
+						<label class="tab-label" for="question-1-10">My child/ward turns 12 this year. Can I get him/her vaccinated?</label>
+						<div class="tab-content">
+							<p>
+						Children who turn 12 in 2021 must have crossed their birthday before they are eligible to book a vaccination appointment.</p>
+							</div>
+					</div>
 					<!-- end of each question -->
 				<!-- start of each question -->
 					<div class="tab">
 						<input type="checkbox" id="question-1-11">
-						<label class="tab-label" for="question-1-11">Why do we need to have a two-step
-booking process?</label>
+						<label class="tab-label" for="question-1-11">I want to get my child/ward vaccinated. What do I need to do?</label>
 						<div class="tab-content">
 							<p>
-								As part of the two-step booking process,
-individuals must first (i) register their interest
-to be vaccinated at vaccine.gov.sg, and then
-(ii) receive a Short Message Service (SMS)
-invitation (within a few days to up to three
-weeks after registration) with a personalised
-booking link to book their vaccination
-appointments.
+						Parents/guardians can register interest for their child/ward to receive the vaccination on vaccine.gov.sg. To facilitate the booking process,
+parents/guardians should use their contact details to register for their child/ward. A SMS with a personalised booking link will then be sent to
+this contact number to book a vaccination appointment. 
 							</p>
 							<p>
-								This two-step process is necessary to ensure
-that we have verified the correct mobile
-number being used by the interested
-individuals to process their bookings, and
-more importantly, allow us to balance the
-demand for vaccination slots with our existing
-vaccine supplies. Our supply of vaccines
-remains limited by the ability of vaccine
-manufacturers to deliver at a faster rate, given
-the high levels of global demand. This may
-result in limited booking slots, and hence a
-longer wait for some before they receive their
-booking SMS. As more supplies arrive, we will
-progressively invite more individuals to book
-their appointments.
+								Under the national vaccination programme, children/wards below the age of 18 will require the consent of their parents/guardians to book an
+appointment. 
 							</p>
+							<p>
+Parents/guardians of their child/ward aged 13 and above are not required to accompany their child/ward to the vaccination site on the day of
+vaccination. Children/wards aged 12 will need to be accompanied by a parent or guardian.</p>
 							</div>
 					</div>
 					<!-- end of each question -->
@@ -157,10 +150,10 @@ their appointments.
 						<div class="tab-content">
 							<p>
 								<!-- have to use paragraph and span because of a odd bug with safari using lists -->
-								<span>&#8226; Bring your IC for both appointments</span><br/>
+								<span>&#8226; Bring your ID (NRIC/FIN/Student Pass) for both appointments</span><br/>
 								<span>&#8226; Please turn up on time</span><br/>
 								<span>&#8226; Please wear short sleeved attire, or sleeves loose enough to be rolled up</span><br/>
-								<span>&#8226; If you are unwell, stay home and postpone your appointments</span><br/>
+								<span>&#8226; If you are unwell or had fever in the past 24 hours, stay home and postpone your appointments</span><br/>
 							</p>
 						</div>
 					</div>
@@ -177,12 +170,23 @@ their appointments.
 					</div>
 				</div>
 				<!-- end of each question -->
+				<!-- start of each question -->
 				<div class="tab">
 					<input type="checkbox" id="question-2-4">
 					<label class="tab-label" for="question-2-4">How will the vaccine be administered?</label>
 					<div class="tab-content">
 						<p>
-							The vaccine will be injected into your upper arm. To make this easier, you are advised to wear 	short sleeves, or sleeves loose enough to be rolled up.
+							The vaccine will be injected into your upper arm. To make this easier, you are advised to wear 	short sleeves, or sleeves loose enough to be rolled up.</p>
+					</div>
+				</div>
+		<!-- end of each question -->
+	<!-- start of each question -->
+				<div class="tab">
+					<input type="checkbox" id="question-2-5">
+					<label class="tab-label" for="question-2-5">Must I bring a hardcopy consent form to be shown at the Vaccination Site?</label>
+					<div class="tab-content">
+						<p>
+							Parents/guardians are reminded to ensure that their child/ward brings along documentary proof of their consent to the vaccination site for verification. The letter of consent required can be found <a href="https://www.go.gov.sg/parcf" target="_blank">here</a>. A completed electronic copy of the consent form will be accepted as well.
 						</p>
 					</div>
 				</div>
@@ -291,13 +295,9 @@ their appointments.
 	<!-- start of each question -->
     			<div class="tab">
     				<input type="checkbox" id="question-3-7">
-    				<label class="tab-label" for="question-3-7">Can someone who was vaccinated with 1
-COVID-19 vaccine get dose #2 with a
-different brand? Or if they have
-completed 2 doses, can they still get
-another brand of COVID-19 vaccine
-because they want to be really sure they
-are protected?
+    				<label class="tab-label" for="question-3- 7">Can both of my COVID-19
+vaccine doses be of a different brand? Or if I have completed both doses, can I still get another brand of COVID-19 vaccine to ensure more
+protection?
     				</label>
     				<div class="tab-content">
     					<p>	All vaccines requiring 2 doses should be
@@ -318,6 +318,19 @@ with another brand of COVID-19 vaccine.
 recommendations as follow-up data become
 available from studies, if a booster is required
 later on.
+							</p>
+    				</div>
+    			</div>
+    			<!-- end of each question -->
+		<!-- start of each question -->
+    			<div class="tab">
+    				<input type="checkbox" id="question-3-8">
+    				<label class="tab-label" for="question-3-8">I have recovered from a COVID-19 infection. Can I take my 2 shots of vaccine now?
+    				</label>
+    				<div class="tab-content">
+    					<p>	Individuals who have had an earlier COVID-19 infection, and have recovered, are recommended to receive a single dose of vaccine as there is
+evidence indicating that a single dose would further boost their immunity against COVID-19. As recovered individuals still within the first six
+months after their infection are likely to still have a strong immune response that has not faded, we will prioritise only those who had an earlier COVID-19 infection from over six months ago for the one-dose vaccination at this point.
 							</p>
     				</div>
     			</div>
