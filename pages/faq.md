@@ -125,7 +125,6 @@ their appointments.
 							<p>
 						Children who turn 12 in 2021 must have crossed their birthday before they are eligible to book a vaccination appointment.
 							</p>
-							</p>
 							</div>
 					</div>
 					<!-- end of each question -->
@@ -147,8 +146,8 @@ appointment.
 Parents/guardians of their child/ward aged 13 and above are not required to accompany their child/ward to the vaccination site on the day of
 vaccination. Children/wards aged 12 will need to be accompanied by a parent or guardian.
 							</p>
-							<p>
-						</div>
+							</div>
+					</div>
 					<!-- end of each question -->
     		</div>
 				<!-- 2nd section start-->
