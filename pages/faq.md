@@ -295,12 +295,13 @@ vaccination. Children/wards aged 12 will need to be accompanied by a parent or g
 	<!-- start of each question -->
     			<div class="tab">
     				<input type="checkbox" id="question-3-7">
-    				<label class="tab-label" for="question-3- 7">Can both of my COVID-19
+    				<label class="tab-label" for="question-3-7">
+							Can both of my COVID-19
 vaccine doses be of a different brand? Or if I have completed both doses, can I still get another brand of COVID-19 vaccine to ensure more
 protection?
     				</label>
     				<div class="tab-content">
-    					<p>	All vaccines requiring 2 doses should be
+    					<p>All vaccines requiring 2 doses should be
 completed using the same brand. There is no
 data at this time to support switching vaccines
 between dose 1 and dose 2, except for very
@@ -309,10 +310,11 @@ not advisable to do so.
 							</p>
 							<p>
 								There is no recommendation at this time for
-someone who has completed 2 doses of
-COVID-19 vaccine to get further vaccinated
-with another brand of COVID-19 vaccine.
+someone who has completed 2 doses of **PSAR-approved** COVID-19 vaccine to get further vaccinated with another brand of COVID-19 vaccine.
 								</p>
+							<p>
+								If you have previously taken a vaccine that is not approved under the National Vaccination Programme, you are advised to take 2 doses of the
+approved ones.</p>
 							<p>
 								The Ministry of Health will provide
 recommendations as follow-up data become
