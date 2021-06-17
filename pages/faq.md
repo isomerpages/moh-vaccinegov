@@ -295,7 +295,8 @@ vaccination. Children/wards aged 12 will need to be accompanied by a parent or g
 	<!-- start of each question -->
     			<div class="tab">
     				<input type="checkbox" id="question-3-7">
-    				<label class="tab-label" for="question-3-7">Can both of my COVID-19
+    				<label class="tab-label" for="question-3-7">
+							Can both of my COVID-19
 vaccine doses be of a different brand? Or if I have completed both doses, can I still get another brand of COVID-19 vaccine to ensure more
 protection?
     				</label>
