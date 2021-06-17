@@ -136,6 +136,18 @@ their appointments.
 							</div>
 					</div>
 					<!-- end of each question -->
+				<!-- start of each question -->
+					<div class="tab">
+						<input type="checkbox" id="question-1-12">
+						<label class="tab-label" for="question-1-12">My child/ward turns 12 this year. Can I get him/her vaccinated?</label>
+						<div class="tab-content">
+							<p>
+						Children who turn 12 in 2021 must have crossed their birthday before they are eligible to book a vaccination appointment.
+							</p
+							</p>
+							</div>
+					</div>
+					<!-- end of each question -->
     		</div>
 				<!-- 2nd section start-->
 				<div class="tabs">
