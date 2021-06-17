@@ -209,7 +209,6 @@ vaccination. Children/wards aged 12 will need to be accompanied by a parent or g
 					</div>
 				</div>
 			</div>
-		<!-- end of each question -->
 			<!-- 2nd section end-->
 			<!-- 3rd section start-->
 <div class="tabs">
