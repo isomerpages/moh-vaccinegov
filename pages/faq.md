@@ -150,10 +150,10 @@ vaccination. Children/wards aged 12 will need to be accompanied by a parent or g
 						<div class="tab-content">
 							<p>
 								<!-- have to use paragraph and span because of a odd bug with safari using lists -->
-								<span>&#8226; Bring your IC for both appointments</span><br/>
+								<span>&#8226; Bring your ID (NRIC/FIN/Student Pass) for both appointments</span><br/>
 								<span>&#8226; Please turn up on time</span><br/>
 								<span>&#8226; Please wear short sleeved attire, or sleeves loose enough to be rolled up</span><br/>
-								<span>&#8226; If you are unwell, stay home and postpone your appointments</span><br/>
+								<span>&#8226; If you are unwell or had fever in the past 24 hours, stay home and postpone your appointments</span><br/>
 							</p>
 						</div>
 					</div>
