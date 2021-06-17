@@ -123,8 +123,7 @@ their appointments.
 						<label class="tab-label" for="question-1-12">My child/ward turns 12 this year. Can I get him/her vaccinated?</label>
 						<div class="tab-content">
 							<p>
-						Children who turn 12 in 2021 must have crossed their birthday before they are eligible to book a vaccination appointment.
-							</p>
+						Children who turn 12 in 2021 must have crossed their birthday before they are eligible to book a vaccination appointment.</p>
 							</div>
 					</div>
 					<!-- end of each question -->
