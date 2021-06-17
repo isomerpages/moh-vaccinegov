@@ -194,11 +194,9 @@ vaccination. Children/wards aged 12 will need to be accompanied by a parent or g
 					<label class="tab-label" for="question-2-4">How will the vaccine be administered?</label>
 					<div class="tab-content">
 						<p>
-							The vaccine will be injected into your upper arm. To make this easier, you are advised to wear 	short sleeves, or sleeves loose enough to be rolled up.
-						</p>
+							The vaccine will be injected into your upper arm. To make this easier, you are advised to wear 	short sleeves, or sleeves loose enough to be rolled up.</p>
 					</div>
 				</div>
-			</div>
 		<!-- end of each question -->
 	<!-- start of each question -->
 				<div class="tab">
