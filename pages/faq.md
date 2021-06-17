@@ -309,10 +309,11 @@ not advisable to do so.
 							</p>
 							<p>
 								There is no recommendation at this time for
-someone who has completed 2 doses of
-COVID-19 vaccine to get further vaccinated
-with another brand of COVID-19 vaccine.
+someone who has completed 2 doses of **PSAR-approved** COVID-19 vaccine to get further vaccinated with another brand of COVID-19 vaccine.
 								</p>
+							<p>
+								If you have previously taken a vaccine that is not approved under the National Vaccination Programme, you are advised to take 2 doses of the
+approved ones.</p>
 							<p>
 								The Ministry of Health will provide
 recommendations as follow-up data become
