@@ -148,8 +148,8 @@ Parents/guardians of their child/ward aged 13 and above are not required to acco
 vaccination. Children/wards aged 12 will need to be accompanied by a parent or guardian.
 							</p>
 							<p>
-					</div>
-					</div>
+						</div>
+				</div>
 					<!-- end of each question -->
     		</div>
 				<!-- 2nd section start-->
