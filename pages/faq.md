@@ -148,6 +148,26 @@ their appointments.
 							</div>
 					</div>
 					<!-- end of each question -->
+				<!-- start of each question -->
+					<div class="tab">
+						<input type="checkbox" id="question-1-13">
+						<label class="tab-label" for="question-1-13">I want to get my child/ward vaccinated. What do I need to do?</label>
+						<div class="tab-content">
+							<p>
+						Parents/guardians can register interest for their child/ward to receive the vaccination on vaccine.gov.sg. To facilitate the booking process,
+parents/guardians should use their contact details to register for their child/ward. A SMS with a personalised booking link will then be sent to
+this contact number to book a vaccination appointment.
+
+								Under the national vaccination programme, children/wards below the age of 18 will require the consent of their parents/guardians to book an
+appointment.
+
+								Parents/guardians of their child/ward aged 13 and above are not required to accompany their child/ward to the vaccination site on the day of
+vaccination. Children/wards aged 12 will need to be accompanied by a parent or guardian.
+							</p
+							</p>
+							</div>
+					</div>
+					<!-- end of each question -->
     		</div>
 				<!-- 2nd section start-->
 				<div class="tabs">
