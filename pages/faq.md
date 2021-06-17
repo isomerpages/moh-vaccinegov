@@ -107,30 +107,11 @@ permalink: /faq
 booking process?</label>
 						<div class="tab-content">
 							<p>
-								As part of the two-step booking process,
-individuals must first (i) register their interest
-to be vaccinated at vaccine.gov.sg, and then
-(ii) receive a Short Message Service (SMS)
-invitation (within a few days to up to three
-weeks after registration) with a personalised
-booking link to book their vaccination
-appointments.
+								As part of the two-step booking process, individuals must first (i) register their interest to be vaccinated at vaccine.gov.sg, and then (ii) receive a Short Message Service (SMS) invitation (within a few days to up to three weeks after registration) with a personalised booking link to book their vaccination appointments.
 							</p>
 							<p>
-								This two-step process is necessary to ensure
-that we have verified the correct mobile
-number being used by the interested
-individuals to process their bookings, and
-more importantly, allow us to balance the
-demand for vaccination slots with our existing
-vaccine supplies. Our supply of vaccines
-remains limited by the ability of vaccine
-manufacturers to deliver at a faster rate, given
-the high levels of global demand. This may
-result in limited booking slots, and hence a
-longer wait for some before they receive their
-booking SMS. As more supplies arrive, we will
-progressively invite more individuals to book
+								This two-step process is necessary to ensure that we have verified the correct mobile number being used by the interested individuals to process their bookings, and more importantly, allow us to balance the demand for vaccination slots with our existing vaccine supplies. Our supply of vaccines remains limited by the ability of vaccine manufacturers to deliver at a faster rate, given the high levels of global demand. This may
+result in limited booking slots, and hence a longer wait for some before they receive their booking SMS. As more supplies arrive, we will progressively invite more individuals to book
 their appointments.
 							</p>
 							</div>
@@ -157,12 +138,12 @@ their appointments.
 						Parents/guardians can register interest for their child/ward to receive the vaccination on vaccine.gov.sg. To facilitate the booking process,
 parents/guardians should use their contact details to register for their child/ward. A SMS with a personalised booking link will then be sent to
 this contact number to book a vaccination appointment. 
-							</p
 							</p>
+							<p>
 								Under the national vaccination programme, children/wards below the age of 18 will require the consent of their parents/guardians to book an
 appointment. 
-							</p
 							</p>
+							<p>
 Parents/guardians of their child/ward aged 13 and above are not required to accompany their child/ward to the vaccination site on the day of
 vaccination. Children/wards aged 12 will need to be accompanied by a parent or guardian.
 							</p
