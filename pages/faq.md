@@ -204,7 +204,7 @@ vaccination. Children/wards aged 12 will need to be accompanied by a parent or g
 					<label class="tab-label" for="question-2-5">Must I bring a hardcopy consent form to be shown at the Vaccination Site?</label>
 					<div class="tab-content">
 						<p>
-							Parents/guardians are reminded to ensure that their child/ward brings along documentary proof of their consent to the vaccination site for verification. The letter of consent required can be found <a href="https://www.go.gov.sg/parcf" target="_blank">here</a>.</p>. A completed electronic copy of the consent form will be accepted as well.
+							Parents/guardians are reminded to ensure that their child/ward brings along documentary proof of their consent to the vaccination site for verification. The letter of consent required can be found <a href="https://www.go.gov.sg/parcf" target="_blank">here</a>. A completed electronic copy of the consent form will be accepted as well.
 						</p>
 					</div>
 				</div>
