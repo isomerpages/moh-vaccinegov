@@ -146,8 +146,8 @@ appointment.
 							<p>
 Parents/guardians of their child/ward aged 13 and above are not required to accompany their child/ward to the vaccination site on the day of
 vaccination. Children/wards aged 12 will need to be accompanied by a parent or guardian.
-							</p
 							</p>
+							<p>
 							</div>
 					</div>
 					<!-- end of each question -->
