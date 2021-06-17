@@ -188,6 +188,7 @@ vaccination. Children/wards aged 12 will need to be accompanied by a parent or g
 					</div>
 				</div>
 				<!-- end of each question -->
+				<!-- start of each question -->
 				<div class="tab">
 					<input type="checkbox" id="question-2-4">
 					<label class="tab-label" for="question-2-4">How will the vaccine be administered?</label>
@@ -198,6 +199,19 @@ vaccination. Children/wards aged 12 will need to be accompanied by a parent or g
 					</div>
 				</div>
 			</div>
+		<!-- end of each question -->
+	<!-- start of each question -->
+				<div class="tab">
+					<input type="checkbox" id="question-2-5">
+					<label class="tab-label" for="question-2-5">Must I bring a hardcopy consent form to be shown at the Vaccination Site?</label>
+					<div class="tab-content">
+						<p>
+							Parents/guardians are reminded to ensure that their child/ward brings along documentary proof of their consent to the vaccination site for verification. The letter of consent required can be found [here](www.go.gov.sg/parcf). A completed electronic copy of the consent form will be accepted as well..
+						</p>
+					</div>
+				</div>
+			</div>
+		<!-- end of each question -->
 			<!-- 2nd section end-->
 			<!-- 3rd section start-->
 <div class="tabs">
