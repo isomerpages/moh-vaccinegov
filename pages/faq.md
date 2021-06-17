@@ -295,13 +295,9 @@ vaccination. Children/wards aged 12 will need to be accompanied by a parent or g
 	<!-- start of each question -->
     			<div class="tab">
     				<input type="checkbox" id="question-3-7">
-    				<label class="tab-label" for="question-3-7">Can someone who was vaccinated with 1
-COVID-19 vaccine get dose #2 with a
-different brand? Or if they have
-completed 2 doses, can they still get
-another brand of COVID-19 vaccine
-because they want to be really sure they
-are protected?
+    				<label class="tab-label" for="question-3-7">Can both of my COVID-19
+vaccine doses be of a different brand? Or if I have completed both doses, can I still get another brand of COVID-19 vaccine to ensure more
+protection?
     				</label>
     				<div class="tab-content">
     					<p>	All vaccines requiring 2 doses should be
