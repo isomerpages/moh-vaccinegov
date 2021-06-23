@@ -78,7 +78,7 @@ permalink: /faq
     				<input type="checkbox" id="question-1-8">
     				<label class="tab-label" for="question-1-8">I was assessed to be ineligible for the vaccination at the online screening stage/at the vaccination site, but still want to be vaccinated. What should I do? </label>
     				<div class="tab-content">
-    					<p>If you have been assessed to be ineligible for the Pfizer-BioNTech or Moderna COVID-19 Vaccines due to medical reasons, you may be able to get vaccinated later if data become available that it is safe to receive the vaccination, or you may be able to get vaccinated with other COVID-19 vaccines.</p>
+    					<p>If you have been assessed to be ineligible for the Pfizer-BioNTech / Comirnaty or Moderna COVID-19 Vaccines due to medical reasons, you may be able to get vaccinated later if data become available that it is safe to receive the vaccination, or you may be able to get vaccinated with other COVID-19 vaccines.</p>
     				</div>
     			</div>
 					<!-- end of each question -->
@@ -138,7 +138,7 @@ vaccination. Children/wards aged 12 will need to be accompanied by a parent or g
 						<input type="checkbox" id="question-2-1">
 						<label class="tab-label" for="question-2-1">How many doses are there?</label>
 						<div class="tab-content">
-							<p>The dosing regimen is at day 0 and 21 (i.e. 21 days apart) for the Pfizer-BioNTech vaccine, and day 0 and 28 (i.e. 28 days apart) for the Moderna vaccine. You must receive both doses to have the full vaccine protection.MOH will be extending the interval period for the administration of second dose for both vaccines (Pfizer and Moderna) to be between 42 Days to 56 Days. This will apply to vaccination registrations that occur from 19 May 2021 onwards.
+							<p>The dosing regimen is at day 0 and 21 (i.e. 21 days apart) for the Pfizer-BioNTech / Comirnaty vaccine, and day 0 and 28 (i.e. 28 days apart) for the Moderna vaccine. You must receive both doses to have the full vaccine protection.MOH will be extending the interval period for the administration of second dose for both vaccines (Pfizer and Moderna) to be between 42 Days to 56 Days. This will apply to vaccination registrations that occur from 19 May 2021 onwards.
 							</p>
 						</div>
 					</div>
@@ -202,7 +202,7 @@ vaccination. Children/wards aged 12 will need to be accompanied by a parent or g
 					<label class="tab-label" for="question-3-1">Which vaccine is Singapore using?
 					</label>
 					<div class="tab-content">
-						<p>The COVID-19 vaccines used are currently Pfizer-BioNTech and Moderna .</p>
+						<p>The COVID-19 vaccines used are currently Pfizer-BioNTech/Comirnaty and Moderna .</p>
 					</div>
 				</div>
 				<!-- end of each question -->
@@ -287,7 +287,7 @@ vaccination. Children/wards aged 12 will need to be accompanied by a parent or g
     				<label class="tab-label" for="question-3-6">I understand that there may be more than one strain of COVID-19. Will the vaccine cover us fully against all strains?
     				</label>
     				<div class="tab-content">
-    					<p>There is no evidence at this time suggesting that the Pfizer-BioNTech and Moderna’s vaccines do not protect against specific COVID-19 strains, including the UK’s new reported variant. HSA and the EC19V are closely monitoring this issue.
+    					<p>There is no evidence at this time suggesting that the Pfizer-BioNTech / Comirnaty and Moderna’s vaccines do not protect against specific COVID-19 strains, including the UK’s new reported variant. HSA and the EC19V are closely monitoring this issue.
 							</p>
     				</div>
     			</div>

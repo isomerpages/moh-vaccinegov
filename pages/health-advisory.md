@@ -4,13 +4,13 @@ permalink: /health-advisory/
 ---
 **Full COVID-19 vaccination consists of two doses**
 
-- Doses for Pfizer-BioNTech and Moderna vaccines should be at least 21 and 28 days apart, respectively, but can be taken with an interval of up to six to eight weeks (42 days-56 days) apart. This will apply to vaccination registrations that occur from 19 May 2021 onwards.
+- Doses for Pfizer-BioNTech / Comirnaty and Moderna vaccines should be at least 21 and 28 days apart, respectively, but can be taken with an interval of up to six to eight weeks (42 days-56 days) apart. This will apply to vaccination registrations that occur from 19 May 2021 onwards.
 - It is recommended for those who have received the COVID-19 vaccinations to defer other non-COVID-19 vaccinations for 2 weeks or more, if possible
   <br/>
 
 **COVID-19 vaccine is currently not recommended for**
 
-- Individuals below 12 years of age for the Pfizer-BioNTech vaccine, and individuals below 18 years of age for the Moderna vaccine
+- Individuals below 12 years of age for the Pfizer-BioNTech / Comirnaty vaccine, and individuals below 18 years of age for the Moderna vaccine
 - Persons with a severely weakened immune system
 <br/>
 
