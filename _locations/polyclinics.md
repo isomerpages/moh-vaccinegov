@@ -190,7 +190,7 @@ Locations that are administering the Covid-19 Vaccines.
 		<!--start of row-->
     <tr>
       <td>Jurong Polyclinic</td>
-      <td>90 Jurong East Avenue 1, Singapore 609788</td>
+      <td>190 Jurong East Avenue 1, Singapore 609788</td>
 			<td> Pfizer</td>
     </tr>
     <!--end of row-->
