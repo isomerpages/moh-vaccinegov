@@ -33,7 +33,7 @@ permalink: /faq
 						<input type="checkbox" id="question-1-3">
 						<label class="tab-label" for="question-1-3">How can I register?</label>
 						<div class="tab-content">
-							<p> You will receive a link to book your appointments with a unique booking code sent by SMS after registration.<br><br> For seniors from 60 years old and above: <br>You can walk into any community Vaccination Centres with your NRIC / FIN to get vaccinated without the need to register or book an appointment in advance</p> 
+							<p> You will receive a link to book your appointments with a unique booking code sent by SMS after registration.<br><br> For seniors from 60 years old and above: <br>You can walk into any community Vaccination Centres with your NRIC / FIN to get vaccinated without the need to register or book an appointment in advance.</p> 
 							</div>
 					</div>
 					<!-- end of each question -->
