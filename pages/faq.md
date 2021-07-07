@@ -202,7 +202,7 @@ vaccination. Children/wards aged 12 will need to be accompanied by a parent or g
 					<label class="tab-label" for="question-3-1">Which vaccine is Singapore using?
 					</label>
 					<div class="tab-content">
-						<p>The COVID-19 vaccines used are currently Pfizer-BioNTech/Comirnaty and Moderna .</p>
+						<p>The COVID-19 vaccines used under the national vaccination programme are currently Pfizer-BioNTech/Comirnaty and Moderna .</p>
 					</div>
 				</div>
 				<!-- end of each question -->
@@ -267,7 +267,7 @@ vaccination. Children/wards aged 12 will need to be accompanied by a parent or g
     				<label class="tab-label" for="question-3-4">What if I only take a single dose and miss my second dose?
     				</label>
     				<div class="tab-content">
-    					<p>You must receive both doses to have the full vaccine protection. Protection for a single dose has not been formally studied for the  COVID-19 Vaccines, but based on vaccines for other diseases, completion of the recommended doses of the vaccine is required for long-term protection. To make an appointment for your 2nd dose, please call MOH at 1800 333 9999.</p>
+    					<p>You must receive both doses to have the full vaccine protection. Protection for a single dose has not been formally studied for the  COVID-19 Vaccines, but based on vaccines for other diseases, completion of the recommended doses of the vaccine is required for optimal protection. To make an appointment for your 2nd dose, please call MOH at 1800 333 9999.</p>
     				</div>
     			</div>
     			<!-- end of each question -->
