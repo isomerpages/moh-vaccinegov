@@ -138,7 +138,7 @@ vaccination. Children/wards aged 12 will need to be accompanied by a parent or g
 						<input type="checkbox" id="question-2-1">
 						<label class="tab-label" for="question-2-1">How many doses are there?</label>
 						<div class="tab-content">
-							<p>The dosing regimen is at day 0 and 21 (i.e. 21 days apart) for the Pfizer-BioNTech / Comirnaty vaccine, and day 0 and 28 (i.e. 28 days apart) for the Moderna vaccine. You must receive both doses to have the full vaccine protection.MOH will be extending the interval period for the administration of second dose for both vaccines (Pfizer and Moderna) to be between 42 Days to 56 Days. This will apply to vaccination registrations that occur from 19 May 2021 onwards.
+							<p>The dosing regimen is at day 0 and 21 (i.e. 21 days apart) for the Pfizer-BioNTech / Comirnaty vaccine, and day 0 and 28 (i.e. 28 days apart) for the Moderna vaccine. Two doses of the Pfizer-BioNTech/ Comirnaty and Moderna COVID-19 vaccines are required to achieve optimal protection against COVID-19.
 							</p>
 						</div>
 					</div>
