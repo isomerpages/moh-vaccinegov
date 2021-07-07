@@ -92,9 +92,7 @@ booking process?</label>
 								As part of the two-step booking process, individuals must first (i) register their interest to be vaccinated at vaccine.gov.sg, and then (ii) receive a Short Message Service (SMS) invitation (within a few days) with a personalised booking link to book their vaccination appointments.
 							</p>
 							<p>
-								This two-step process is necessary to ensure that we have verified the correct mobile number being used by the interested individuals to process their bookings, and more importantly, allow us to balance the demand for vaccination slots with our existing vaccine supplies. Our supply of vaccines remains limited by the ability of vaccine manufacturers to deliver at a faster rate, given the high levels of global demand. This may
-result in limited booking slots, and hence a longer wait for some before they receive their booking SMS. As more supplies arrive, we will progressively invite more individuals to book
-their appointments.
+								This two-step process is necessary to ensure that we have verified the correct mobile number being used by the interested individuals to process their bookings, and more importantly, allow us to balance the demand for vaccination slots with our existing vaccine supplies. As more supplies arrive, we will progressively invite more individuals to book their appointments.
 							</p>
 							</div>
 					</div>
