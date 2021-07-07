@@ -14,11 +14,18 @@ permalink: /health-advisory/
 - Persons with a severely weakened immune system
 <br/>
 
-**Important reminders for the day of vaccination**
+**Important reminders**:
 
-- Wear short sleeved or loose clothes
-- Bring your ID (NRIC/FIN/Student Pass) with you for both appointments
-- It is advisable to stay hydrated, not come with an empty stomach, and avoid strenuous exercise
+**On the day of vaccination**
+
+* Wear short sleeved or loose clothes
+* Bring your ID (NRIC/FIN/Student Pass) with you for both appointments
+* It is advisable to stay hydrated, not come with an empty stomach, and avoid strenuous exercise
+<br/>
+
+**After vaccination**
+
+As a precautionary measure, adolescents and men below 30 years of age are advised to avoid strenuous physical activities such as running, weightlifting, competitive sports, or playing ball games for one week after their first and second vaccination doses.
  <br/>
 
 **Postpone your appointment if you**

@@ -33,7 +33,7 @@ permalink: /faq
 						<input type="checkbox" id="question-1-3">
 						<label class="tab-label" for="question-1-3">How can I register?</label>
 						<div class="tab-content">
-							<p> You will receive a link to book your appointments with a unique booking code sent by SMS after registration.<br><br> For seniors from 60 years old and above: <br>You can <a href="https://preregister.vaccine.gov.sg" target="_blank">register your interest</a> using the link or at any community centre/club with your NRIC / FIN.</p> 
+							<p> You will receive a link to book your appointments with a unique booking code sent by SMS after registration.<br><br> For seniors from 60 years old and above: <br>You can walk into any community Vaccination Centres with your NRIC / FIN to get vaccinated without the need to register or book an appointment in advance.</p> 
 							</div>
 					</div>
 					<!-- end of each question -->
@@ -89,12 +89,10 @@ permalink: /faq
 booking process?</label>
 						<div class="tab-content">
 							<p>
-								As part of the two-step booking process, individuals must first (i) register their interest to be vaccinated at vaccine.gov.sg, and then (ii) receive a Short Message Service (SMS) invitation (within a few days to up to three weeks after registration) with a personalised booking link to book their vaccination appointments.
+								As part of the two-step booking process, individuals must first (i) register their interest to be vaccinated at vaccine.gov.sg, and then (ii) receive a Short Message Service (SMS) invitation (within a few days) with a personalised booking link to book their vaccination appointments.
 							</p>
 							<p>
-								This two-step process is necessary to ensure that we have verified the correct mobile number being used by the interested individuals to process their bookings, and more importantly, allow us to balance the demand for vaccination slots with our existing vaccine supplies. Our supply of vaccines remains limited by the ability of vaccine manufacturers to deliver at a faster rate, given the high levels of global demand. This may
-result in limited booking slots, and hence a longer wait for some before they receive their booking SMS. As more supplies arrive, we will progressively invite more individuals to book
-their appointments.
+								This two-step process is necessary to ensure that we have verified the correct mobile number being used by the interested individuals to process their bookings, and more importantly, allow us to balance the demand for vaccination slots with our existing vaccine supplies. As more supplies arrive, we will progressively invite more individuals to book their appointments.
 							</p>
 							</div>
 					</div>
@@ -138,7 +136,7 @@ vaccination. Children/wards aged 12 will need to be accompanied by a parent or g
 						<input type="checkbox" id="question-2-1">
 						<label class="tab-label" for="question-2-1">How many doses are there?</label>
 						<div class="tab-content">
-							<p>The dosing regimen is at day 0 and 21 (i.e. 21 days apart) for the Pfizer-BioNTech / Comirnaty vaccine, and day 0 and 28 (i.e. 28 days apart) for the Moderna vaccine. You must receive both doses to have the full vaccine protection.MOH will be extending the interval period for the administration of second dose for both vaccines (Pfizer and Moderna) to be between 42 Days to 56 Days. This will apply to vaccination registrations that occur from 19 May 2021 onwards.
+							<p>The dosing regimen is at day 0 and 21 (i.e. 21 days apart) for the Pfizer-BioNTech / Comirnaty vaccine, and day 0 and 28 (i.e. 28 days apart) for the Moderna vaccine. Two doses of the Pfizer-BioNTech/ Comirnaty and Moderna COVID-19 vaccines are required to achieve optimal protection against COVID-19.
 							</p>
 						</div>
 					</div>
@@ -202,7 +200,7 @@ vaccination. Children/wards aged 12 will need to be accompanied by a parent or g
 					<label class="tab-label" for="question-3-1">Which vaccine is Singapore using?
 					</label>
 					<div class="tab-content">
-						<p>The COVID-19 vaccines used are currently Pfizer-BioNTech/Comirnaty and Moderna .</p>
+						<p>The COVID-19 vaccines used under the national vaccination programme are currently Pfizer-BioNTech/Comirnaty and Moderna .</p>
 					</div>
 				</div>
 				<!-- end of each question -->
@@ -267,7 +265,7 @@ vaccination. Children/wards aged 12 will need to be accompanied by a parent or g
     				<label class="tab-label" for="question-3-4">What if I only take a single dose and miss my second dose?
     				</label>
     				<div class="tab-content">
-    					<p>You must receive both doses to have the full vaccine protection. Protection for a single dose has not been formally studied for the  COVID-19 Vaccines, but based on vaccines for other diseases, completion of the recommended doses of the vaccine is required for long-term protection. To make an appointment for your 2nd dose, please call MOH at 1800 333 9999.</p>
+    					<p>You must receive both doses to have the full vaccine protection. Protection for a single dose has not been formally studied for the  COVID-19 Vaccines, but based on vaccines for other diseases, completion of the recommended doses of the vaccine is required for optimal protection. To make an appointment for your 2nd dose, please call MOH at 1800 333 9999.</p>
     				</div>
     			</div>
     			<!-- end of each question -->
