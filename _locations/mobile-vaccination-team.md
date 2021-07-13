@@ -25,7 +25,7 @@ The mobile vaccination teams will be deployed at each location for a few days to
 			<td>7 to 13 Jul</td>
 			<td>5 to 13 Aug
 (Closed on 7, 9 and 12 Aug)</td>
-			<td>Moderna</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>
     <!--end of row-->
 		<!--start of row-->
@@ -37,30 +37,37 @@ Club  </td>
 (Closed on 20 Jul)
 </td>
 			<td>14 to 20 Aug</td>
-			<td>Moderna</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>
     <!--end of row-->
 		<!--start of row-->
     <tr>
-      <td>Kallang Community
-Club  </td>
-      <td>45 Boon Keng Road, Singapore 339771</td>
+      <td>Whampoa Community Club </td>
+      <td>300 Whampoa Drive, Singapore 327737</td>
 			<td>14 to 21 Jul
 (Closed on 20 Jul)
 </td>
 			<td>14 to 20 Aug</td>
-			<td>Moderna</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>
     <!--end of row-->
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+		<!--start of row-->
+    <tr>
+      <td>Changi Simei Community Club </td>
+      <td>10 Simei Street 2, Singapore 529915</td>
+			<td>22 to 28 Jul
+</td>
+			<td>22 to 27 Aug</td>
+			<td>Pfizer/Comirnaty</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Paya Lebar Kovan Community Club </td>
+      <td>207 Hougang Street 21, Singapore 530207</td>
+			<td>29 Jul to 4 Aug
+</td>
+			<td>28 Aug to 3 Sep</td>
+			<td>Pfizer/Comirnaty</td>
+    </tr>
+    <!--end of row-->
