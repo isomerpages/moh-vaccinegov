@@ -4,8 +4,9 @@ permalink: /locations/mvt
 ---
 The mobile vaccination teams will be deployed at each location for a few days to a week, before moving to other locations, and returning to the original location to administer the second vaccination dose. This is to ensure that those who had receive the first dose will get their second dose at the same location.
 
+The operating hours for the Mobile Vaccination Teams are: 9am to 11.30am and 1pm to 4.30pm
  
- The deployment location and schedule of the mobile vaccination teams in are as follows:
+ The deployment location and schedule of the mobile vaccination teams are as follows:
  
  <table>
   <thead>
