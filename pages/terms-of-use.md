@@ -2,7 +2,7 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-### **General Terms and Conditions on the Use of the Isomer Pages Website**
+### **Terms of Use**
 
 1.  Thank you for visiting the Ministry of Health website. Access to any page in www.vaccine.gov.sg (henceforth known as "Web Site") is governed by the terms and conditions stipulated below (“Terms”). Your access and use of this Web Site constitutes your acceptance and agreement to be bound by these terms and conditions of use (“Terms of Use”). If you do not consent to be bound by these Terms of Use, please discontinue your access and do not use this Web Site.   In addition, the use of Datasets (as defined in the Singapore Open Data Licence set out below) contained in this Website is subject to the Singapore Open Data Licence; in the event of any inconsistency between these Terms of Use and the Singapore Open Data Licence, the former shall prevail.
 2.  This Web Site is maintained by and belongs to the Ministry of Health.
