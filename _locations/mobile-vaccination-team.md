@@ -2,7 +2,9 @@
 title: Mobile Vaccination Team
 permalink: /locations/mvt
 ---
-The mobile vaccination teams will be deployed at each location for a few days to a week, before moving to other locations, and returning to the original location to administer the second vaccination dose. This is to ensure that those who had receive the first dose will get their second dose at the same location.
+The mobile vaccination teams will be deployed at each location for a few days to a week, before moving to other locations, and returning to the original location to administer the second vaccination dose. 
+
+If you have received the first dose with the mobile vaccination team, you will be informed of the date to return for the second dose. The second dose will administrated at the same place as the first dose
 
 The operating hours for the Mobile Vaccination Teams are: 9am to 11.30am and 1pm to 4.30pm
  
@@ -23,7 +25,7 @@ The operating hours for the Mobile Vaccination Teams are: 9am to 11.30am and 1pm
       <td>Anchorvale Community Club  </td>
       <td>59 Anchorvale Road, Singapore 544965</td>
 			<td>7 to 13 Jul</td>
-			<td>Pfizer/Comirnaty</td>
+			<td>Pfizer-BioTech/Comirnaty</td>
     </tr>
     <!--end of row-->
 		<!--start of row-->
@@ -34,7 +36,7 @@ Club  </td>
 			<td>14 to 21 Jul
 (Closed on 20 Jul)
 </td>
-			<td>Pfizer/Comirnaty</td>
+			<td>Pfizer-BioTech/Comirnaty</td>
     </tr>
     <!--end of row-->
 		<!--start of row-->
@@ -44,7 +46,7 @@ Club  </td>
 			<td>14 to 21 Jul
 (Closed on 20 Jul)
 </td>
-			<td>Pfizer/Comirnaty</td>
+			<td>Pfizer-BioTech/Comirnaty</td>
     </tr>
     <!--end of row-->
 		<!--start of row-->
@@ -53,7 +55,7 @@ Club  </td>
       <td>10 Simei Street 2, Singapore 529915</td>
 			<td>22 to 28 Jul
 </td>
-			<td>Pfizer/Comirnaty</td>
+			<td>Pfizer-BioTech/Comirnaty</td>
     </tr>
     <!--end of row-->
 		<!--start of row-->
@@ -62,6 +64,6 @@ Club  </td>
       <td>207 Hougang Street 21, Singapore 530207</td>
 			<td>29 Jul to 4 Aug
 </td>
-			<td>Pfizer/Comirnaty</td>
+			<td>Pfizer-BioTech/Comirnaty</td>
     </tr>
     <!--end of row-->
