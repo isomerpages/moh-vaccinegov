@@ -4,6 +4,10 @@ permalink: /locations-polyclinics
 ---
 Locations that are administering the Covid-19 Vaccines.
 
+**Operating Hours of Polyclinic**:<br>
+19 July - up to 3pm<br>
+20 July - Closed
+
 ###  **Central**
 <table>
   <thead>

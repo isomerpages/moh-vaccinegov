@@ -6,6 +6,11 @@ Locations that are administering the Covid-19 Vaccines.
 
 Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centre near you.
 
+**Operating Hours of Vaccination Centres**:<br>
+19 July - up to 3pm<br>
+20 July - Closed
+
+
 ###  **Central**
 <table>
   <thead>
