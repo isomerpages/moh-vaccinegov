@@ -41,13 +41,63 @@ Locations that are administering the Covid-19 Vaccines.
       <td>121 Bishan Street 12 #01-95, Singapore 570121</td>
 			<td>Pfizer/Comirnaty</td>
     </tr>
-    <!--end of row--><!--start of row-->
+    <!--end of row-->
+		<!--start of row-->
     <tr>
-      <td>Shenton Medical Group Alexndra Retail Centre </td>
+      <td>Shenton Wellness Centre (Alexandra Retail Centre) </td>
       <td>460 Alexandra Road, #02-15 Alexander Retail Centre, Singapore 119963</td>
 			<td>Pfizer/Comirnaty</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Yim Clinic </td>
+      <td>11A Boon Tiong Road #02-03/04/05, Singapore 161011</td>
+			<td>Pfizer/Comirnaty</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>A Medical Clinic </td>
+      <td>1 Everton Park #01-27, Singapore 081001</td>
+			<td>Pfizer/Comirnaty</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Raffles Medical Clinic Raffles City Shopping Centre </td>
+      <td>252 North Bridge Road #02-17, Raffles City Shopping Centre, Singapore 179103</td>
+			<td>Pfizer/Comirnaty</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Raffles Medical Clinic Raffles Hospital </td>
+      <td>585 North Bridge Road Level 2 Raffles Hospital, Singapore 188770</td>
+			<td>Pfizer/Comirnaty</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>The Tenteram Clinic </td>
+      <td>116B Jalan Tenteram #01-549, Singapore 322116</td>
+			<td>Pfizer/Comirnaty</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Trucare Medical & Surgery (AMK) </td>
+      <td>226A Ang Mo Kio Avenue 1 #01-631 Kebun Baru Mall, Singapore 561226</td>
+			<td>Pfizer/Comirnaty</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Fraser Medical Centre) </td>
+      <td>78A Telok Blangah Street 32 #01-07, Singapore 101078</td>
+			<td>Pfizer/Comirnaty</td>
+    </tr>
+    <!--end of row--
   </tbody>
 </table>
 
@@ -90,6 +140,41 @@ Locations that are administering the Covid-19 Vaccines.
 			<td>Pfizer/Comirnaty</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Northeast Medical Group (Tampines)</td>
+      <td>20 Tampines Central 1 #01-25 Tampines MRT Station, Singapore 529538</td>
+			<td>Pfizer/Comirnaty</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Bedok Medical Centre</td>
+      <td>18 Bedok South Road #01-57, Singapore 460018</td>
+			<td>Pfizer/Comirnaty</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Yang & Yap Clinic & Surgery </td>
+      <td>537 Bedok North Street 3 #01-571, Singapore 460537</td>
+			<td>Pfizer/Comirnaty</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Joy Family Clinic </td>
+      <td>703 Bedok Reservior Road #01-3506, Singapore 470703</td>
+			<td>Pfizer/Comirnaty</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Dayspring Medical Clinic (Tampines) </td>
+      <td>2 Tampines Central 5 #04-09 Century Square, Singapore 529509</td>
+			<td>Pfizer/Comirnaty</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
 
@@ -128,6 +213,34 @@ Locations that are administering the Covid-19 Vaccines.
     <tr>
       <td>Frontier Medical Associates Yishun</td>
       <td>654 Yishun Avenue 4 #01-437, Singapore 760654</td>
+				<td>Pfizer/Comirnaty</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Acumed Medical (Woodlands)</td>
+      <td>111 Woodlands Street 13 #01-78, Singapore 730111</td>
+				<td>Pfizer/Comirnaty</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>OneCare Medical Clinic (Yishun)</td>
+      <td>431 Yishun Avenue 1 #01-04, Singapore 760431</td>
+				<td>Pfizer/Comirnaty</td>
+    </tr>
+    <!--end of row-->
+			<!--start of row-->
+    <tr>
+      <td>Parkway Shenton Medical Group (Yishun)</td>
+      <td>598 Yishun Ring Road #B1-09, Singapore 768698</td>
+				<td>Pfizer/Comirnaty</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>SATA CommHealth Woodlands Medical Centre</td>
+      <td>900 South Woodlands Drive #04-01 Civic Centre, Singapore 730900</td>
 				<td>Pfizer/Comirnaty</td>
     </tr>
     <!--end of row-->
@@ -186,6 +299,34 @@ Locations that are administering the Covid-19 Vaccines.
 			<td>Pfizer/Comirnaty</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Pancare Medical Clinic</td>
+      <td>133 Ang Mo Kio Avenue 3 #01-1643, Singapore 560133</td>
+			<td>Pfizer/Comirnaty</td>
+    </tr>
+    <!--end of row-->
+			<!--start of row-->
+    <tr>
+      <td>Excel Family Clinic</td>
+      <td>21 Hougang Street 51 #01-06 Hougang Green Shopping Mall, Singapore 538719</td>
+			<td>Pfizer/Comirnaty</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Parkway Shenton Medical Group (Kovan)</td>
+      <td>205 Hougang Street 21 #03-20 Heartland Mall, Singapore 530205</td>
+			<td>Pfizer/Comirnaty</td>
+    </tr>
+    <!--end of row-->
+			<!--start of row-->
+    <tr>
+      <td>HK Family Clinic & Surgery</td>
+      <td>410 Ang Mo Kio Avenue 10 #01-817, Singapore 560410</td>
+			<td>Pfizer/Comirnaty</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
 
@@ -217,6 +358,20 @@ Locations that are administering the Covid-19 Vaccines.
     <tr>
       <td>Frontier Family Medicine Clinic</td>
       <td>3151 Commonwealth Avenue West #04-01 Grantral Mall, Singapore 129581</td>
+			<td>Pfizer/Comirnaty</td>
+    </tr>
+    <!--end of row-->
+			<!--start of row-->
+    <tr>
+      <td>Tayka Medical Family Clinic</td>
+      <td>526 Jurong West Street 52 #01-323, Singapore 640526</td>
+			<td>Pfizer/Comirnaty</td>
+    </tr>
+    <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>Acumed Medical (Taman Jurong)</td>
+      <td>64 Yung Kuang Road #01-107/11, Singapore 610064</td>
 			<td>Pfizer/Comirnaty</td>
     </tr>
     <!--end of row-->
