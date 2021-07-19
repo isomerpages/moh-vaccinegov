@@ -4,20 +4,19 @@ title: MOH COVID-19 Vaccination Registration
 description: MOH COVID-19 Vaccination in Singapore
 image: /images/isomer-logo.svg
 permalink: /
-notification: ''
+notification: ""
 sections:
   - hero:
       title: COVID-19 Vaccination Registration
-      subtitle: >-
-        登记接种2019冠病疫苗/ Pendaftaran bagi Vaksinasi COVID-19/ கொவிட்-19
+      subtitle: 登记接种2019冠病疫苗/ Pendaftaran bagi Vaksinasi COVID-19/ கொவிட்-19
         தடுப்பூசிக்கான பதிவு
       background: /images/vaccinegov-hero-withlogo-higher.png
       button: Register Here
-      url: 'https://preregister.vaccine.gov.sg'
+      url: https://preregister.vaccine.gov.sg
       key_highlights:
         - title: Register Here
           description: 预先登记/ Pendaftaran/ பதிவு செய்தல்
-          url: 'https://preregister.vaccine.gov.sg'
+          url: https://preregister.vaccine.gov.sg
         - title: Health Advisory
           description: 健康指示/ Nasihat Kesihatan/ சுகாதார ஆலோசனை
           url: /health-advisory
@@ -26,27 +25,24 @@ sections:
           url: /appeal
         - title: Book appointment
           description: Already have the code?
-          url: 'https://appointment.vaccine.gov.sg'
+          url: https://appointment.vaccine.gov.sg
   - infobar:
-      description: >-
-        We are aware of websites, emails, SMS text messages and phone calls
+      description: We are aware of websites, emails, SMS text messages and phone calls
         falsely claiming to offer registration for COVID-19 vaccination
       button: Learn more
       url: /scam/
       title: Beware of Scams
   - infopic:
       title: How to Sign Up
-      description: >-
-        The COVID-19 vaccination programme is being progressively rolled out to
-        all Singaporeans and long term residents
+      description: The COVID-19 vaccination programme is being progressively rolled
+        out to all Singaporeans and long term residents
       image: /images/vaccinate.png
       button: Learn More
       url: /how-to-sign-up
       alt: How to Sign Up
   - infopic:
       title: Health Advisory
-      description: >-
-        Check the latest health advisory to see if you are suitable for the
+      description: Check the latest health advisory to see if you are suitable for the
         vaccination
       button: Learn More
       url: /health-advisory/
@@ -54,18 +50,16 @@ sections:
       alt: Health Advisory
   - infopic:
       title: About the Programme
-      description: >-
-        The COVID-19 vaccination programme seeks to protect Singaporeans against
-        COVID-19, as well as to protect businesses and jobs through the
+      description: The COVID-19 vaccination programme seeks to protect Singaporeans
+        against COVID-19, as well as to protect businesses and jobs through the
         progressive re-opening of Singapore.
       button: Find Out More
-      url: 'https://www.moh.gov.sg/covid-19/vaccination'
+      url: https://www.moh.gov.sg/covid-19/vaccination
       image: /images/info.png
       alt: About Singapore's COVID-19 Vaccination Programme
   - infobar:
       title: Appeal for early vaccination
-      description: >-
-        Singaporeans and PRs with compelling reasons such as travel for
+      description: Singaporeans and PRs with compelling reasons such as travel for
         education, employment or compassionate grounds may apply with supporting
         documentation.
       button: Find out more
@@ -76,4 +70,8 @@ sections:
       button: Read FAQ
       url: /faq
       alt: Read FAQ
+  - infobar:
+      description: Hari Ray Haji Operating hours
+      button: Find our more
+      url: www.vaccine.org.sg/locations
 ---
