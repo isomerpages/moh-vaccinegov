@@ -29,7 +29,7 @@ sections:
   - infobar:
       description: Hari Raya Haji Operating hours
       button: Find our more
-      url: www.vaccine.org.sg/locations
+      url: /locations
   - infobar:
       description: We are aware of websites, emails, SMS text messages and phone calls
         falsely claiming to offer registration for COVID-19 vaccination
