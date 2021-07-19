@@ -8,7 +8,7 @@ If you have received the first dose with the mobile vaccination team, you will b
 
 The operating hours for the mobile vaccination teams are: 9am to 11.30am and 1pm to 4.30pm
 
-**Operating Hours of Mobile vaccination team**:<br>
+**Operating Hours of Mobile Vaccination Team**:<br>
 19 July - up to 3pm<br>
 20 July - Closed
  
