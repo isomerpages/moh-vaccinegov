@@ -27,6 +27,10 @@ sections:
           description: Already have the code?
           url: https://appointment.vaccine.gov.sg
   - infobar:
+      description: Hari Raya Haji Operating hours
+      button: Find our more
+      url: www.vaccine.org.sg/locations
+  - infobar:
       description: We are aware of websites, emails, SMS text messages and phone calls
         falsely claiming to offer registration for COVID-19 vaccination
       button: Learn more
@@ -70,8 +74,4 @@ sections:
       button: Read FAQ
       url: /faq
       alt: Read FAQ
-  - infobar:
-      description: Hari Ray Haji Operating hours
-      button: Find our more
-      url: www.vaccine.org.sg/locations
 ---
