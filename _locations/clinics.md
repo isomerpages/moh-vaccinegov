@@ -4,7 +4,6 @@ permalink: /locations
 ---
 Locations that are administering the Covid-19 Vaccines.
 
-Some of the PHPC are operating on Hari Raya Haji, please call the clinic to check.
 
 ###  **Central**
 <table>
