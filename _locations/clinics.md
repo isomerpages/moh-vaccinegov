@@ -120,6 +120,19 @@ Locations that are administering the Covid-19 Vaccines.
 			<td>Pfizer/Comirnaty</td>
     </tr>
     <!--end of row-->
+		  </tbody>
+</table>
+		
+### **East**
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Address</th>
+			<th>Vaccine Type</th>
+    </tr>
+  </thead>
+  <tbody>
 		<!--start of row-->
     <tr>
       <td>Lee Clinic</td>
