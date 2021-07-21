@@ -82,7 +82,7 @@ Locations that are administering the Covid-19 Vaccines.
 		 <!--start of row-->
     <tr>
       <td>Bedok Polyclinic</td>
-      <td>11 Bedok North Street 1 Heartbeat@ #02-01, #03-01, Singapore 469662</td>
+      <td>11 Bedok North Street 1 Heartbeat@Bedok #02-01, #03-01, Singapore 469662</td>
 			<td> Pfizer/Comirnaty</td>
     </tr>
     <!--end of row-->
