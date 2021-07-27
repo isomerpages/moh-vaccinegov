@@ -267,7 +267,7 @@ Locations that are administering the Covid-19 Vaccines.
 		<!--start of row-->
     <tr>
       <td>Etern Medical Clinic</td>
-      <td>70 Pungol Centre, #01-05, Singapore 828868</td>
+      <td>70 Pungol Centre (Punggol MRT Station), #01-05, Singapore 828868</td>
 			<td>Pfizer/Comirnaty</td>
     </tr>
     <!--end of row-->
