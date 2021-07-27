@@ -94,25 +94,11 @@ Locations that are administering the Covid-19 Vaccines.
     <!--end of row-->
 		<!--start of row-->
     <tr>
-      <td>Fraser Medical Centre) </td>
+      <td>Fraser Medical Centre </td>
       <td>78A Telok Blangah Street 32 #01-07, Singapore 101078</td>
 			<td>Pfizer/Comirnaty</td>
     </tr>
     <!--end of row--
-  </tbody>
-</table>
-
-
-### **East**
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Address</th>
-			<th>Vaccine Type</th>
-    </tr>
-  </thead>
-  <tbody>
     <!--start of row-->
     <tr>
       <td>Assurance Medicine Clinic & Surgery</td>
@@ -281,7 +267,7 @@ Locations that are administering the Covid-19 Vaccines.
 		<!--start of row-->
     <tr>
       <td>Etern Medical Clinic</td>
-      <td>70 Pungol Centre, #01-05, Singapore 828868</td>
+      <td>70 Pungol Centre (Punggol MRT Station), #01-05, Singapore 828868</td>
 			<td>Pfizer/Comirnaty</td>
     </tr>
     <!--end of row-->
