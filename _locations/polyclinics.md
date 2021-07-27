@@ -25,13 +25,6 @@ Locations that are administering the Covid-19 Vaccines.
     <!--end of row-->
 		<!--start of row-->
     <tr>
-      <td>Queenstown Polyclinic (close from 28 Aug 2021 to 31 Jan 2022 for renovation)</td>
-      <td>580 Stirling Road, Singapore 148958</td>
-			<td> Pfizer/Comirnaty</td>
-    </tr>
-    <!--end of row-->
-		<!--start of row-->
-    <tr>
       <td>Bukit Merah Polyclinic</td>
       <td>162 Bukit Merah Central Level 4, Singapore 150163</td>
 			<td> Pfizer/Comirnaty</td>
@@ -144,20 +137,6 @@ Locations that are administering the Covid-19 Vaccines.
     <tr>
       <td>Punggol Polyclinic</td>
       <td>681 Punggol Drive, Singapore 8206819</td>
-			<td> Pfizer/Comirnaty</td>
-    </tr>
-    <!--end of row-->
-		<!--start of row-->
-    <tr>
-      <td>Ang Mo Kio Polyclinic</td>
-      <td>21 Ang Mo Kio Central 2, Singapore 569666</td>
-			<td> Pfizer/Comirnaty</td>
-    </tr>
-    <!--end of row-->
-		<!--start of row-->
-    <tr>
-      <td>SengKang Polyclinic</td>
-      <td>2 Sengkang Square, Singapore 545025</td>
 			<td> Pfizer/Comirnaty</td>
     </tr>
     <!--end of row-->
