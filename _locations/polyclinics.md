@@ -154,6 +154,13 @@ Locations that are administering the Covid-19 Vaccines.
 			<td> Pfizer/Comirnaty</td>
     </tr>
     <!--end of row-->
+		<!--start of row-->
+    <tr>
+      <td>SengKang Polyclinic</td>
+      <td>2 Sengkang Square, Singapore 545025</td>
+			<td> Pfizer/Comirnaty</td>
+    </tr>
+    <!--end of row-->
   </tbody>
 </table>
 
