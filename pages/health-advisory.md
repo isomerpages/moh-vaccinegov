@@ -11,7 +11,6 @@ permalink: /health-advisory/
 **COVID-19 vaccine is currently not recommended for**
 
 - Individuals below 12 years of age for the Pfizer-BioNTech / Comirnaty vaccine, and individuals below 18 years of age for the Moderna vaccine
-- Persons with a severely weakened immune system
 <br/>
 
 **Important reminders**:
