@@ -12,7 +12,7 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
 11am to 12pm - Break time <br>
 12pm to 4.30pm - Operating Timings
 5pm to 6pm - Break time <br>
-6pm to 830pm - Operating Timings <br>
+6pm to 8.30pm - Operating Timings <br>
 
 Last appointment - 8.30pm
 First appointment - 8am
