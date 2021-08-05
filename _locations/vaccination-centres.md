@@ -14,7 +14,7 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
 5pm to 6pm - Break time <br>
 6pm to 8.30pm - Operating Timings <br>
 
-Last appointment - 8.30pm
+Last appointment - 8.30pm <br>
 First appointment - 8am
 
 The last appointment will be at 8.30pm for **9 August** (National Day Public Holiday) <br>
