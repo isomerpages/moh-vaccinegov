@@ -4,7 +4,7 @@ permalink: /locations
 ---
 Locations that are administering the Covid-19 Vaccines.
 
-For 9 August (National Day Public Holiday) Please call to the clinic to check on their operating hours
+For **9 August** (National Day Public Holiday) Please call to the clinic to check on their operating hours
 
 ###  **Central**
 <table>
