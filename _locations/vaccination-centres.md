@@ -7,9 +7,27 @@ Locations that are administering the Covid-19 Vaccines.
 
 Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centre near you.
 
-**Normal Operating hours:** 8am to 10pm (last appointment is 8.30pm)
+**Normal Operating hours:** <br>
+8am to 10.30am - Operating Timings<br>
+11am to 12pm - Break time <br>
+12pm to 4.30pm - Operating Timings<br>
+5pm to 6pm - Break time <br>
+6pm to 8.30pm - Operating Timings <br>
 
-The last appointment will be at 8.30pm for **9 August** (National Day Public Holiday) 
+Last appointment - 8.30pm <br>
+First appointment - 8am
+
+The last appointment will be at 8.30pm for **9 August** (National Day Public Holiday) <br>
+
+**Upcoming Public Hoildays operating hours**<br>
+3 Nov (Deepavali Eve): 8am to 3pm (last appointment will be at 2pm)<br>
+
+4 Nov (Deepavali) - Closed<br>
+
+24 Dec (Christmas Eve): 8am to 3pm (last appointment will be at 2pm)<br>
+
+25 Dec (Christmas Day) - Closed
+
 ###  **Central**
 <table>
   <thead>
