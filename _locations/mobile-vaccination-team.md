@@ -8,6 +8,6 @@ If you have received the first dose with the mobile vaccination team, you will b
 
 The operating hours for the mobile vaccination teams are: 9am to 11.30am and 1pm to 5pm.
 
-The mobile vaccination team are not operating on 9 August (National Day Public Holiday)
+The mobile vaccination team are not operating on **9 August **(National Day Public Holiday)
 
 Please refer to the mobile vaccination teams [ deployment location and schedule](https://go.gov.sg/mvts) .
