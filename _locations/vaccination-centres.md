@@ -4,11 +4,12 @@ permalink: /locations-vcs
 ---
 Locations that are administering the Covid-19 Vaccines. 
 
-The last appointment will be at 8.30pm for 9 August (National Day Public Holiday) 
 
 Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centre near you.
 
+**Normal Operating hours:** 8am to 10pm (last appointment is 10.30pm)
 
+The last appointment will be at 8.30pm for **9 August** (National Day Public Holiday) 
 ###  **Central**
 <table>
   <thead>
