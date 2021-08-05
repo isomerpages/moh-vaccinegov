@@ -24,7 +24,7 @@ The last appointment will be at 8.30pm for **9 August** (National Day Public Hol
 
 4 Nov (Deepavali) - Closed<br>
 
-24 Dec (Christmas Eve): 8am to 3pm (last appointment will be at 2pm<br>
+24 Dec (Christmas Eve): 8am to 3pm (last appointment will be at 2pm)<br>
 
 25 Dec (Christmas Day) - Closed
 
