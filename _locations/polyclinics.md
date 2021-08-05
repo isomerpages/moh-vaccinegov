@@ -4,7 +4,7 @@ permalink: /locations-polyclinics
 ---
 Locations that are administering the Covid-19 Vaccines.
 
-All Polyclinic are closed for 9 August (National Day Public Holiday) 
+All Polyclinic are closed for **9 August** (National Day Public Holiday) 
 
 ###  **Central**
 <table>
