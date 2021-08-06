@@ -330,9 +330,7 @@ later on.
     				<label class="tab-label" for="question-3-8">I have recovered from a COVID-19 infection. Can I take my 2 shots of vaccine now?
     				</label>
     				<div class="tab-content">
-    					<p>	Individuals who have had an earlier COVID-19 infection, and have recovered, are recommended to receive a single dose of vaccine as there is
-evidence indicating that a single dose would further boost their immunity against COVID-19. As recovered individuals still within the first six
-months after their infection are likely to still have a strong immune response that has not faded, we will prioritise only those who had an earlier COVID-19 infection from over six months ago for the one-dose vaccination at this point.
+    					<p>	Individuals who have had an earlier COVID-19 infection, and have recovered, are recommended to receive a single dose of vaccine no earlier than 3 months after the date of their diagnosis if they had not already completed vaccination previously. There is evidence that a single dose would further boost their immunity against COVID-19.
 							</p>
     				</div>
     			</div>
