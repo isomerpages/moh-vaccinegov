@@ -241,6 +241,8 @@ vaccination. Children/wards aged 12 will need to be accompanied by a parent or g
 							<ul>
 								<li>The side effects persist or get worse</li>
 								<li>The fever persists for more than 48 hours (2 days)</li>
+								<li>Respiratory symptoms such as cough, runny nose, sore throat, shortness of breath or loss of sense of taste and smell develops.</li>
+								<li>Heart or chest symptoms such as chest pain, shortness of breath or abnormal heart beats develops.</li>
 							</ul>
 							</p>
 							<p>
