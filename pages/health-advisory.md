@@ -35,7 +35,7 @@ As a precautionary measure, adolescents and men below 30 years of age are advise
  Are serving Stay-Home Notice (SHN) or Quarantine Order (QO).
 
 
-If you are pregnant, on active cancer treatment, being treated for other medical conditions and are unsure if you can be vaccinated, you are advised to consult your doctor. For more information, please refer to the [FAQ](/faq)
+Persons on active cancer chemotherapy, radiation therapy or immunotherapy or are severely immunocompromised, can be vaccinated in the hospital setting or in a community vaccination centre with a treating specialist’s memo. If you are unsure if you can be vaccinated, you are advised to consult your doctor. For more information, please refer to the [FAQ](/faq)
  <br/>
  
  **COVID-19 Vaccination Related Documents**<br>
