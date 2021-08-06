@@ -33,7 +33,7 @@ permalink: /faq
 						<input type="checkbox" id="question-1-3">
 						<label class="tab-label" for="question-1-3">How can I register?</label>
 						<div class="tab-content">
-							<p> You will receive a link to book your appointments with a unique booking code sent by SMS after registration.<br> Seniors aged 60 years and above may walk into any of the Vaccination Centres, participating Public Health Preparedness Clinics, or polyclinics to receive their first dose of vaccination, without any prior appointment needed.<br> All Singaporeans, Permanent Residents, and Long-Term Pass holders aged 18 years old and above will now be able to walk-in to any of our 11 community vaccination centres offering the Moderna COVID-19 vaccine without a prior appointment.</p> 
+							<p> You will receive a link to book your appointments with a unique booking code sent by SMS after registration.<br><br> Seniors aged 60 years and above may walk into any of the Vaccination Centres, participating Public Health Preparedness Clinics, or polyclinics to receive their first dose of vaccination, without any prior appointment needed.<br><br> All Singaporeans, Permanent Residents, and Long-Term Pass holders aged 18 years old and above will now be able to walk-in to any of our 11 community vaccination centres offering the Moderna COVID-19 vaccine without a prior appointment.</p> 
 							</div>
 					</div>
 					<!-- end of each question -->
