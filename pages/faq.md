@@ -20,7 +20,7 @@ permalink: /faq
 						<label class="tab-label" for="question-1-2">Who is eligible for the vaccine?</label>
 						<div class="tab-content">
 							<p>
-							All persons aged 12 and above, starting with Singapore Citizens are eligible
+							Singapore Citizens, Permanent Residents, and Long Term Pass Holders aged 12 and above are eligible.
 							</p>
 							<p>
 								Please note that your health will be assessed on the following <a href="/health-advisory" >criteria</a> to ensure your safety.
