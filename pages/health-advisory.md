@@ -10,16 +10,16 @@ permalink: /health-advisory/
 
 **COVID-19 vaccine is currently not recommended for**
 
-- Individuals below 12 years of age for the Pfizer-BioNTech / Comirnaty vaccine, and individuals below 18 years of age for the Moderna vaccine
+- Individuals below 12 years of age for the Pfizer-BioNTech / Comirnaty vaccine, and individuals below 18 years of age for the Moderna vaccine.
 <br/>
 
 **Important reminders**:
 
 **On the day of vaccination**
 
-* Wear short sleeved or loose clothes
-* Bring your ID (NRIC/FIN/Student Pass) with you for both appointments
-* It is advisable to stay hydrated, not come with an empty stomach, and avoid strenuous exercise
+* Wear short sleeved or loose clothes.
+* Bring your ID (NRIC/FIN/Student Pass) with you for both appointments.
+* It is advisable to stay hydrated, not come with an empty stomach, and avoid strenuous exercise.
 <br/>
 
 **After vaccination**
@@ -30,9 +30,9 @@ As a precautionary measure, adolescents and men below 30 years of age are advise
 **Postpone your appointment if you**
 
 - Are unwell
-- Have a fever in the last 24 hours
+- Have a fever in the last 24 hours.
 - 
- Are serving Stay-Home Notice (SHN) or Quarantine Order (QO)
+ Are serving Stay-Home Notice (SHN) or Quarantine Order (QO).
 
 
 If you are pregnant, on active cancer treatment, being treated for other medical conditions and are unsure if you can be vaccinated, you are advised to consult your doctor. For more information, please refer to the [FAQ](/faq)
