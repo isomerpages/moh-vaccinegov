@@ -37,10 +37,19 @@ permalink: /faq
 							</div>
 					</div>
 					<!-- end of each question -->
+				<!-- start of each question -->
+					<div class="tab">
+						<input type="checkbox" id="question-1-4">
+						<label class="tab-label" for="question-1-4">Will MOH be extending walk-ins to the Pfizer-BioNTech/Comirnaty vaccination centres as well? Why or why not? </label>
+						<div class="tab-content">
+							<p> Walk-in vaccinations help get more people to get COVID-19 vaccinations, especially those who may face difficulties in scheduling appointments in advance. To allow all to walk in is a significant change in operational concept for us. We are therefore implementing this for Moderna, as there are fewer vaccination centres (11) and demand is correspondingly lower. </p> 
+							</div>
+					</div>
+					<!-- end of each question -->
 					<!-- start of each question -->
     			<div class="tab">
-    				<input type="checkbox" id="question-1-4">
-    				<label class="tab-label" for="question-1-4">I lost my SMS/booking code. How can I retrieve the link?</label>
+    				<input type="checkbox" id="question-1-5">
+    				<label class="tab-label" for="question-1-5">I lost my SMS/booking code. How can I retrieve the link?</label>
     				<div class="tab-content">
     					<p>Please call MOH at 1800 333 9999 for assistance.</p>
     				</div>
@@ -48,8 +57,8 @@ permalink: /faq
 					<!-- end of each question -->
     			<!-- start of each question -->
     			<div class="tab">
-    				<input type="checkbox" id="question-1-5">
-    				<label class="tab-label" for="question-1-5">Can I change my contact information? </label>
+    				<input type="checkbox" id="question-1-6">
+    				<label class="tab-label" for="question-1-6">Can I change my contact information? </label>
     				<div class="tab-content">
     					<p>If you have changed your mobile number or email address, please call MOH at 1800 333 9999 for assistance.</p>
     				</div>
@@ -57,8 +66,8 @@ permalink: /faq
 					<!-- end of each question -->
     			<!-- start of each question -->
     			<div class="tab">
-    				<input type="checkbox" id="question-1-6">
-    				<label class="tab-label" for="question-1-6">How do I reschedule my appointments? </label>
+    				<input type="checkbox" id="question-1-7">
+    				<label class="tab-label" for="question-1-7">How do I reschedule my appointments? </label>
     				<div class="tab-content">
     					<p> You may reschedule your appointments using the same booking link in the original SMS.</p>
     				</div>
@@ -66,8 +75,8 @@ permalink: /faq
 					<!-- end of each question -->
     			<!-- start of each question -->
     			<div class="tab">
-    				<input type="checkbox" id="question-1-7">
-    				<label class="tab-label" for="question-1-7">How will I know that the SMS is authentic and not a scam? </label>
+    				<input type="checkbox" id="question-1-8">
+    				<label class="tab-label" for="question-1-8">How will I know that the SMS is authentic and not a scam? </label>
     				<div class="tab-content">
     					<p>The Covid-19 vaccination is free for all Singaporeans and long-term residents in Singapore and no one should ask you for a payment to register for appointments. The link that is provided in the SMS should go to <strong>"vaccine.gov.sg"</strong>. Only government officials can register for a <strong>gov.sg</strong> domain. Do not trust any other URLs that are not from a <strong>.gov.sg</strong> domain. </p><p>When in doubt, you should check with the agency who sent you the message to confirm the authenticity before responding to the message.</p>
     				</div>
@@ -75,8 +84,8 @@ permalink: /faq
 					<!-- end of each question -->
 					<!-- start of each question -->
     			<div class="tab">
-    				<input type="checkbox" id="question-1-8">
-    				<label class="tab-label" for="question-1-8">I was assessed to be ineligible for the vaccination at the online screening stage/at the vaccination site, but still want to be vaccinated. What should I do? </label>
+    				<input type="checkbox" id="question-1-9">
+    				<label class="tab-label" for="question-1-9">I was assessed to be ineligible for the vaccination at the online screening stage/at the vaccination site, but still want to be vaccinated. What should I do? </label>
     				<div class="tab-content">
     					<p>If you have been assessed to be ineligible for the Pfizer-BioNTech / Comirnaty or Moderna COVID-19 Vaccines due to medical reasons, you may be able to get vaccinated later if data become available that it is safe to receive the vaccination, or you may be able to get vaccinated with other COVID-19 vaccines.</p>
     				</div>
@@ -84,8 +93,8 @@ permalink: /faq
 					<!-- end of each question -->
 				<!-- start of each question -->
 					<div class="tab">
-						<input type="checkbox" id="question-1-9">
-						<label class="tab-label" for="question-1-9">Why do we need to have a two-step
+						<input type="checkbox" id="question-1-10">
+						<label class="tab-label" for="question-1-10">Why do we need to have a two-step
 booking process?</label>
 						<div class="tab-content">
 							<p>
@@ -99,8 +108,8 @@ booking process?</label>
 					<!-- end of each question -->
 				<!-- start of each question -->
 					<div class="tab">
-						<input type="checkbox" id="question-1-10">
-						<label class="tab-label" for="question-1-10">My child/ward turns 12 this year. Can I get him/her vaccinated?</label>
+						<input type="checkbox" id="question-1-11">
+						<label class="tab-label" for="question-1-11">My child/ward turns 12 this year. Can I get him/her vaccinated?</label>
 						<div class="tab-content">
 							<p>
 						Children who turn 12 in 2021 must have crossed their birthday before they are eligible to book a vaccination appointment.</p>
@@ -109,8 +118,8 @@ booking process?</label>
 					<!-- end of each question -->
 				<!-- start of each question -->
 					<div class="tab">
-						<input type="checkbox" id="question-1-11">
-						<label class="tab-label" for="question-1-11">I want to get my child/ward vaccinated. What do I need to do?</label>
+						<input type="checkbox" id="question-1-12">
+						<label class="tab-label" for="question-1-12">I want to get my child/ward vaccinated. What do I need to do?</label>
 						<div class="tab-content">
 							<p>
 						Parents/guardians can register interest for their child/ward to receive the vaccination on vaccine.gov.sg. To facilitate the booking process,
