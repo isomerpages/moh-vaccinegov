@@ -1,7 +1,8 @@
 ---
 title: Appeal for early vaccination
-permalink: /appeal
+permalink: /appealtravel
 ---
+
 ### Appeal for Early COVID-19 Vaccination
 
 We will offer vaccinations to more segments of the population from April onwards, so that all Singaporeans and long-term residents in Singapore will have the chance to be vaccinated by end-2021. In the meantime, we have received appeals from members of the public who wish to receive their vaccination early for a variety of personal reasons. While our focus has been to vaccinate identified priority groups on public health considerations, as more vaccine supplies arrive, we will consider allowing Singapore Citizens and Permanent Residents with very exceptional circumstances to receive their vaccination earlier.
