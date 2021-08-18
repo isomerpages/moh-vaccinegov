@@ -20,7 +20,7 @@ sections:
         - title: Health Advisory
           description: 健康指示/ Nasihat Kesihatan/ சுகாதார ஆலோசனை
           url: /health-advisory
-        - title: Appeal for Early Vaccination
+        - title: Appeal For COVID-19 Vaccination
           description: Submit with supporting docs
           url: /appeal
         - title: Book appointment
@@ -58,10 +58,8 @@ sections:
       image: /images/info.png
       alt: About Singapore's COVID-19 Vaccination Programme
   - infobar:
-      title: Appeal for early vaccination
-      description: Singaporeans and PRs with compelling reasons such as travel for
-        education, employment or compassionate grounds may apply with supporting
-        documentation.
+      title: Appeal For COVID-19 Vaccination
+      description: Submit with supporting docs
       button: Find out more
       url: /appeal
   - infobar:
