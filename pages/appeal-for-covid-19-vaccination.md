@@ -17,7 +17,11 @@ For avoidance of doubt:
 | **Short Term Visit Pass holders** (with valid extension)<br>*Individuals should have applied to ICA or MOM and have received at least one extension of your Short-Term Visit Pass. | Eligible STVP holders who have valid phone numbers in their immigration records will receive an SMS from MOH via their registered mobile number. The SMSes will be sent progressively over a few days, and will include a personalised booking link to vaccine.gov.sg where individuals can book their appointments. They will not be able to walk-in to the Vaccination Centres, nor the polyclinics or PHPCs.| 
 
 
-STVP holders with valid pass extensions who do not receive an SMS from MOH [within xx days] may make a request for an appointment via this form . They will be required to submit supporting immigration documentation as part of the application.   MOH will review such applications on a case-by-case basis
+STVP holders with valid pass extensions who do not receive an SMS from MOH by 22 Aug 2021 may request for an appointment via this [form](https://form.gov.sg/611b8d4fd152f10012dd3428) . <br>
+
+
+![Alt text for image on Isomer site](/images/appeal%20QR.png)
+We will review such requests on a case-by-case basis over the following few weeks.
 
 
 
