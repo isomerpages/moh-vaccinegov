@@ -6,15 +6,15 @@ permalink: /faq
 			<div class="tabs">			
 					<h3>Registration and Appointments</h3>
 					<div class="tab">
-						<input type="checkbox" id="question-1-1">
-						<label class="tab-label" for="question-1-1">Is the vaccine free?</label>
+						<input id="question-1-1" type="checkbox">
+						<label for="question-1-1" class="tab-label">Is the vaccine free?</label>
 						<div class="tab-content">
 							<p>The vaccine is free for all Singaporeans and long-term residents in Singapore, which includes Singapore Permanent Residents, and Employment Pass holders.</p>
 						</div>
 					</div>				
 					<div class="tab">
-						<input type="checkbox" id="question-1-2">
-						<label class="tab-label" for="question-1-2">Who is eligible for the vaccine?</label>
+						<input id="question-1-2" type="checkbox">
+						<label for="question-1-2" class="tab-label">Who is eligible for the vaccine?</label>
 						<div class="tab-content">
 							<p>
 							Singapore Citizens, Permanent Residents, and Long Term Pass Holders aged 12 and above are eligible.
@@ -25,8 +25,8 @@ permalink: /faq
 							</div>
 					</div>					
 					<div class="tab">
-						<input type="checkbox" id="question-1-3">
-						<label class="tab-label" for="question-1-3">How can I register?</label>
+						<input id="question-1-3" type="checkbox">
+						<label for="question-1-3" class="tab-label">How can I register?</label>
 						<div class="tab-content">
 							<p> Singapore residents and Long-Term Pass Holders aged 12* and above can walk in without appointment at any Vaccination Centre.<br><br>
 Alternatively, you may still register at vaccine.gov.sg. A Short Message Service (SMS) invitation with a personalised booking link to book your vaccination appointments will subsequently be sent to you.<br><br>
@@ -34,52 +34,45 @@ Seniors aged 60 years and above may walk into any of the Vaccination Centres, pa
 *Individuals aged 12 and above for Pfizer BioNtech/Comirnaty vaccine or 18
 and above for Moderna vaccine</p> 
 							</div>
-					</div>		
-					<div class="tab">
-						<input type="checkbox" id="question-1-4">
-						<label class="tab-label" for="question-1-4">Will MOH be extending walk-ins to the Pfizer-BioNTech/Comirnaty vaccination centres as well? Why or why not? </label>
-						<div class="tab-content">
-							<p> Walk-in vaccinations help get more people to get COVID-19 vaccinations, especially those who may face difficulties in scheduling appointments in advance. To allow all to walk in is a significant change in operational concept for us. We are therefore implementing this for Moderna, as there are fewer vaccination centres (11) and demand is correspondingly lower. </p> 
-							</div>
 					</div>				
     			<div class="tab">
-    				<input type="checkbox" id="question-1-5">
-    				<label class="tab-label" for="question-1-5">I lost my SMS/booking code. How can I retrieve the link?</label>
+    				<input id="question-1-4" type="checkbox">
+    				<label for="question-1-4" class="tab-label">I lost my SMS/booking code. How can I retrieve the link?</label>
     				<div class="tab-content">
     					<p>Please call MOH at 1800 333 9999 for assistance.</p>
     				</div>
     			</div>   			
     			<div class="tab">
-    				<input type="checkbox" id="question-1-6">
-    				<label class="tab-label" for="question-1-6">Can I change my contact information? </label>
+    				<input id="question-1-5" type="checkbox">
+    				<label for="question-1-5" class="tab-label">Can I change my contact information? </label>
     				<div class="tab-content">
     					<p>If you have changed your mobile number or email address, please call MOH at 1800 333 9999 for assistance.</p>
     				</div>
     			</div>			
     			<div class="tab">
-    				<input type="checkbox" id="question-1-7">
-    				<label class="tab-label" for="question-1-7">How do I reschedule my appointments? </label>
+    				<input id="question-1-6" type="checkbox">
+    				<label for="question-1-6" class="tab-label">How do I reschedule my appointments? </label>
     				<div class="tab-content">
     					<p> You may reschedule your appointments using the same booking link in the original SMS.</p>
     				</div>
     			</div>	
     			<div class="tab">
-    				<input type="checkbox" id="question-1-8">
-    				<label class="tab-label" for="question-1-8">How will I know that the SMS is authentic and not a scam? </label>
+    				<input id="question-1-7" type="checkbox">
+    				<label for="question-1-7" class="tab-label">How will I know that the SMS is authentic and not a scam? </label>
     				<div class="tab-content">
     					<p>The Covid-19 vaccination is free for all Singaporeans and long-term residents in Singapore and no one should ask you for a payment to register for appointments. The link that is provided in the SMS should go to <strong>"vaccine.gov.sg"</strong>. Only government officials can register for a <strong>gov.sg</strong> domain. Do not trust any other URLs that are not from a <strong>.gov.sg</strong> domain. </p><p>When in doubt, you should check with the agency who sent you the message to confirm the authenticity before responding to the message.</p>
     				</div>
     			</div>
     			<div class="tab">
-    				<input type="checkbox" id="question-1-9">
-    				<label class="tab-label" for="question-1-9">I was assessed to be ineligible for the vaccination at the online screening stage/at the vaccination site, but still want to be vaccinated. What should I do? </label>
+    				<input id="question-1-8" type="checkbox">
+    				<label for="question-1-8" class="tab-label">I was assessed to be ineligible for the vaccination at the online screening stage/at the vaccination site, but still want to be vaccinated. What should I do? </label>
     				<div class="tab-content">
     					<p>If you have been assessed to be ineligible for the Pfizer-BioNTech / Comirnaty or Moderna COVID-19 Vaccines due to medical reasons, you may be able to get vaccinated later if data become available that it is safe to receive the vaccination, or you may be able to get vaccinated with other COVID-19 vaccines.</p>
     				</div>
     			</div>			
 					<div class="tab">
-						<input type="checkbox" id="question-1-10">
-						<label class="tab-label" for="question-1-10">Why do we need to have a two-step
+						<input id="question-1-9" type="checkbox">
+						<label for="question-1-9" class="tab-label">Why do we need to have a two-step
 booking process?</label>
 						<div class="tab-content">
 							<p>
@@ -91,16 +84,16 @@ booking process?</label>
 							</div>
 					</div>
 					<div class="tab">
-						<input type="checkbox" id="question-1-11">
-						<label class="tab-label" for="question-1-11">My child/ward turns 12 this year. Can I get him/her vaccinated?</label>
+						<input id="question-1-10" type="checkbox">
+						<label for="question-1-10" class="tab-label">My child/ward turns 12 this year. Can I get him/her vaccinated?</label>
 						<div class="tab-content">
 							<p>
 						Children who turn 12 in 2021 must have crossed their birthday before they are eligible to book a vaccination appointment.</p>
 							</div>
 					</div>				
 					<div class="tab">
-						<input type="checkbox" id="question-1-12">
-						<label class="tab-label" for="question-1-12">I want to get my child/ward vaccinated. What do I need to do?</label>
+						<input id="question-1-11" type="checkbox">
+						<label for="question-1-11" class="tab-label">I want to get my child/ward vaccinated. What do I need to do?</label>
 						<div class="tab-content">
 							<p>
 						Parents/guardians can register interest for their child/ward to receive the vaccination on vaccine.gov.sg. To facilitate the booking process,
@@ -120,16 +113,16 @@ vaccination. Children/wards aged 12 will need to be accompanied by a parent or g
 				<div class="tabs">
 				<h3>Vaccination Day</h3>			
 					<div class="tab">
-						<input type="checkbox" id="question-2-1">
-						<label class="tab-label" for="question-2-1">How many doses are there?</label>
+						<input id="question-2-1" type="checkbox">
+						<label for="question-2-1" class="tab-label">How many doses are there?</label>
 						<div class="tab-content">
 							<p>The dosing regimen is at day 0 and 21 (i.e. 21 days apart) for the Pfizer-BioNTech / Comirnaty vaccine, and day 0 and 28 (i.e. 28 days apart) for the Moderna vaccine. Two doses of the Pfizer-BioNTech/ Comirnaty and Moderna COVID-19 vaccines are required to achieve optimal protection against COVID-19.
 							</p>
 						</div>
 					</div>				
 					<div class="tab">
-						<input type="checkbox" id="question-2-2">
-						<label class="tab-label" for="question-2-2">What should I take note of?</label>
+						<input id="question-2-2" type="checkbox">
+						<label for="question-2-2" class="tab-label">What should I take note of?</label>
 						<div class="tab-content">
 							<p>				
 								<span>• Bring your ID (NRIC/FIN/Student Pass) for both appointments</span><br>
@@ -140,8 +133,8 @@ vaccination. Children/wards aged 12 will need to be accompanied by a parent or g
 						</div>
 					</div>		
 				<div class="tab">
-					<input type="checkbox" id="question-2-3">
-					<label class="tab-label" for="question-2-3">I’m not feeling well, what should I do?</label>
+					<input id="question-2-3" type="checkbox">
+					<label for="question-2-3" class="tab-label">I’m not feeling well, what should I do?</label>
 					<div class="tab-content">
 						<p>Please do not go for the appointment. You should only take the vaccination when you are well. </p>
 						<p>
@@ -150,16 +143,16 @@ vaccination. Children/wards aged 12 will need to be accompanied by a parent or g
 					</div>
 				</div>		
 				<div class="tab">
-					<input type="checkbox" id="question-2-4">
-					<label class="tab-label" for="question-2-4">How will the vaccine be administered?</label>
+					<input id="question-2-4" type="checkbox">
+					<label for="question-2-4" class="tab-label">How will the vaccine be administered?</label>
 					<div class="tab-content">
 						<p>
 							The vaccine will be injected into your upper arm. To make this easier, you are advised to wear 	short sleeves, or sleeves loose enough to be rolled up.</p>
 					</div>
 				</div>
 				<div class="tab">
-					<input type="checkbox" id="question-2-5">
-					<label class="tab-label" for="question-2-5">Must I bring a hardcopy consent form to be shown at the Vaccination Site?</label>
+					<input id="question-2-5" type="checkbox">
+					<label for="question-2-5" class="tab-label">Must I bring a hardcopy consent form to be shown at the Vaccination Site?</label>
 					<div class="tab-content">
 						<p>
 							Parents/guardians are reminded to ensure that their child/ward brings along documentary proof of their consent to the vaccination site for verification. The letter of consent required can be found <a href="https://www.go.gov.sg/parcf">here</a>. A completed electronic copy of the consent form will be accepted as well.
@@ -171,16 +164,16 @@ vaccination. Children/wards aged 12 will need to be accompanied by a parent or g
 				<h3>Health and Safety</h3>
 				<p>For more information, visit <a href="https://www.moh.gov.sg/covid-19/vaccination">MOH's website</a>.</p>
 				<div class="tab">
-					<input type="checkbox" id="question-3-1">
-					<label class="tab-label" for="question-3-1">Which vaccine is Singapore using?
+					<input id="question-3-1" type="checkbox">
+					<label for="question-3-1" class="tab-label">Which vaccine is Singapore using?
 					</label>
 					<div class="tab-content">
 						<p>The COVID-19 vaccines used under the national vaccination programme are currently Pfizer-BioNTech/Comirnaty and Moderna .</p>
 					</div>
 				</div>			
 				<div class="tab">
-					<input type="checkbox" id="question-3-2">
-					<label class="tab-label" for="question-3-2">What are the possible side effects?
+					<input id="question-3-2" type="checkbox">
+					<label for="question-3-2" class="tab-label">What are the possible side effects?
 					</label>
 					<div class="tab-content">
 						<p>The vaccine has been assessed to be safe for use. However, you may experience common side effects, similar to other vaccines. Most side effects are mild or moderate, and usually get better within a few days. The table below lists some common side effects that have been reported with this vaccine, and how to manage them.
@@ -224,32 +217,32 @@ vaccination. Children/wards aged 12 will need to be accompanied by a parent or g
     				</div>
     			</div>		
     			<div class="tab">
-    				<input type="checkbox" id="question-3-3">
-    				<label class="tab-label" for="question-3-3">What should I do if I’m experiencing side effects?
+    				<input id="question-3-3" type="checkbox">
+    				<label for="question-3-3" class="tab-label">What should I do if I’m experiencing side effects?
     				</label>
     				<div class="tab-content">
     					<p>If you experience a severe allergic reaction, seek medical attention immediately. Call 995 or go to the nearest A&amp;E immediately.</p>
     				</div>
     			</div>    			
     			<div class="tab">
-    				<input type="checkbox" id="question-3-4">
-    				<label class="tab-label" for="question-3-4">What if I only take a single dose and miss my second dose?
+    				<input id="question-3-4" type="checkbox">
+    				<label for="question-3-4" class="tab-label">What if I only take a single dose and miss my second dose?
     				</label>
     				<div class="tab-content">
     					<p>You must receive both doses to have the full vaccine protection. Protection for a single dose has not been formally studied for the  COVID-19 Vaccines, but based on vaccines for other diseases, completion of the recommended doses of the vaccine is required for optimal protection. To make an appointment for your 2nd dose, please call MOH at 1800 333 9999.</p>
     				</div>
     			</div>					
     			<div class="tab">
-    				<input type="checkbox" id="question-3-5">
-    				<label class="tab-label" for="question-3-5">Are the COVID-19 vaccines halal?
+    				<input id="question-3-5" type="checkbox">
+    				<label for="question-3-5" class="tab-label">Are the COVID-19 vaccines halal?
     				</label>
     				<div class="tab-content">
     					<p>The Islamic Religious Council of Singapore (MUIS) has permitted COVID-19 vaccines for Muslim use. Please refer to MUIS’ <a href="https://www.muis.gov.sg/Media/Media-Releases/13-Dec-20-Religious-Position-on-COVID-19-Vaccine">religious position</a> on the COVID-19 vaccine for more information.</p>
     				</div>
     			</div>					
     			<div class="tab">
-    				<input type="checkbox" id="question-3-6">
-    				<label class="tab-label" for="question-3-6">I understand that there may be more than one strain of COVID-19. Will the vaccine cover us fully against all strains?
+    				<input id="question-3-6" type="checkbox">
+    				<label for="question-3-6" class="tab-label">I understand that there may be more than one strain of COVID-19. Will the vaccine cover us fully against all strains?
     				</label>
     				<div class="tab-content">
     					<p>There is no evidence at this time suggesting that the Pfizer-BioNTech / Comirnaty and Moderna’s vaccines do not protect against specific COVID-19 strains, including the UK’s new reported variant. HSA and the EC19V are closely monitoring this issue.
@@ -257,8 +250,8 @@ vaccination. Children/wards aged 12 will need to be accompanied by a parent or g
     				</div>
     			</div>
     			<div class="tab">
-    				<input type="checkbox" id="question-3-7">
-    				<label class="tab-label" for="question-3-7">
+    				<input id="question-3-7" type="checkbox">
+    				<label for="question-3-7" class="tab-label">
 							Can both of my COVID-19
 vaccine doses be of a different brand? Or if I have completed both doses, can I still get another brand of COVID-19 vaccine to ensure more
 protection?
@@ -287,8 +280,8 @@ later on.
     				</div>
     			</div>	
     			<div class="tab">
-    				<input type="checkbox" id="question-3-8">
-    				<label class="tab-label" for="question-3-8">I have recovered from a COVID-19 infection. Can I take my 2 shots of vaccine now?
+    				<input id="question-3-8" type="checkbox">
+    				<label for="question-3-8" class="tab-label">I have recovered from a COVID-19 infection. Can I take my 2 shots of vaccine now?
     				</label>
     				<div class="tab-content">
     					<p>	Individuals who have had an earlier COVID-19 infection, and have recovered, are recommended to receive a single dose of vaccine no earlier than 3 months after the date of their diagnosis if they had not already completed vaccination previously. There is evidence that a single dose would further boost their immunity against COVID-19.
