@@ -99,6 +99,11 @@ Locations that are administering the Covid-19 Vaccines.
       <td>Marine Parade Clinic </td>
       <td> 59 Marine Terrace #01-81, Singapore 440059</td>
 			<td>Pfizer/Comirnaty</td>
+				</tr>    
+    <tr>
+      <td>Acacia Medical Clinic </td>
+      <td> 180 Depot Road #01-07, The Interlace, Singapore 109684</td>
+			<td>Pfizer/Comirnaty</td>
     </tr> 
 		  </tbody>
 </table>
