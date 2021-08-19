@@ -79,6 +79,47 @@ Locations that are administering the Covid-19 Vaccines.
       <td>Assurance Medicine Clinic &amp; Surgery</td>
       <td>370 Tanjong Katong Road, Singapore 437127</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
+      <td>1 Bishan Medical Clinic </td>
+      <td> 283 Bishan Street 22, #01-191, Singapore 570283</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
+      <td>Healthify Medical Family Clinic </td>
+      <td>262 Balestier Road #01-04 OKIO Singapore 329714</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
+      <td>Northeast Medical Group  </td>
+      <td>22 Malacca St, #13-03 RB Capital Building, Singapore 048980</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
+      <td>Marine Parade Clinic </td>
+      <td> 59 Marine Terrace #01-81, Singapore 440059</td>
+			<td>Pfizer/Comirnaty</td>
+				</tr>    
+    <tr>
+      <td>Acacia Medical Clinic </td>
+      <td> 180 Depot Road #01-07, The Interlace, Singapore 109684</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
+      <td>Chung &amp; Ee Medical Clinic
+</td>
+      <td> 10 Telok Blangah Cres #01-151, Singapore 090010</td>
+			<td>Pfizer/Comirnaty</td>
+				</tr>    
+    <tr>
+      <td>Healthway Medical</td>
+      <td> 10 Sinaran Drive, Novena Medical Center #09-36, Singapore 307506</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
+      <td>Pinnacle Family Clinic (River Valley)</td>
+      <td>  240 River Valley Road, Singapore 238297</td>
+			<td>Pfizer/Comirnaty</td>
     </tr> 
 		  </tbody>
 </table>
@@ -132,6 +173,16 @@ Locations that are administering the Covid-19 Vaccines.
       <td>Dayspring Medical Clinic (Tampines) </td>
       <td>2 Tampines Central 5 #04-09 Century Square, Singapore 529509</td>
 			<td>Pfizer/Comirnaty</td>
+    </tr>		
+    <tr>
+      <td>SATA CommHealth Bedok Medical Centre </td>
+      <td>351 Chai Chee Street, SATA CommHealth Building, Singapore 468982</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>		
+    <tr>
+      <td>Faith Medical Clinic &amp; Surgery </td>
+      <td>487C Tampines Street 45, #B1-103, Singapore 522487</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>  
   </tbody>
 </table>
@@ -181,8 +232,8 @@ Locations that are administering the Covid-19 Vaccines.
       <td>598 Yishun Ring Road #B1-09, Singapore 768698</td>
 				<td>Pfizer/Comirnaty</td>
     </tr>	
-    <tr>
-      <td>SATA CommHealth Woodlands Medical Centre</td>
+   <tr>
+    <td> SATA CommHealth Woodlands Medical Centre</td>
       <td>900 South Woodlands Drive #04-01 Civic Centre, Singapore 730900</td>
 				<td>Pfizer/Comirnaty</td>
     </tr> 
@@ -248,6 +299,41 @@ Locations that are administering the Covid-19 Vaccines.
       <td>HK Family Clinic &amp; Surgery</td>
       <td>410 Ang Mo Kio Avenue 10 #01-817, Singapore 560410</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>
+    	<tr>
+      <td>Intemedical (Kovan)</td>
+      <td>210 Hougang Street 21 #01-233, Singapore 530210</td>
+			<td>Pfizer/Comirnaty</td>
+				</tr>
+    	<tr>
+      <td>Medlife Clinic &amp; Surgery </td>
+      <td>684 Hougang Ave 8 #01-985,  Singapore 530684</td>
+			<td>Pfizer/Comirnaty</td>
+				</tr>
+    	<tr>
+      <td>STAT Medical Clinic @ Hougang </td>
+      <td>311 Hougang Avenue 5 #01-183, Singapore 530311</td>
+			<td>Pfizer/Comirnaty</td>
+				</tr>
+    	<tr>
+      <td>Phoenix Medical Group </td>
+      <td>1 Seletar Rd, Greenwich V #02-11, Singapore 807011</td>
+			<td>Pfizer/Comirnaty</td>
+					</tr>
+    	<tr>
+      <td>SATA CommHealth Community Hub </td>
+      <td>447B Jalan Kayu #01-01, Singapore 79244</td>
+			<td>Pfizer/Comirnaty</td>
+					</tr>
+    	<tr>
+      <td>Healthway Medical </td>
+      <td>330 Ang Mo Kio Ave 1  #01-1803, Singapore 560330</td>
+			<td>Pfizer/Comirnaty</td>
+				</tr>
+    	<tr>
+      <td>Pinnacle Family Clinic (Compassvale)</td>
+      <td> 289C Compassvale Cres #01-04, Singapore 543289</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>
   </tbody>
 </table>
@@ -286,6 +372,36 @@ Locations that are administering the Covid-19 Vaccines.
       <td>Acumed Medical (Taman Jurong)</td>
       <td>64 Yung Kuang Road #01-107/11, Singapore 610064</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>
+    <tr>
+      <td>Keat Hong Family Medicine Clinic</td>
+      <td>2 Choa Chu Kang Loop, #03-02 Keat Hong Community Club, Singapore 689687</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>
+    <tr>
+      <td>EH Medical Family Clinic (Bukit Batok)</td>
+      <td> 292 Bukit Batok East Avenue 6 #01-07, Singapore 650292</td>
+			<td>Pfizer/Comirnaty</td>
+				</tr>
+    <tr>
+      <td>Central 24-HR Clinic (Jurong West)</td>
+      <td> 492 Jurong West Street 41 #01-54, Singapore 640492</td>
+			<td>Pfizer/Comirnaty</td>
+				</tr>
+    <tr>
+      <td>SATA CommHealth Jurong Medical Centre</td>
+      <td> 135 Jurong Gateway Road #04-345, Singapore 600135</td>
+			<td>Pfizer/Comirnaty</td>
     </tr> 
   </tbody>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 </table>
