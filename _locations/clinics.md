@@ -115,6 +115,11 @@ Locations that are administering the Covid-19 Vaccines.
       <td>Healthway Medical</td>
       <td> 10 Sinaran Drive, Novena Medical Center #09-36, Singapore 307506</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
+      <td>Pinnacle Family Clinic (River Valley)</td>
+      <td>  240 River Valley Road, Singapore 238297</td>
+			<td>Pfizer/Comirnaty</td>
     </tr> 
 		  </tbody>
 </table>
