@@ -309,6 +309,11 @@ Locations that are administering the Covid-19 Vaccines.
       <td>Phoenix Medical Group </td>
       <td>1 Seletar Rd, Greenwich V #02-11, Singapore 807011</td>
 			<td>Pfizer/Comirnaty</td>
+					</tr>
+    	<tr>
+      <td>SATA CommHealth Community Hub </td>
+      <td>447B Jalan Kayu #01-01, Singapore 79244</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>
   </tbody>
 </table>
