@@ -84,6 +84,11 @@ Locations that are administering the Covid-19 Vaccines.
       <td>1 Bishan Medical Clinic </td>
       <td> 283 Bishan Street 22, #01-191, Singapore 570283</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
+      <td>Healthify Medical Family Clinic </td>
+      <td>262 Balestier Road #01-04 OKIO Singapore 329714</td>
+			<td>Pfizer/Comirnaty</td>
     </tr> 
 		  </tbody>
 </table>
