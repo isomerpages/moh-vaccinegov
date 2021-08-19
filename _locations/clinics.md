@@ -336,6 +336,11 @@ Locations that are administering the Covid-19 Vaccines.
       <td>EH Medical Family Clinic (Bukit Batok)</td>
       <td> 292 Bukit Batok East Avenue 6 #01-07, Singapore 650292</td>
 			<td>Pfizer/Comirnaty</td>
+				</tr>
+    <tr>
+      <td>Central 24-HR Clinic (Jurong West)</td>
+      <td> 492 Jurong West Street 41 #01-54, Singapore 640492</td>
+			<td>Pfizer/Comirnaty</td>
     </tr> 
   </tbody>
 	
