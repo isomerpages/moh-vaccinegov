@@ -367,6 +367,11 @@ Locations that are administering the Covid-19 Vaccines.
       <td>Central 24-HR Clinic (Jurong West)</td>
       <td> 492 Jurong West Street 41 #01-54, Singapore 640492</td>
 			<td>Pfizer/Comirnaty</td>
+				</tr>
+    <tr>
+      <td>SATA CommHealth Jurong Medical Centre</td>
+      <td> 135 Jurong Gateway Road #04-345, Singapore 600135</td>
+			<td>Pfizer/Comirnaty</td>
     </tr> 
   </tbody>
 	
