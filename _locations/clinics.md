@@ -104,6 +104,12 @@ Locations that are administering the Covid-19 Vaccines.
       <td>Acacia Medical Clinic </td>
       <td> 180 Depot Road #01-07, The Interlace, Singapore 109684</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
+      <td>Chung &amp; Ee Medical Clinic
+</td>
+      <td> 10 Telok Blangah Cres #01-151, Singapore 090010</td>
+			<td>Pfizer/Comirnaty</td>
     </tr> 
 		  </tbody>
 </table>
