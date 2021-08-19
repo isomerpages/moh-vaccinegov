@@ -79,6 +79,11 @@ Locations that are administering the Covid-19 Vaccines.
       <td>Assurance Medicine Clinic &amp; Surgery</td>
       <td>370 Tanjong Katong Road, Singapore 437127</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
+      <td>1 Bishan Medical Clinic </td>
+      <td> 283 Bishan Street 22, #01-191, Singapore 570283</td>
+			<td>Pfizer/Comirnaty</td>
     </tr> 
 		  </tbody>
 </table>
