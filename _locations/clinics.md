@@ -89,6 +89,11 @@ Locations that are administering the Covid-19 Vaccines.
       <td>Healthify Medical Family Clinic </td>
       <td>262 Balestier Road #01-04 OKIO Singapore 329714</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
+      <td>Northeast Medical Group  </td>
+      <td>22 Malacca St, #13-03 RB Capital Building, Singapore 048980</td>
+			<td>Pfizer/Comirnaty</td>
     </tr> 
 		  </tbody>
 </table>
