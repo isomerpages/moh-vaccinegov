@@ -132,6 +132,12 @@ Locations that are administering the Covid-19 Vaccines.
       <td>Dayspring Medical Clinic (Tampines) </td>
       <td>2 Tampines Central 5 #04-09 Century Square, Singapore 529509</td>
 			<td>Pfizer/Comirnaty</td>
+    </tr>
+		
+    <tr>
+      <td>SATA CommHealth Bedok Medical Centre </td>
+      <td>351 Chai Chee Street, SATA CommHealth Building, Singapore 468982</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>  
   </tbody>
 </table>
