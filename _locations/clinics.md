@@ -110,6 +110,11 @@ Locations that are administering the Covid-19 Vaccines.
 </td>
       <td> 10 Telok Blangah Cres #01-151, Singapore 090010</td>
 			<td>Pfizer/Comirnaty</td>
+				</tr>    
+    <tr>
+      <td>Healthway Medical</td>
+      <td> 10 Sinaran Drive, Novena Medical Center #09-36, Singapore 307506</td>
+			<td>Pfizer/Comirnaty</td>
     </tr> 
 		  </tbody>
 </table>
@@ -313,6 +318,11 @@ Locations that are administering the Covid-19 Vaccines.
     	<tr>
       <td>SATA CommHealth Community Hub </td>
       <td>447B Jalan Kayu #01-01, Singapore 79244</td>
+			<td>Pfizer/Comirnaty</td>
+					</tr>
+    	<tr>
+      <td>Healthway Medical </td>
+      <td>330 Ang Mo Kio Ave 1  #01-1803, Singapore 560330</td>
 			<td>Pfizer/Comirnaty</td>
     </tr>
   </tbody>
