@@ -293,6 +293,11 @@ Locations that are administering the Covid-19 Vaccines.
       <td>Medlife Clinic &amp; Surgery </td>
       <td>684 Hougang Ave 8 #01-985,  Singapore 530684</td>
 			<td>Pfizer/Comirnaty</td>
+				</tr>
+    	<tr>
+      <td>STAT Medical Clinic @ Hougang </td>
+      <td>311 Hougang Avenue 5 #01-183, Singapore 530311</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>
   </tbody>
 </table>
