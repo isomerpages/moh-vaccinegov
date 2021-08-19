@@ -137,6 +137,11 @@ Locations that are administering the Covid-19 Vaccines.
       <td>SATA CommHealth Bedok Medical Centre </td>
       <td>351 Chai Chee Street, SATA CommHealth Building, Singapore 468982</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>		
+    <tr>
+      <td>Faith Medical Clinic &amp; Surgery </td>
+      <td>487C Tampines Street 45, #B1-103, Singapore 522487</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>  
   </tbody>
 </table>
