@@ -329,6 +329,11 @@ Locations that are administering the Covid-19 Vaccines.
       <td>Healthway Medical </td>
       <td>330 Ang Mo Kio Ave 1  #01-1803, Singapore 560330</td>
 			<td>Pfizer/Comirnaty</td>
+				</tr>
+    	<tr>
+      <td>Pinnacle Family Clinic (Compassvale)</td>
+      <td> 289C Compassvale Cres #01-04, Singapore 543289</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>
   </tbody>
 </table>
