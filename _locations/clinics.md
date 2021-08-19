@@ -304,6 +304,11 @@ Locations that are administering the Covid-19 Vaccines.
       <td>STAT Medical Clinic @ Hougang </td>
       <td>311 Hougang Avenue 5 #01-183, Singapore 530311</td>
 			<td>Pfizer/Comirnaty</td>
+				</tr>
+    	<tr>
+      <td>Phoenix Medical Group </td>
+      <td>1 Seletar Rd, Greenwich V #02-11, Singapore 807011</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>
   </tbody>
 </table>
