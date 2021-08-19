@@ -321,6 +321,11 @@ Locations that are administering the Covid-19 Vaccines.
       <td>Keat Hong Family Medicine Clinic</td>
       <td>2 Choa Chu Kang Loop, #03-02 Keat Hong Community Club, Singapore 689687</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>
+    <tr>
+      <td>EH Medical Family Clinic (Bukit Batok)</td>
+      <td> 292 Bukit Batok East Avenue 6 #01-07, Singapore 650292</td>
+			<td>Pfizer/Comirnaty</td>
     </tr> 
   </tbody>
 	
