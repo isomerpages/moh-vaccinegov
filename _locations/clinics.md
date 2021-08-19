@@ -94,6 +94,11 @@ Locations that are administering the Covid-19 Vaccines.
       <td>Northeast Medical Group  </td>
       <td>22 Malacca St, #13-03 RB Capital Building, Singapore 048980</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
+      <td>Marine Parade Clinic </td>
+      <td> 59 Marine Terrace #01-81, Singapore 440059</td>
+			<td>Pfizer/Comirnaty</td>
     </tr> 
 		  </tbody>
 </table>
@@ -276,7 +281,12 @@ Locations that are administering the Covid-19 Vaccines.
 			</tr>
     	<tr>
       <td>Intemedical (Kovan)</td>
-      <td>210 Hougang Street 21, #01-233, Singapore 530210</td>
+      <td>210 Hougang Street 21 #01-233, Singapore 530210</td>
+			<td>Pfizer/Comirnaty</td>
+				</tr>
+    	<tr>
+      <td>Medlife Clinic &amp; Surgery </td>
+      <td>684 Hougang Ave 8 #01-985,  Singapore 530684</td>
 			<td>Pfizer/Comirnaty</td>
     </tr>
   </tbody>
