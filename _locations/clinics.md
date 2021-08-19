@@ -132,8 +132,7 @@ Locations that are administering the Covid-19 Vaccines.
       <td>Dayspring Medical Clinic (Tampines) </td>
       <td>2 Tampines Central 5 #04-09 Century Square, Singapore 529509</td>
 			<td>Pfizer/Comirnaty</td>
-    </tr>
-		
+    </tr>		
     <tr>
       <td>SATA CommHealth Bedok Medical Centre </td>
       <td>351 Chai Chee Street, SATA CommHealth Building, Singapore 468982</td>
@@ -187,8 +186,8 @@ Locations that are administering the Covid-19 Vaccines.
       <td>598 Yishun Ring Road #B1-09, Singapore 768698</td>
 				<td>Pfizer/Comirnaty</td>
     </tr>	
-    <tr>
-      <td>SATA CommHealth Woodlands Medical Centre</td>
+   <tr>
+    <td> SATA CommHealth Woodlands Medical Centre</td>
       <td>900 South Woodlands Drive #04-01 Civic Centre, Singapore 730900</td>
 				<td>Pfizer/Comirnaty</td>
     </tr> 
@@ -297,6 +296,21 @@ Locations that are administering the Covid-19 Vaccines.
       <td>Acumed Medical (Taman Jurong)</td>
       <td>64 Yung Kuang Road #01-107/11, Singapore 610064</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>
+    <tr>
+      <td>Keat Hong Family Medicine Clinic</td>
+      <td>2 Choa Chu Kang Loop, #03-02 Keat Hong Community Club, Singapore 689687</td>
+			<td>Pfizer/Comirnaty</td>
     </tr> 
   </tbody>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 </table>
