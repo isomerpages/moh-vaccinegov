@@ -254,6 +254,11 @@ Locations that are administering the Covid-19 Vaccines.
       <td>HK Family Clinic &amp; Surgery</td>
       <td>410 Ang Mo Kio Avenue 10 #01-817, Singapore 560410</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>
+    	<tr>
+      <td>Intemedical (Kovan)</td>
+      <td>210 Hougang Street 21, #01-233, Singapore 530210</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>
   </tbody>
 </table>
