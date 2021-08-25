@@ -392,6 +392,11 @@ Locations that are administering the Covid-19 Vaccines.
       <td>SATA CommHealth Jurong Medical Centre</td>
       <td> 135 Jurong Gateway Road #04-345, Singapore 600135</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>
+    <tr>
+      <td>MYHEALTH Medical Centre</td>
+      <td> 501 West Coast Drive #01-256, Singapore 120501</td>
+			<td>Pfizer/Comirnaty</td>
     </tr> 
   </tbody>
 	
