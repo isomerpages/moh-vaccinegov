@@ -120,6 +120,11 @@ Locations that are administering the Covid-19 Vaccines.
       <td>Pinnacle Family Clinic (River Valley)</td>
       <td>  240 River Valley Road, Singapore 238297</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
+      <td>OneCare Medical Clinic Marine Parade</td>
+      <td> 81 Marine Parade Central #01-644, Singapore 440081</td>
+			<td>Pfizer/Comirnaty</td>
     </tr> 
 		  </tbody>
 </table>
@@ -182,6 +187,11 @@ Locations that are administering the Covid-19 Vaccines.
     <tr>
       <td>Faith Medical Clinic &amp; Surgery </td>
       <td>487C Tampines Street 45, #B1-103, Singapore 522487</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>		
+    <tr>
+      <td>Karri Family Clinic </td>
+      <td>866A Tampines Street 83, Tampines Central Community Complex #03-05, Singapore 521866</td>
 			<td>Pfizer/Comirnaty</td>
     </tr>  
   </tbody>
@@ -334,6 +344,11 @@ Locations that are administering the Covid-19 Vaccines.
       <td>Pinnacle Family Clinic (Compassvale)</td>
       <td> 289C Compassvale Cres #01-04, Singapore 543289</td>
 			<td>Pfizer/Comirnaty</td>
+				</tr>
+    	<tr>
+      <td>OneCare Medical Clinic Fernvale</td>
+      <td> 417 Fernvale Link #01-10, Singapore 790417</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>
   </tbody>
 </table>
@@ -391,6 +406,21 @@ Locations that are administering the Covid-19 Vaccines.
     <tr>
       <td>SATA CommHealth Jurong Medical Centre</td>
       <td> 135 Jurong Gateway Road #04-345, Singapore 600135</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>
+    <tr>
+      <td>MYHEALTH Medical Centre</td>
+      <td> 501 West Coast Drive #01-256, Singapore 120501</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>
+    <tr>
+      <td>Frontier Medical Associates</td>
+      <td>  Blk 451 Bukit Batok West Ave 6 #1-7, Singapore 650451</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>
+    <tr>
+      <td>Pier Medical Centre</td>
+      <td>  725 Jurong West Ave 5 #B1-164, Singapore 640725</td>
 			<td>Pfizer/Comirnaty</td>
     </tr> 
   </tbody>
