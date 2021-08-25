@@ -120,6 +120,11 @@ Locations that are administering the Covid-19 Vaccines.
       <td>Pinnacle Family Clinic (River Valley)</td>
       <td>  240 River Valley Road, Singapore 238297</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
+      <td>OneCare Medical Clinic Marine Parade</td>
+      <td> 81 Marine Parade Central #01-644, Singapore 440081</td>
+			<td>Pfizer/Comirnaty</td>
     </tr> 
 		  </tbody>
 </table>
@@ -396,6 +401,11 @@ Locations that are administering the Covid-19 Vaccines.
     <tr>
       <td>MYHEALTH Medical Centre</td>
       <td> 501 West Coast Drive #01-256, Singapore 120501</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>
+    <tr>
+      <td>Frontier Medical Associates</td>
+      <td>  Blk 451 Bukit Batok West Ave 6 #1-7, Singapore 650451</td>
 			<td>Pfizer/Comirnaty</td>
     </tr> 
   </tbody>
