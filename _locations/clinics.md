@@ -188,6 +188,11 @@ Locations that are administering the Covid-19 Vaccines.
       <td>Faith Medical Clinic &amp; Surgery </td>
       <td>487C Tampines Street 45, #B1-103, Singapore 522487</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>		
+    <tr>
+      <td>Karri Family Clinic </td>
+      <td>866A Tampines Street 83, Tampines Central Community Complex #03-05, Singapore 521866</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>  
   </tbody>
 </table>
