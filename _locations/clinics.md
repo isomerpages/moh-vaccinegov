@@ -344,6 +344,11 @@ Locations that are administering the Covid-19 Vaccines.
       <td>Pinnacle Family Clinic (Compassvale)</td>
       <td> 289C Compassvale Cres #01-04, Singapore 543289</td>
 			<td>Pfizer/Comirnaty</td>
+				</tr>
+    	<tr>
+      <td>OneCare Medical Clinic Fernvale</td>
+      <td> 417 Fernvale Link #01-10, Singapore 790417</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>
   </tbody>
 </table>
