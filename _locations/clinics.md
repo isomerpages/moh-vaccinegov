@@ -417,6 +417,11 @@ Locations that are administering the Covid-19 Vaccines.
       <td>Frontier Medical Associates</td>
       <td>  Blk 451 Bukit Batok West Ave 6 #1-7, Singapore 650451</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>
+    <tr>
+      <td>Pier Medical Centre</td>
+      <td>  725 Jurong West Ave 5 #B1-164, Singapore 640725</td>
+			<td>Pfizer/Comirnaty</td>
     </tr> 
   </tbody>
 	
