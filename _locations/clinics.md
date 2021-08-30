@@ -125,6 +125,12 @@ Locations that are administering the Covid-19 Vaccines.
       <td>OneCare Medical Clinic Marine Parade</td>
       <td> 81 Marine Parade Central #01-644, Singapore 440081</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
+      <td>Healthcare Family Clinic & Surgery
+</td>
+      <td>403 Sin Ming Avenue #01-311, Singapore 570403</td>
+			<td>Pfizer/Comirnaty</td>
     </tr> 
 		  </tbody>
 </table>
