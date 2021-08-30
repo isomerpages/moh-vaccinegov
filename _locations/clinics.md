@@ -381,6 +381,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>Medi Healthcare Clinic (Punggol)</td>
       <td> 218 Sumang Walk #01-02, Singapore 820218</td>
 			<td>Pfizer/Comirnaty</td>
+					</tr>
+    	<tr>
+      <td>ProHealth Medical Group</td>
+      <td> 476D Upper Serangoon View #02-04 S(537476)</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>
   </tbody>
 </table>
