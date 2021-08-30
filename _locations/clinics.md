@@ -125,6 +125,12 @@ Locations that are administering the Covid-19 Vaccines.
       <td>OneCare Medical Clinic Marine Parade</td>
       <td> 81 Marine Parade Central #01-644, Singapore 440081</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
+      <td>Healthcare Family Clinic & Surgery
+</td>
+      <td>403 Sin Ming Avenue #01-311, Singapore 570403</td>
+			<td>Pfizer/Comirnaty</td>
     </tr> 
 		  </tbody>
 </table>
@@ -193,6 +199,16 @@ Locations that are administering the Covid-19 Vaccines.
       <td>Karri Family Clinic </td>
       <td>866A Tampines Street 83, Tampines Central Community Complex #03-05, Singapore 521866</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>		
+    <tr>
+      <td>Eastern Medical Centre </td>
+      <td>631 Bedok Reservoir Road #01-896, Singapore 470631</td>
+			<td>Pfizer/Comirnaty</td>
+				</tr>		
+    <tr>
+      <td>Tampines Medilife Clinic</td>
+      <td>801 Tampines Avenue 4 #01-263 Singapore 520801</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>  
   </tbody>
 </table>
@@ -245,6 +261,11 @@ Locations that are administering the Covid-19 Vaccines.
    <tr>
     <td> SATA CommHealth Woodlands Medical Centre</td>
       <td>900 South Woodlands Drive #04-01 Civic Centre, Singapore 730900</td>
+				<td>Pfizer/Comirnaty</td>
+		   </tr>	
+   <tr>
+    <td> Frontier Medical Associates</td>
+      <td>899C, Woodlands Drive 50 #01-296, Singapore 732899</td>
 				<td>Pfizer/Comirnaty</td>
     </tr> 
   </tbody>
@@ -348,6 +369,27 @@ Locations that are administering the Covid-19 Vaccines.
     	<tr>
       <td>OneCare Medical Clinic Fernvale</td>
       <td> 417 Fernvale Link #01-10, Singapore 790417</td>
+			<td>Pfizer/Comirnaty</td>
+				</tr>
+    	<tr>
+      <td>
+Etern Medical Clinic (Punggol Sumang LRT)</td>
+      <td> 308C Punggol Walk #01-302, 1 Waterway Terraces, Singapore 823308</td>
+			<td>Pfizer/Comirnaty</td>
+					</tr>
+    	<tr>
+      <td>Frontier Medical Associates</td>
+      <td> 163 Ang Mo Kio Avenue 4, #01-426, Singapore 560163</td>
+			<td>Pfizer/Comirnaty</td>
+				</tr>
+    	<tr>
+      <td>Medi Healthcare Clinic (Punggol)</td>
+      <td> 218 Sumang Walk #01-02, Singapore 820218</td>
+			<td>Pfizer/Comirnaty</td>
+					</tr>
+    	<tr>
+      <td>ProHealth Medical Group</td>
+      <td> 476D Upper Serangoon View #02-04 S(537476)</td>
 			<td>Pfizer/Comirnaty</td>
     </tr>
   </tbody>
