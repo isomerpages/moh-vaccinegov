@@ -204,6 +204,11 @@ Locations that are administering the Covid-19 Vaccines.
       <td>Eastern Medical Centre </td>
       <td>631 Bedok Reservoir Road #01-896, Singapore 470631</td>
 			<td>Pfizer/Comirnaty</td>
+				</tr>		
+    <tr>
+      <td>Tampines Medilife Clinic</td>
+      <td>801 Tampines Avenue 4 #01-263 Singapore 520801</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>  
   </tbody>
 </table>
