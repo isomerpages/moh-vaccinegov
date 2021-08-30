@@ -360,6 +360,11 @@ Locations that are administering the Covid-19 Vaccines.
 Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td> 308C Punggol Walk #01-302, 1 Waterway Terraces, Singapore 823308</td>
 			<td>Pfizer/Comirnaty</td>
+					</tr>
+    	<tr>
+      <td>Frontier Medical Associates</td>
+      <td> 163 Ang Mo Kio Avenue 4, #01-426, Singapore 560163</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>
   </tbody>
 </table>
