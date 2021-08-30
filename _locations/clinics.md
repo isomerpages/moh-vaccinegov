@@ -193,6 +193,11 @@ Locations that are administering the Covid-19 Vaccines.
       <td>Karri Family Clinic </td>
       <td>866A Tampines Street 83, Tampines Central Community Complex #03-05, Singapore 521866</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>		
+    <tr>
+      <td>Eastern Medical Centre </td>
+      <td>631 Bedok Reservoir Road #01-896, Singapore 470631</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>  
   </tbody>
 </table>
