@@ -354,6 +354,12 @@ Locations that are administering the Covid-19 Vaccines.
       <td>OneCare Medical Clinic Fernvale</td>
       <td> 417 Fernvale Link #01-10, Singapore 790417</td>
 			<td>Pfizer/Comirnaty</td>
+				</tr>
+    	<tr>
+      <td>
+Etern Medical Clinic (Punggol Sumang LRT)</td>
+      <td> 308C Punggol Walk #01-302, 1 Waterway Terraces, Singapore 823308</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>
   </tbody>
 </table>
