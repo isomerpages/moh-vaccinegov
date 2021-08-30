@@ -251,6 +251,11 @@ Locations that are administering the Covid-19 Vaccines.
     <td> SATA CommHealth Woodlands Medical Centre</td>
       <td>900 South Woodlands Drive #04-01 Civic Centre, Singapore 730900</td>
 				<td>Pfizer/Comirnaty</td>
+		   </tr>	
+   <tr>
+    <td> Frontier Medical Associates</td>
+      <td>899C, Woodlands Drive 50 #01-296, Singapore 732899</td>
+				<td>Pfizer/Comirnaty</td>
     </tr> 
   </tbody>
 </table>
