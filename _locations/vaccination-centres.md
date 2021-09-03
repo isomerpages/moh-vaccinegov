@@ -39,7 +39,7 @@ First appointment - 8am
 			<td>Moderna</td>
     </tr>	
     <tr>
-      <td>Kolam Ayer Community Club (Cessatinon of 1st appointment and walk-ins from 2 sept 2021)  </td>
+      <td>Kolam Ayer Community Club (Cessation of 1st appointment and walk-ins from 2 sept 2021)  </td>
       <td>1 Geylang Bahru Lane, Singapore 339631</td>
 			<td>Moderna</td>
     </tr>	
@@ -89,7 +89,7 @@ First appointment - 8am
 			<td>Pfizer/Comirnaty</td>
     </tr>		
     <tr>
-      <td>Bukit Timah Community Club (Cessatinon of 1st appointment and walk-ins from 9 sept 2021)</td>
+      <td>Bukit Timah Community Club (Cessation of 1st appointment and walk-ins from 9 sept 2021)</td>
       <td>20 Toh Yi Drive, Singapore 596569</td>
 			<td>Pfizer/Comirnaty</td>
     </tr>	
@@ -146,7 +146,7 @@ First appointment - 8am
   </thead>
   <tbody>		
     <tr>
-      <td>Marsiling Community Club (Cessatinon of 1st appointment and walk-ins from 2 sept 2021)  </td>
+      <td>Marsiling Community Club (Cessation of 1st appointment and walk-ins from 2 sept 2021)  </td>
       <td>100 Admiralty Road, Singapore 739980</td>
 			<td>Moderna</td>
     </tr>
@@ -247,7 +247,7 @@ First appointment - 8am
 			<td>Pfizer/Comirnaty</td>
     </tr>		
     <tr>
-      <td>Yuhua Community Club (Cessatinon of 1st appointment and walk-ins from 9 sept 2021</td>
+      <td>Yuhua Community Club (Cessation of 1st appointment and walk-ins from 9 sept 2021</td>
       <td>90 Boon Lay Way, Singapore 609958</td>
 			<td>Pfizer/Comirnaty</td>
     </tr>	
