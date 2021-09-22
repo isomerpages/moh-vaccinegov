@@ -271,6 +271,11 @@ Public is advised to call the respective clinics to enquire on the vaccination c
       <td>SM Haneefa Clinic</td>
       <td>11 Chai Chee Road, #01-23, Singapore 460011</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>		
+    <tr>
+      <td>Tampines Family Medicine Clinic</td>
+      <td>1 Tampines Walk, Our Tampines Hub, #03-34, Singapore 528523</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>  
   </tbody>
 </table>
