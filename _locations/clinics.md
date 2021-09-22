@@ -158,6 +158,11 @@ Public is advised to call the respective clinics to enquire on the vaccination c
       <td>M Lam Clinic</td>
       <td>739 Geylang Road, Singapore 389649</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
+      <td>Mei Ling Clinic (Toa Payoh)</td>
+      <td>500 Lor 6 Toa Payoh, BIZ ONE HDB Hub #04-33, Singapore 310500</td>
+			<td>Pfizer/Comirnaty</td>
     </tr> 
 		  </tbody>
 </table>
