@@ -546,6 +546,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>Yarra Medical Clinic </td>
       <td>  1 West Coast Drive, NeWest, #01-11, Singapore 128020</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>
+    <tr>
+      <td>Cashew Medical and Surgery </td>
+      <td>445 Fajar Road, Fajar Shopping Centre #2-522, Singapore 670445</td>
+			<td>Pfizer/Comirnaty</td>
     </tr> 
   </tbody>
 	
