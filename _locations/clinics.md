@@ -395,6 +395,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>ProHealth Medical Group</td>
       <td> 476D Upper Serangoon View #02-04 S(537476)</td>
 			<td>Pfizer/Comirnaty</td>
+				</tr>
+    	<tr>
+      <td>Healthpath Medical Clinic & Surgery</td>
+      <td> 338 Ang Mo Kio Ave 1, #01-1651, Singapore 560338</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>
   </tbody>
 </table>
