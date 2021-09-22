@@ -561,6 +561,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>Healthmark Pioneer Mall Clinic</td>
       <td>638 Jurong West Street 61, Pioneer Mall #02-08, Singapore 640638</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>
+    <tr>
+      <td>Healthsprings Medical Clinic (Bukit Panjang)</td>
+      <td>524A Jelapang Rd,Greenridge Shopping Centre #02-01/02, Singapore 671524</td>
+			<td>Pfizer/Comirnaty</td>
     </tr> 
   </tbody>
 	
