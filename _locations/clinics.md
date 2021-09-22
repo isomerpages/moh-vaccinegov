@@ -153,6 +153,11 @@ Public is advised to call the respective clinics to enquire on the vaccination c
 </td>
       <td>78A Telok Blangah Street 32 #1-2  Singapore 101078</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
+      <td>M Lam Clinic</td>
+      <td>739 Geylang Road, Singapore 389649</td>
+			<td>Pfizer/Comirnaty</td>
     </tr> 
 		  </tbody>
 </table>
