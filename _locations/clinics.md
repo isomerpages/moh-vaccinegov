@@ -241,6 +241,11 @@ Public is advised to call the respective clinics to enquire on the vaccination c
       <td>Edgedale Medical Clinic (Tampines)</td>
       <td>614 Tampines North Drive 1, #01-01, Singapore 520614</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>		
+    <tr>
+      <td>Kindred Family Clinic (Tampines)</td>
+      <td>494 Tampines Street 45, #01-02, Singapore 523494</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>  
   </tbody>
 </table>
