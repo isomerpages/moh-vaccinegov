@@ -551,6 +551,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>Cashew Medical and Surgery </td>
       <td>445 Fajar Road, Fajar Shopping Centre #2-522, Singapore 670445</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>
+    <tr>
+      <td>Family Care Clinic Pte Ltd</td>
+      <td>15 Bukit Batok West Avenue 4, #01-272, Singapore 650415</td>
+			<td>Pfizer/Comirnaty</td>
     </tr> 
   </tbody>
 	
