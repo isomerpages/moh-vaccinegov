@@ -231,6 +231,11 @@ Public is advised to call the respective clinics to enquire on the vaccination c
       <td>Tampines Medilife Clinic</td>
       <td>801 Tampines Avenue 4 #01-263 Singapore 520801</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>		
+    <tr>
+      <td>Bedok Clinic & Sugery (Family Medical Centre)</td>
+      <td>17 Bedok South Road, #1-565  Singapore 460017</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>  
   </tbody>
 </table>
