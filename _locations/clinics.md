@@ -261,6 +261,11 @@ Public is advised to call the respective clinics to enquire on the vaccination c
       <td>Our Family Physician Clinic & Surgery</td>
       <td>829 Tampines Street 81, #01-292, Singapore 520829</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>		
+    <tr>
+      <td>ProHealth Medical Group@Tampines</td>
+      <td>610 Tampines North Drive 1, Tampines GreenWeave #01-03, Singapore 520610</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>  
   </tbody>
 </table>
