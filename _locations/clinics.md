@@ -236,6 +236,11 @@ Public is advised to call the respective clinics to enquire on the vaccination c
       <td>Bedok Clinic & Sugery (Family Medical Centre)</td>
       <td>17 Bedok South Road, #1-565  Singapore 460017</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>		
+    <tr>
+      <td>Edgedale Medical Clinic (Tampines)</td>
+      <td>614 Tampines North Drive 1, #01-01, Singapore 520614</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>  
   </tbody>
 </table>
