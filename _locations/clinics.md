@@ -566,6 +566,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>Healthsprings Medical Clinic (Bukit Panjang)</td>
       <td>524A Jelapang Rd,Greenridge Shopping Centre #02-01/02, Singapore 671524</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>
+    <tr>
+      <td>Hisemainn Medical Clinic</td>
+      <td>276 Jurong West Street 25 #01-06, 640276</td>
+			<td>Pfizer/Comirnaty</td>
     </tr> 
   </tbody>
 	
