@@ -135,6 +135,34 @@ Public is advised to call the respective clinics to enquire on the vaccination c
 </td>
       <td>403 Sin Ming Avenue #01-311, Singapore 570403</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
+      <td>Drs. Koo, Koh and Associates
+</td>
+      <td>163 Bukit Merah Central, #1-3609  Singapore 150163</td>
+			<td>Pfizer/Comirnaty</td>
+				</tr>    
+    <tr>
+      <td>Elyon Family Clinic & Surgery Pte Ltd 
+</td>
+      <td>78B Telok Blangah Street 32, #1-22  Singapore 102078</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
+      <td>Healthplus Family Clinic & Surgery
+</td>
+      <td>78A Telok Blangah Street 32 #1-2  Singapore 101078</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
+      <td>M Lam Clinic</td>
+      <td>739 Geylang Road, Singapore 389649</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
+      <td>Mei Ling Clinic (Toa Payoh)</td>
+      <td>500 Lor 6 Toa Payoh, BIZ ONE HDB Hub #04-33, Singapore 310500</td>
+			<td>Pfizer/Comirnaty</td>
     </tr> 
 		  </tbody>
 </table>
@@ -212,6 +240,41 @@ Public is advised to call the respective clinics to enquire on the vaccination c
     <tr>
       <td>Tampines Medilife Clinic</td>
       <td>801 Tampines Avenue 4 #01-263 Singapore 520801</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>		
+    <tr>
+      <td>Bedok Clinic & Sugery (Family Medical Centre)</td>
+      <td>17 Bedok South Road, #1-565  Singapore 460017</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>		
+    <tr>
+      <td>Edgedale Medical Clinic (Tampines)</td>
+      <td>614 Tampines North Drive 1, #01-01, Singapore 520614</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>		
+    <tr>
+      <td>Kindred Family Clinic (Tampines)</td>
+      <td>494 Tampines Street 45, #01-02, Singapore 523494</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>		
+    <tr>
+      <td>Our Family Physician Clinic & Surgery</td>
+      <td>829 Tampines Street 81, #01-292, Singapore 520829</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>		
+    <tr>
+      <td>ProHealth Medical Group@Tampines</td>
+      <td>610 Tampines North Drive 1, Tampines GreenWeave #01-03, Singapore 520610</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>		
+    <tr>
+      <td>SM Haneefa Clinic</td>
+      <td>11 Chai Chee Road, #01-23, Singapore 460011</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>		
+    <tr>
+      <td>Tampines Family Medicine Clinic</td>
+      <td>1 Tampines Walk, Our Tampines Hub, #03-34, Singapore 528523</td>
 			<td>Pfizer/Comirnaty</td>
     </tr>  
   </tbody>
@@ -395,6 +458,16 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>ProHealth Medical Group</td>
       <td> 476D Upper Serangoon View #02-04 S(537476)</td>
 			<td>Pfizer/Comirnaty</td>
+				</tr>
+    	<tr>
+      <td>Healthpath Medical Clinic & Surgery</td>
+      <td> 338 Ang Mo Kio Ave 1, #01-1651, Singapore 560338</td>
+			<td>Pfizer/Comirnaty</td>
+				</tr>
+    	<tr>
+      <td>Trucare Medical Clinic And Surgery (Hougang Central)</td>
+      <td> 1187 Upper Serangoon Rd, The Midtown #01-53, Singapore 533971</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>
   </tbody>
 </table>
@@ -467,6 +540,36 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
     <tr>
       <td>Pier Medical Centre</td>
       <td>  725 Jurong West Ave 5 #B1-164, Singapore 640725</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>
+    <tr>
+      <td>Yarra Medical Clinic </td>
+      <td>  1 West Coast Drive, NeWest, #01-11, Singapore 128020</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>
+    <tr>
+      <td>Cashew Medical and Surgery </td>
+      <td>445 Fajar Road, Fajar Shopping Centre #2-522, Singapore 670445</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>
+    <tr>
+      <td>Family Care Clinic Pte Ltd</td>
+      <td>15 Bukit Batok West Avenue 4, #01-272, Singapore 650415</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>
+    <tr>
+      <td>Healthmark Pioneer Mall Clinic</td>
+      <td>638 Jurong West Street 61, Pioneer Mall #02-08, Singapore 640638</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>
+    <tr>
+      <td>Healthsprings Medical Clinic (Bukit Panjang)</td>
+      <td>524A Jelapang Rd,Greenridge Shopping Centre #02-01/02, Singapore 671524</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>
+    <tr>
+      <td>Hisemainn Medical Clinic</td>
+      <td>276 Jurong West Street 25 #01-06, 640276</td>
 			<td>Pfizer/Comirnaty</td>
     </tr> 
   </tbody>
