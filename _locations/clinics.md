@@ -400,6 +400,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>Healthpath Medical Clinic & Surgery</td>
       <td> 338 Ang Mo Kio Ave 1, #01-1651, Singapore 560338</td>
 			<td>Pfizer/Comirnaty</td>
+				</tr>
+    	<tr>
+      <td>Trucare Medical Clinic And Surgery (Hougang Central)</td>
+      <td> 1187 Upper Serangoon Rd, The Midtown #01-53, Singapore 533971</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>
   </tbody>
 </table>
