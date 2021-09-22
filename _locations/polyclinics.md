@@ -4,6 +4,18 @@ permalink: /locations-polyclinics
 ---
 Locations that are administering the Covid-19 Vaccines.
 
+	
+**Normal Operating Hours:**<br>
+8am – 4.30pm Monday – Friday,<br>
+8am – 12.30pm Saturday
+
+**Break:**<br>
+1pm – 2pm
+
+ **Last Walk-in:**<br>
+3.30pm Monday – Friday,<br>
+11.30am Saturday
+
 
 ###  **Central**
 <table>
