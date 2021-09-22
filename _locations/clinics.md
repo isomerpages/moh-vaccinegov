@@ -496,6 +496,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>Pier Medical Centre</td>
       <td>  725 Jurong West Ave 5 #B1-164, Singapore 640725</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>
+    <tr>
+      <td>Yarra Medical Clinic </td>
+      <td>  1 West Coast Drive, NeWest, #01-11, Singapore 128020</td>
+			<td>Pfizer/Comirnaty</td>
     </tr> 
   </tbody>
 	
