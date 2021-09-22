@@ -556,6 +556,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>Family Care Clinic Pte Ltd</td>
       <td>15 Bukit Batok West Avenue 4, #01-272, Singapore 650415</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>
+    <tr>
+      <td>Healthmark Pioneer Mall Clinic</td>
+      <td>638 Jurong West Street 61, Pioneer Mall #02-08, Singapore 640638</td>
+			<td>Pfizer/Comirnaty</td>
     </tr> 
   </tbody>
 	
