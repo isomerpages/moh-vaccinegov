@@ -135,6 +135,18 @@ Public is advised to call the respective clinics to enquire on the vaccination c
 </td>
       <td>403 Sin Ming Avenue #01-311, Singapore 570403</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
+      <td>Drs. Koo, Koh and Associates
+</td>
+      <td>163 Bukit Merah Central, #1-3609  Singapore 150163</td>
+			<td>Pfizer/Comirnaty</td>
+				</tr>    
+    <tr>
+      <td>Elyon Family Clinic & Surgery Pte Ltd 
+</td>
+      <td>78B Telok Blangah Street 32, #1-22  Singapore 102078</td>
+			<td>Pfizer/Comirnaty</td>
     </tr> 
 		  </tbody>
 </table>
