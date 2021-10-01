@@ -41,11 +41,6 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
 			<td>Moderna</td>
     </tr>	
     <tr>
-      <td>Kolam Ayer Community Club (Cessation of 1st appointment and walk-ins from 2 Sept 2021)  </td>
-      <td>1 Geylang Bahru Lane, Singapore 339631</td>
-			<td>Moderna</td>
-    </tr>	
-    <tr>
       <td>Buona Vista Community Club </td>
       <td>36 Holland Drive, Singapore 270036</td>
 			<td>Moderna</td>
@@ -88,11 +83,6 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
     <tr>
       <td>Marine Parade Community Club </td>
       <td>278 Marine Parade Road, Singapore 449282</td>
-			<td>Pfizer/Comirnaty</td>
-    </tr>		
-    <tr>
-      <td>Bukit Timah Community Club (Cessation of 1st appointment and walk-ins from 9 Sept 2021)</td>
-      <td>20 Toh Yi Drive, Singapore 596569</td>
 			<td>Pfizer/Comirnaty</td>
     </tr>	
     <tr>
@@ -147,11 +137,6 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
     </tr>
   </thead>
   <tbody>		
-    <tr>
-      <td>Marsiling Community Club (Cessation of 1st appointment and walk-ins from 2 Sept 2021)  </td>
-      <td>100 Admiralty Road, Singapore 739980</td>
-			<td>Moderna</td>
-    </tr>
     <tr>
       <td>Woodlands Community Club   </td>
       <td>1 Woodlands Street 81, Singapore 738526</td>
@@ -246,11 +231,6 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
     <tr>
       <td>Taman Jurong Community Club</td>
       <td>1 Yung Sheng Road, Singapore 618495</td>
-			<td>Pfizer/Comirnaty</td>
-    </tr>		
-    <tr>
-      <td>Yuhua Community Club (Cessation of 1st appointment and walk-ins from 9 Sept 2021</td>
-      <td>90 Boon Lay Way, Singapore 609958</td>
 			<td>Pfizer/Comirnaty</td>
     </tr>	
     <tr>
