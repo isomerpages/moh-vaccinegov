@@ -282,7 +282,17 @@ later on.
     				<div class="tab-content">
     					<p>	A booster vaccine dose is recommended for the following groups of people:<p>
 1)	Persons aged 50 years and above<p>
-2)	Residents of aged care facilities, regardless of their age.</p>
+2)	Residents of aged care facilities, regardless of their age.
+							</p>
+    				</div>
+    			</div>	
+    			<div class="tab">
+    				<input id="question-3-10" type="checkbox">
+    				<label for="question-3-10" class="tab-label">Why is there a need for a booster dose?
+    				</label>
+    				<div class="tab-content">
+    					<p>	While vaccinated persons still have strong protection against severe disease currently, it could decrease in the months ahead, particularly for those who are at higher risk.  A booster dose will increase their level of immunity and provide greater protection from severe disease for a longer period.
+							</p>
     				</div>
     			</div>  			
     	</div>
