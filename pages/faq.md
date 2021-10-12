@@ -272,6 +272,17 @@ later on.
     				</label>
     				<div class="tab-content">
     					<p>	Individuals who have had an earlier COVID-19 infection, and have recovered, are recommended to receive a single dose of vaccine no earlier than 3 months after the date of their diagnosis if they had not already completed vaccination previously. There is evidence that a single dose would further boost their immunity against COVID-19.
+								</p>
+    				</div>
+    			</div>	
+    			<div class="tab">
+    				<input id="question-3-9" type="checkbox">
+    				<label for="question-3-9" class="tab-label">Who is the booster dose for?
+    				</label>
+    				<div class="tab-content">
+    					<p>	A booster vaccine dose is recommended for the following groups of people:<p>
+1)	Persons aged 50 years and above<p>
+2)	Residents of aged care facilities, regardless of their age.
 							</p>
     				</div>
     			</div>  			
