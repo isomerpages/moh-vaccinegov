@@ -282,8 +282,7 @@ later on.
     				<div class="tab-content">
     					<p>	A booster vaccine dose is recommended for the following groups of people:<p>
 1)	Persons aged 50 years and above<p>
-2)	Residents of aged care facilities, regardless of their age.
-							</p>
+2)	Residents of aged care facilities, regardless of their age.</p>
     				</div>
     			</div>  			
     	</div>
