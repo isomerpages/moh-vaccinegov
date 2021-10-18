@@ -277,3 +277,5 @@ later on.
     			</div>  			
     	</div>
 			</div>
+			<p>
+For more information on booster doses, visit [MOH Website](https://www.moh.gov.sg/covid-19/vaccination/faqs---boosters-doses)
