@@ -274,7 +274,4 @@ later on.
     					<p>	Individuals who have had an earlier COVID-19 infection, and have recovered, are recommended to receive a single dose of vaccine no earlier than 3 months after the date of their diagnosis if they had not already completed vaccination previously. There is evidence that a single dose would further boost their immunity against COVID-19.
 							</p>
     				</div>
-    			</div>  			
-    	</div>
-			</div>
-		<p>For more information on booster doses, visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---boosters-doses">MOH's website</a></p>
+    			</div><p>For more information on booster doses, visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---boosters-doses">MOH's website</a>.</p>
