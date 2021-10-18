@@ -278,4 +278,4 @@ later on.
     	</div>
 			</div>
 			<p>
-For more information on booster doses, visit [MOH Website](https://www.moh.gov.sg/covid-19/vaccination/faqs---boosters-doses)
+		<p>For more information on booster doses, visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---boosters-doses">MOH's website</a>.</p>
