@@ -21,20 +21,7 @@ permalink: /faq
 									</p>
 							</div>
 					</div>	
-				<div class="tab">
-				<input id="question-1-3" type="checkbox">
-						<label for="question-1-3" class="tab-label">Who is the booster dose for?</label>
-						<div class="tab-content">
-							<p> The following persons are recommended to receive a booster dose of a PSAR mRNA vaccine, from about six months after completion of their primary series:	<p>
-								<span>• Persons aged 30 years and above</span><br>
-								<span>• Residents of aged care facilities*</span><br>
-							<span>• Healthcare and frontline workers*</span><br>
-							<span>• Persons and staff in institutionalised settings*</span><br>
-							*Aged 18 years and above
-									</p>
-							</div>
-					</div>	
-					<div class="tab">
+				   <div class="tab">
 						<input id="question-1-4" type="checkbox">
 						<label for="question-1-4" class="tab-label">How can I register?</label>
 						<div class="tab-content">
