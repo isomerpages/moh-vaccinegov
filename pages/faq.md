@@ -24,8 +24,7 @@ permalink: /faq
 				<input id="question-1-3" type="checkbox">
 						<label for="question-1-3" class="tab-label">Who is the booster dose for?</label>
 						<div class="tab-content">
-							<p>
-					The following persons are recommended to receive a booster dose of a PSAR mRNA vaccine, from about six months after completion of their primary series:	<p>
+							<p> The following persons are recommended to receive a booster dose of a PSAR mRNA vaccine, from about six months after completion of their primary series:	<p>
 								<span>• Persons aged 30 years and above</span><br>
 								<span>• Residents of aged care facilities*</span><br>
 							<span>• Healthcare and frontline workers*</span><br>
