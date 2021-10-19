@@ -23,7 +23,7 @@ permalink: /faq
 					</div>
 				<div class="tab">
 						<input id="question-1-3" type="checkbox">
-						<label for="question-1-3" class="tab-label">Who is eligible for the vaccine?</label>
+						<label for="question-1-3" class="tab-label">Who is the booster dose for?</label>
 						<div class="tab-content">
 							<p>
 						Singapore Citizens, Permanent Residents, and Long Term Pass Holders aged 12 and above are eligible to receive their first two doses of the vaccines, also known as the primary series vaccination.
