@@ -17,70 +17,91 @@ permalink: /faq
 						<label for="question-1-2" class="tab-label">Who is eligible for the vaccine?</label>
 						<div class="tab-content">
 							<p>
-							Singapore Citizens, Permanent Residents, and Long Term Pass Holders aged 12 and above are eligible.
-							</p>
-							<p>
-								Please note that your health will be assessed on the following <a href="/health-advisory">criteria</a> to ensure your safety.
-							</p>
+						Singapore Citizens, Permanent Residents, and Long Term Pass Holders aged 12 and above are eligible to receive their first two doses of the vaccines, also known as the primary series vaccination.
+									</p>
 							</div>
-					</div>					
-					<div class="tab">
+					</div>
+				<div class="tab">
 						<input id="question-1-3" type="checkbox">
-						<label for="question-1-3" class="tab-label">How can I register?</label>
+						<label for="question-1-3" class="tab-label">Who is the booster dose for?</label>
 						<div class="tab-content">
-							<p> Singapore residents and Long-Term Pass Holders aged 12* and above can walk in without appointment at any Vaccination Centre.<br><br>
-Alternatively, you may still register at vaccine.gov.sg. A Short Message Service (SMS) invitation with a personalised booking link to book your vaccination appointments will subsequently be sent to you.<br><br>
-Seniors aged 60 years and above may walk into any of the Vaccination Centres, participating Public Health Preparedness Clinics, or polyclinics to receive their first dose of vaccination, without any prior appointment.<br><br>
-*Individuals aged 12 and above for Pfizer BioNtech/Comirnaty vaccine or 18
-and above for Moderna vaccine</p> 
+							<p>
+						The following persons are recommended to receive a booster dose of a PSAR mRNA vaccine, from about six months after completion of their primary series:<br>
+								a. Persons aged 30 years and above<br>
+								b. Residents of aged care facilities*<br>
+								c. Healthcare and frontline workers*<br>
+								d. Persons and staff in institutionalised settings *<br>
+								*Aged 18 years and above
+								</p>
+							</div>
+					</div>
+				<div class="tab">
+						<input id="question-1-4" type="checkbox">
+						<label for="question-1-4" class="tab-label">	
+Do I need to register for my booster dose?</label>
+						<div class="tab-content">
+							<p>
+						Persons eligible to receive their booster dose will be progressively invited to do so. An SMS with a personalised booking link will be sent to the mobile number that you had registered with for your first two doses. Please use it to book an appointment for the booster on www.vaccine.gov.sg.<br><br>
+								If you are aged 60 years and above, you may walk into any of the Vaccination Centres, participating Public Health Preparedness Clinics, or Polyclinics to receive your first dose of vaccination, as well as your booster dose, without any appointment.
+									</p>
+							</div>
+					</div>
+				   <div class="tab">
+						<input id="question-1-5" type="checkbox">
+						<label for="question-1-5" class="tab-label">How can I register?</label>
+						<div class="tab-content">
+							<p>If you are a Singapore Citizen, Permanent Resident, or Long-Term Pass Holders aged 12* and above, you may walk in without an appointment to any Vaccination Centre to receive your first dose of the vaccine.<br><br>
+Alternatively, you may still register at vaccine.gov.sg. A Short Message Service (SMS) invitation with a personalised booking link to book your vaccination appointments will then be sent to you.<br><br>
+If you are aged 60 years and above, you may walk into any of the Vaccination Centres, participating Public Health Preparedness Clinics, or Polyclinics to receive your first dose of vaccination, as well as your booster dose, without any appointment.<br><br>
+*Individuals aged 12 and above for Pfizer BioNtech/Comirnaty vaccine or 18 and above for Moderna vaccine</p> 
 							</div>
 					</div>				
     			<div class="tab">
-    				<input id="question-1-4" type="checkbox">
-    				<label for="question-1-4" class="tab-label">I lost my SMS/booking code. How can I retrieve the link?</label>
+    				<input id="question-1-6" type="checkbox">
+    				<label for="question-1-6" class="tab-label">I lost my SMS/booking code. How can I retrieve the link?</label>
     				<div class="tab-content">
     					<p>Please call MOH at 1800 333 9999 for assistance.</p>
     				</div>
     			</div>   			
     			<div class="tab">
-    				<input id="question-1-5" type="checkbox">
-    				<label for="question-1-5" class="tab-label">Can I change my contact information? </label>
+    				<input id="question-1-7" type="checkbox">
+    				<label for="question-1-7" class="tab-label">Can I change my contact information? </label>
     				<div class="tab-content">
     					<p>If you have changed your mobile number or email address, please call MOH at 1800 333 9999 for assistance.</p>
     				</div>
     			</div>			
     			<div class="tab">
-    				<input id="question-1-6" type="checkbox">
-    				<label for="question-1-6" class="tab-label">How do I reschedule my appointments? </label>
+    				<input id="question-1-8" type="checkbox">
+    				<label for="question-1-8" class="tab-label">How do I reschedule my appointments? </label>
     				<div class="tab-content">
     					<p> You may reschedule your appointments using the same booking link in the original SMS.</p>
     				</div>
     			</div>	
     			<div class="tab">
-    				<input id="question-1-7" type="checkbox">
-    				<label for="question-1-7" class="tab-label">How will I know that the SMS is authentic and not a scam? </label>
+    				<input id="question-1-9" type="checkbox">
+    				<label for="question-1-9" class="tab-label">How will I know that the SMS is authentic and not a scam? </label>
     				<div class="tab-content">
     					<p>The Covid-19 vaccination is free for all Singaporeans and long-term residents in Singapore and no one should ask you for a payment to register for appointments. The link that is provided in the SMS should go to <strong>"vaccine.gov.sg"</strong>. Only government officials can register for a <strong>gov.sg</strong> domain. Do not trust any other URLs that are not from a <strong>.gov.sg</strong> domain. </p><p>When in doubt, you should check with the agency who sent you the message to confirm the authenticity before responding to the message.</p>
     				</div>
     			</div>
     			<div class="tab">
-    				<input id="question-1-8" type="checkbox">
-    				<label for="question-1-8" class="tab-label">I was assessed to be ineligible for the vaccination at the online screening stage/at the vaccination site, but still want to be vaccinated. What should I do? </label>
+    				<input id="question-1-10" type="checkbox">
+    				<label for="question-1-10" class="tab-label">I was assessed to be ineligible for the vaccination at the online screening stage/at the vaccination site, but still want to be vaccinated. What should I do? </label>
     				<div class="tab-content">
     					<p>If you have been assessed to be ineligible for the Pfizer-BioNTech / Comirnaty or Moderna COVID-19 Vaccines due to medical reasons, you may be able to get vaccinated later if data become available that it is safe to receive the vaccination, or you may be able to get vaccinated with other COVID-19 vaccines.</p>
 							</div>
 					</div>
 					<div class="tab">
-						<input id="question-1-9" type="checkbox">
-						<label for="question-1-9" class="tab-label">My child/ward turns 12 this year. Can I get him/her vaccinated?</label>
+						<input id="question-1-11" type="checkbox">
+						<label for="question-1-11" class="tab-label">My child/ward turns 12 this year. Can I get him/her vaccinated?</label>
 						<div class="tab-content">
 							<p>
 						Children who turn 12 in 2021 must have crossed their birthday before they are eligible to book a vaccination appointment.</p>
 							</div>
 					</div>				
 					<div class="tab">
-						<input id="question-1-10" type="checkbox">
-						<label for="question-1-10" class="tab-label">I want to get my child/ward vaccinated. What do I need to do?</label>
+						<input id="question-1-12" type="checkbox">
+						<label for="question-1-12" class="tab-label">I want to get my child/ward vaccinated. What do I need to do?</label>
 						<div class="tab-content">
 							<p>
 						Parents/guardians can register interest for their child/ward to receive the vaccination on vaccine.gov.sg. To facilitate the booking process,
@@ -103,7 +124,8 @@ vaccination. Children/wards aged 12 will need to be accompanied by a parent or g
 						<input id="question-2-1" type="checkbox">
 						<label for="question-2-1" class="tab-label">How many doses are there?</label>
 						<div class="tab-content">
-							<p>The dosing regimen is at day 0 and 21 (i.e. 21 days apart) for the Pfizer-BioNTech / Comirnaty vaccine, and day 0 and 28 (i.e. 28 days apart) for the Moderna vaccine. Two doses of the Pfizer-BioNTech/ Comirnaty and Moderna COVID-19 vaccines are required to achieve optimal protection against COVID-19.
+							<p>The dosing regimen for the primary series vaccination is at day 0 and 21 (i.e. 21 days apart) for the Pfizer-BioNTech / Comirnaty vaccine, and day 0 and 28 (i.e. 28 days apart) for the Moderna vaccine. Two doses of the Pfizer-BioNTech/ Comirnaty and Moderna COVID-19 vaccines are required to achieve optimal protection against COVID-19.<br><br>
+								The booster dose is recommended to be taken from about six months after you have been vaccinated with two doses.
 							</p>
 						</div>
 					</div>				
@@ -271,7 +293,7 @@ later on.
     				<label for="question-3-8" class="tab-label">I have recovered from a COVID-19 infection. Can I take my 2 shots of vaccine now?
     				</label>
     				<div class="tab-content">
-    					<p>	Individuals who have had an earlier COVID-19 infection, and have recovered, are recommended to receive a single dose of vaccine no earlier than 3 months after the date of their diagnosis if they had not already completed vaccination previously. There is evidence that a single dose would further boost their immunity against COVID-19.
+    					<p>	If you have recovered from a COVID-19 infection, it is recommended that you receive a single dose of vaccine at least 3 months after the date of your diagnosis, if you have not already completed your vaccination or if you have not received any dose of COVID-19 vaccine prior to infection. There is evidence that a single dose would further boost your immunity against COVID-19.  A booster dose is not recommended at this time.
 							</p>
     				</div>
     			</div><p>For more information on booster doses, visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---booster-doses">MOH's website</a>.</p>

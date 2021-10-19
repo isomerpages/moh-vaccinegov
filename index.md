@@ -27,6 +27,11 @@ sections:
           description: Already have the code?
           url: https://appointment.vaccine.gov.sg
   - infobar:
+      title: Booster Doses
+      description: For more information on booster doses, visit
+      button: MOH's website
+      url: https://www.moh.gov.sg/covid-19/vaccination/faqs
+  - infobar:
       description: We are aware of websites, emails, SMS text messages and phone calls
         falsely claiming to offer registration for COVID-19 vaccination
       button: Learn more
