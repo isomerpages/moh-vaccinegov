@@ -124,7 +124,8 @@ vaccination. Children/wards aged 12 will need to be accompanied by a parent or g
 						<input id="question-2-1" type="checkbox">
 						<label for="question-2-1" class="tab-label">How many doses are there?</label>
 						<div class="tab-content">
-							<p>The dosing regimen is at day 0 and 21 (i.e. 21 days apart) for the Pfizer-BioNTech / Comirnaty vaccine, and day 0 and 28 (i.e. 28 days apart) for the Moderna vaccine. Two doses of the Pfizer-BioNTech/ Comirnaty and Moderna COVID-19 vaccines are required to achieve optimal protection against COVID-19.
+							<p>The dosing regimen for the primary series vaccination is at day 0 and 21 (i.e. 21 days apart) for the Pfizer-BioNTech / Comirnaty vaccine, and day 0 and 28 (i.e. 28 days apart) for the Moderna vaccine. Two doses of the Pfizer-BioNTech/ Comirnaty and Moderna COVID-19 vaccines are required to achieve optimal protection against COVID-19.<br><br>
+								The booster dose is recommended to be taken from about six months after you have been vaccinated with two doses.
 							</p>
 						</div>
 					</div>				
