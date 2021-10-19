@@ -41,7 +41,7 @@ permalink: /faq
 Do I need to register for my booster dose?</label>
 						<div class="tab-content">
 							<p>
-						Persons eligible to receive their booster dose will be progressively invited to do so. An SMS with a personalised booking link will be sent to the mobile number that you had registered with for your first two doses. Please use it to book an appointment for the booster on www.vaccine.gov.sg.<br>
+						Persons eligible to receive their booster dose will be progressively invited to do so. An SMS with a personalised booking link will be sent to the mobile number that you had registered with for your first two doses. Please use it to book an appointment for the booster on www.vaccine.gov.sg.<br><br>
 								If you are aged 60 years and above, you may walk into any of the Vaccination Centres, participating Public Health Preparedness Clinics, or Polyclinics to receive your first dose of vaccination, as well as your booster dose, without any appointment.
 									</p>
 							</div>
