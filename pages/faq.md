@@ -38,11 +38,10 @@ permalink: /faq
 						<input id="question-1-4" type="checkbox">
 						<label for="question-1-4" class="tab-label">How can I register?</label>
 						<div class="tab-content">
-							<p> Singapore residents and Long-Term Pass Holders aged 12* and above can walk in without appointment at any Vaccination Centre.<br><br>
-Alternatively, you may still register at vaccine.gov.sg. A Short Message Service (SMS) invitation with a personalised booking link to book your vaccination appointments will subsequently be sent to you.<br><br>
-Seniors aged 60 years and above may walk into any of the Vaccination Centres, participating Public Health Preparedness Clinics, or polyclinics to receive their first dose of vaccination, without any prior appointment.<br><br>
-*Individuals aged 12 and above for Pfizer BioNtech/Comirnaty vaccine or 18
-and above for Moderna vaccine</p> 
+							<p>If you are a Singapore Citizen, Permanent Resident, or Long-Term Pass Holders aged 12* and above, you may walk in without an appointment to any Vaccination Centre to receive your first dose of the vaccine.<br><br>
+Alternatively, you may still register at vaccine.gov.sg. A Short Message Service (SMS) invitation with a personalised booking link to book your vaccination appointments will then be sent to you.<br><br>
+If you are aged 60 years and above, you may walk into any of the Vaccination Centres, participating Public Health Preparedness Clinics, or Polyclinics to receive your first dose of vaccination, as well as your booster dose, without any appointment.<br><br>
+*Individuals aged 12 and above for Pfizer BioNtech/Comirnaty vaccine or 18 and above for Moderna vaccine</p> 
 							</div>
 					</div>				
     			<div class="tab">
