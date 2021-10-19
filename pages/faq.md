@@ -26,7 +26,12 @@ permalink: /faq
 						<label for="question-1-3" class="tab-label">Who is the booster dose for?</label>
 						<div class="tab-content">
 							<p>
-						Singapore Citizens, Permanent Residents, and Long Term Pass Holders aged 12 and above are eligible to receive their first two doses of the vaccines, also known as the primary series vaccination.
+						The following persons are recommended to receive a booster dose of a PSAR mRNA vaccine, from about six months after completion of their primary series:<br>
+								a. Persons aged 30 years and above<br>
+								b. Residents of aged care facilities*<br>
+								c. Healthcare and frontline workers*<br>
+								d. Persons and staff in institutionalised settings *<br>
+								*Aged 18 years and above
 									</p>
 							</div>
 					</div>
