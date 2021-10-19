@@ -20,10 +20,23 @@ permalink: /faq
 						Singapore Citizens, Permanent Residents, and Long Term Pass Holders aged 12 and above are eligible to receive their first two doses of the vaccines, also known as the primary series vaccination.
 									</p>
 							</div>
-					</div>					
+					</div>	
+				<input id="question-1-3" type="checkbox">
+						<label for="question-1-3" class="tab-label">Who is the booster dose for?</label>
+						<div class="tab-content">
+							<p>
+					The following persons are recommended to receive a booster dose of a PSAR mRNA vaccine, from about six months after completion of their primary series:	<p>
+								<span>• Persons aged 30 years and above</span><br>
+								<span>• Residents of aged care facilities*</span><br>
+							<span>• Healthcare and frontline workers*</span><br>
+							<span>• Persons and staff in institutionalised settings*</span><br>
+							*Aged 18 years and above
+									</p>
+							</div>
+					</div>	
 					<div class="tab">
-						<input id="question-1-3" type="checkbox">
-						<label for="question-1-3" class="tab-label">How can I register?</label>
+						<input id="question-1-4" type="checkbox">
+						<label for="question-1-4" class="tab-label">How can I register?</label>
 						<div class="tab-content">
 							<p> Singapore residents and Long-Term Pass Holders aged 12* and above can walk in without appointment at any Vaccination Centre.<br><br>
 Alternatively, you may still register at vaccine.gov.sg. A Short Message Service (SMS) invitation with a personalised booking link to book your vaccination appointments will subsequently be sent to you.<br><br>
@@ -33,51 +46,51 @@ and above for Moderna vaccine</p>
 							</div>
 					</div>				
     			<div class="tab">
-    				<input id="question-1-4" type="checkbox">
-    				<label for="question-1-4" class="tab-label">I lost my SMS/booking code. How can I retrieve the link?</label>
+    				<input id="question-1-5" type="checkbox">
+    				<label for="question-1-5" class="tab-label">I lost my SMS/booking code. How can I retrieve the link?</label>
     				<div class="tab-content">
     					<p>Please call MOH at 1800 333 9999 for assistance.</p>
     				</div>
     			</div>   			
     			<div class="tab">
-    				<input id="question-1-5" type="checkbox">
-    				<label for="question-1-5" class="tab-label">Can I change my contact information? </label>
+    				<input id="question-1-6" type="checkbox">
+    				<label for="question-1-6" class="tab-label">Can I change my contact information? </label>
     				<div class="tab-content">
     					<p>If you have changed your mobile number or email address, please call MOH at 1800 333 9999 for assistance.</p>
     				</div>
     			</div>			
     			<div class="tab">
-    				<input id="question-1-6" type="checkbox">
-    				<label for="question-1-6" class="tab-label">How do I reschedule my appointments? </label>
+    				<input id="question-1-7" type="checkbox">
+    				<label for="question-1-7" class="tab-label">How do I reschedule my appointments? </label>
     				<div class="tab-content">
     					<p> You may reschedule your appointments using the same booking link in the original SMS.</p>
     				</div>
     			</div>	
     			<div class="tab">
-    				<input id="question-1-7" type="checkbox">
-    				<label for="question-1-7" class="tab-label">How will I know that the SMS is authentic and not a scam? </label>
+    				<input id="question-1-8" type="checkbox">
+    				<label for="question-1-8" class="tab-label">How will I know that the SMS is authentic and not a scam? </label>
     				<div class="tab-content">
     					<p>The Covid-19 vaccination is free for all Singaporeans and long-term residents in Singapore and no one should ask you for a payment to register for appointments. The link that is provided in the SMS should go to <strong>"vaccine.gov.sg"</strong>. Only government officials can register for a <strong>gov.sg</strong> domain. Do not trust any other URLs that are not from a <strong>.gov.sg</strong> domain. </p><p>When in doubt, you should check with the agency who sent you the message to confirm the authenticity before responding to the message.</p>
     				</div>
     			</div>
     			<div class="tab">
-    				<input id="question-1-8" type="checkbox">
-    				<label for="question-1-8" class="tab-label">I was assessed to be ineligible for the vaccination at the online screening stage/at the vaccination site, but still want to be vaccinated. What should I do? </label>
+    				<input id="question-1-9" type="checkbox">
+    				<label for="question-1-9" class="tab-label">I was assessed to be ineligible for the vaccination at the online screening stage/at the vaccination site, but still want to be vaccinated. What should I do? </label>
     				<div class="tab-content">
     					<p>If you have been assessed to be ineligible for the Pfizer-BioNTech / Comirnaty or Moderna COVID-19 Vaccines due to medical reasons, you may be able to get vaccinated later if data become available that it is safe to receive the vaccination, or you may be able to get vaccinated with other COVID-19 vaccines.</p>
 							</div>
 					</div>
 					<div class="tab">
-						<input id="question-1-9" type="checkbox">
-						<label for="question-1-9" class="tab-label">My child/ward turns 12 this year. Can I get him/her vaccinated?</label>
+						<input id="question-1-10" type="checkbox">
+						<label for="question-1-10" class="tab-label">My child/ward turns 12 this year. Can I get him/her vaccinated?</label>
 						<div class="tab-content">
 							<p>
 						Children who turn 12 in 2021 must have crossed their birthday before they are eligible to book a vaccination appointment.</p>
 							</div>
 					</div>				
 					<div class="tab">
-						<input id="question-1-10" type="checkbox">
-						<label for="question-1-10" class="tab-label">I want to get my child/ward vaccinated. What do I need to do?</label>
+						<input id="question-1-11" type="checkbox">
+						<label for="question-1-11" class="tab-label">I want to get my child/ward vaccinated. What do I need to do?</label>
 						<div class="tab-content">
 							<p>
 						Parents/guardians can register interest for their child/ward to receive the vaccination on vaccine.gov.sg. To facilitate the booking process,
