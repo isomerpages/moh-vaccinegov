@@ -68,4 +68,9 @@ sections:
       button: Read FAQ
       url: /faq
       alt: Read FAQ
+  - infobar:
+      title: Booster Doses
+      description: For more information on booster doses, visit
+      button: MOH's website
+      url: https://www.moh.gov.sg/covid-19/vaccination/faqs---booster-doses
 ---
