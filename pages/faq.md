@@ -293,7 +293,7 @@ later on.
     				<label for="question-3-8" class="tab-label">I have recovered from a COVID-19 infection. Can I take my 2 shots of vaccine now?
     				</label>
     				<div class="tab-content">
-    					<p>	Individuals who have had an earlier COVID-19 infection, and have recovered, are recommended to receive a single dose of vaccine no earlier than 3 months after the date of their diagnosis if they had not already completed vaccination previously. There is evidence that a single dose would further boost their immunity against COVID-19.
+    					<p>	If you have recovered from a COVID-19 infection, it is recommended that you receive a single dose of vaccine at least 3 months after the date of your diagnosis, if you have not already completed your vaccination or if you have not received any dose of COVID-19 vaccine prior to infection. There is evidence that a single dose would further boost your immunity against COVID-19.  A booster dose is not recommended at this time.
 							</p>
     				</div>
     			</div><p>For more information on booster doses, visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---booster-doses">MOH's website</a>.</p>
