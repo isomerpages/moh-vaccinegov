@@ -37,15 +37,12 @@ permalink: /faq
 					</div>
 				<div class="tab">
 						<input id="question-1-4" type="checkbox">
-						<label for="question-1-4" class="tab-label">Who is the booster dose for?</label>
+						<label for="question-1-4" class="tab-label">	
+Do I need to register for my booster dose?</label>
 						<div class="tab-content">
 							<p>
-						The following persons are recommended to receive a booster dose of a PSAR mRNA vaccine, from about six months after completion of their primary series:<br>
-								a. Persons aged 30 years and above<br>
-								b. Residents of aged care facilities*<br>
-								c. Healthcare and frontline workers*<br>
-								d. Persons and staff in institutionalised settings *<br>
-								*Aged 18 years and above
+						Persons eligible to receive their booster dose will be progressively invited to do so. An SMS with a personalised booking link will be sent to the mobile number that you had registered with for your first two doses. Please use it to book an appointment for the booster on www.vaccine.gov.sg.<br>
+								If you are aged 60 years and above, you may walk into any of the Vaccination Centres, participating Public Health Preparedness Clinics, or Polyclinics to receive your first dose of vaccination, as well as your booster dose, without any appointment.
 									</p>
 							</div>
 					</div>
