@@ -24,7 +24,7 @@ permalink: /health-advisory/
 
 **After vaccination**
 
-As a precautionary measure, adolescents and men below 30 years of age are advised to avoid strenuous physical activities such as running, weightlifting, competitive sports, or playing ball games for one week after their first and second vaccination doses.
+As a precautionary measure, vaccinated persons, in particular adolescents and men below 30 years of age, who have received any dose of the mRNA COVID19 vaccines, are advised to avoid strenuous physical activities such as running, weightlifting, competitive sports, or playing ball games for two weeks after the vaccination
  <br/>
 
 **Postpone your appointment if you**
@@ -35,7 +35,7 @@ As a precautionary measure, adolescents and men below 30 years of age are advise
  Are serving Stay-Home Notice (SHN) or Quarantine Order (QO).
 
 
-Persons on active cancer chemotherapy, radiation therapy or immunotherapy or are severely immunocompromised, can be vaccinated in the hospital setting or in a community vaccination centre with a treating specialist’s memo. If you are unsure if you can be vaccinated, you are advised to consult your doctor. For more information, please refer to the [FAQ](/faq)
+Persons with moderate to severe immunocompromise are recommended to receive a third dose of the same PSAR mRNA vaccine they had received for the first two doses, two months after their second dose.  They should be referred to receive the third dose by their treating specialist, who would have the best understanding of their medical condition. For more information, please refer to the [FAQ](https://www.moh.gov.sg/covid-19/vaccination/faqs---enhanced-primary-series)
  <br/>
  
  **COVID-19 Vaccination Related Documents**<br>
