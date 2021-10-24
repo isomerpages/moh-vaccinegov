@@ -577,7 +577,7 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 					</tr>
     	<tr>
       <td>Pinnacle Family Clinic (Serangoon North)</td>
-      <td>518 Serangoon North Avenue 4, #B1-208  Singapore 550518</td>
+      <td>518 Serangoon North Avenue 4, #B1-208  Singapore 550518 (Phone:62193910)</td>
 			<td>Sinovac</td>
 					</tr>
     	<tr>
