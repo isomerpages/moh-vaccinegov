@@ -330,7 +330,7 @@ Please contact the clinic to book an appointment for Sinvoac vaccine.
 			</tr>		
     <tr>
       <td>Little Cross Family Clinic</td>
-      <td>929 Tampines St 91 ,#01-445, Singapore 520929</td>
+      <td>929 Tampines St 91 ,#01-445, Singapore 520929 (Phone:65440040)</td>
 			<td>Sinovac</td>
 			</tr>		
     <tr>
