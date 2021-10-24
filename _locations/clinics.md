@@ -418,7 +418,7 @@ Please contact the clinic to book an appointment for Sinvoac vaccine.
 		 </tr>	
    <tr>
     <td>Woodgrove Family Clinic</td>
-      <td>325 Woodlands Street 32 #01-135  Singapore 730325</td>
+      <td>325 Woodlands Street 32 #01-135  Singapore 730325 (Phone:64819793)</td>
 				<td>Sinovac</td>
 		  </tr>	
    <tr>
