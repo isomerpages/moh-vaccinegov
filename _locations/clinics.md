@@ -533,6 +533,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>Dedicare Medical Practice & Surgery @ Hougang</td>
       <td>419 Hougang Avenue 8 #01-K1,  Singapore 530419</td>
 			<td>Sinovac</td>
+					</tr>
+    	<tr>
+      <td>Pinnacle Family Clinic (Serangoon North)</td>
+      <td>518 Serangoon North Avenue 4, #B1-208  Singapore 550518</td>
+			<td>Sinovac</td>
     </tr>
   </tbody>
 </table>
