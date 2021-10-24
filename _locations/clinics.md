@@ -513,6 +513,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>Sengkang Family Clinic</td>
       <td>274D Compassvale Bow #01-01,  Singapore 544274</td>
 			<td>Sinovac</td>
+				</tr>
+    	<tr>
+      <td>Dedicare Medical Practice & Surgery @ Hougang</td>
+      <td>419 Hougang Avenue 8 #01-K1,  Singapore 530419</td>
+			<td>Sinovac</td>
     </tr>
   </tbody>
 </table>
