@@ -197,7 +197,7 @@ Please contact the clinic to book an appointment for Sinvoac vaccine.
 			</tr>    
     <tr>
       <td>Central Medical Group Pte Ltd</td>
-      <td>11 Jalan Bukit Merah #01-4442  Singapore 150011</td>
+      <td>11 Jalan Bukit Merah #01-4442  Singapore 150011 (Phone:62722212)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
