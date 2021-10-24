@@ -202,7 +202,7 @@ Please contact the clinic to book an appointment for Sinvoac vaccine.
 			</tr>    
     <tr>
       <td>Precious Medical Centre Pte Ltd</td>
-      <td>290 Orchard Road, The Paragon #12-01,  Singapore 238859</td>
+      <td>290 Orchard Road, The Paragon #12-01,  Singapore 238859 (Phone:66816656)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
