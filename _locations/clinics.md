@@ -572,7 +572,7 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 				</tr>
     	<tr>
       <td>Dedicare Medical Practice & Surgery @ Hougang</td>
-      <td>419 Hougang Avenue 8 #01-K1,  Singapore 530419</td>
+      <td>419 Hougang Avenue 8 #01-K1,  Singapore 530419 (Phone:6980 3066)</td>
 			<td>Sinovac</td>
 					</tr>
     	<tr>
