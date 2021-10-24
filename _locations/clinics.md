@@ -690,7 +690,7 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 			</tr>
     <tr>
       <td>Providence Clinic @ Hillford</td>
-      <td>182 Jalan Jurong Kechil, The Hillford, #01-65 Singapore 596152</td>
+      <td>182 Jalan Jurong Kechil, The Hillford, #01-65 Singapore 596152 (Phone:63140970)</td>
 			<td>Sinovac</td>
 			</tr>
     <tr>
