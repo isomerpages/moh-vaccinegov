@@ -568,6 +568,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>Pinnacle Family Clinic (Serangoon North)</td>
       <td>518 Serangoon North Avenue 4, #B1-208  Singapore 550518</td>
 			<td>Sinovac</td>
+					</tr>
+    	<tr>
+      <td>SATA CommHealth Ang Mo Kio Medical Centre</td>
+      <td>715 Ang Mo Kio Avenue 6 #01-4008 & 4010  Singapore 560715</td>
+			<td>Sinovac</td>
     </tr>
   </tbody>
 </table>
