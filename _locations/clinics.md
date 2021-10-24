@@ -183,6 +183,11 @@ Public is advised to call the respective clinics to enquire on the vaccination c
       <td>Providence Clinic @ Redhill</td>
       <td>86 Redhill Close #01-598,  Singapore 150086</td>
 			<td>Sinovac</td>
+			</tr>    
+    <tr>
+      <td>Mediview Clinic & Surgery</td>
+      <td>150 Toa Payoh Lorong 1 #01-999  Singapore 310150</td>
+			<td>Sinovac</td>
     </tr> 
 		  </tbody>
 </table>
