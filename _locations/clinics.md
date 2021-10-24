@@ -203,6 +203,11 @@ Public is advised to call the respective clinics to enquire on the vaccination c
       <td>Precious Medical Centre Pte Ltd</td>
       <td>290 Orchard Road, The Paragon #12-01,  Singapore 238859</td>
 			<td>Sinovac</td>
+			</tr>    
+    <tr>
+      <td>Primary Care Asia</td>
+      <td>290 Orchard Rd, Paragon Medical Centre #15-11/12, Singapore 238859</td>
+			<td>Sinovac</td>
     </tr> 
 		  </tbody>
 </table>
