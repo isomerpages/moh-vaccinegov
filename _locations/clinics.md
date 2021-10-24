@@ -321,6 +321,11 @@ Public is advised to call the respective clinics to enquire on the vaccination c
       <td>Ardennes Healthcare Pte Ltd</td>
       <td>60 Paya Lebar Road, Paya Lebar Sqaure, #02-02/03, Singapore 409051</td>
 			<td>Sinovac</td>
+			</tr>		
+    <tr>
+      <td>Phoenix Medical Group(Paya Lebar)</td>
+      <td>60 Paya Lebar Road, Paya Lebar Square #02-09, Singapore 409051</td>
+			<td>Sinovac</td>
     </tr>  
   </tbody>
 </table>
