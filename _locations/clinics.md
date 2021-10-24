@@ -306,6 +306,11 @@ Public is advised to call the respective clinics to enquire on the vaccination c
       <td>Little Cross Family Clinic</td>
       <td>929 Tampines St 91 ,#01-445, Singapore 520929</td>
 			<td>Sinovac</td>
+			</tr>		
+    <tr>
+      <td>Pinnacle Family Clinic (Pasir Ris)</td>
+      <td>571 Pasir Ris Street 53 #01-50, Singapore 510571</td>
+			<td>Sinovac</td>
     </tr>  
   </tbody>
 </table>
