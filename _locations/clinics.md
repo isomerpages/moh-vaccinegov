@@ -335,7 +335,7 @@ Please contact the clinic to book an appointment for Sinvoac vaccine.
 			</tr>		
     <tr>
       <td>Pinnacle Family Clinic (Pasir Ris)</td>
-      <td>571 Pasir Ris Street 53 #01-50, Singapore 510571</td>
+      <td>571 Pasir Ris Street 53 #01-50, Singapore 510571 (Phone:62437338)</td>
 			<td>Sinovac</td>
 				</tr>		
     <tr>
