@@ -163,6 +163,11 @@ Public is advised to call the respective clinics to enquire on the vaccination c
       <td>Mei Ling Clinic (Toa Payoh)</td>
       <td>500 Lor 6 Toa Payoh, BIZ ONE HDB Hub #04-33, Singapore 310500</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
+      <td>Anteh Dispensary Pte Ltd)</td>
+      <td>1 Lorong 22 Geylang #01-02 Grandview Suites  Singapore 398664</td>
+			<td>Sinovac</td>
     </tr> 
 		  </tbody>
 </table>
