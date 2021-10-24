@@ -591,6 +591,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>Hisemainn Medical Clinic</td>
       <td>276 Jurong West Street 25 #01-06, 640276</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>
+    <tr>
+      <td>Providence Clinic @ Hillford</td>
+      <td>182 Jalan Jurong Kechil, The Hillford, #01-65 Singapore 596152</td>
+			<td>Sinovac</td>
     </tr> 
   </tbody>
 	
