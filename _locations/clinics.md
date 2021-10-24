@@ -177,7 +177,7 @@ Please contact the clinic to book an appointment for Sinvoac vaccine.
 			</tr>    
     <tr>
       <td>Phoenix Medical Group (Novena)</td>
-      <td>275 Thomson Road, #01-05 Novena Regency #01-05 , Singapore 307645</td>
+      <td>275 Thomson Road, #01-05 Novena Regency #01-05 , Singapore 307645 (Phone:65553512)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
