@@ -710,7 +710,7 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 			</tr>
     <tr>
       <td>SATA CommHealth Jurong Medical Centre</td>
-      <td>135 Jurong Gateway Road #04-345  Singapore 600135</td>
+      <td>135 Jurong Gateway Road #04-345  Singapore 600135 (Phone:62446688)</td>
 			<td>Sinovac</td>
     </tr> 
   </tbody>
