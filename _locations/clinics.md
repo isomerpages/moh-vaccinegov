@@ -478,6 +478,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>Trucare Medical Clinic And Surgery (Hougang Central)</td>
       <td> 1187 Upper Serangoon Rd, The Midtown #01-53, Singapore 533971</td>
 			<td>Pfizer/Comirnaty</td>
+				</tr>
+    	<tr>
+      <td>Myclnq Medical</td>
+      <td> 554 Ang Mo Kio Avenue 10 #01-2048 Cheng San Place Singapore 560554</td>
+			<td>Sinovac</td>
     </tr>
   </tbody>
 </table>
