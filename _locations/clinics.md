@@ -207,7 +207,7 @@ Please contact the clinic to book an appointment for Sinvoac vaccine.
 			</tr>    
     <tr>
       <td>Primary Care Asia</td>
-      <td>290 Orchard Rd, Paragon Medical Centre #15-11/12, Singapore 238859</td>
+      <td>290 Orchard Rd, Paragon Medical Centre #15-11/12, Singapore 238859 (Phone:66725008)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
