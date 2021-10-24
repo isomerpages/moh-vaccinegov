@@ -345,7 +345,7 @@ Please contact the clinic to book an appointment for Sinvoac vaccine.
 			</tr>		
     <tr>
       <td>Phoenix Medical Group(Paya Lebar)</td>
-      <td>60 Paya Lebar Road, Paya Lebar Square #02-09, Singapore 409051</td>
+      <td>60 Paya Lebar Road, Paya Lebar Square #02-09, Singapore 409051 (Phone:67022940)</td>
 			<td>Sinovac</td>
     </tr>  
   </tbody>
