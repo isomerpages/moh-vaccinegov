@@ -413,7 +413,7 @@ Please contact the clinic to book an appointment for Sinvoac vaccine.
 		 </tr>	
    <tr>
     <td>The Cliniq</td>
-      <td>590A Montreal Link, Montreal Dale #01-23, Singapore 751590</td>
+      <td>590A Montreal Link, Montreal Dale #01-23, Singapore 751590 (Phone:67107635)</td>
 				<td>Sinovac</td>
 		 </tr>	
    <tr>
