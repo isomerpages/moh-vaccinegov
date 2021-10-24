@@ -340,7 +340,7 @@ Please contact the clinic to book an appointment for Sinvoac vaccine.
 				</tr>		
     <tr>
       <td>Ardennes Healthcare Pte Ltd</td>
-      <td>60 Paya Lebar Road, Paya Lebar Sqaure, #02-02/03, Singapore 409051</td>
+      <td>60 Paya Lebar Road, Paya Lebar Sqaure, #02-02/03, Singapore 409051 (Phone:69803045)</td>
 			<td>Sinovac</td>
 			</tr>		
     <tr>
