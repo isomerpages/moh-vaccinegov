@@ -695,7 +695,7 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 			</tr>
     <tr>
       <td>Pinnacle Family Clinic (Yew Tee)</td>
-      <td>790 Choa Chu Kang North 6 #01-238  Singapore 680790</td>
+      <td>790 Choa Chu Kang North 6 #01-238  Singapore 680790 (Phone:62357893)</td>
 			<td>Sinovac</td>
 			</tr>
     <tr>
