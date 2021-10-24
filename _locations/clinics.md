@@ -696,6 +696,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>Chua Medical Clinic And Surgery Pte Ltd</td>
       <td>642 Bukit Batok Central #01-52, Singapore 650642</td>
 			<td>Sinovac</td>
+			</tr>
+    <tr>
+      <td>SATA CommHealth Jurong Medical Centre</td>
+      <td>135 Jurong Gateway Road #04-345  Singapore 600135</td>
+			<td>Sinovac</td>
     </tr> 
   </tbody>
 	
