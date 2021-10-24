@@ -562,7 +562,7 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 				</tr>
     	<tr>
       <td>Myclnq Medical</td>
-      <td> 554 Ang Mo Kio Avenue 10 #01-2048 Cheng San Place Singapore 560554</td>
+      <td> 554 Ang Mo Kio Avenue 10 #01-2048 Cheng San Place Singapore 560554 (Phone:67107635)</td>
 			<td>Sinovac</td>
 				</tr>
     	<tr>
