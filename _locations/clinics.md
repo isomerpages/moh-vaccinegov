@@ -182,7 +182,7 @@ Please contact the clinic to book an appointment for Sinvoac vaccine.
 			</tr>    
     <tr>
       <td>Providence Clinic @ Redhill</td>
-      <td>86 Redhill Close #01-598,  Singapore 150086</td>
+      <td>86 Redhill Close #01-598,  Singapore 150086 (Phone:64710301)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
