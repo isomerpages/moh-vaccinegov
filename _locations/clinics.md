@@ -364,6 +364,11 @@ Public is advised to call the respective clinics to enquire on the vaccination c
     <td>The Cliniq</td>
       <td>590A Montreal Link, Montreal Dale #01-23, Singapore 751590</td>
 				<td>Sinovac</td>
+		 </tr>	
+   <tr>
+    <td>Woodgrove Family Clinic</td>
+      <td>325 Woodlands Street 32 #01-135  Singapore 730325</td>
+				<td>Sinovac</td>
     </tr> 
   </tbody>
 </table>
