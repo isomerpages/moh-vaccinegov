@@ -8,6 +8,7 @@ Operating Hours Vary
 
 Public is advised to call the respective clinics to enquire on the vaccination cut-off time for their preferred date
 
+Please contact the clinic to book an appointment for Sinvoac vaccine.
 
 ###  **Central**
 <table>
@@ -165,53 +166,53 @@ Public is advised to call the respective clinics to enquire on the vaccination c
 			<td>Pfizer/Comirnaty</td>
 			</tr>    
     <tr>
-      <td>Anteh Dispensary Pte Ltd)</td>
-      <td>1 Lorong 22 Geylang, Grandview Suites #01-02 , Singapore 398664</td>
+      <td>Anteh Dispensary Pte Ltd</td>
+      <td>1 Lorong 22 Geylang, Grandview Suites #01-02 , Singapore 398664 (Phone:67441809) </td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
       <td>Integrated Wellness Clinic</td>
-      <td>8 Sinaran Drive, Specialist Center #05-04, Singapore 307470</td>
+      <td>8 Sinaran Drive, Specialist Center #05-04, Singapore 307470 (Phone:67450875)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
       <td>Phoenix Medical Group (Novena)</td>
-      <td>275 Thomson Road, #01-05 Novena Regency #01-05 , Singapore 307645</td>
+      <td>275 Thomson Road, #01-05 Novena Regency #01-05 , Singapore 307645 (Phone:65553512)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
       <td>Providence Clinic @ Redhill</td>
-      <td>86 Redhill Close #01-598,  Singapore 150086</td>
+      <td>86 Redhill Close #01-598,  Singapore 150086 (Phone:64710301)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
       <td>Mediview Clinic & Surgery</td>
-      <td>150 Toa Payoh Lorong 1 #01-999  Singapore 310150</td>
+      <td>150 Toa Payoh Lorong 1 #01-999  Singapore 310150 (Phone:62532351)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
       <td>Thomson Wellth Clinic</td>
-      <td>290 Orchard Road, Paragon Medical Centre #19-01, Singapore 238859</td>
+      <td>290 Orchard Road, Paragon Medical Centre #19-01, Singapore 238859 (Phone:63526550)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
       <td>Central Medical Group Pte Ltd</td>
-      <td>11 Jalan Bukit Merah #01-4442  Singapore 150011</td>
+      <td>11 Jalan Bukit Merah #01-4442  Singapore 150011 (Phone:62722212)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
       <td>Precious Medical Centre Pte Ltd</td>
-      <td>290 Orchard Road, The Paragon #12-01,  Singapore 238859</td>
+      <td>290 Orchard Road, The Paragon #12-01,  Singapore 238859 (Phone:66816656)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
       <td>Primary Care Asia</td>
-      <td>290 Orchard Rd, Paragon Medical Centre #15-11/12, Singapore 238859</td>
+      <td>290 Orchard Rd, Paragon Medical Centre #15-11/12, Singapore 238859 (Phone:66725008)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
       <td>The Family Practice @ Skyville</td>
-      <td>85 Dawson Road #01-06, Singapore 141085</td>
+      <td>85 Dawson Road #01-06, Singapore 141085 (Phone:62551382)</td>
 			<td>Sinovac</td>
     </tr> 
 		  </tbody>
@@ -329,22 +330,22 @@ Public is advised to call the respective clinics to enquire on the vaccination c
 			</tr>		
     <tr>
       <td>Little Cross Family Clinic</td>
-      <td>929 Tampines St 91 ,#01-445, Singapore 520929</td>
+      <td>929 Tampines St 91 ,#01-445, Singapore 520929 (Phone:65440040)</td>
 			<td>Sinovac</td>
 			</tr>		
     <tr>
       <td>Pinnacle Family Clinic (Pasir Ris)</td>
-      <td>571 Pasir Ris Street 53 #01-50, Singapore 510571</td>
+      <td>571 Pasir Ris Street 53 #01-50, Singapore 510571 (Phone:62437338)</td>
 			<td>Sinovac</td>
 				</tr>		
     <tr>
       <td>Ardennes Healthcare Pte Ltd</td>
-      <td>60 Paya Lebar Road, Paya Lebar Sqaure, #02-02/03, Singapore 409051</td>
+      <td>60 Paya Lebar Road, Paya Lebar Sqaure, #02-02/03, Singapore 409051 (Phone:69803045)</td>
 			<td>Sinovac</td>
 			</tr>		
     <tr>
       <td>Phoenix Medical Group(Paya Lebar)</td>
-      <td>60 Paya Lebar Road, Paya Lebar Square #02-09, Singapore 409051</td>
+      <td>60 Paya Lebar Road, Paya Lebar Square #02-09, Singapore 409051 (Phone:67022940)</td>
 			<td>Sinovac</td>
     </tr>  
   </tbody>
@@ -407,22 +408,22 @@ Public is advised to call the respective clinics to enquire on the vaccination c
 		 </tr>	
    <tr>
     <td>Sembawang Mart Medical Centre</td>
-      <td>511 Canbeera Road, Sembawang Mart #02-02A, Singapore 750511</td>
+      <td>511 Canbeera Road, Sembawang Mart #02-02A, Singapore 750511 (Phone:64819793)</td>
 				<td>Sinovac</td>
 		 </tr>	
    <tr>
     <td>The Cliniq</td>
-      <td>590A Montreal Link, Montreal Dale #01-23, Singapore 751590</td>
+      <td>590A Montreal Link, Montreal Dale #01-23, Singapore 751590 (Phone:67107635)</td>
 				<td>Sinovac</td>
 		 </tr>	
    <tr>
     <td>Woodgrove Family Clinic</td>
-      <td>325 Woodlands Street 32 #01-135  Singapore 730325</td>
+      <td>325 Woodlands Street 32 #01-135  Singapore 730325 (Phone:64819793)</td>
 				<td>Sinovac</td>
 		  </tr>	
    <tr>
     <td>Pinnacle Family Clinic (Woodlands)</td>
-      <td>573 Woodlands Drive 16 #01-06,  Singapore 730573</td>
+      <td>573 Woodlands Drive 16 #01-06,  Singapore 730573 (Phone:67601623)</td>
 				<td>Sinovac</td>
     </tr> 
   </tbody>
@@ -561,27 +562,27 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 				</tr>
     	<tr>
       <td>Myclnq Medical</td>
-      <td> 554 Ang Mo Kio Avenue 10 #01-2048 Cheng San Place Singapore 560554</td>
+      <td> 554 Ang Mo Kio Avenue 10 #01-2048 Cheng San Place Singapore 560554 (Phone:67107635)</td>
 			<td>Sinovac</td>
 				</tr>
     	<tr>
       <td>Sengkang Family Clinic</td>
-      <td>274D Compassvale Bow #01-01,  Singapore 544274</td>
+      <td>274D Compassvale Bow #01-01,  Singapore 544274 (Phone:63867781)</td>
 			<td>Sinovac</td>
 				</tr>
     	<tr>
       <td>Dedicare Medical Practice & Surgery @ Hougang</td>
-      <td>419 Hougang Avenue 8 #01-K1,  Singapore 530419</td>
+      <td>419 Hougang Avenue 8 #01-K1,  Singapore 530419 (Phone:6980 3066)</td>
 			<td>Sinovac</td>
 					</tr>
     	<tr>
       <td>Pinnacle Family Clinic (Serangoon North)</td>
-      <td>518 Serangoon North Avenue 4, #B1-208  Singapore 550518</td>
+      <td>518 Serangoon North Avenue 4, #B1-208  Singapore 550518 (Phone:62193910)</td>
 			<td>Sinovac</td>
 					</tr>
     	<tr>
       <td>SATA CommHealth Ang Mo Kio Medical Centre</td>
-      <td>715 Ang Mo Kio Avenue 6 #01-4008 & 4010  Singapore 560715</td>
+      <td>715 Ang Mo Kio Avenue 6 #01-4008 & 4010  Singapore 560715 (Phone:62446626)</td>
 			<td>Sinovac</td>
     </tr>
   </tbody>
@@ -689,27 +690,27 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 			</tr>
     <tr>
       <td>Providence Clinic @ Hillford</td>
-      <td>182 Jalan Jurong Kechil, The Hillford, #01-65 Singapore 596152</td>
+      <td>182 Jalan Jurong Kechil, The Hillford, #01-65 Singapore 596152 (Phone:63140970)</td>
 			<td>Sinovac</td>
 			</tr>
     <tr>
       <td>Pinnacle Family Clinic (Yew Tee)</td>
-      <td>790 Choa Chu Kang North 6 #01-238  Singapore 680790</td>
+      <td>790 Choa Chu Kang North 6 #01-238  Singapore 680790 (Phone:62357893)</td>
 			<td>Sinovac</td>
 			</tr>
     <tr>
       <td>Phoenix Medical Group ( Hillview )</td>
-      <td>4 Hillview Rise, HillV2 #02-20,  Singapore 667979</td>
+      <td>4 Hillview Rise, HillV2 #02-20,  Singapore 667979 (Phone:67107157)</td>
 			<td>Sinovac</td>
 			</tr>
     <tr>
       <td>Chua Medical Clinic And Surgery Pte Ltd</td>
-      <td>642 Bukit Batok Central #01-52, Singapore 650642</td>
+      <td>642 Bukit Batok Central #01-52, Singapore 650642 (Phone:64251935)</td>
 			<td>Sinovac</td>
 			</tr>
     <tr>
       <td>SATA CommHealth Jurong Medical Centre</td>
-      <td>135 Jurong Gateway Road #04-345  Singapore 600135</td>
+      <td>135 Jurong Gateway Road #04-345  Singapore 600135 (Phone:62446688)</td>
 			<td>Sinovac</td>
     </tr> 
   </tbody>
