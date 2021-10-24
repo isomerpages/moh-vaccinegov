@@ -212,7 +212,7 @@ Please contact the clinic to book an appointment for Sinvoac vaccine.
 			</tr>    
     <tr>
       <td>The Family Practice @ Skyville</td>
-      <td>85 Dawson Road #01-06, Singapore 141085</td>
+      <td>85 Dawson Road #01-06, Singapore 141085 (Phone:62551382)</td>
 			<td>Sinovac</td>
     </tr> 
 		  </tbody>
