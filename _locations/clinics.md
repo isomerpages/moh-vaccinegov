@@ -700,7 +700,7 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 			</tr>
     <tr>
       <td>Phoenix Medical Group ( Hillview )</td>
-      <td>4 Hillview Rise, HillV2 #02-20,  Singapore 667979</td>
+      <td>4 Hillview Rise, HillV2 #02-20,  Singapore 667979 (Phone:67107157)</td>
 			<td>Sinovac</td>
 			</tr>
     <tr>
