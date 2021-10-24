@@ -359,6 +359,11 @@ Public is advised to call the respective clinics to enquire on the vaccination c
     <td>Sembawang Mart Medical Centre</td>
       <td>511 Canbeera Road, Sembawang Mart #02-02A, Singapore 750511</td>
 				<td>Sinovac</td>
+		 </tr>	
+   <tr>
+    <td>The Cliniq</td>
+      <td>590A Montreal Link, Montreal Dale #01-23, Singapore 751590</td>
+				<td>Sinovac</td>
     </tr> 
   </tbody>
 </table>
