@@ -208,6 +208,11 @@ Public is advised to call the respective clinics to enquire on the vaccination c
       <td>Primary Care Asia</td>
       <td>290 Orchard Rd, Paragon Medical Centre #15-11/12, Singapore 238859</td>
 			<td>Sinovac</td>
+			</tr>    
+    <tr>
+      <td>The Family Practice @ Skyville</td>
+      <td>85 Dawson Road #01-06, Singapore 141085</td>
+			<td>Sinovac</td>
     </tr> 
 		  </tbody>
 </table>
