@@ -408,7 +408,7 @@ Please contact the clinic to book an appointment for Sinvoac vaccine.
 		 </tr>	
    <tr>
     <td>Sembawang Mart Medical Centre</td>
-      <td>511 Canbeera Road, Sembawang Mart #02-02A, Singapore 750511</td>
+      <td>511 Canbeera Road, Sembawang Mart #02-02A, Singapore 750511 (Phone:64819793)</td>
 				<td>Sinovac</td>
 		 </tr>	
    <tr>
