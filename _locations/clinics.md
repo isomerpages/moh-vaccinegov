@@ -384,6 +384,11 @@ Public is advised to call the respective clinics to enquire on the vaccination c
     <td>Woodgrove Family Clinic</td>
       <td>325 Woodlands Street 32 #01-135  Singapore 730325</td>
 				<td>Sinovac</td>
+		  </tr>	
+   <tr>
+    <td>Pinnacle Family Clinic (Woodlands)</td>
+      <td>573 Woodlands Drive 16 #01-06,  Singapore 730573</td>
+				<td>Sinovac</td>
     </tr> 
   </tbody>
 </table>
