@@ -192,7 +192,7 @@ Please contact the clinic to book an appointment for Sinvoac vaccine.
 			</tr>    
     <tr>
       <td>Thomson Wellth Clinic</td>
-      <td>290 Orchard Road, Paragon Medical Centre #19-01, Singapore 238859</td>
+      <td>290 Orchard Road, Paragon Medical Centre #19-01, Singapore 238859 (Phone:63526550)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
