@@ -26,7 +26,7 @@ Public is advised to call the respective clinics to enquire on the vaccination c
     </tr>		
     <tr>
       <td>Mei Ling Clinic</td>
-      <td>158 Mei Ling Street, #01-80, Singapore 140158</td>
+      <td>158 Mei Ling Street #01-80, Singapore 140158</td>
 			<td>Pfizer/Comirnaty</td>
     </tr>		
     <tr>
@@ -41,7 +41,7 @@ Public is advised to call the respective clinics to enquire on the vaccination c
     </tr>	
     <tr>
       <td>Shenton Wellness Centre (Alexandra Retail Centre) </td>
-      <td>460 Alexandra Road, #02-15 Alexander Retail Centre, Singapore 119963</td>
+      <td>460 Alexandra Road, Alexander Retail Centre #02-15, Singapore 119963</td>
 			<td>Pfizer/Comirnaty</td>
     </tr>
     <tr>
@@ -56,7 +56,7 @@ Public is advised to call the respective clinics to enquire on the vaccination c
     </tr>
     <tr>
       <td>Raffles Medical Clinic Raffles City Shopping Centre </td>
-      <td>252 North Bridge Road #02-17, Raffles City Shopping Centre, Singapore 179103</td>
+      <td>252 North Bridge Road, Raffles City Shopping Centre #02-17, Singapore 179103</td>
 			<td>Pfizer/Comirnaty</td>
     </tr>	
     <tr>
@@ -91,12 +91,12 @@ Public is advised to call the respective clinics to enquire on the vaccination c
 			</tr>    
     <tr>
       <td>Healthify Medical Family Clinic </td>
-      <td>262 Balestier Road #01-04 OKIO Singapore 329714</td>
+      <td>262 Balestier Road, OKIO #01-04, Singapore 329714</td>
 			<td>Pfizer/Comirnaty</td>
 			</tr>    
     <tr>
       <td>Northeast Medical Group  </td>
-      <td>22 Malacca St, #13-03 RB Capital Building, Singapore 048980</td>
+      <td>22 Malacca Street, RB Capital Building #13-03, Singapore 048980</td>
 			<td>Pfizer/Comirnaty</td>
 			</tr>    
     <tr>
@@ -106,7 +106,7 @@ Public is advised to call the respective clinics to enquire on the vaccination c
 				</tr>    
     <tr>
       <td>Acacia Medical Clinic </td>
-      <td> 180 Depot Road #01-07, The Interlace, Singapore 109684</td>
+      <td> 180 Depot Road, The Interlace #01-07, Singapore 109684</td>
 			<td>Pfizer/Comirnaty</td>
 			</tr>    
     <tr>
@@ -296,6 +296,11 @@ Public is advised to call the respective clinics to enquire on the vaccination c
       <td>Tampines Family Medicine Clinic</td>
       <td>1 Tampines Walk, Our Tampines Hub, #03-34, Singapore 528523</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>		
+    <tr>
+      <td>Little Cross Family Clinic</td>
+      <td>929 Tampines St 91 ,#01-445, Singapore 520929</td>
+			<td>Sinovac</td>
     </tr>  
   </tbody>
 </table>
