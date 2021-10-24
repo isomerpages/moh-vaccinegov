@@ -193,6 +193,11 @@ Public is advised to call the respective clinics to enquire on the vaccination c
       <td>Thomson Wellth Clinic</td>
       <td>290 Orchard Road, Paragon Medical Centre #19-01, Singapore 238859</td>
 			<td>Sinovac</td>
+			</tr>    
+    <tr>
+      <td>Central Medical Group Pte Ltd</td>
+      <td>11 Jalan Bukit Merah #01-4442  Singapore 150011</td>
+			<td>Sinovac</td>
     </tr> 
 		  </tbody>
 </table>
