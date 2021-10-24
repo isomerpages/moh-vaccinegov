@@ -666,6 +666,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>Pinnacle Family Clinic (Yew Tee)</td>
       <td>790 Choa Chu Kang North 6 #01-238  Singapore 680790</td>
 			<td>Sinovac</td>
+			</tr>
+    <tr>
+      <td>Phoenix Medical Group ( Hillview )</td>
+      <td>4 Hillview Rise, HillV2 #02-20,  Singapore 667979</td>
+			<td>Sinovac</td>
     </tr> 
   </tbody>
 	
