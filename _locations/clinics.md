@@ -188,6 +188,11 @@ Public is advised to call the respective clinics to enquire on the vaccination c
       <td>Mediview Clinic & Surgery</td>
       <td>150 Toa Payoh Lorong 1 #01-999  Singapore 310150</td>
 			<td>Sinovac</td>
+			</tr>    
+    <tr>
+      <td>Thomson Wellth Clinic</td>
+      <td>290 Orchard Road, Paragon Medical Centre #19-01, Singapore 238859</td>
+			<td>Sinovac</td>
     </tr> 
 		  </tbody>
 </table>
