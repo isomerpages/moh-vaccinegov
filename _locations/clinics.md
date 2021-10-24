@@ -567,7 +567,7 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 				</tr>
     	<tr>
       <td>Sengkang Family Clinic</td>
-      <td>274D Compassvale Bow #01-01,  Singapore 544274</td>
+      <td>274D Compassvale Bow #01-01,  Singapore 544274 (Phone:63867781)</td>
 			<td>Sinovac</td>
 				</tr>
     	<tr>
