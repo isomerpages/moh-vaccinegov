@@ -681,6 +681,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>Phoenix Medical Group ( Hillview )</td>
       <td>4 Hillview Rise, HillV2 #02-20,  Singapore 667979</td>
 			<td>Sinovac</td>
+			</tr>
+    <tr>
+      <td>Chua Medical Clinic And Surgery Pte Ltd</td>
+      <td>642 Bukit Batok Central #01-52, Singapore 650642</td>
+			<td>Sinovac</td>
     </tr> 
   </tbody>
 	
