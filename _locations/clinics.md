@@ -187,7 +187,7 @@ Please contact the clinic to book an appointment for Sinvoac vaccine.
 			</tr>    
     <tr>
       <td>Mediview Clinic & Surgery</td>
-      <td>150 Toa Payoh Lorong 1 #01-999  Singapore 310150</td>
+      <td>150 Toa Payoh Lorong 1 #01-999  Singapore 310150 (Phone:62532351)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
