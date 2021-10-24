@@ -173,6 +173,11 @@ Public is advised to call the respective clinics to enquire on the vaccination c
       <td>Integrated Wellness Clinic</td>
       <td>8 Sinaran Drive, Specialist Center #05-04, Singapore 307470</td>
 			<td>Sinovac</td>
+			</tr>    
+    <tr>
+      <td>Phoenix Medical Group (Novena)</td>
+      <td>275 Thomson Road, #01-05 Novena Regency #01-05 , Singapore 307645</td>
+			<td>Sinovac</td>
     </tr> 
 		  </tbody>
 </table>
