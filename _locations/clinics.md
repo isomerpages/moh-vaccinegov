@@ -8,6 +8,7 @@ Operating Hours Vary
 
 Public is advised to call the respective clinics to enquire on the vaccination cut-off time for their preferred date
 
+Please contact the clinic to book an appointment for Sinvoac vaccine.
 
 ###  **Central**
 <table>
@@ -165,8 +166,8 @@ Public is advised to call the respective clinics to enquire on the vaccination c
 			<td>Pfizer/Comirnaty</td>
 			</tr>    
     <tr>
-      <td>Anteh Dispensary Pte Ltd)</td>
-      <td>1 Lorong 22 Geylang, Grandview Suites #01-02 , Singapore 398664</td>
+      <td>Anteh Dispensary Pte Ltd</td>
+      <td>1 Lorong 22 Geylang, Grandview Suites #01-02 , Singapore 398664 (Phone:67441809) </td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
