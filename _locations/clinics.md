@@ -166,7 +166,12 @@ Public is advised to call the respective clinics to enquire on the vaccination c
 			</tr>    
     <tr>
       <td>Anteh Dispensary Pte Ltd)</td>
-      <td>1 Lorong 22 Geylang #01-02 Grandview Suites  Singapore 398664</td>
+      <td>1 Lorong 22 Geylang, Grandview Suites #01-02 , Singapore 398664</td>
+			<td>Sinovac</td>
+			</tr>    
+    <tr>
+      <td>Integrated Wellness Clinic</td>
+      <td>8 Sinaran Drive, Specialist Center #05-04, Singapore 307470</td>
 			<td>Sinovac</td>
     </tr> 
 		  </tbody>
