@@ -354,6 +354,11 @@ Public is advised to call the respective clinics to enquire on the vaccination c
     <td> Frontier Medical Associates</td>
       <td>899C, Woodlands Drive 50 #01-296, Singapore 732899</td>
 				<td>Pfizer/Comirnaty</td>
+		 </tr>	
+   <tr>
+    <td>Sembawang Mart Medical Centre</td>
+      <td>511 Canbeera Road, Sembawang Mart #02-02A, Singapore 750511</td>
+				<td>Sinovac</td>
     </tr> 
   </tbody>
 </table>
