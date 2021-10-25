@@ -732,6 +732,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>SATA CommHealth Jurong Medical Centre</td>
       <td>135 Jurong Gateway Road #04-345  Singapore 600135 (Phone:62446688)</td>
 			<td>Sinovac</td>
+			</tr>
+    <tr>
+      <td>West Coast Clinic & Surgery (Clementi West) Pte Ltd</td>
+      <td>722 Clementi West Street 2 #01-162, Singapore 120722 (Phone:67770183)</td>
+			<td>Sinovac</td>
     </tr> 
   </tbody>
 	
