@@ -619,6 +619,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>Mutual Healthcare Medical Clinic</td>
       <td>319B Anchorvale Drive #01-92, Singapore 542319 (Phone:64893833)</td>
 			<td>Sinovac</td>
+				</tr>
+    	<tr>
+      <td>Lifeline Medical Group</td>
+      <td>118 Rivervale Drive, Rivervale Plaza # #02-18, Singapore 540118 (Phone:67605788)</td>
+			<td>Sinovac</td>
     </tr>
   </tbody>
 </table>
