@@ -737,6 +737,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>West Coast Clinic & Surgery (Clementi West) Pte Ltd</td>
       <td>722 Clementi West Street 2 #01-162, Singapore 120722 (Phone:67770183)</td>
 			<td>Sinovac</td>
+			</tr>
+    <tr>
+      <td>Raffles Medical</td>
+      <td>131 Jurong Gateway Road #01-267, Singapore 600131 (Phone:68996688)</td>
+			<td>Sinovac</td>
     </tr> 
   </tbody>
 	
