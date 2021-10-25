@@ -214,6 +214,31 @@ Please contact the clinic to book an appointment for Sinvoac vaccine.
       <td>The Family Practice @ Skyville</td>
       <td>85 Dawson Road #01-06, Singapore 141085 (Phone:62551382)</td>
 			<td>Sinovac</td>
+			</tr>    
+    <tr>
+      <td>Our Woodleigh Family Clinic</td>
+      <td>115B Alkaff Crescent #01-05, Singapore 342115 (Phone:69700560)</td>
+			<td>Sinovac</td>
+			</tr>    
+    <tr>
+      <td>Healthmark Family Clinic (SIMS)</td>
+      <td>48 Sims Place, Sims Vista #1-167, Singapore 380048 (Phone:67414537)</td>
+			<td>Sinovac</td>
+			</tr>    
+    <tr>
+      <td>Shenton Medical Group (Toh Yi)</td>
+      <td>18 Toh Yi Drive #01-103 , Singapore 590018 (Phone:62358926)</td>
+			<td>Sinovac</td>
+			</tr>    
+    <tr>
+      <td>Doctors Inc Medical Group</td>
+      <td>178 Toa Payoh Central, #01-206, Singapore 310178 (Phone:63563633)</td>
+			<td>Sinovac</td>
+			</tr>    
+    <tr>
+      <td>Marina Medical Centre (Tiong Bahru)</td>
+      <td>78 Guan Chuan Street #01-39, Singapore 160078 (Phone:62222177)</td>
+			<td>Sinovac</td>
     </tr> 
 		  </tbody>
 </table>
@@ -347,6 +372,11 @@ Please contact the clinic to book an appointment for Sinvoac vaccine.
       <td>Phoenix Medical Group(Paya Lebar)</td>
       <td>60 Paya Lebar Road, Paya Lebar Square #02-09, Singapore 409051 (Phone:67022940)</td>
 			<td>Sinovac</td>
+			</tr>		
+    <tr>
+      <td>Tampines West Medical Clinic</td>
+      <td>801 Tampines Avenue 4 #01-269, Singapore 520801 (Phone:62231070)</td>
+			<td>Sinovac</td>
     </tr>  
   </tbody>
 </table>
@@ -424,6 +454,11 @@ Please contact the clinic to book an appointment for Sinvoac vaccine.
    <tr>
     <td>Pinnacle Family Clinic (Woodlands)</td>
       <td>573 Woodlands Drive 16 #01-06,  Singapore 730573 (Phone:67601623)</td>
+				<td>Sinovac</td>
+		  </tr>	
+   <tr>
+    <td>Woodlands Clinic</td>
+      <td>131 Marsiling Rise #01-204, Singapore 730131 (Phone:62696681)</td >
 				<td>Sinovac</td>
     </tr> 
   </tbody>
@@ -584,6 +619,16 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>SATA CommHealth Ang Mo Kio Medical Centre</td>
       <td>715 Ang Mo Kio Avenue 6 #01-4008 & 4010  Singapore 560715 (Phone:62446626)</td>
 			<td>Sinovac</td>
+				</tr>
+    	<tr>
+      <td>Mutual Healthcare Medical Clinic</td>
+      <td>319B Anchorvale Drive #01-92, Singapore 542319 (Phone:64893833)</td>
+			<td>Sinovac</td>
+				</tr>
+    	<tr>
+      <td>Lifeline Medical Group</td>
+      <td>118 Rivervale Drive, Rivervale Plaza # #02-18, Singapore 540118 (Phone:67605788)</td>
+			<td>Sinovac</td>
     </tr>
   </tbody>
 </table>
@@ -711,6 +756,16 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
     <tr>
       <td>SATA CommHealth Jurong Medical Centre</td>
       <td>135 Jurong Gateway Road #04-345  Singapore 600135 (Phone:62446688)</td>
+			<td>Sinovac</td>
+			</tr>
+    <tr>
+      <td>West Coast Clinic & Surgery (Clementi West) Pte Ltd</td>
+      <td>722 Clementi West Street 2 #01-162, Singapore 120722 (Phone:67770183)</td>
+			<td>Sinovac</td>
+			</tr>
+    <tr>
+      <td>Raffles Medical</td>
+      <td>131 Jurong Gateway Road #01-267, Singapore 600131 (Phone:68996688)</td>
 			<td>Sinovac</td>
     </tr> 
   </tbody>
