@@ -445,6 +445,11 @@ Please contact the clinic to book an appointment for Sinvoac vaccine.
     <td>Pinnacle Family Clinic (Woodlands)</td>
       <td>573 Woodlands Drive 16 #01-06,  Singapore 730573 (Phone:67601623)</td>
 				<td>Sinovac</td>
+		  </tr>	
+   <tr>
+    <td>Woodlands Clinic</td>
+      <td>131 Marsiling Rise #01-204, Singapore 730131 (Phone:62696681)</td >
+				<td>Sinovac</td>
     </tr> 
   </tbody>
 </table>
