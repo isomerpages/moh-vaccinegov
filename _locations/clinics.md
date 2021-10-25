@@ -584,6 +584,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>SATA CommHealth Ang Mo Kio Medical Centre</td>
       <td>715 Ang Mo Kio Avenue 6 #01-4008 & 4010  Singapore 560715 (Phone:62446626)</td>
 			<td>Sinovac</td>
+				</tr>
+    	<tr>
+      <td>Mutual Healthcare Medical Clinic</td>
+      <td>319B Anchorvale Drive #01-92, Singapore 542319 (Phone:64893833)</td>
+			<td>Sinovac</td>
     </tr>
   </tbody>
 </table>
