@@ -214,6 +214,11 @@ Please contact the clinic to book an appointment for Sinvoac vaccine.
       <td>The Family Practice @ Skyville</td>
       <td>85 Dawson Road #01-06, Singapore 141085 (Phone:62551382)</td>
 			<td>Sinovac</td>
+			</tr>    
+    <tr>
+      <td>Our Woodleigh Family Clinic</td>
+      <td>115B Alkaff Crescent #01-05, Singapore 342115 (Phone:69700560)</td>
+			<td>Sinovac</td>
     </tr> 
 		  </tbody>
 </table>
