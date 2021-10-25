@@ -229,6 +229,11 @@ Please contact the clinic to book an appointment for Sinvoac vaccine.
       <td>Shenton Medical Group (Toh Yi)</td>
       <td>18 Toh Yi Drive #01-103 , Singapore 590018 (Phone:62358926)</td>
 			<td>Sinovac</td>
+			</tr>    
+    <tr>
+      <td>Doctors Inc Medical Group</td>
+      <td>178 Toa Payoh Central, #01-206, Singapore 310178 (Phone:63563633)</td>
+			<td>Sinovac</td>
     </tr> 
 		  </tbody>
 </table>
