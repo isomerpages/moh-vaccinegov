@@ -224,6 +224,11 @@ Please contact the clinic to book an appointment for Sinvoac vaccine.
       <td>Healthmark Family Clinic (SIMS)</td>
       <td>48 Sims Place, Sims Vista #1-167, Singapore 380048 (Phone:67414537)</td>
 			<td>Sinovac</td>
+			</tr>    
+    <tr>
+      <td>Shenton Medical Group (Toh Yi)</td>
+      <td>18 Toh Yi Drive #01-103 , Singapore 590018 (Phone:62358926)</td>
+			<td>Sinovac</td>
     </tr> 
 		  </tbody>
 </table>
