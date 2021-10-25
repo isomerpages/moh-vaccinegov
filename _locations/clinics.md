@@ -234,6 +234,11 @@ Please contact the clinic to book an appointment for Sinvoac vaccine.
       <td>Doctors Inc Medical Group</td>
       <td>178 Toa Payoh Central, #01-206, Singapore 310178 (Phone:63563633)</td>
 			<td>Sinovac</td>
+			</tr>    
+    <tr>
+      <td>Marina Medical Centre (Tiong Bahru)</td>
+      <td>78 Guan Chuan Street #01-39, Singapore 160078 (Phone:62222177)</td>
+			<td>Sinovac</td>
     </tr> 
 		  </tbody>
 </table>
