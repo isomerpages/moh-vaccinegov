@@ -219,6 +219,11 @@ Please contact the clinic to book an appointment for Sinvoac vaccine.
       <td>Our Woodleigh Family Clinic</td>
       <td>115B Alkaff Crescent #01-05, Singapore 342115 (Phone:69700560)</td>
 			<td>Sinovac</td>
+			</tr>    
+    <tr>
+      <td>Healthmark Family Clinic (SIMS)</td>
+      <td>48 Sims Place, Sims Vista #1-167, Singapore 380048 (Phone:67414537)</td>
+			<td>Sinovac</td>
     </tr> 
 		  </tbody>
 </table>
