@@ -244,6 +244,11 @@ Please contact the clinic to book an appointment for Sinvoac vaccine.
       <td>Doctors For Life Medical</td>
       <td> 3 Pickering Street, Nankin Row #01-02, Singapore 048660(Phone:63869098)</td>
 			<td>Sinovac</td>
+			</tr>    
+    <tr>
+      <td>iCare Medical and Wellness Clinic</td>
+      <td> 22 Havelock Road #01-701, Singapore 160022(Phone:62746858)</td>
+			<td>Sinovac</td>
     </tr> 
 		  </tbody>
 </table>
