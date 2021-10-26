@@ -448,7 +448,7 @@ Please contact the clinic to book an appointment for Sinvoac vaccine.
 		 </tr>	
    <tr>
     <td>Woodgrove Family Clinic</td>
-      <td>325 Woodlands Street 32 #01-135  Singapore 730325 (Phone:64819793)</td>
+      <td>325 Woodlands Street 32 #01-135  Singapore 730325 (Phone:62351751/91289429)</td>
 				<td>Sinovac</td>
 		  </tr>	
    <tr>
@@ -597,7 +597,7 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 				</tr>
     	<tr>
       <td>Myclnq Medical</td>
-      <td> 554 Ang Mo Kio Avenue 10 #01-2048 Cheng San Place Singapore 560554 (Phone:67107635)</td>
+      <td> 554 Ang Mo Kio Avenue 10 #01-2048 Cheng San Place Singapore 560554 (Phone:62350308)</td>
 			<td>Sinovac</td>
 				</tr>
     	<tr>
