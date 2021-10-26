@@ -249,6 +249,11 @@ Please contact the clinic to book an appointment for Sinvoac vaccine.
       <td>iCare Medical and Wellness Clinic</td>
       <td> 22 Havelock Road #01-701, Singapore 160022(Phone:62746858)</td>
 			<td>Sinovac</td>
+			</tr>    
+    <tr>
+      <td>Providence Clinic @ Novena</td>
+      <td> 1 Goldhill Plaza #01-29, Singapore 308899(Phone:62550063)</td>
+			<td>Sinovac</td>
     </tr> 
 		  </tbody>
 </table>
