@@ -172,7 +172,7 @@ Please contact the clinic to book an appointment for Sinvoac vaccine.
 			</tr>    
     <tr>
       <td>Integrated Wellness Clinic</td>
-      <td>8 Sinaran Drive, Specialist Center #05-04, Singapore 307470 (Phone:62507623)</td>
+      <td>8 Sinaran Drive, Specialist Center #05-04, Singapore 307470 (Phone:31292353)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
@@ -238,6 +238,21 @@ Please contact the clinic to book an appointment for Sinvoac vaccine.
     <tr>
       <td>Marina Medical Centre (Tiong Bahru)</td>
       <td>78 Guan Chuan Street #01-39, Singapore 160078 (Phone:62222177)</td>
+			<td>Sinovac</td>
+			</tr>    
+    <tr>
+      <td>Doctors For Life Medical</td>
+      <td> 3 Pickering Street, Nankin Row #01-02, Singapore 048660(Phone:63869098)</td>
+			<td>Sinovac</td>
+			</tr>    
+    <tr>
+      <td>iCare Medical and Wellness Clinic</td>
+      <td> 22 Havelock Road #01-701, Singapore 160022(Phone:62746858)</td>
+			<td>Sinovac</td>
+			</tr>    
+    <tr>
+      <td>Providence Clinic @ Novena</td>
+      <td> 1 Goldhill Plaza #01-29, Singapore 308899(Phone:62550063)</td>
 			<td>Sinovac</td>
     </tr> 
 		  </tbody>
@@ -448,7 +463,7 @@ Please contact the clinic to book an appointment for Sinvoac vaccine.
 		 </tr>	
    <tr>
     <td>Woodgrove Family Clinic</td>
-      <td>325 Woodlands Street 32 #01-135  Singapore 730325 (Phone:64819793)</td>
+      <td>325 Woodlands Street 32 #01-135  Singapore 730325 (Phone:62351751/91289429)</td>
 				<td>Sinovac</td>
 		  </tr>	
    <tr>
@@ -597,7 +612,7 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 				</tr>
     	<tr>
       <td>Myclnq Medical</td>
-      <td> 554 Ang Mo Kio Avenue 10 #01-2048 Cheng San Place Singapore 560554 (Phone:67107635)</td>
+      <td> 554 Ang Mo Kio Avenue 10 #01-2048 Cheng San Place Singapore 560554 (Phone:62350308)</td>
 			<td>Sinovac</td>
 				</tr>
     	<tr>
@@ -607,7 +622,7 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 				</tr>
     	<tr>
       <td>Dedicare Medical Practice & Surgery @ Hougang</td>
-      <td>419 Hougang Avenue 8 #01-K1,  Singapore 530419 (Phone:6980 3066)</td>
+      <td>419 Hougang Avenue 8 #01-K1,  Singapore 530419 (Phone:69803066)</td>
 			<td>Sinovac</td>
 					</tr>
     	<tr>
@@ -754,11 +769,6 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 			<td>Sinovac</td>
 			</tr>
     <tr>
-      <td>SATA CommHealth Jurong Medical Centre</td>
-      <td>135 Jurong Gateway Road #04-345  Singapore 600135 (Phone:62446688)</td>
-			<td>Sinovac</td>
-			</tr>
-    <tr>
       <td>West Coast Clinic & Surgery (Clementi West) Pte Ltd</td>
       <td>722 Clementi West Street 2 #01-162, Singapore 120722 (Phone:67770183)</td>
 			<td>Sinovac</td>
@@ -766,6 +776,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
     <tr>
       <td>Raffles Medical</td>
       <td>131 Jurong Gateway Road #01-267, Singapore 600131 (Phone:68996688)</td>
+			<td>Sinovac</td>
+			</tr>
+    <tr>
+      <td>Wee HealthFirst Medical Clinic</td>
+      <td>378 Clementi Avenue 5 #01-342,  Singapore 120378 (Phone:67775755)</td>
 			<td>Sinovac</td>
     </tr> 
   </tbody>
