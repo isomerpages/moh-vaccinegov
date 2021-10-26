@@ -172,7 +172,7 @@ Please contact the clinic to book an appointment for Sinvoac vaccine.
 			</tr>    
     <tr>
       <td>Integrated Wellness Clinic</td>
-      <td>8 Sinaran Drive, Specialist Center #05-04, Singapore 307470 (Phone:62507623)</td>
+      <td>8 Sinaran Drive, Specialist Center #05-04, Singapore 307470 (Phone:31292353)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
