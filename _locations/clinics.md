@@ -765,7 +765,7 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 			</tr>
     <tr>
       <td>Chua Medical Clinic And Surgery Pte Ltd</td>
-      <td>642 Bukit Batok Central #01-52, Singapore 650642 (Phone:64251935)</td>
+      <td>642 Bukit Batok Central #01-52, Singapore 650642 (Phone:69726948)</td>
 			<td>Sinovac</td>
 			</tr>
     <tr>
