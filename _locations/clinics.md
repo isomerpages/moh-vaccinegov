@@ -239,6 +239,11 @@ Please contact the clinic to book an appointment for Sinvoac vaccine.
       <td>Marina Medical Centre (Tiong Bahru)</td>
       <td>78 Guan Chuan Street #01-39, Singapore 160078 (Phone:62222177)</td>
 			<td>Sinovac</td>
+			</tr>    
+    <tr>
+      <td>Doctors For Life Medical</td>
+      <td> 3 Pickering Street, Nankin Row #01-02, Singapore 048660(Phone:63869098)</td>
+			<td>Sinovac</td>
     </tr> 
 		  </tbody>
 </table>
