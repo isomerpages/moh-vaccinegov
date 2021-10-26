@@ -607,7 +607,7 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 				</tr>
     	<tr>
       <td>Dedicare Medical Practice & Surgery @ Hougang</td>
-      <td>419 Hougang Avenue 8 #01-K1,  Singapore 530419 (Phone:6980 3066)</td>
+      <td>419 Hougang Avenue 8 #01-K1,  Singapore 530419 (Phone:69803066)</td>
 			<td>Sinovac</td>
 					</tr>
     	<tr>
@@ -754,11 +754,6 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 			<td>Sinovac</td>
 			</tr>
     <tr>
-      <td>SATA CommHealth Jurong Medical Centre</td>
-      <td>135 Jurong Gateway Road #04-345  Singapore 600135 (Phone:62446688)</td>
-			<td>Sinovac</td>
-			</tr>
-    <tr>
       <td>West Coast Clinic & Surgery (Clementi West) Pte Ltd</td>
       <td>722 Clementi West Street 2 #01-162, Singapore 120722 (Phone:67770183)</td>
 			<td>Sinovac</td>
@@ -766,6 +761,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
     <tr>
       <td>Raffles Medical</td>
       <td>131 Jurong Gateway Road #01-267, Singapore 600131 (Phone:68996688)</td>
+			<td>Sinovac</td>
+			</tr>
+    <tr>
+      <td>Wee HealthFirst Medical Clinic</td>
+      <td>378 Clementi Avenue 5 #01-342,  Singapore 120378 (Phone:67775755)</td>
 			<td>Sinovac</td>
     </tr> 
   </tbody>
