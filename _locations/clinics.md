@@ -8,7 +8,7 @@ Operating Hours Vary
 
 Public is advised to call the respective clinics to enquire on the vaccination cut-off time for their preferred date
 
-Please contact the clinic to book an appointment for Sinvoac vaccine.
+Please contact the clinic to book an appointment for Sinovac vaccine.
 
 ###  **Central**
 <table>
