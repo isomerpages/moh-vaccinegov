@@ -254,6 +254,11 @@ Please contact the clinic to book an appointment for Sinovac vaccine.
       <td>Providence Clinic @ Novena</td>
       <td> 1 Goldhill Plaza #01-29, Singapore 308899(Phone:62550063)</td>
 			<td>Sinovac</td>
+				</tr>    
+    <tr>
+      <td>Doctors Express Medical Clinic</td>
+      <td> 24 Raffles Place, Clifford Centre #01-17, Singapore 048621(Phone:60110029)</td>
+			<td>Sinovac</td>
     </tr> 
 		  </tbody>
 </table>
