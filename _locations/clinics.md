@@ -8,7 +8,9 @@ Operating Hours Vary
 
 Public is advised to call the respective clinics to enquire on the vaccination cut-off time for their preferred date
 
-Please contact the clinic to book an appointment for Sinovac vaccine.
+**For booking of appointment for Sinovac vaccine:**<br>
+* Contact the clinic to book an appointment for Sinovac vaccine.
+* 11 Clinic (marked with asterisk) only accept registration via vaccine.gov.sg. 
 
 ###  **Central**
 <table>
@@ -217,27 +219,27 @@ Please contact the clinic to book an appointment for Sinovac vaccine.
 			</tr>    
     <tr>
       <td>Our Woodleigh Family Clinic</td>
-      <td>115B Alkaff Crescent #01-05, Singapore 342115 (Phone:69700560)</td>
+      <td>115B Alkaff Crescent #01-05, Singapore 342115 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
       <td>Healthmark Family Clinic (SIMS)</td>
-      <td>48 Sims Place, Sims Vista #1-167, Singapore 380048 (Phone:67414537)</td>
+      <td>48 Sims Place, Sims Vista #1-167, Singapore 380048 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
       <td>Shenton Medical Group (Toh Yi)</td>
-      <td>18 Toh Yi Drive #01-103 , Singapore 590018 (Phone:62358926)</td>
+      <td>18 Toh Yi Drive #01-103 , Singapore 590018 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>Doctors Inc Medical Group</td>
-      <td>178 Toa Payoh Central, #01-206, Singapore 310178 (Phone:63563633)</td>
+      <td>Doctors Inc Medical Group*</td>
+      <td>178 Toa Payoh Central, #01-206, Singapore 310178 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
       <td>Marina Medical Centre (Tiong Bahru)</td>
-      <td>78 Guan Chuan Street #01-39, Singapore 160078 (Phone:62222177)</td>
+      <td>78 Guan Chuan Street #01-39, Singapore 160078 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
@@ -395,7 +397,7 @@ Please contact the clinic to book an appointment for Sinovac vaccine.
 			</tr>		
     <tr>
       <td>Tampines West Medical Clinic</td>
-      <td>801 Tampines Avenue 4 #01-269, Singapore 520801 (Phone:62231070)</td>
+      <td>801 Tampines Avenue 4 #01-269, Singapore 520801 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
     </tr>  
   </tbody>
@@ -478,7 +480,7 @@ Please contact the clinic to book an appointment for Sinovac vaccine.
 		  </tr>	
    <tr>
     <td>Woodlands Clinic</td>
-      <td>131 Marsiling Rise #01-204, Singapore 730131 (Phone:62696681)</td >
+      <td>131 Marsiling Rise #01-204, Singapore 730131 (register via vaccine.gov.sg)</td >
 				<td>Sinovac</td>
     </tr> 
   </tbody>
@@ -642,12 +644,12 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 				</tr>
     	<tr>
       <td>Mutual Healthcare Medical Clinic</td>
-      <td>319B Anchorvale Drive #01-92, Singapore 542319 (Phone:64893833)</td>
+      <td>319B Anchorvale Drive #01-92, Singapore 542319 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 				</tr>
     	<tr>
       <td>Lifeline Medical Group</td>
-      <td>118 Rivervale Drive, Rivervale Plaza # #02-18, Singapore 540118 (Phone:67605788)</td>
+      <td>118 Rivervale Drive, Rivervale Plaza # #02-18, Singapore 540118 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
     </tr>
   </tbody>
@@ -775,12 +777,12 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 			</tr>
     <tr>
       <td>West Coast Clinic & Surgery (Clementi West) Pte Ltd</td>
-      <td>722 Clementi West Street 2 #01-162, Singapore 120722 (Phone:67770183)</td>
+      <td>722 Clementi West Street 2 #01-162, Singapore 120722 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 			</tr>
     <tr>
-      <td>Raffles Medical</td>
-      <td>131 Jurong Gateway Road #01-267, Singapore 600131 (Phone:68996688)</td>
+      <td>Raffles Medical (only accessible via stairs)</td>
+      <td>131 Jurong Gateway Road #01-267, Singapore 600131 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 			</tr>
     <tr>
