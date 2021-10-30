@@ -239,7 +239,7 @@ Public is advised to call the respective clinics to enquire on the vaccination c
 			</tr>    
     <tr>
       <td>Marina Medical Centre (Tiong Bahru)*</td>
-      <td>78 Guan Chuan Street #01-39, Singapore 160078 (register via vaccine.gov.sg)</td>
+      <td>78 Guan Chuan Street #01-39, Singapore 160078 (Phone:62222177) (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
