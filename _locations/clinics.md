@@ -777,7 +777,7 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 			</tr>
     <tr>
       <td>West Coast Clinic & Surgery (Clementi West) Pte Ltd</td>
-      <td>722 Clementi West Street 2 #01-162, Singapore 120722 (Phone:67770183)</td>
+      <td>722 Clementi West Street 2 #01-162, Singapore 120722 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 			</tr>
     <tr>
