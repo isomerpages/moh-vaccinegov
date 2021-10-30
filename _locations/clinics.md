@@ -644,7 +644,7 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 				</tr>
     	<tr>
       <td>Mutual Healthcare Medical Clinic</td>
-      <td>319B Anchorvale Drive #01-92, Singapore 542319 (Phone:64893833)</td>
+      <td>319B Anchorvale Drive #01-92, Singapore 542319 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 				</tr>
     	<tr>
