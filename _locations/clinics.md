@@ -649,7 +649,7 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 				</tr>
     	<tr>
       <td>Lifeline Medical Group</td>
-      <td>118 Rivervale Drive, Rivervale Plaza # #02-18, Singapore 540118 (Phone:67605788)</td>
+      <td>118 Rivervale Drive, Rivervale Plaza # #02-18, Singapore 540118 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
     </tr>
   </tbody>
