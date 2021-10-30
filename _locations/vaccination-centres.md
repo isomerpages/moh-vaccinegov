@@ -53,7 +53,7 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
     <tr>
       <td>Raffles City Convention Centre</td>
       <td>252 North Bridge Road, Singapore 179103, Level 4 Orchard Room</td>
-			<td>Pfizer/Comirnaty</td>
+			<td>Pfizer/Comirnaty and Sinovac</td>
     </tr>	
     <tr>
       <td>Tanjong Pagar Community Club</td>
