@@ -218,17 +218,17 @@ Public is advised to call the respective clinics to enquire on the vaccination c
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>Our Woodleigh Family Clinic</td>
+      <td>Our Woodleigh Family Clinic*</td>
       <td>115B Alkaff Crescent #01-05, Singapore 342115 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>Healthmark Family Clinic (SIMS)</td>
+      <td>Healthmark Family Clinic (SIMS)*</td>
       <td>48 Sims Place, Sims Vista #1-167, Singapore 380048 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>Shenton Medical Group (Toh Yi)</td>
+      <td>Shenton Medical Group (Toh Yi)*</td>
       <td>18 Toh Yi Drive #01-103 , Singapore 590018 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 			</tr>    
@@ -238,7 +238,7 @@ Public is advised to call the respective clinics to enquire on the vaccination c
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>Marina Medical Centre (Tiong Bahru)</td>
+      <td>Marina Medical Centre (Tiong Bahru)*</td>
       <td>78 Guan Chuan Street #01-39, Singapore 160078 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 			</tr>    
@@ -396,7 +396,7 @@ Public is advised to call the respective clinics to enquire on the vaccination c
 			<td>Sinovac</td>
 			</tr>		
     <tr>
-      <td>Tampines West Medical Clinic</td>
+      <td>Tampines West Medical Clinic*</td>
       <td>801 Tampines Avenue 4 #01-269, Singapore 520801 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
     </tr>  
@@ -479,7 +479,7 @@ Public is advised to call the respective clinics to enquire on the vaccination c
 				<td>Sinovac</td>
 		  </tr>	
    <tr>
-    <td>Woodlands Clinic</td>
+    <td>Woodlands Clinic*</td>
       <td>131 Marsiling Rise #01-204, Singapore 730131 (register via vaccine.gov.sg)</td >
 				<td>Sinovac</td>
     </tr> 
@@ -643,12 +643,12 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 			<td>Sinovac</td>
 				</tr>
     	<tr>
-      <td>Mutual Healthcare Medical Clinic</td>
+      <td>Mutual Healthcare Medical Clinic*</td>
       <td>319B Anchorvale Drive #01-92, Singapore 542319 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 				</tr>
     	<tr>
-      <td>Lifeline Medical Group</td>
+      <td>Lifeline Medical Group*</td>
       <td>118 Rivervale Drive, Rivervale Plaza # #02-18, Singapore 540118 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
     </tr>
@@ -776,12 +776,12 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 			<td>Sinovac</td>
 			</tr>
     <tr>
-      <td>West Coast Clinic & Surgery (Clementi West) Pte Ltd</td>
+      <td>West Coast Clinic & Surgery* (Clementi West) Pte Ltd</td>
       <td>722 Clementi West Street 2 #01-162, Singapore 120722 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 			</tr>
     <tr>
-      <td>Raffles Medical (only accessible via stairs)</td>
+      <td>Raffles Medical* (only accessible via stairs)</td>
       <td>131 Jurong Gateway Road #01-267, Singapore 600131 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 			</tr>
