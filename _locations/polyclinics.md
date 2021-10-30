@@ -127,6 +127,11 @@ Locations that are administering the Covid-19 Vaccines.
       <td>Punggol Polyclinic</td>
       <td>681 Punggol Drive, Singapore 8206819</td>
 			<td> Pfizer/Comirnaty</td>
+			 </tr>		
+    <tr>
+      <td>Ang Mo Kio Polyclinic</td>
+      <td>21 Ang Mo Kio Central 2, Singapore 569666</td>
+			<td> Pfizer/Comirnaty</td>
     </tr>    
   </tbody>
 </table>
