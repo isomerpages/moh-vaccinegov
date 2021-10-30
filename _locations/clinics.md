@@ -229,7 +229,7 @@ Public is advised to call the respective clinics to enquire on the vaccination c
 			</tr>    
     <tr>
       <td>Shenton Medical Group (Toh Yi)</td>
-      <td>18 Toh Yi Drive #01-103 , Singapore 590018 (Phone:62358926)</td>
+      <td>18 Toh Yi Drive #01-103 , Singapore 590018 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
