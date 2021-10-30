@@ -219,7 +219,7 @@ Public is advised to call the respective clinics to enquire on the vaccination c
 			</tr>    
     <tr>
       <td>Our Woodleigh Family Clinic*</td>
-      <td>115B Alkaff Crescent #01-05, Singapore 342115 (register via vaccine.gov.sg)</td>
+      <td>115B Alkaff Crescent #01-05, Singapore 342115 (Phone:69700560) (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
@@ -239,7 +239,7 @@ Public is advised to call the respective clinics to enquire on the vaccination c
 			</tr>    
     <tr>
       <td>Marina Medical Centre (Tiong Bahru)*</td>
-      <td>78 Guan Chuan Street #01-39, Singapore 160078 (register via vaccine.gov.sg)</td>
+      <td>78 Guan Chuan Street #01-39, Singapore 160078 (Phone:62222177) (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
