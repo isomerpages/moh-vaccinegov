@@ -8,7 +8,9 @@ Operating Hours Vary
 
 Public is advised to call the respective clinics to enquire on the vaccination cut-off time for their preferred date
 
-Please contact the clinic to book an appointment for Sinovac vaccine.
+**For booking of appointment for Sinovac vaccine:**<br>
+* Contact the clinic to book an appointment for Sinovac vaccine.
+* 11 Clinic (marked with asterisk) can only accept registration via vaccine.gov.sg. 
 
 ###  **Central**
 <table>
@@ -231,8 +233,8 @@ Please contact the clinic to book an appointment for Sinovac vaccine.
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>Doctors Inc Medical Group</td>
-      <td>178 Toa Payoh Central, #01-206, Singapore 310178 (Phone:63563633)</td>
+      <td>Doctors Inc Medical Group*</td>
+      <td>178 Toa Payoh Central, #01-206, Singapore 310178 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
