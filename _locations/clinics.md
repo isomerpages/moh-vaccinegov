@@ -219,12 +219,12 @@ Public is advised to call the respective clinics to enquire on the vaccination c
 			</tr>    
     <tr>
       <td>Our Woodleigh Family Clinic</td>
-      <td>115B Alkaff Crescent #01-05, Singapore 342115 (Phone:69700560)</td>
+      <td>115B Alkaff Crescent #01-05, Singapore 342115 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
       <td>Healthmark Family Clinic (SIMS)</td>
-      <td>48 Sims Place, Sims Vista #1-167, Singapore 380048 (Phone:67414537)</td>
+      <td>48 Sims Place, Sims Vista #1-167, Singapore 380048 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
@@ -781,8 +781,8 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 			<td>Sinovac</td>
 			</tr>
     <tr>
-      <td>Raffles Medical</td>
-      <td>131 Jurong Gateway Road #01-267, Singapore 600131 (Phone:68996688)</td>
+      <td>Raffles Medical (only accessible via stairs)</td>
+      <td>131 Jurong Gateway Road #01-267, Singapore 600131 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 			</tr>
     <tr>
