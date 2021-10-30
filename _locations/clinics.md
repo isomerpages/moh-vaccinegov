@@ -10,7 +10,7 @@ Public is advised to call the respective clinics to enquire on the vaccination c
 
 **For booking of appointment for Sinovac vaccine:**<br>
 * Contact the clinic to book an appointment for Sinovac vaccine.
-* 11 Clinic (marked with asterisk) can only accept registration via vaccine.gov.sg. 
+* 11 Clinic (marked with asterisk) only accept registration via vaccine.gov.sg. 
 
 ###  **Central**
 <table>
@@ -397,7 +397,7 @@ Public is advised to call the respective clinics to enquire on the vaccination c
 			</tr>		
     <tr>
       <td>Tampines West Medical Clinic</td>
-      <td>801 Tampines Avenue 4 #01-269, Singapore 520801 (Phone:62231070)</td>
+      <td>801 Tampines Avenue 4 #01-269, Singapore 520801 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
     </tr>  
   </tbody>
