@@ -480,7 +480,7 @@ Public is advised to call the respective clinics to enquire on the vaccination c
 		  </tr>	
    <tr>
     <td>Woodlands Clinic</td>
-      <td>131 Marsiling Rise #01-204, Singapore 730131 (Phone:62696681)</td >
+      <td>131 Marsiling Rise #01-204, Singapore 730131 (register via vaccine.gov.sg)</td >
 				<td>Sinovac</td>
     </tr> 
   </tbody>
