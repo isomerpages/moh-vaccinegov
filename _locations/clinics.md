@@ -244,7 +244,7 @@ Public is advised to call the respective clinics to enquire on the vaccination c
 			</tr>    
     <tr>
       <td>Doctors For Life Medical</td>
-      <td> 3 Pickering Street, Nankin Row #01-02, Singapore 048660(Phone:63869098)</td>
+      <td> 3 Pickering Street, Nankin Row #01-02, Singapore 048660(Phone:69090527)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
