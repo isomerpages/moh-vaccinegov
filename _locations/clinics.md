@@ -470,7 +470,7 @@ Public is advised to call the respective clinics to enquire on the vaccination c
 		 </tr>	
    <tr>
     <td>Woodgrove Family Clinic</td>
-      <td>325 Woodlands Street 32 #01-135  Singapore 730325 (Phone:62351751/91289429)</td>
+      <td>325 Woodlands Street 32 #01-135  Singapore 730325 (Phone:62351751)</td>
 				<td>Sinovac</td>
 		  </tr>	
    <tr>
