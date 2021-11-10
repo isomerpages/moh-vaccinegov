@@ -37,7 +37,7 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
   <tbody>		
     <tr>
       <td>Radin Mas Community Club  </td>
-      <td>1 Telok Blangah Crescent, Singapore 098915</td>
+      <td>51 Telok Blangah Crescent, Singapore 098917</td>
 			<td>Moderna</td>
     </tr>	
     <tr>
