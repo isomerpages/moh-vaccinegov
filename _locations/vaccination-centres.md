@@ -20,8 +20,6 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
 1pm on Eve of Public Holiday
 
 **Upcoming Public Hoildays operating hours**<br>
-3 Nov (Deepavali Eve): 8am to 3pm (last appointment will be at 2pm)<br>
-4 Nov (Deepavali) - Closed<br>
 24 Dec (Christmas Eve): 8am to 3pm (last appointment will be at 2pm)<br>
 25 Dec (Christmas Day) - Closed
 
