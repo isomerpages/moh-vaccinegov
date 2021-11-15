@@ -7,7 +7,7 @@ Locations that are administering the Covid-19 Vaccines.
 As operating hours may vary, please call the respective clinics for enquiries on the vaccination cut-off time for your preferred date.
 
 **To book an appointment for Sinovac vaccine:**<br>
-* Contact any of the following clinic indicated with "Sinovac" vaccine type
+* Contact any of the following clinics indicated with "Sinovac" vaccine type
 * The 11 clinics (marked with an asterisk) only accept registration via vaccine.gov.sg
 
 ###  **Central**
