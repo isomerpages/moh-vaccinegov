@@ -17,11 +17,23 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
 
  **Last Walk-in**:<br>
 7.30pm Daily,<br>
-1pm on Eve of Public Holiday
+1pm on Eve of Public Holiday 
 
 **Upcoming Public Hoildays operating hours**<br>
-24 Dec (Christmas Eve): 8am to 3pm (last appointment will be at 2pm)<br>
-25 Dec (Christmas Day) - Closed
+24 Dec 2021 (Christmas Day's Eve): 8am to 3pm (last appointment will be at 2pm)<br>
+25 Dec  2021(Christmas Day) - Closed<br>
+31 Dec 2021 (New Year's Eve): 8am to 3pm (last appointment will be at 2pm)<br>
+1 Jan 2022 (New Year's Day) - Closed<br>
+31 Jan 2022 (Chinese New Year's Eve): 8am to 3pm (last appointment will be at 2pm)<br>
+1 to 2 Feb 2022 (Chinese New Year) - Closed<br>
+2 May 2022 (Eve of Hari Raya Puasa): 8am to 3pm (last appointment will be at 2pm)<br>
+3 May 2022 (Hari Raya Puasa) - Closed<br>
+9 Jul 2022 (Eve of Hari Raya Haji): 8am to 3pm (last appointment will be at 2pm)<br>
+10 Jul 2022 (Hari Raya Haji) - Closed<br>
+23 Oct 2022 (Eve of Deepavali): 8am to 3pm (last appointment will be at 2pm)<br>
+24 Oct 2022 (Deepavali) - Closed<br>
+24 Dec 2022 (Christmas Day's Eve): 8am to 3pm (last appointment will be at 2pm)<br>
+25 Dec 2022 (Chistmas Day) - Closed<br>
 
 ###  **Central**
 <table>
