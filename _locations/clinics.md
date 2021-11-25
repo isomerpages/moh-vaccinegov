@@ -259,6 +259,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td>Doctors Express Medical Clinic</td>
       <td> 24 Raffles Place, Clifford Centre #01-17, Singapore 048621(Phone:60110029)</td>
 			<td>Sinovac</td>
+			</tr>    
+    <tr>
+      <td>Elisa Koh Clinic & Surgery For Women</td>
+      <td> 38 Irrawaddy Road, Mount Elizabeth Novena Specialist Centre, #06-26/27  Singapore 329563</td>
+			<td>Sinovac</td>
     </tr> 
 		  </tbody>
 </table>
