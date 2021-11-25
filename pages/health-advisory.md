@@ -2,10 +2,12 @@
 title: Health Advisory
 permalink: /health-advisory/
 ---
-**Full COVID-19 vaccination consists of two doses**
+**Full COVID-19 vaccination consists:**
 
-- Doses for Pfizer-BioNTech / Comirnaty and Moderna vaccines should be at least 21 and 28 days apart, respectively, but can be taken with an interval of up to six to eight weeks (42 days-56 days) apart. 
-- It is encouraged for those who have received the COVID-19 vaccinations to defer other non-COVID-19 vaccinations for 2 weeks or more, if possible.
+- **Pfizer-BioNTech / Comirnaty** consists of 2 doses. Both doses should be at least 21 days apart 
+- **Moderna** consists of 2 doses. Both doses should be at least 28 days apart
+- **Sinovac-CoronaVac** consists of 3 doses. The second dose should be 28 days after the first dose and the third dose should be 3 months after the second dose
+-  Encouraged to defer other vaccinations for 2 weeks or more, if possible
   <br/>
 
 **COVID-19 vaccine is currently not recommended for**
