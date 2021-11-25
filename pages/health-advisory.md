@@ -20,8 +20,8 @@ permalink: /health-advisory/
 
 **On the day of vaccination**
 
-* Wear short sleeved or loose clothes.
-* Bring your ID (NRIC/FIN/Student Pass) with you for both appointments.
+* Wear short sleeved or loose clothes
+* Bring your ID (NRIC/FIN/Student Pass) with you for both appointments
 * It is advisable to stay hydrated, not come with an empty stomach, and avoid strenuous exercise.
 <br/>
 
@@ -33,9 +33,9 @@ As a precautionary measure, vaccinated persons, in particular adolescents and me
 **Postpone your appointment if you**
 
 - Are unwell
-- Have a fever in the last 24 hours.
+- Have a fever in the last 24 hours
 - 
- Are serving Stay-Home Notice (SHN) or Quarantine Order (QO).
+ Are serving Stay-Home Notice (SHN) or Quarantine Order (QO)
 
 
 Persons with moderate to severe immunocompromise are recommended to receive a third dose of the same PSAR mRNA vaccine they had received for the first two doses, two months after their second dose.  They should be referred to receive the third dose by their treating specialist, who would have the best understanding of their medical condition. For more information, please refer to the [FAQ](https://www.moh.gov.sg/covid-19/vaccination/faqs---enhanced-primary-series)
