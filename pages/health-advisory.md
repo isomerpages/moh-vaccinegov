@@ -2,23 +2,26 @@
 title: Health Advisory
 permalink: /health-advisory/
 ---
-**Full COVID-19 vaccination consists of two doses**
+**Full COVID-19 vaccination consists:**
 
-- Doses for Pfizer-BioNTech / Comirnaty and Moderna vaccines should be at least 21 and 28 days apart, respectively, but can be taken with an interval of up to six to eight weeks (42 days-56 days) apart. 
-- It is encouraged for those who have received the COVID-19 vaccinations to defer other non-COVID-19 vaccinations for 2 weeks or more, if possible.
+- **Pfizer-BioNTech / Comirnaty** consists of 2 doses. Both doses should be at least 21 days apart 
+- **Moderna** consists of 2 doses. Both doses should be at least 28 days apart
+- **Sinovac-CoronaVac** consists of 3 doses. The second dose should be 28 days after the first dose and the third dose should be 3 months after the second dose
+-  Encouraged to defer other vaccinations for 2 weeks or more, if possible
   <br/>
 
 **COVID-19 vaccine is currently not recommended for**
 
-- Individuals below 12 years of age for the Pfizer-BioNTech / Comirnaty vaccine, and individuals below 18 years of age for the Moderna vaccine.
+- Individuals below 12 years of age for the Pfizer-BioNTech / Comirnaty vaccine
+- Individuals below 18 years of age for the Moderna and Sinovac-CoronaVac vaccines
 <br/>
 
 **Important reminders**:
 
 **On the day of vaccination**
 
-* Wear short sleeved or loose clothes.
-* Bring your ID (NRIC/FIN/Student Pass) with you for both appointments.
+* Wear short sleeved or loose clothes
+* Bring your ID (NRIC/FIN/Student Pass) with you for both appointments
 * It is advisable to stay hydrated, not come with an empty stomach, and avoid strenuous exercise.
 <br/>
 
@@ -30,9 +33,9 @@ As a precautionary measure, vaccinated persons, in particular adolescents and me
 **Postpone your appointment if you**
 
 - Are unwell
-- Have a fever in the last 24 hours.
+- Have a fever in the last 24 hours
 - 
- Are serving Stay-Home Notice (SHN) or Quarantine Order (QO).
+ Are serving Stay-Home Notice (SHN) or Quarantine Order (QO)
 
 
 Persons with moderate to severe immunocompromise are recommended to receive a third dose of the same PSAR mRNA vaccine they had received for the first two doses, two months after their second dose.  They should be referred to receive the third dose by their treating specialist, who would have the best understanding of their medical condition. For more information, please refer to the [FAQ](https://www.moh.gov.sg/covid-19/vaccination/faqs---enhanced-primary-series)
