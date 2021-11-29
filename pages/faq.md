@@ -37,55 +37,68 @@ Do I need to register for my booster dose?</label>
 						<div class="tab-content">
 							<p>Singapore residents and Long-Term Pass Holders aged 12* and above can walk to any Vaccination Centre offering mRNA vaccines, without an appointment. Seniors aged 60 years and above may also walk into any of the Polyclinics or participating Public Health Preparedness Clinics to receive their first dose of vaccination, without a prior appointment.<br><br>
 Alternatively, you may register <a href="https://preregister.vaccine.gov.sg/">here</a>. A Short Message Service (SMS) invitation with a personalised booking link to book your vaccination appointments will subsequently be sent to you.<br><br>
-*Individuals aged 12 and above for Pfizer-BioNTech/Comirnaty vaccine, or 18 and above for Moderna vaccine</p> 
+*Individuals aged 12 and above for Pfizer-BioNTech/Comirnaty vaccine, or 18 and above for Moderna vaccine
+								</p>
+							</div>
+					</div>
+				   <div class="tab">
+						<input id="question-1-5" type="checkbox">
+							<label for="question-1-5" class="tab-label">How do I register to receive Sinovac-CoronaVac?</label>
+						<div class="tab-content">
+							<p>The PSAR-authorised mRNA vaccines remain the recommended COVID-19 vaccines for all persons who are eligible, given the higher vaccine effectiveness against infection and severe disease, including against the Delta variant.<br><br>
+1. 	Persons <strong>who were medically ineligible for a two-dose mRNA vaccine regime </strong> – If you were previously invited to receive the Sinovac-CoronaVac vaccine under a special public health programme, you should follow the instructions provided in the SMS invitation to continue with the regime.<br><br>
+2.Persons who have <strong>taken at least one dose of Sinovac-CoronaVac</strong> and wish to sign up for second/third dose – You can continue to take the remaining dose(s) of your three-dose regime at any of the PSAR-authorised private clinics. You may proceed to book your remaining appointments at these clinics from 1 November 2021, if you have not already done so. The list of PSAR-authorised private clinics will be updated <a href="https://www.vaccine.gov.sg/locations">here</a>.<br><br>
+3. <strong>Persons who have yet to take a dose of any COVID-19 vaccine and wish to take the Sinovac-CoronaVac vaccine</strong> may register their interest <a href="https://preregister.vaccine.gov.sg/">here</a>. Once registered, an SMS with a personalised booking link will be sent to the mobile number used to register interest, and individuals may use the link to make an appointment at the vaccination centre at Raffles City Convention Centre (RCCC) or at any of the Public Health Preparedness Clinics (PHPCs) offering Sinovac-CoronaVac listed <a href="https://www.vaccine.gov.sg/locations">here</a>.<br><br>
+4. <strong>Seniors aged 60 years and above who</strong> belong to any of the above groups may also walk into the vaccination centre at Raffles City Convention Centre (RCCC) to receive their Sinovac-CoronaVac doses, without the need to register for interest or make an appointment.
+							</p> 
 							</div>
 					</div>				
     			<div class="tab">
-    				<input id="question-1-5" type="checkbox">
-    				<label for="question-1-5" class="tab-label">I lost my SMS/booking code. How can I retrieve the link?</label>
+    				<input id="question-1-6" type="checkbox">
+    				<label for="question-1-6" class="tab-label">I lost my SMS/booking code. How can I retrieve the link?</label>
     				<div class="tab-content">
     					<p>Please call MOH at 1800 333 9999 for assistance.</p>
     				</div>
     			</div>   			
     			<div class="tab">
-    				<input id="question-1-6" type="checkbox">
-    				<label for="question-1-6" class="tab-label">Can I change my contact information? </label>
+    				<input id="question-1-7" type="checkbox">
+    				<label for="question-1-7" class="tab-label">Can I change my contact information? </label>
     				<div class="tab-content">
     					<p>If you have changed your mobile number or email address, please call MOH at 1800 333 9999 for assistance.</p>
     				</div>
     			</div>			
     			<div class="tab">
-    				<input id="question-1-7" type="checkbox">
-    				<label for="question-1-7" class="tab-label">How do I reschedule my appointments? </label>
+    				<input id="question-1-8" type="checkbox">
+    				<label for="question-1-8" class="tab-label">How do I reschedule my appointments? </label>
     				<div class="tab-content">
     					<p> You may reschedule your appointments using the same booking link in the original SMS.</p>
     				</div>
     			</div>	
     			<div class="tab">
-    				<input id="question-1-8" type="checkbox">
-    				<label for="question-1-8" class="tab-label">How will I know that the SMS is authentic and not a scam? </label>
+    				<input id="question-1-9" type="checkbox">
+    				<label for="question-1-9" class="tab-label">How will I know that the SMS is authentic and not a scam? </label>
     				<div class="tab-content">
     					<p>The Covid-19 vaccination is free for all Singaporeans and long-term residents in Singapore and no one should ask you for a payment to register for appointments. The link that is provided in the SMS should go to <strong>"vaccine.gov.sg"</strong>. Only government officials can register for a <strong>gov.sg</strong> domain. Do not trust any other URLs that are not from a <strong>.gov.sg</strong> domain. </p><p>When in doubt, you should check with the agency who sent you the message to confirm the authenticity before responding to the message.</p>
     				</div>
     			</div>
     			<div class="tab">
-    				<input id="question-1-9" type="checkbox">
-    				<label for="question-1-9" class="tab-label">I was assessed to be ineligible for the vaccination at the online screening stage/at the vaccination site, but still want to be vaccinated. What should I do? </label>
+    				<input id="question-1-10" type="checkbox">
+    				<label for="question-1-10" class="tab-label">I was assessed to be ineligible for the vaccination at the online screening stage/at the vaccination site, but still want to be vaccinated. What should I do? </label>
     				<div class="tab-content">
     					<p>If you have been assessed to be ineligible for the Pfizer-BioNTech / Comirnaty or Moderna COVID-19 Vaccines due to medical reasons, you may be able to get vaccinated later if data become available that it is safe to receive the vaccination, or you may be able to get vaccinated with other COVID-19 vaccines.</p>
 							</div>
 					</div>
 					<div class="tab">
-						<input id="question-1-10" type="checkbox">
-						<label for="question-1-10" class="tab-label">My child/ward turns 12 this year. Can I get him/her vaccinated?</label>
+						<input id="question-1-11" type="checkbox">
+						<label for="question-1-11" class="tab-label">My child/ward turns 12 this year. Can I get him/her vaccinated?</label>
 						<div class="tab-content">
 							<p>
 						Children who turn 12 in 2021 must have crossed their birthday before they are eligible to book a vaccination appointment.</p>
 							</div>
 					</div>				
 					<div class="tab">
-						<input id="question-1-11" type="checkbox">
-						<label for="question-1-11" class="tab-label">I want to get my child/ward vaccinated. What do I need to do?</label>
+						<input id="question-1-12" type="checkbox">
+						<label for="question-1-12" class="tab-label">I want to get my child/ward vaccinated. What do I need to do?</label>
 						<div class="tab-content">
 							<p>
 						Parents/guardians can register interest for their child/ward to receive the vaccination on vaccine.gov.sg. To facilitate the booking process,
