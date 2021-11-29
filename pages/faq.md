@@ -17,7 +17,7 @@ permalink: /faq
 						<label for="question-1-2" class="tab-label">Who is eligible for the vaccine?</label>
 						<div class="tab-content">
 							<p>
-						Singapore Citizens, Permanent Residents, and Long Term Pass Holders aged 12 and above are eligible to receive their first two doses of the vaccines, also known as the primary series vaccination.
+						Singapore Citizens, Permanent Residents, and Long-Term Pass Holders aged 12 and above are eligible to receive the COVID-19 vaccines under the National Vaccination Programme.
 									</p>
 							</div>
 					</div>
