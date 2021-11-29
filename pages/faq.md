@@ -274,10 +274,7 @@ someone who has completed 2 doses of <strong>PSAR-approved</strong> COVID-19 vac
 								If you have previously taken a vaccine that is not approved under the National Vaccination Programme, you are advised to take 2 doses of the
 approved ones.</p>
 							<p>
-								The Ministry of Health will provide
-recommendations as follow-up data become
-available from studies, if a booster is required
-later on.
+								The Ministry of Health will provide recommendations as follow-up data become available from studies, if a booster is required later on.
 							</p>
     				</div>
     			</div>	
@@ -289,12 +286,15 @@ later on.
     					<p>	If you have recovered from a COVID-19 infection, it is recommended that you receive a single dose of an mRNA vaccine at least 3 months after the date of your diagnosis, if you have not already completed your vaccination. There is evidence that a single dose of mRNA would further boost your immunity against COVID-19.<br><br>
 If you are medically ineligible to receive the mRNA vaccine, you may take two doses of Sinovac-CoronaVac vaccine spaced 28 days apart, from 3 months after the date of your diagnosis.<br><br>
 No additional booster dose is recommended at this time.
+								</p>
+    				</div>
+    			</div>	
+    			<div class="tab">
+    				<input id="question-3-8" type="checkbox">
+    				<label for="question-3-8" class="tab-label">I was assessed to be ineligible for the vaccination at the vaccination site, but still want to be vaccinated. What should I do?
+    				</label>
+    				<div class="tab-content">
+    					<p>If you have been assessed to be ineligible for the Pfizer-BioNTech/Comirnaty or Moderna COVID-19 vaccines due to medical reasons, you may be able to get vaccinated with Sinovac-CoronaVac.
 							</p>
     				</div>
     			</div><p>For more information on booster doses, visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---booster-doses">MOH's website</a>.</p>
-	
-	
-	
-	
-	
-	
