@@ -295,6 +295,17 @@ No additional booster dose is recommended at this time.
     				</label>
     				<div class="tab-content">
     					<p>If you have been assessed to be ineligible for the Pfizer-BioNTech/Comirnaty or Moderna COVID-19 vaccines due to medical reasons, you may be able to get vaccinated with Sinovac-CoronaVac.
+								</p>
+    				</div>
+    			</div>	
+    			<div class="tab">
+    				<input id="question-3-9" type="checkbox">
+    				<label for="question-3-9" class="tab-label">I had received 2 doses of the Sinovac-CoronaVac vaccine. Am I considered fully vaccinated?
+    				</label>
+    				<div class="tab-content">
+    					<p>You are recommended to receive three doses of the Sinovac-CoronaVac COVID-19 vaccine to achieve vaccine protection and be considered fully vaccinated. The third dose should be received from 90 days after the second dose.<br><br>
+Persons who had received two doses of Sinovac-CoronaVac/Sinopharm are recommended to receive a dose of the PSAR mRNA vaccine to complete their primary vaccination series if they are not contraindicated to receive the mRNA vaccines.<br><br>
+To provide enough time for you to get your third dose and maintain your vaccination status, all individuals who have taken two doses of Sinovac-CoronaVac will be regarded as fully vaccinated for 4 months after the second dose, or until 31 December 2021, whichever is later.
 							</p>
     				</div>
     			</div><p>For more information on booster doses, visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---booster-doses">MOH's website</a>.</p>
