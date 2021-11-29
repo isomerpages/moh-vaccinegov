@@ -283,10 +283,18 @@ later on.
     			</div>	
     			<div class="tab">
     				<input id="question-3-7" type="checkbox">
-    				<label for="question-3-7" class="tab-label">I have recovered from a COVID-19 infection. Can I take my 2 shots of vaccine now?
+    				<label for="question-3-7" class="tab-label">I have recovered from a COVID-19 infection. Can I take my COVID-19 vaccine now?
     				</label>
     				<div class="tab-content">
-    					<p>	If you have recovered from a COVID-19 infection, it is recommended that you receive a single dose of vaccine at least 3 months after the date of your diagnosis, if you have not already completed your vaccination or if you have not received any dose of COVID-19 vaccine prior to infection. There is evidence that a single dose would further boost your immunity against COVID-19.  A booster dose is not recommended at this time.
+    					<p>	If you have recovered from a COVID-19 infection, it is recommended that you receive a single dose of an mRNA vaccine at least 3 months after the date of your diagnosis, if you have not already completed your vaccination. There is evidence that a single dose of mRNA would further boost your immunity against COVID-19.<br><br>
+If you are medically ineligible to receive the mRNA vaccine, you may take two doses of Sinovac-CoronaVac vaccine spaced 28 days apart, from 3 months after the date of your diagnosis.<br><br>
+No additional booster dose is recommended at this time.
 							</p>
     				</div>
     			</div><p>For more information on booster doses, visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---booster-doses">MOH's website</a>.</p>
+	
+	
+	
+	
+	
+	
