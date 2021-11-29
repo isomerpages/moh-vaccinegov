@@ -124,8 +124,9 @@ vaccination. Children/wards aged 12 will need to be accompanied by a parent or g
 						<input id="question-2-1" type="checkbox">
 						<label for="question-2-1" class="tab-label">How many doses are there?</label>
 						<div class="tab-content">
-							<p>The dosing regimen for the primary series vaccination is at day 0 and 21 (i.e. 21 days apart) for the Pfizer-BioNTech / Comirnaty vaccine, and day 0 and 28 (i.e. 28 days apart) for the Moderna vaccine. Two doses of the Pfizer-BioNTech/ Comirnaty and Moderna COVID-19 vaccines are required to achieve optimal protection against COVID-19.<br><br>
-								The booster dose is recommended to be taken from about six months after you have been vaccinated with two doses.
+							<p>The dosing regimen for the primary series vaccination is 21 days apart for the Pfizer-BioNTech/Comirnaty vaccine, and 28 days apart for the Moderna vaccine. Two doses of the Pfizer-BioNTech/Comirnaty and Moderna COVID-19 vaccines are required to be fully vaccinated. A booster dose* is recommended to be taken <strong>from five months</strong> after you have been vaccinated with two doses of the Pfizer-BioNTech/Comirnaty or Moderna vaccines.<br><br>
+								For the Sinovac-CoronaVac vaccine*, the second dose should be taken 28 days after the first dose, while the third dose should be taken 90 days after the second dose. Three doses of the Sinovac-CoronaVac COVID-19 vaccine are required to be considered fully vaccinated. A booster dose will likely be needed for persons vaccinated with the Sinovac-CoronaVac vaccine. Recommendations on this will be released at a future date.<br><br>
+*Sinovac-CoronaVac should not be used as a booster vaccination. The exception is for persons who have been recommended to receive a booster but are unable to receive an mRNA vaccine due to medical reasons, such as an allergy to the mRNA vaccine.
 							</p>
 						</div>
 					</div>				
@@ -232,26 +233,18 @@ vaccination. Children/wards aged 12 will need to be accompanied by a parent or g
     				<div class="tab-content">
     					<p>If you experience a severe allergic reaction, seek medical attention immediately. Call 995 or go to the nearest A&amp;E immediately.</p>
     				</div>
-    			</div>    			
-    			<div class="tab">
-    				<input id="question-3-4" type="checkbox">
-    				<label for="question-3-4" class="tab-label">What if I only take a single dose and miss my second dose?
-    				</label>
-    				<div class="tab-content">
-    					<p>You must receive both doses to have the full vaccine protection. Protection for a single dose has not been formally studied for the  COVID-19 Vaccines, but based on vaccines for other diseases, completion of the recommended doses of the vaccine is required for optimal protection. To make an appointment for your 2nd dose, please call MOH at 1800 333 9999.</p>
-    				</div>
     			</div>					
     			<div class="tab">
-    				<input id="question-3-5" type="checkbox">
-    				<label for="question-3-5" class="tab-label">Are the COVID-19 vaccines halal?
+    				<input id="question-3-4" type="checkbox">
+    				<label for="question-3-4" class="tab-label">Are the COVID-19 vaccines halal?
     				</label>
     				<div class="tab-content">
     					<p>The Islamic Religious Council of Singapore (MUIS) has permitted COVID-19 vaccines for Muslim use. Please refer to MUIS’ <a href="https://www.muis.gov.sg/Media/Media-Releases/13-Dec-20-Religious-Position-on-COVID-19-Vaccine">religious position</a> on the COVID-19 vaccine for more information.</p>
     				</div>
     			</div>					
     			<div class="tab">
-    				<input id="question-3-6" type="checkbox">
-    				<label for="question-3-6" class="tab-label">I understand that there may be more than one strain of COVID-19. Will the vaccine cover us fully against all strains?
+    				<input id="question-3-5" type="checkbox">
+    				<label for="question-3-5" class="tab-label">I understand that there may be more than one strain of COVID-19. Will the vaccine cover us fully against all strains?
     				</label>
     				<div class="tab-content">
     					<p>There is no evidence at this time suggesting that the Pfizer-BioNTech / Comirnaty and Moderna’s vaccines do not protect against specific COVID-19 strains, including the UK’s new reported variant. HSA and the EC19V are closely monitoring this issue.
@@ -259,8 +252,8 @@ vaccination. Children/wards aged 12 will need to be accompanied by a parent or g
     				</div>
     			</div>
     			<div class="tab">
-    				<input id="question-3-7" type="checkbox">
-    				<label for="question-3-7" class="tab-label">
+    				<input id="question-3-6" type="checkbox">
+    				<label for="question-3-6" class="tab-label">
 							Can both of my COVID-19
 vaccine doses be of a different brand? Or if I have completed both doses, can I still get another brand of COVID-19 vaccine to ensure more
 protection?
@@ -289,8 +282,8 @@ later on.
     				</div>
     			</div>	
     			<div class="tab">
-    				<input id="question-3-8" type="checkbox">
-    				<label for="question-3-8" class="tab-label">I have recovered from a COVID-19 infection. Can I take my 2 shots of vaccine now?
+    				<input id="question-3-7" type="checkbox">
+    				<label for="question-3-7" class="tab-label">I have recovered from a COVID-19 infection. Can I take my 2 shots of vaccine now?
     				</label>
     				<div class="tab-content">
     					<p>	If you have recovered from a COVID-19 infection, it is recommended that you receive a single dose of vaccine at least 3 months after the date of your diagnosis, if you have not already completed your vaccination or if you have not received any dose of COVID-19 vaccine prior to infection. There is evidence that a single dose would further boost your immunity against COVID-19.  A booster dose is not recommended at this time.
