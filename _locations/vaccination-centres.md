@@ -176,11 +176,6 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
   </thead>
   <tbody>	
     <tr>
-      <td>Kebun Baru Community Club   </td>
-      <td>216 Ang Mo Kio Avenue 4, Singapore 569897</td>
-			<td>Moderna</td>
-    </tr>	
-    <tr>
       <td>Punggol 21 Community Club</td>
       <td>80 Punggol Field #01-01, Singapore 828815</td>
 			<td>Moderna</td>
