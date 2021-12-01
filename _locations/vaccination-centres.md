@@ -54,11 +54,6 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
       <td>Buona Vista Community Club </td>
       <td>36 Holland Drive, Singapore 270036</td>
 			<td>Moderna</td>
-		</tr>	
-    <tr>
-      <td>Potong Pasir Community Club</td>
-      <td>6 Potong Pasir Avenue 2, Singapore 358361</td>
-			<td>Moderna</td>
     </tr> 
     <tr>
       <td>Raffles City Convention Centre</td>
