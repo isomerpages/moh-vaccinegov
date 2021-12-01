@@ -89,7 +89,6 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
       <td>Marine Parade Community Club </td>
       <td>278 Marine Parade Road, Singapore 449282</td>
 			<td>Pfizer/Comirnaty</td>
-    </tr>	
     </tr>  
   </tbody>
 </table>
