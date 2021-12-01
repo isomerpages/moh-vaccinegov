@@ -90,10 +90,6 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
       <td>278 Marine Parade Road, Singapore 449282</td>
 			<td>Pfizer/Comirnaty</td>
     </tr>	
-    <tr>
-      <td>Geylang Serai Community Club  </td>
-      <td>1 Engku Aman Turn, #01-01, Wisma Geylang Serai, Singapore 408528</td>
-			<td>Pfizer/Comirnaty</td>
     </tr>  
   </tbody>
 </table>
@@ -228,11 +224,6 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
       <td>931 Jurong West Street 42, Singapore 649370</td>
 			<td>Pfizer/Comirnaty</td>
     </tr>
-    <tr>
-      <td>Taman Jurong Community Club</td>
-      <td>1 Yung Sheng Road, Singapore 618495</td>
-			<td>Pfizer/Comirnaty</td>
-    </tr>	
     <tr>
       <td>Nanyang Community Club </td>
       <td>60 Jurong West Street 91, Singapore 649040</td>
