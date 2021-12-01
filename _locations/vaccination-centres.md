@@ -35,7 +35,7 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
 24 Dec 2022 (Christmas Day's Eve): 8am to 3pm (last appointment will be at 2pm)<br>
 25 Dec 2022 (Chistmas Day) - Closed<br>
 
-###  **Central**
+###  **Central1**
 <table>
   <thead>
     <tr>
