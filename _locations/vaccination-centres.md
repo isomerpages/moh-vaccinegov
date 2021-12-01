@@ -54,6 +54,11 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
       <td>Buona Vista Community Club </td>
       <td>36 Holland Drive, Singapore 270036</td>
 			<td>Moderna</td>
+    </tr>
+    <tr>
+      <td>Potong Pasir Community Club </td>
+      <td>6 Potong Pasir Avenue 2, Singapore 358361</td>
+			<td>Moderna</td>
     </tr> 
     <tr>
       <td>Raffles City Convention Centre</td>
@@ -90,6 +95,11 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
       <td>278 Marine Parade Road, Singapore 449282</td>
 			<td>Pfizer/Comirnaty</td>
     </tr>	
+    <tr>
+      <td>Geylang Serai Community Club  </td>
+      <td>1 Engku Aman Turn, #01-01, Wisma Geylang Serai, Singapore 408528</td>
+			<td>Pfizer/Comirnaty</td>
+    </tr>  
   </tbody>
 </table>
 
@@ -170,6 +180,10 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
     </tr>
   </thead>
   <tbody>	
+    <tr>
+      <td>Kebun Baru Community Club   </td>
+      <td>216 Ang Mo Kio Avenue 4, Singapore 569897</td>
+			<td>Moderna</td>
     </tr>	
     <tr>
       <td>Punggol 21 Community Club   </td>
@@ -222,6 +236,11 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
     <tr>
       <td>Former Hong Kah Secondary School</td>
       <td>931 Jurong West Street 42, Singapore 649370</td>
+			<td>Pfizer/Comirnaty</td>
+    </tr>
+    <tr>
+      <td>Taman Jurong Community Club</td>
+      <td>1 Yung Sheng Road, Singapore 618495</td>
 			<td>Pfizer/Comirnaty</td>
     </tr>	
     <tr>
