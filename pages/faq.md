@@ -36,7 +36,7 @@ If you are aged 60 years and above and have completed your second dose at least 
 					</div>
 				   <div class="tab">
 						<input id="question-1-4" type="checkbox">
-							<label for="question-1-4" class="tab-label">How do i register for mRNA vaccines?</label>
+							<label for="question-1-4" class="tab-label">How do I register for mRNA vaccines?</label>
 						<div class="tab-content">
 							<p>Singapore residents and Long-Term Pass Holders aged 12* and above can walk to any Vaccination Centre offering mRNA vaccines, without an appointment. Seniors aged 60 years and above may also walk into any of the Polyclinics or participating Public Health Preparedness Clinics to receive their first dose of vaccination, without a prior appointment.<br><br>
 Alternatively, you may register <a href="https://preregister.vaccine.gov.sg/">here</a>. A Short Message Service (SMS) invitation with a personalised booking link to book your vaccination appointments will subsequently be sent to you.<br><br>
@@ -72,7 +72,7 @@ Alternatively, you may register <a href="https://preregister.vaccine.gov.sg/">he
     			</div>			
     			<div class="tab">
     				<input id="question-1-8" type="checkbox">
-    				<label for="question-1-8" class="tab-label">How do I reschedule my appointments? </label>
+    				<label for="question-1-8" class="tab-label">How do I reschedule my appointment? </label>
     				<div class="tab-content">
     					<p> You may reschedule your appointments using the same booking link in the original SMS.</p>
     				</div>
