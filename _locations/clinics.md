@@ -427,6 +427,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td>Tampines West Medical Clinic*</td>
       <td>801 Tampines Avenue 4 #01-269, Singapore 520801 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
+			</tr>		
+    <tr>
+      <td>Kai Medical Clinic*</td>
+      <td>5 Tampines Street 32, Tampines Mart #02-05, Singapore 529284(register via vaccine.gov.sg)</td>
+			<td>Sinovac</td>
     </tr>  
   </tbody>
 </table>
