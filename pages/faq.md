@@ -28,7 +28,7 @@ Do I need to register for my booster dose?</label>
 						<div class="tab-content">
 							<p>
 								The booster dose is recommended to be taken from five months after you have been vaccinated with two doses.<br><br>
-						Persons eligible to receive their booster dose will be progressively invited to do so. An SMS with a personalised booking link will be sent to the mobile number that you had registered with for your first two doses. Please use it to book an appointment for the booster <a href="https://appointment.vaccine.gov.sg/">here.</a> <br><br>
+						Persons eligible to receive their booster dose will be progressively invited to do so. An SMS with a personalised booking link will be sent to the mobile number that you had registered with for your first two doses. Please use it to book an appointment for the booster <a href="https://appointment.vaccine.gov.sg/">here</a>. <br><br>
 If you are between ages 30 and 59 and have completed your second dose at least five months ago, you may walk in to any Vaccination Centre offering the Moderna vaccine, without a prior appointment to receive your booster dose.<br><br>
 If you are aged 60 years and above and have completed your second dose at least five months ago, you may also walk into any of the participating Public Health Preparedness Clinics, or Polyclinics, in addition to the Vaccination Centres, to receive your booster dose without an appointment.							
 									</p>
