@@ -437,6 +437,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td>FAITH Family Clinic*</td>
       <td>57 Marine Terrance, #01-113, Singapore 440057(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
+			</tr>		
+    <tr>
+      <td>FAITH Clinic (Bedok)*</td>
+      <td>746 Bedok Reservoir Road,#01-3013, Singapore 470746(register via vaccine.gov.sg)</td>
+			<td>Sinovac</td>
     </tr>  
   </tbody>
 </table>
