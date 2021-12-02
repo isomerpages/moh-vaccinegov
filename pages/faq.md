@@ -27,8 +27,8 @@ permalink: /faq
 Do I need to register for my booster dose?</label>
 						<div class="tab-content">
 							<p>
-								The booster dose is recommended to be taken from five months after you have been vaccinated with two doses<br><br>
-						Persons eligible to receive their booster dose will be progressively invited to do so. An SMS with a personalised booking link will be sent to the mobile number that you had registered with for your first two doses. Please use it to book an appointment for the booster <a href="https://appointment.vaccine.gov.sg/">here</a> <br><br>
+								The booster dose is recommended to be taken from five months after you have been vaccinated with two doses.<br><br>
+						Persons eligible to receive their booster dose will be progressively invited to do so. An SMS with a personalised booking link will be sent to the mobile number that you had registered with for your first two doses. Please use it to book an appointment for the booster <a href="https://appointment.vaccine.gov.sg/">here</a>. <br><br>
 If you are between ages 30 and 59 and have completed your second dose at least five months ago, you may walk in to any Vaccination Centre offering the Moderna vaccine, without a prior appointment to receive your booster dose.<br><br>
 If you are aged 60 years and above and have completed your second dose at least five months ago, you may also walk into any of the participating Public Health Preparedness Clinics, or Polyclinics, in addition to the Vaccination Centres, to receive your booster dose without an appointment.							
 									</p>
@@ -36,7 +36,7 @@ If you are aged 60 years and above and have completed your second dose at least 
 					</div>
 				   <div class="tab">
 						<input id="question-1-4" type="checkbox">
-							<label for="question-1-4" class="tab-label">How do i register for mRNA vaccines?</label>
+							<label for="question-1-4" class="tab-label">How do I register for mRNA vaccines?</label>
 						<div class="tab-content">
 							<p>Singapore residents and Long-Term Pass Holders aged 12* and above can walk to any Vaccination Centre offering mRNA vaccines, without an appointment. Seniors aged 60 years and above may also walk into any of the Polyclinics or participating Public Health Preparedness Clinics to receive their first dose of vaccination, without a prior appointment.<br><br>
 Alternatively, you may register <a href="https://preregister.vaccine.gov.sg/">here</a>. A Short Message Service (SMS) invitation with a personalised booking link to book your vaccination appointments will subsequently be sent to you.<br><br>
@@ -72,9 +72,9 @@ Alternatively, you may register <a href="https://preregister.vaccine.gov.sg/">he
     			</div>			
     			<div class="tab">
     				<input id="question-1-8" type="checkbox">
-    				<label for="question-1-8" class="tab-label">How do I reschedule my appointments? </label>
+    				<label for="question-1-8" class="tab-label">How do I reschedule my appointment? </label>
     				<div class="tab-content">
-    					<p> You may reschedule your appointments using the same booking link in the original SMS.</p>
+    					<p> You may reschedule your appointments using the same booking link in the original SMS.<br>For enquiries, please call the MOH hotline 1800-333-9999.</p>
     				</div>
     			</div>	
     			<div class="tab">
@@ -82,26 +82,19 @@ Alternatively, you may register <a href="https://preregister.vaccine.gov.sg/">he
     				<label for="question-1-9" class="tab-label">How will I know that the SMS is authentic and not a scam? </label>
     				<div class="tab-content">
     					<p>The Covid-19 vaccination is free for all Singaporeans and long-term residents in Singapore and no one should ask you for a payment to register for appointments. The link that is provided in the SMS should go to <strong>"vaccine.gov.sg"</strong>. Only government officials can register for a <strong>gov.sg</strong> domain. Do not trust any other URLs that are not from a <strong>.gov.sg</strong> domain. </p><p>When in doubt, you should check with the agency who sent you the message to confirm the authenticity before responding to the message.</p>
-    				</div>
-    			</div>
-    			<div class="tab">
-    				<input id="question-1-10" type="checkbox">
-    				<label for="question-1-10" class="tab-label">I was assessed to be ineligible for the vaccination at the online screening stage/at the vaccination site, but still want to be vaccinated. What should I do? </label>
-    				<div class="tab-content">
-    					<p>If you have been assessed to be ineligible for the Pfizer-BioNTech / Comirnaty or Moderna COVID-19 Vaccines due to medical reasons, you may be able to get vaccinated later if data become available that it is safe to receive the vaccination, or you may be able to get vaccinated with other COVID-19 vaccines.</p>
 							</div>
 					</div>
 					<div class="tab">
-						<input id="question-1-11" type="checkbox">
-						<label for="question-1-11" class="tab-label">My child/ward turns 12 this year. Can I get him/her vaccinated?</label>
+						<input id="question-1-10" type="checkbox">
+						<label for="question-1-10" class="tab-label">My child/ward turns 12 this year. Can I get him/her vaccinated?</label>
 						<div class="tab-content">
 							<p>
 						Children who turn 12 in 2021 must have crossed their birthday before they are eligible to book a vaccination appointment.</p>
 							</div>
 					</div>				
 					<div class="tab">
-						<input id="question-1-12" type="checkbox">
-						<label for="question-1-12" class="tab-label">I want to get my child/ward vaccinated. What do I need to do?</label>
+						<input id="question-1-11" type="checkbox">
+						<label for="question-1-11" class="tab-label">I want to get my child/ward vaccinated. What do I need to do?</label>
 						<div class="tab-content">
 							<p>
 						Parents/guardians can register interest for their child/ward to receive the vaccination on vaccine.gov.sg. To facilitate the booking process,
