@@ -704,6 +704,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>Etern Medical Clinic (Fernvale Palm)*</td>
       <td>432A Sengkang West Way, Fernvale Palms #01-03, Singapore 791432 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
+				</tr>
+    	<tr>
+      <td>FAITH Healthcare (Rivervale) Clinic*</td>
+      <td>11 Rivervale Crescent, Rivervale Mall #02-15, Singapore 545082 (register via vaccine.gov.sg)</td>
+			<td>Sinovac</td>
     </tr>
   </tbody>
 </table>
