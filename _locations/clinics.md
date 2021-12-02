@@ -535,6 +535,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
     <td>BestMed Family Clinic & Homecare*</td>
       <td>126 Canberra Street, Multistorey Park, #01-04, Singapore 750126(register via vaccine.gov.sg)</td >
 				<td>Sinovac</td>
+		 </tr>	
+   <tr>
+    <td>Central 24-HR Clinic (Yishun)*</td>
+      <td>701A Yishun Ave 5, #01-04, Singapore 761701(register via vaccine.gov.sg)</td >
+				<td>Sinovac</td>
     </tr> 
   </tbody>
 </table>
