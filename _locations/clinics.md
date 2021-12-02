@@ -442,6 +442,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td>FAITH Clinic (Bedok)*</td>
       <td>746 Bedok Reservoir Road,#01-3013, Singapore 470746(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
+			</tr>		
+    <tr>
+      <td>Central 24-HR Clinic (Bedok)*</td>
+      <td>219 Bedok Central, #01-124, Singapore 460219(register via vaccine.gov.sg)</td>
+			<td>Sinovac</td>
     </tr>  
   </tbody>
 </table>
