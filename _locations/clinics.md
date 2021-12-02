@@ -515,6 +515,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
     <td>Woodlands Clinic*</td>
       <td>131 Marsiling Rise #01-204, Singapore 730131 (register via vaccine.gov.sg)</td >
 				<td>Sinovac</td>
+		  </tr>	
+   <tr>
+    <td>BestMed Family Clinic & Homecare*</td>
+      <td>126 Canberra Street, Multistorey Park, #01-04, Singapore 750126(register via vaccine.gov.sg)</td >
+				<td>Sinovac</td>
     </tr> 
   </tbody>
 </table>
