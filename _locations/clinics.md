@@ -812,6 +812,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>Wee HealthFirst Medical Clinic</td>
       <td>378 Clementi Avenue 5 #01-342,  Singapore 120378 (Phone:67775755)</td>
 			<td>Sinovac</td>
+			</tr>
+    <tr>
+      <td>Dr. W.K. Koo & Associates P.L.*</td>
+      <td>1 Jurong West Central 2, Jurong Point Shopping Center #01-16A/B, Singapore 648886 (register via vaccine.gov.sg</td>
+			<td>Sinovac</td>
     </tr> 
   </tbody>
 	
