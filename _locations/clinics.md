@@ -540,6 +540,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
     <td>Central 24-HR Clinic (Yishun)*</td>
       <td>701A Yishun Ave 5, #01-04, Singapore 761701(register via vaccine.gov.sg)</td >
 				<td>Sinovac</td>
+		 /tr>	
+   <tr>
+    <td>Central 24-HR Clinic (Woodlands)*</td>
+      <td>768 Woodlands Avenue 6, #02-06A, Singapore 730768(register via vaccine.gov.sg)</td >
+				<td>Sinovac</td>
     </tr> 
   </tbody>
 </table>
