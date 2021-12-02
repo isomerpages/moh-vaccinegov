@@ -269,6 +269,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td>A Life Clinic Pte Ltd*</td>
       <td>10 Sinaran Drive, Novena Medical Center #09-21, Singapore 307506 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
+			</tr>    
+    <tr>
+      <td>Lim Clinic & Surgery*</td>
+      <td>109 Lorong 1 Toa Payoh, #01-312, Singapore 310109 (register via vaccine.gov.sg)</td>
+			<td>Sinovac</td>
     </tr> 
 		  </tbody>
 </table>
