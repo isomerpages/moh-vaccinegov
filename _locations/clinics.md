@@ -264,6 +264,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td>Elisa Koh Clinic & Surgery For Women</td>
       <td> 38 Irrawaddy Road, Mount Elizabeth Novena Specialist Centre, #06-26/27  Singapore 329563</td>
 			<td>Sinovac</td>
+			</tr>    
+    <tr>
+      <td>A Life Clinic Pte Ltd*</td>
+      <td>10 Sinaran Drive, Novena Medical Center #09-21, Singapore 307506 (register via vaccine.gov.sg)</td>
+			<td>Sinovac</td>
     </tr> 
 		  </tbody>
 </table>
@@ -653,6 +658,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
     	<tr>
       <td>Lifeline Medical Group*</td>
       <td>118 Rivervale Drive, Rivervale Plaza # #02-18, Singapore 540118 (register via vaccine.gov.sg)</td>
+			<td>Sinovac</td>
+				</tr>
+    	<tr>
+      <td>Edgedale Medical Clinic*</td>
+      <td>122A Edgedale Plains, #01-187, Singapore 821122 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
     </tr>
   </tbody>
