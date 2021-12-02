@@ -669,6 +669,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>Edgedale Medical Clinic*</td>
       <td>122A Edgedale Plains, #01-187, Singapore 821122 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
+				</tr>
+    	<tr>
+      <td>Etern Medical Clinic (Fernvale Palm)*</td>
+      <td>432A Sengkang West Way, Fernvale Palms #01-03, Singapore 791432 (register via vaccine.gov.sg)</td>
+			<td>Sinovac</td>
     </tr>
   </tbody>
 </table>
