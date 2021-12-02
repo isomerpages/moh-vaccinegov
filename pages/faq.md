@@ -82,26 +82,19 @@ Alternatively, you may register <a href="https://preregister.vaccine.gov.sg/">he
     				<label for="question-1-9" class="tab-label">How will I know that the SMS is authentic and not a scam? </label>
     				<div class="tab-content">
     					<p>The Covid-19 vaccination is free for all Singaporeans and long-term residents in Singapore and no one should ask you for a payment to register for appointments. The link that is provided in the SMS should go to <strong>"vaccine.gov.sg"</strong>. Only government officials can register for a <strong>gov.sg</strong> domain. Do not trust any other URLs that are not from a <strong>.gov.sg</strong> domain. </p><p>When in doubt, you should check with the agency who sent you the message to confirm the authenticity before responding to the message.</p>
-    				</div>
-    			</div>
-    			<div class="tab">
-    				<input id="question-1-10" type="checkbox">
-    				<label for="question-1-10" class="tab-label">I was assessed to be ineligible for the vaccination at the online screening stage/at the vaccination site, but still want to be vaccinated. What should I do? </label>
-    				<div class="tab-content">
-    					<p>If you have been assessed to be ineligible for the Pfizer-BioNTech / Comirnaty or Moderna COVID-19 Vaccines due to medical reasons, you may be able to get vaccinated later if data become available that it is safe to receive the vaccination, or you may be able to get vaccinated with other COVID-19 vaccines.</p>
 							</div>
 					</div>
 					<div class="tab">
-						<input id="question-1-11" type="checkbox">
-						<label for="question-1-11" class="tab-label">My child/ward turns 12 this year. Can I get him/her vaccinated?</label>
+						<input id="question-1-10" type="checkbox">
+						<label for="question-1-10" class="tab-label">My child/ward turns 12 this year. Can I get him/her vaccinated?</label>
 						<div class="tab-content">
 							<p>
 						Children who turn 12 in 2021 must have crossed their birthday before they are eligible to book a vaccination appointment.</p>
 							</div>
 					</div>				
 					<div class="tab">
-						<input id="question-1-12" type="checkbox">
-						<label for="question-1-12" class="tab-label">I want to get my child/ward vaccinated. What do I need to do?</label>
+						<input id="question-1-11" type="checkbox">
+						<label for="question-1-11" class="tab-label">I want to get my child/ward vaccinated. What do I need to do?</label>
 						<div class="tab-content">
 							<p>
 						Parents/guardians can register interest for their child/ward to receive the vaccination on vaccine.gov.sg. To facilitate the booking process,
