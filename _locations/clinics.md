@@ -8,8 +8,8 @@ As operating hours may vary, please call the respective clinics for enquiries on
 
 **To book an appointment for Sinovac vaccine:**<br>
 * Contact any of the following clinics indicated with "Sinovac" vaccine type
-* The 11 clinics (marked with an asterisk) only accept registration via vaccine.gov.sg
-* If you are making an appointment for first Dose of Sinovac, please book at RCCC or PHPCs marked with *
+* For clinics (marked with an asterisk*), patients are accepted mainly through registration via vaccine.gov.sg
+* If you are making an appointment for first Dose of Sinovac, please book at RCCC or the clinics (marked with an asterisk*)
 
 ###  **Central**
 <table>

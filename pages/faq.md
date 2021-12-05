@@ -165,18 +165,10 @@ vaccination. Children/wards aged 12 will need to be accompanied by a parent or g
 			</div>
 <div class="tabs">	
 				<h3>Health and Safety</h3>
-				<p>For more information, visit <a href="https://www.moh.gov.sg/covid-19/vaccination">MOH's website</a>.</p>
+				<p>For more information, visit <a href="https://www.moh.gov.sg/covid-19/vaccination">MOH's website</a>.</p>		
 				<div class="tab">
 					<input id="question-3-1" type="checkbox">
-					<label for="question-3-1" class="tab-label">Which vaccines is Singapore using?
-					</label>
-					<div class="tab-content">
-						<p>The COVID-19 vaccines used under the National Vaccination Programme are currently Pfizer-BioNTech/Comirnaty and Moderna .</p>
-					</div>
-				</div>			
-				<div class="tab">
-					<input id="question-3-2" type="checkbox">
-					<label for="question-3-2" class="tab-label">What are the possible side effects?
+					<label for="question-3-1" class="tab-label">What are the possible side effects?
 					</label>
 					<div class="tab-content">
 						<p>The vaccine has been assessed to be safe for use. However, you may experience common side effects, similar to other vaccines. Most side effects are mild or moderate, and usually get better within a few days. The table below lists some common side effects that have been reported with this vaccine, and how to manage them.
@@ -220,60 +212,25 @@ vaccination. Children/wards aged 12 will need to be accompanied by a parent or g
     				</div>
     			</div>		
     			<div class="tab">
-    				<input id="question-3-3" type="checkbox">
-    				<label for="question-3-3" class="tab-label">What should I do if I’m experiencing side effects?
+    				<input id="question-3-2" type="checkbox">
+    				<label for="question-3-2" class="tab-label">What should I do if I’m experiencing side effects?
     				</label>
     				<div class="tab-content">
     					<p>If you experience a severe allergic reaction, seek medical attention immediately. Call 995 or go to the nearest A&amp;E immediately.</p>
     				</div>
     			</div>					
     			<div class="tab">
-    				<input id="question-3-4" type="checkbox">
-    				<label for="question-3-4" class="tab-label">Are the COVID-19 vaccines halal?
+    				<input id="question-3-3" type="checkbox">
+    				<label for="question-3-3" class="tab-label">Are the COVID-19 vaccines halal?
     				</label>
     				<div class="tab-content">
-    					<p>The Islamic Religious Council of Singapore (MUIS) has permitted COVID-19 vaccines for Muslim use. Please refer to MUIS’ <a href="https://www.muis.gov.sg/Media/Media-Releases/13-Dec-20-Religious-Position-on-COVID-19-Vaccine">religious position</a> on the COVID-19 vaccine for more information.</p>
-    				</div>
-    			</div>					
-    			<div class="tab">
-    				<input id="question-3-5" type="checkbox">
-    				<label for="question-3-5" class="tab-label">I understand that there may be more than one strain of COVID-19. Will the vaccine cover us fully against all strains?
-    				</label>
-    				<div class="tab-content">
-    					<p>There is no evidence at this time suggesting that the Pfizer-BioNTech / Comirnaty and Moderna’s vaccines do not protect against specific COVID-19 strains, including the UK’s new reported variant. HSA and the EC19V are closely monitoring this issue.
-							</p>
-    				</div>
-    			</div>
-    			<div class="tab">
-    				<input id="question-3-6" type="checkbox">
-    				<label for="question-3-6" class="tab-label">
-							Can both of my COVID-19
-vaccine doses be of a different brand? Or if I have completed both doses, can I still get another brand of COVID-19 vaccine to ensure more
-protection?
-    				</label>
-    				<div class="tab-content">
-    					<p>All vaccines requiring 2 doses should be
-completed using the same brand. There is no
-data at this time to support switching vaccines
-between dose 1 and dose 2, except for very
-specific medical conditions, and it is therefore
-not advisable to do so.
-							</p>
-							<p>
-								There is no recommendation at this time for
-someone who has completed 2 doses of <strong>PSAR-approved</strong> COVID-19 vaccine to get further vaccinated with another brand of COVID-19 vaccine.
-								</p>
-							<p>
-								If you have previously taken a vaccine that is not approved under the National Vaccination Programme, you are advised to take 2 doses of the
-approved ones.</p>
-							<p>
-								The Ministry of Health will provide recommendations as follow-up data become available from studies, if a booster is required later on.
+    					<p>The Islamic Religious Council of Singapore (MUIS) has permitted COVID-19 vaccines for Muslim use. Please refer to MUIS’ <a href="https://www.muis.gov.sg/Media/Media-Releases/13-Dec-20-Religious-Position-on-COVID-19-Vaccine">religious position</a> on the COVID-19 vaccine for more information.
 							</p>
     				</div>
     			</div>	
     			<div class="tab">
-    				<input id="question-3-7" type="checkbox">
-    				<label for="question-3-7" class="tab-label">I have recovered from a COVID-19 infection. Can I take my COVID-19 vaccine now?
+    				<input id="question-3-4" type="checkbox">
+    				<label for="question-3-4" class="tab-label">I have recovered from a COVID-19 infection. Can I take my COVID-19 vaccine now?
     				</label>
     				<div class="tab-content">
     					<p>	If you have recovered from a COVID-19 infection, it is recommended that you receive a single dose of an mRNA vaccine at least 3 months after the date of your diagnosis, if you have not already completed your vaccination. There is evidence that a single dose of mRNA would further boost your immunity against COVID-19.<br><br>
@@ -283,17 +240,8 @@ No additional booster dose is recommended at this time.
     				</div>
     			</div>	
     			<div class="tab">
-    				<input id="question-3-8" type="checkbox">
-    				<label for="question-3-8" class="tab-label">I was assessed to be ineligible for the vaccination at the vaccination site, but still want to be vaccinated. What should I do?
-    				</label>
-    				<div class="tab-content">
-    					<p>If you have been assessed to be ineligible for the Pfizer-BioNTech/Comirnaty or Moderna COVID-19 vaccines due to medical reasons, you may be able to get vaccinated with Sinovac-CoronaVac.
-								</p>
-    				</div>
-    			</div>	
-    			<div class="tab">
-    				<input id="question-3-9" type="checkbox">
-    				<label for="question-3-9" class="tab-label">I had received 2 doses of the Sinovac-CoronaVac vaccine. Am I considered fully vaccinated?
+    				<input id="question-3-5" type="checkbox">
+    				<label for="question-3-5" class="tab-label">I had received 2 doses of the Sinovac-CoronaVac vaccine. Am I considered fully vaccinated?
     				</label>
     				<div class="tab-content">
     					<p>You are recommended to receive three doses of the Sinovac-CoronaVac COVID-19 vaccine to achieve vaccine protection and be considered fully vaccinated. The third dose should be received from 90 days after the second dose.<br><br>
