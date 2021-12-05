@@ -227,37 +227,10 @@ vaccination. Children/wards aged 12 will need to be accompanied by a parent or g
     					<p>The Islamic Religious Council of Singapore (MUIS) has permitted COVID-19 vaccines for Muslim use. Please refer to MUIS’ <a href="https://www.muis.gov.sg/Media/Media-Releases/13-Dec-20-Religious-Position-on-COVID-19-Vaccine">religious position</a> on the COVID-19 vaccine for more information.
 							</p>
     				</div>
-    			</div>
-    			<div class="tab">
-    				<input id="question-3-4" type="checkbox">
-    				<label for="question-3-4" class="tab-label">
-							Can both of my COVID-19
-vaccine doses be of a different brand? Or if I have completed both doses, can I still get another brand of COVID-19 vaccine to ensure more
-protection?
-    				</label>
-    				<div class="tab-content">
-    					<p>All vaccines requiring 2 doses should be
-completed using the same brand. There is no
-data at this time to support switching vaccines
-between dose 1 and dose 2, except for very
-specific medical conditions, and it is therefore
-not advisable to do so.
-							</p>
-							<p>
-								There is no recommendation at this time for
-someone who has completed 2 doses of <strong>PSAR-approved</strong> COVID-19 vaccine to get further vaccinated with another brand of COVID-19 vaccine.
-								</p>
-							<p>
-								If you have previously taken a vaccine that is not approved under the National Vaccination Programme, you are advised to take 2 doses of the
-approved ones.</p>
-							<p>
-								The Ministry of Health will provide recommendations as follow-up data become available from studies, if a booster is required later on.
-							</p>
-    				</div>
     			</div>	
     			<div class="tab">
-    				<input id="question-3-5" type="checkbox">
-    				<label for="question-3-5" class="tab-label">I have recovered from a COVID-19 infection. Can I take my COVID-19 vaccine now?
+    				<input id="question-3-4" type="checkbox">
+    				<label for="question-3-4" class="tab-label">I have recovered from a COVID-19 infection. Can I take my COVID-19 vaccine now?
     				</label>
     				<div class="tab-content">
     					<p>	If you have recovered from a COVID-19 infection, it is recommended that you receive a single dose of an mRNA vaccine at least 3 months after the date of your diagnosis, if you have not already completed your vaccination. There is evidence that a single dose of mRNA would further boost your immunity against COVID-19.<br><br>
@@ -267,8 +240,8 @@ No additional booster dose is recommended at this time.
     				</div>
     			</div>	
     			<div class="tab">
-    				<input id="question-3-6" type="checkbox">
-    				<label for="question-3-6" class="tab-label">I had received 2 doses of the Sinovac-CoronaVac vaccine. Am I considered fully vaccinated?
+    				<input id="question-3-5" type="checkbox">
+    				<label for="question-3-5" class="tab-label">I had received 2 doses of the Sinovac-CoronaVac vaccine. Am I considered fully vaccinated?
     				</label>
     				<div class="tab-content">
     					<p>You are recommended to receive three doses of the Sinovac-CoronaVac COVID-19 vaccine to achieve vaccine protection and be considered fully vaccinated. The third dose should be received from 90 days after the second dose.<br><br>
