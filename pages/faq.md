@@ -284,16 +284,7 @@ No additional booster dose is recommended at this time.
     			</div>	
     			<div class="tab">
     				<input id="question-3-8" type="checkbox">
-    				<label for="question-3-8" class="tab-label">I was assessed to be ineligible for the vaccination at the vaccination site, but still want to be vaccinated. What should I do?
-    				</label>
-    				<div class="tab-content">
-    					<p>If you have been assessed to be ineligible for the Pfizer-BioNTech/Comirnaty or Moderna COVID-19 vaccines due to medical reasons, you may be able to get vaccinated with Sinovac-CoronaVac.
-								</p>
-    				</div>
-    			</div>	
-    			<div class="tab">
-    				<input id="question-3-9" type="checkbox">
-    				<label for="question-3-9" class="tab-label">I had received 2 doses of the Sinovac-CoronaVac vaccine. Am I considered fully vaccinated?
+    				<label for="question-3-8" class="tab-label">I had received 2 doses of the Sinovac-CoronaVac vaccine. Am I considered fully vaccinated?
     				</label>
     				<div class="tab-content">
     					<p>You are recommended to receive three doses of the Sinovac-CoronaVac COVID-19 vaccine to achieve vaccine protection and be considered fully vaccinated. The third dose should be received from 90 days after the second dose.<br><br>
