@@ -2,9 +2,8 @@
 title: Mobile Vaccination Team
 permalink: /locations/mvt
 ---
-The mobile vaccination teams will be deployed at each location for a few days to a week, before moving to other locations, and returning to the original location to administer the second vaccination dose. 
+The mobile vaccination teams will be deployed at each location for a few days before moving to other locations.
 
-If you have received the first dose with the mobile vaccination team, you will be informed of the date to return for the second dose. The second dose will administrated at the same place as the first dose.
 
 The operating hours for the mobile vaccination teams are: 
 
