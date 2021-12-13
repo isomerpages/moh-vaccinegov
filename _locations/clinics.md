@@ -546,6 +546,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
     <td> Royal Care Medical Clinic Yishun Junction 9</td>
       <td>317 Yishun Avenue 9, HDB Multi-Storey Carpark #01-03, Singapore 760317</td>
 				<td>Pfizer/Comirnaty</td>
+		  </tr>	
+   <tr>
+    <td>Admiralty Family Medical Clinic</td>
+      <td>693 Woodlands Avenue 6 #01-08, Singapore 730693</td>
+				<td>Pfizer/Comirnaty</td>
 		 </tr>	
    <tr>
     <td>Sembawang Mart Medical Centre</td>
