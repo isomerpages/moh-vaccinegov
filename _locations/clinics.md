@@ -167,6 +167,55 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			<td>Pfizer/Comirnaty</td>
 			</tr>    
     <tr>
+      <td>Health Link Medical Clinic & Surgery</td>
+      <td>5 Upper Aljunied Lane #01-46, Singapore 360005</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
+      <td>Binjai Medical & Paincare Clinic</td>
+      <td>23 Binjai Park, Singapore 589828</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
+      <td>Tay Clinic</td>
+      <td>494 Geylang Road, Singapore 389452</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
+      <td>Edgedale Medical Clinic (Cambridge)</td>
+      <td> 40 Cambridge Road #01-115, Singapore 210040</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
+      <td>T P Sim Family Clinic & Surgery</td>
+      <td> 509 Bishan Street 11, #01-378, Singapore 570509</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
+      <td>Soong Clinic & Surgery
+</td>
+      <td>162 Mei Ling Street #01-353, Singapore 140162</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
+      <td>Newcastle Clinic
+</td>
+      <td>541 Orchard Road, Liat Towers #14-02, Singapore 238881</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
+      <td>The Medical Clinic Pte. Ltd.
+</td>
+      <td>63 Chulia Street, OCBC Centre East #01-02, Singapore 049514</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
+      <td>Ko Family Clinic
+</td>
+      <td>18 Upper Boon Keng Road #01-1133, Singapore 380018</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
       <td>Anteh Dispensary Pte Ltd</td>
       <td>1 Lorong 22 Geylang, Grandview Suites #01-02 , Singapore 398664 (Phone:67441809) </td>
 			<td>Sinovac</td>
@@ -405,8 +454,33 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			<td>Pfizer/Comirnaty</td>
 			</tr>		
     <tr>
+      <td>HL Family Clinic & Surgery (Bedok) Pte. Ltd.</td>
+      <td>89 Bedok North Street 4, #01-83, Singapore 460089</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>		
+    <tr>
+      <td>A1 Medical Clinic</td>
+      <td>418 Bedok North Avenue 2, #01-63, Singapore 460418</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>		
+    <tr>
+      <td>Frontier People's Clinic @ Bedok</td>
+      <td>123 Bedok North Street 2, #01-152, Singapore 460123</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>		
+    <tr>
+      <td>Jubilee Family Physicians</td>
+      <td>258 Pasir Ris Street 21, Loyang Point #02-16, Singapore 510258</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>		
+    <tr>
+      <td>Sennett Medical Clinic</td>
+      <td>55 Siglap Road, Siglap Centre #B1-10, Singapore 455871</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>		
+    <tr>
       <td>Little Cross Family Clinic</td>
-      <td>929 Tampines St 91 ,#01-445, Singapore 520929 (Phone:65440040)</td>
+      <td>929 Tampines St 91 #01-445, Singapore 520929 (Phone:65440040)</td>
 			<td>Sinovac</td>
 			</tr>		
     <tr>
@@ -508,6 +582,21 @@ As operating hours may vary, please call the respective clinics for enquiries on
 				<td>Pfizer/Comirnaty</td>
 		 </tr>	
    <tr>
+    <td> Royal Care Medical Clinic Yishun Junction 9</td>
+      <td>317 Yishun Avenue 9, HDB Multi-Storey Carpark #01-03, Singapore 760317</td>
+				<td>Pfizer/Comirnaty</td>
+		  </tr>	
+   <tr>
+    <td>Admiralty Family Medical Clinic</td>
+      <td>693 Woodlands Avenue 6 #01-08, Singapore 730693</td>
+				<td>Pfizer/Comirnaty</td>
+		 </tr>	
+   <tr>
+    <td>United Health Family Clinic & Surgery</td>
+      <td>627 Yishun Street 61 #01-63, Singapore 760627</td>
+				<td>Pfizer/Comirnaty</td>
+		 </tr>	
+   <tr>
     <td>Sembawang Mart Medical Centre</td>
       <td>511 Canbeera Road, Sembawang Mart #02-02A, Singapore 750511 (Phone:64819793)</td>
 				<td>Sinovac</td>
@@ -541,7 +630,7 @@ As operating hours may vary, please call the respective clinics for enquiries on
     <td>Central 24-HR Clinic (Yishun)*</td>
       <td>701A Yishun Ave 5, #01-04, Singapore 761701(register via vaccine.gov.sg)</td >
 				<td>Sinovac</td>
-		 /tr>	
+		 </tr>	
    <tr>
     <td>Central 24-HR Clinic (Woodlands)*</td>
       <td>768 Woodlands Avenue 6, #02-06A, Singapore 730768(register via vaccine.gov.sg)</td >
@@ -679,6 +768,41 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
     	<tr>
       <td>Trucare Medical Clinic And Surgery (Hougang Central)</td>
       <td> 1187 Upper Serangoon Rd, The Midtown #01-53, Singapore 533971</td>
+			<td>Pfizer/Comirnaty</td>
+				</tr>
+    	<tr>
+      <td>Lifeline Punggol Medical Clinic Pte. Ltd.</td>
+      <td> 198 Punggol Field #02-03,  Singapore 820198</td>
+			<td>Pfizer/Comirnaty</td>
+				</tr>
+    	<tr>
+      <td>OneDoctors Family Clinic (Punggol)</td>
+      <td> 83 Punggol Central, Waterway Point #02-17, Singapore 828761</td>
+			<td>Pfizer/Comirnaty</td>
+				</tr>
+    	<tr>
+      <td>Frontier Medical Associates @ Buangkok</td>
+      <td> 982 Buangkok Crescent #01-03, Singapore 530982</td>
+			<td>Pfizer/Comirnaty</td>
+				</tr>
+    	<tr>
+      <td>Trinity Medical (Punggol)</td>
+      <td>273C Punggol Place, #01-874, Singapore 828273</td>
+			<td>Pfizer/Comirnaty</td>
+				</tr>
+    	<tr>
+      <td>RCMC Rivervale Crescent Medical Centre</td>
+      <td>182A Rivervale Crescent #01-04, Singapore 541182</td>
+			<td>Pfizer/Comirnaty</td>
+				</tr>
+    	<tr>
+      <td>CareDoc Medical Clinic</td>
+      <td>215 Ang Mo Kio Avenue 1 #01-907, Singapore 560215</td>
+			<td>Pfizer/Comirnaty</td>
+				</tr>
+    	<tr>
+      <td>Hougang Family Medicine Clinic</td>
+      <td>51 Hougang Avenue 9 #02-01 Singapore 538776</td>
 			<td>Pfizer/Comirnaty</td>
 				</tr>
     	<tr>
@@ -832,6 +956,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
     <tr>
       <td>Hisemainn Medical Clinic</td>
       <td>276 Jurong West Street 25 #01-06, 640276</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>
+    <tr>
+      <td>TC Family Clinic Pte. Ltd.</td>
+      <td>526 Jurong West Street 52, #01-325, Singapore 640526</td>
 			<td>Pfizer/Comirnaty</td>
 			</tr>
     <tr>
