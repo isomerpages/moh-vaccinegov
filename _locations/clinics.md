@@ -752,6 +752,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 			<td>Pfizer/Comirnaty</td>
 				</tr>
     	<tr>
+      <td>RCMC Rivervale Crescent Medical Centre</td>
+      <td>182A Rivervale Crescent #01-04, Singapore 541182</td>
+			<td>Pfizer/Comirnaty</td>
+				</tr>
+    	<tr>
       <td>Myclnq Medical</td>
       <td> 554 Ang Mo Kio Avenue 10 #01-2048 Cheng San Place Singapore 560554 (Phone:62350308)</td>
 			<td>Sinovac</td>
