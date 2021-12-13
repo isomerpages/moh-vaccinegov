@@ -692,6 +692,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 			<td>Pfizer/Comirnaty</td>
 				</tr>
     	<tr>
+      <td>OneDoctors Family Clinic (Punggol)</td>
+      <td> 83 Punggol Central, Waterway Point #02-17, Singapore 828761</td>
+			<td>Pfizer/Comirnaty</td>
+				</tr>
+    	<tr>
       <td>Myclnq Medical</td>
       <td> 554 Ang Mo Kio Avenue 10 #01-2048 Cheng San Place Singapore 560554 (Phone:62350308)</td>
 			<td>Sinovac</td>
