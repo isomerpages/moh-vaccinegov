@@ -533,6 +533,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
 				<td>Pfizer/Comirnaty</td>
 		 </tr>	
    <tr>
+    <td> Royal Care Medical Clinic Yishun Junction 9</td>
+      <td>317 Yishun Avenue 9, HDB Multi-Storey Carpark #01-03, Singapore 760317</td>
+				<td>Pfizer/Comirnaty</td>
+		 </tr>	
+   <tr>
     <td>Sembawang Mart Medical Centre</td>
       <td>511 Canbeera Road, Sembawang Mart #02-02A, Singapore 750511 (Phone:64819793)</td>
 				<td>Sinovac</td>
@@ -566,7 +571,7 @@ As operating hours may vary, please call the respective clinics for enquiries on
     <td>Central 24-HR Clinic (Yishun)*</td>
       <td>701A Yishun Ave 5, #01-04, Singapore 761701(register via vaccine.gov.sg)</td >
 				<td>Sinovac</td>
-		 /tr>	
+		 </tr>	
    <tr>
     <td>Central 24-HR Clinic (Woodlands)*</td>
       <td>768 Woodlands Avenue 6, #02-06A, Singapore 730768(register via vaccine.gov.sg)</td >
