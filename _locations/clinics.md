@@ -575,6 +575,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
 				<td>Pfizer/Comirnaty</td>
 		 </tr>	
    <tr>
+    <td>United Health Family Clinic & Surgery</td>
+      <td>627 Yishun Street 61 #01-63, Singapore 760627</td>
+				<td>Pfizer/Comirnaty</td>
+		 </tr>	
+   <tr>
     <td>Sembawang Mart Medical Centre</td>
       <td>511 Canbeera Road, Sembawang Mart #02-02A, Singapore 750511 (Phone:64819793)</td>
 				<td>Sinovac</td>
