@@ -415,6 +415,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			<td>Pfizer/Comirnaty</td>
 			</tr>		
     <tr>
+      <td>A1 Medical Clinic</td>
+      <td>418 Bedok North Avenue 2, #01-63, Singapore 460418</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>		
+    <tr>
       <td>Little Cross Family Clinic</td>
       <td>929 Tampines St 91 ,#01-445, Singapore 520929 (Phone:65440040)</td>
 			<td>Sinovac</td>
