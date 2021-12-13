@@ -4,7 +4,7 @@ permalink: /locations/mvt
 ---
 The mobile vaccination teams will be deployed at each location for a few days before moving to other locations.
 
-
+**Please note priority is for seniors age 60 years and above.**<br>
 The operating hours for the mobile vaccination teams are: 
 
 **Operating Hours**:<br>
