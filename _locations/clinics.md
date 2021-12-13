@@ -167,6 +167,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			<td>Pfizer/Comirnaty</td>
 			</tr>    
     <tr>
+      <td>Health Link Medical Clinic & Surgery</td>
+      <td>5 Upper Aljunied Lane #01-46, Singapore 360005</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
       <td>Anteh Dispensary Pte Ltd</td>
       <td>1 Lorong 22 Geylang, Grandview Suites #01-02 , Singapore 398664 (Phone:67441809) </td>
 			<td>Sinovac</td>
