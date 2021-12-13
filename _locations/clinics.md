@@ -420,6 +420,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			<td>Pfizer/Comirnaty</td>
 			</tr>		
     <tr>
+      <td>AFrontier People's Clinic @ Bedok</td>
+      <td>123 Bedok North Street 2, #01-152, Singapore 460123</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>		
+    <tr>
       <td>Little Cross Family Clinic</td>
       <td>929 Tampines St 91 ,#01-445, Singapore 520929 (Phone:65440040)</td>
 			<td>Sinovac</td>
