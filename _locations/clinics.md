@@ -942,6 +942,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 			<td>Pfizer/Comirnaty</td>
 			</tr>
     <tr>
+      <td>TC Family Clinic Pte. Ltd.</td>
+      <td>526 Jurong West Street 52, #01-325, Singapore 640526</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>
+    <tr>
       <td>Providence Clinic @ Hillford</td>
       <td>182 Jalan Jurong Kechil, The Hillford, #01-65 Singapore 596152 (Phone:63140970)</td>
 			<td>Sinovac</td>
