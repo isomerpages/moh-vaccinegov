@@ -410,6 +410,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			<td>Pfizer/Comirnaty</td>
 			</tr>		
     <tr>
+      <td>HL Family Clinic & Surgery (Bedok) Pte. Ltd.</td>
+      <td>89 Bedok North Street 4, #01-83, Singapore 460089</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>		
+    <tr>
       <td>Little Cross Family Clinic</td>
       <td>929 Tampines St 91 ,#01-445, Singapore 520929 (Phone:65440040)</td>
 			<td>Sinovac</td>
