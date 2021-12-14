@@ -542,6 +542,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td>HeartlandHealth (Upper Changi)*</td>
       <td>59 New Upper Changi Road #01-1268, Singapore 461059(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
+			</tr>		
+    <tr>
+      <td>HeartlandHealth (Bedok South)*</td>
+      <td>18 Bedok South Road #01-69, Singapore 460018(register via vaccine.gov.sg)</td>
+			<td>Sinovac</td>
     </tr>  
   </tbody>
 </table>
