@@ -237,7 +237,7 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			</tr>    
     <tr>
       <td>Mediview Clinic & Surgery*</td>
-      <td>150 Toa Payoh Lorong 1 #01-999  Singapore 310150 (Phone:62532351)</td>
+      <td>150 Toa Payoh Lorong 1 #01-999  Singapore 310150 (Phone:62532351)(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
@@ -302,7 +302,7 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			</tr>    
     <tr>
       <td>Providence Clinic @ Novena*</td>
-      <td> 1 Goldhill Plaza #01-29, Singapore 308899(Phone:62550063)</td>
+      <td> 1 Goldhill Plaza #01-29, Singapore 308899(Phone:62550063)(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 				</tr>    
     <tr>
