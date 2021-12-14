@@ -251,8 +251,8 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>Precious Medical Centre Pte Ltd</td>
-      <td>290 Orchard Road, The Paragon #12-01,  Singapore 238859 (Phone:66816656)</td>
+      <td>Precious Medical Centre Pte Ltd*</td>
+      <td>290 Orchard Road, The Paragon #12-01,  Singapore 238859 (Phone:66816656)(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
@@ -484,8 +484,8 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			<td>Sinovac</td>
 			</tr>		
     <tr>
-      <td>Pinnacle Family Clinic (Pasir Ris)</td>
-      <td>571 Pasir Ris Street 53 #01-50, Singapore 510571 (Phone:62437338)</td>
+      <td>Pinnacle Family Clinic (Pasir Ris)*</td>
+      <td>571 Pasir Ris Street 53 #01-50, Singapore 510571 (Phone:62437338)(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 				</tr>		
     <tr>
@@ -612,7 +612,7 @@ As operating hours may vary, please call the respective clinics for enquiries on
 				<td>Sinovac</td>
 		  </tr>	
    <tr>
-    <td>Pinnacle Family Clinic (Woodlands)</td>
+    <td>Pinnacle Family Clinic (Woodlands)*</td>
       <td>573 Woodlands Drive 16 #01-06,  Singapore 730573 (Phone:67601623)</td>
 				<td>Sinovac</td>
 		  </tr>	
@@ -969,7 +969,7 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 			<td>Sinovac</td>
 			</tr>
     <tr>
-      <td>Pinnacle Family Clinic (Yew Tee)</td>
+      <td>Pinnacle Family Clinic (Yew Tee)*</td>
       <td>790 Choa Chu Kang North 6 #01-238  Singapore 680790 (Phone:62357893)</td>
 			<td>Sinovac</td>
 			</tr>
