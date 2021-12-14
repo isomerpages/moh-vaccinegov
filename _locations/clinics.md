@@ -480,7 +480,7 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			</tr>		
     <tr>
       <td>Little Cross Family Clinic*</td>
-      <td>929 Tampines St 91 #01-445, Singapore 520929 (Phone:65440040)</td>
+      <td>929 Tampines St 91 #01-445, Singapore 520929 (Phone:65440040)(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 			</tr>		
     <tr>
