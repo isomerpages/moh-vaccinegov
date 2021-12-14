@@ -532,6 +532,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td>Central 24-HR Clinic (Bedok)*</td>
       <td>219 Bedok Central, #01-124, Singapore 460219(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
+			</tr>		
+    <tr>
+      <td>HeartlandHealth (Upper Changi)*</td>
+      <td>59 New Upper Changi Road #01-1268, Singapore 461059(register via vaccine.gov.sg)</td>
+			<td>Sinovac</td>
     </tr>  
   </tbody>
 </table>
