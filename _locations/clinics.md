@@ -9,7 +9,7 @@ As operating hours may vary, please call the respective clinics for enquiries on
 **To book an appointment for Sinovac vaccine:**<br>
 * Contact any of the following clinics indicated with "Sinovac" vaccine type
 * For clinics (marked with an asterisk*), patients are accepted mainly through registration via vaccine.gov.sg
-* If you are making an appointment for first Dose of Sinovac, please book at RCCC or the clinics (marked with an asterisk*)
+* If you are making an appointment for first Dose of Sinovac, please book at Raffles City Convention Centre or the clinics (marked with an asterisk*)
 
 ###  **Central**
 <table>
