@@ -1017,6 +1017,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>Pro Health Medical Group @ Taman Jurong*</td>
       <td>399 Yung Sheng Road, Taman Jurong Shopping Centre #01-56, Singapore 610399 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
+			</tr>
+    <tr>
+      <td>FairCare Family Clinic (Clementi)*</td>
+      <td>345 Clementi Avenue 5 #01-94, Singapore 120345 (register via vaccine.gov.sg)</td>
+			<td>Sinovac</td>
     </tr> 
   </tbody>
 	
