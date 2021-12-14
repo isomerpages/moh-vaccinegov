@@ -965,12 +965,12 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 			</tr>
     <tr>
       <td>Providence Clinic @ Hillford*</td>
-      <td>182 Jalan Jurong Kechil, The Hillford, #01-65 Singapore 596152 (Phone:63140970)</td>
+      <td>182 Jalan Jurong Kechil, The Hillford, #01-65 Singapore 596152 (Phone:63140970)(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 			</tr>
     <tr>
       <td>Pinnacle Family Clinic (Yew Tee)*</td>
-      <td>790 Choa Chu Kang North 6 #01-238  Singapore 680790 (Phone:62357893)</td>
+      <td>790 Choa Chu Kang North 6 #01-238  Singapore 680790 (Phone:62357893)(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 			</tr>
     <tr>
