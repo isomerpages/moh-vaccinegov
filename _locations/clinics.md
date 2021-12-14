@@ -1032,6 +1032,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>FairCare Family Clinic (Clementi)*</td>
       <td>345 Clementi Avenue 5 #01-94, Singapore 120345 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
+			</tr>
+    <tr>
+      <td>HeartlandHealth (Bukit Batok)*</td>
+      <td>164 Bukit Batok Street 11 #01-152, Singapore 650164 (register via vaccine.gov.sg)</td>
+			<td>Sinovac</td>
     </tr> 
   </tbody>
 	
