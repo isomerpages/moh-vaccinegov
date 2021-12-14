@@ -547,6 +547,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td>HeartlandHealth (Bedok South)*</td>
       <td>18 Bedok South Road #01-69, Singapore 460018(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
+			</tr>		
+    <tr>
+      <td>FAITH Healthcare (Tampines)*</td>
+      <td>11 Tampines Street 32, Tampines Mart #01-11, Singapore 529287(register via vaccine.gov.sg)</td>
+			<td>Sinovac</td>
     </tr>  
   </tbody>
 </table>
