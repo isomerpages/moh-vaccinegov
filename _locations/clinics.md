@@ -216,7 +216,7 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			<td>Pfizer/Comirnaty</td>
 			</tr>    
     <tr>
-      <td>Anteh Dispensary Pte Ltd</td>
+      <td>Anteh Dispensary Pte Ltd*</td>
       <td>1 Lorong 22 Geylang, Grandview Suites #01-02 , Singapore 398664 (Phone:67441809) </td>
 			<td>Sinovac</td>
 			</tr>    
@@ -236,7 +236,7 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>Mediview Clinic & Surgery</td>
+      <td>Mediview Clinic & Surgery*</td>
       <td>150 Toa Payoh Lorong 1 #01-999  Singapore 310150 (Phone:62532351)</td>
 			<td>Sinovac</td>
 			</tr>    
@@ -246,7 +246,7 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>Central Medical Group Pte Ltd</td>
+      <td>Central Medical Group Pte Ltd*</td>
       <td>11 Jalan Bukit Merah #01-4442  Singapore 150011 (Phone:62722212)</td>
 			<td>Sinovac</td>
 			</tr>    
@@ -261,7 +261,7 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>The Family Practice @ Skyville</td>
+      <td>The Family Practice @ Skyville*</td>
       <td>85 Dawson Road #01-06, Singapore 141085 (Phone:62551382)</td>
 			<td>Sinovac</td>
 			</tr>    
@@ -301,7 +301,7 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>Providence Clinic @ Novena</td>
+      <td>Providence Clinic @ Novena*</td>
       <td> 1 Goldhill Plaza #01-29, Singapore 308899(Phone:62550063)</td>
 			<td>Sinovac</td>
 				</tr>    
@@ -479,7 +479,7 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			<td>Pfizer/Comirnaty</td>
 			</tr>		
     <tr>
-      <td>Little Cross Family Clinic</td>
+      <td>Little Cross Family Clinic*</td>
       <td>929 Tampines St 91 #01-445, Singapore 520929 (Phone:65440040)</td>
 			<td>Sinovac</td>
 			</tr>		
@@ -821,7 +821,7 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 			<td>Sinovac</td>
 					</tr>
     	<tr>
-      <td>Pinnacle Family Clinic (Serangoon North)</td>
+      <td>Pinnacle Family Clinic (Serangoon North)*</td>
       <td>518 Serangoon North Avenue 4, #B1-208  Singapore 550518 (Phone:62193910)</td>
 			<td>Sinovac</td>
 					</tr>
@@ -964,7 +964,7 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 			<td>Pfizer/Comirnaty</td>
 			</tr>
     <tr>
-      <td>Providence Clinic @ Hillford</td>
+      <td>Providence Clinic @ Hillford*</td>
       <td>182 Jalan Jurong Kechil, The Hillford, #01-65 Singapore 596152 (Phone:63140970)</td>
 			<td>Sinovac</td>
 			</tr>
@@ -994,7 +994,7 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 			<td>Sinovac</td>
 			</tr>
     <tr>
-      <td>Wee HealthFirst Medical Clinic</td>
+      <td>Wee HealthFirst Medical Clinic*</td>
       <td>378 Clementi Avenue 5 #01-342,  Singapore 120378 (Phone:67775755)</td>
 			<td>Sinovac</td>
 			</tr>
