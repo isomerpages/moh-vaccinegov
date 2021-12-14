@@ -859,6 +859,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>FAITH Healthcare (Rivervale) Clinic*</td>
       <td>11 Rivervale Crescent, Rivervale Mall #02-15, Singapore 545082 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
+				</tr>
+    	<tr>
+      <td>1 Medical Teck Ghee*</td>
+      <td>410 Ang Mo Kio Ave 10, Teck Ghee Square #01-837, Singapore 560410 (register via vaccine.gov.sg)</td>
+			<td>Sinovac</td>
     </tr>
   </tbody>
 </table>
