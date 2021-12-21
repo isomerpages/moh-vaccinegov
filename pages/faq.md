@@ -100,17 +100,14 @@ Parents/guardians of children aged 5 to 11 who are not part of the MOE vaccinati
 						<label for="question-1-11" class="tab-label">I want to get my child/ward vaccinated. What do I need to do?</label>
 						<div class="tab-content">
 							<p>
-						Parents/guardians can register interest for their child/ward to receive the vaccination on vaccine.gov.sg. To facilitate the booking process,
-parents/guardians should use their contact details to register for their child/ward. A SMS with a personalised booking link will then be sent to
-this contact number to book a vaccination appointment. 
+						Parents/guardians of children aged 5 to 11 who are under the MOE vaccination exercise, will receive an SMS with a personalised link to book an appointment for their child/ward. 
 							</p>
 							<p>
-								Under the national vaccination programme, children/wards below the age of 18 will require the consent of their parents/guardians to book an
-appointment. 
+								Parents/guardians of children aged 5 to 11 who are not part of the MOE vaccination exercise may register on their child/ward’s behalf <a href="https://child.vaccine.gov.sg/">here</a>. 
 							</p>
 							<p>
-Parents/guardians of their child/ward aged 13 and above are not required to accompany their child/ward to the vaccination site on the day of
-vaccination. Children/wards aged 12 will need to be accompanied by a parent or guardian.</p>
+Parents/guardians of children aged 12 to 17 can register interest on their child/ward’s behalf <a href="https://preregister.vaccine.gov.sg/">here</a>. To facilitate the booking process, parents/guardians should use their own contact details to register for their child/ward. A SMS with a personalised link will then be sent to this contact number to book a vaccination appointment.</p>
+Under the National Vaccination Programme, children/wards below the age of 18 will require the consent of their parents/guardians to book an appointment. Children/wards aged 12 and under will need to be accompanied by their parent/guardian.
 							</div>
 					</div>					
     		</div>				
