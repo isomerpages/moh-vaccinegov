@@ -2,7 +2,7 @@
 title: Health Advisory
 permalink: /health-advisory/
 ---
-**Full COVID-19 vaccination consists:**
+**You are considered fully vaccinated against COVID-19 if you have had**:
 
 - 2 doses of **Pfizer-BioNTech / Comirnaty**, at least 21 days apart
 - 2 doses of **Moderna**,  at least 28 days apart
@@ -11,7 +11,7 @@ permalink: /health-advisory/
 
 **COVID-19 vaccine is currently not recommended for**
 
-- Individuals below 12 years of age for the Pfizer-BioNTech / Comirnaty vaccine
+- Individuals below 5 years of age for the Pfizer-BioNTech / Comirnaty vaccine
 - Individuals below 18 years of age for the Moderna and Sinovac-CoronaVac vaccines
 <br/>
 
@@ -19,9 +19,9 @@ permalink: /health-advisory/
 
 **On the day of vaccination**
 
-* Wear short sleeved or loose clothes
+* Wear short sleeved or clothes where the sleeves can be rolled up
 * Bring your ID (NRIC/FIN/Student Pass)
-* Stay hydrated, do not come on an empty stomach, and avoid strenuous exercise
+* Drink plenty of water and eat something before going for your vaccination, and avoid strenuous exercise
 <br/>
 
 **After vaccination**
@@ -34,9 +34,9 @@ As a precautionary measure, adolescents and men below 30 years of age, in partic
 - Are unwell
 - Had a fever in the last 24 hours
 - 
- Are serving Stay-Home Notice (SHN)^ , Quarantine Order (QO), Health Risk Warning (HRW) or Isolation Order (IO)^^<br> 
+ Are serving Stay-Home Notice (SHN)^ , Quarantine Order (QO), Isolation Order (IO)^^ or received a Health Risk Warning (HRW) <br> 
  
- You are encouraged to defer other vaccination for 2 weeks or more, if possible.
+ You are encouraged to defer other vaccinations for 2 weeks or more, if possible.
 
 
 Persons who are moderately to severely immunocompromised are recommended to receive a third dose of the same PSAR mRNA vaccine they had received for the first two doses, two months after their second dose.  They should be referred to receive the third dose by their treating specialist, who would have the best understanding of their medical condition. For more information, please refer to the [FAQ](https://www.moh.gov.sg/covid-19/vaccination/faqs---enhanced-primary-series).
@@ -45,7 +45,7 @@ Persons who are moderately to severely immunocompromised are recommended to rece
  **COVID-19 Vaccination Related Documents**<br>
  [Parental Consent Form](https://go.gov.sg/parcf) <br>
  
-[Screening Form and Vaccination Information Sheet - Pfizer / Comirnaty*](http://go.gov.sg/visp)<br>
+[Screening Form and Vaccination Information Sheet - Pfizer / Comirnaty*(Adults and Children)](http://go.gov.sg/visp)<br>
 
  [Screening Form and Vaccination Information Sheet - Moderna*](https://go.gov.sg/vism)<br>
  
