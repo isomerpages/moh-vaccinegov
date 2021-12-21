@@ -17,7 +17,7 @@ permalink: /faq
 						<label for="question-1-2" class="tab-label">Who is eligible for the vaccine?</label>
 						<div class="tab-content">
 							<p>
-						Singapore Citizens, Permanent Residents, and Long-Term Pass Holders aged 12 and above are eligible to receive the COVID-19 vaccines under the National Vaccination Programme.
+						Singapore Citizens, Permanent Residents, and Long-Term Pass Holders aged 5 and above are eligible to receive the COVID-19 vaccines under the National Vaccination Programme.
 								</p>
 							</div>
 					</div>
@@ -27,10 +27,9 @@ permalink: /faq
 Do I need to register for my booster dose?</label>
 						<div class="tab-content">
 							<p>
-								The booster dose is recommended to be taken from five months after you have been vaccinated with two doses.<br><br>
-						Persons eligible to receive their booster dose will be progressively invited to do so. An SMS with a personalised booking link will be sent to the mobile number that you had registered with for your first two doses. Please use it to book an appointment for the booster <a href="https://appointment.vaccine.gov.sg/">here</a>. <br><br>
-If you are between ages 30 and 59 and have completed your second dose at least five months ago, you may walk in to any Vaccination Centre offering the Moderna vaccine, without a prior appointment to receive your booster dose.<br><br>
-If you are aged 60 years and above and have completed your second dose at least five months ago, you may also walk into any of the participating Public Health Preparedness Clinics, or Polyclinics, in addition to the Vaccination Centres, to receive your booster dose without an appointment.							
+								You will receive an SMS invitation with a personalised link to book your booster dose appointment when you become eligible – about five months after the last dose of your primary series vaccination. Please use it to book an appointment for the booster.<br><br>
+If you are aged 18 to 59  and have completed the last dose of your primary series vaccination, you may walk in to any Vaccination Centre offering the Moderna vaccine, without a prior appointment to receive your booster dose.<br><br>
+If you are aged 60 years and above and have completed the last dose of your primary series vaccination, you may also walk into any of the participating Public Health Preparedness Clinics, or Polyclinics, in addition to the Vaccination Centres, to receive your booster dose without an appointment.							
 									</p>
 							</div>
 					</div>
@@ -39,7 +38,11 @@ If you are aged 60 years and above and have completed your second dose at least 
 							<label for="question-1-4" class="tab-label">How do I register for mRNA vaccines?</label>
 						<div class="tab-content">
 							<p>Singapore residents and Long-Term Pass Holders aged 12* and above can walk to any Vaccination Centre offering mRNA vaccines, without an appointment. Seniors aged 60 years and above may also walk into any of the Polyclinics or participating Public Health Preparedness Clinics to receive their first dose of vaccination, without a prior appointment.<br><br>
-Alternatively, you may register <a href="https://preregister.vaccine.gov.sg/">here</a>. A Short Message Service (SMS) invitation with a personalised booking link to book your vaccination appointments will subsequently be sent to you.<br><br>
+Alternatively, you may register <a href="https://preregister.vaccine.gov.sg/">here</a>. A Short Message Service (SMS) invitation with a personalised link to book your vaccination appointments will subsequently be sent to you.<br><br>
+Parents/guardians of children aged 5 to 11 who are under the MOE vaccination exercise, will receive an SMS with a personalised link to book an appointment for your child/ward.<br><br>
+
+Parents/guardians of children aged 5 to 11 who are not part of the MOE vaccination exercise may register on your child/ward’s behalf <a href="https://child.vaccine.gov.sg/">here</a>. <br><br>
+
 *Individuals aged 12 and above for Pfizer-BioNTech/Comirnaty vaccine, or 18 and above for Moderna vaccine
 								</p>
 							</div>
@@ -49,11 +52,11 @@ Alternatively, you may register <a href="https://preregister.vaccine.gov.sg/">he
 							<label for="question-1-5" class="tab-label">How do I register to receive Sinovac-CoronaVac?</label>
 						<div class="tab-content">
 							<p>The PSAR-authorised mRNA vaccines remain the recommended COVID-19 vaccines for all persons who are eligible, given the higher vaccine effectiveness against infection and severe disease, including against the Delta variant.<br><br>
-1. 	Persons <strong>who were medically ineligible for a two-dose mRNA vaccine regime </strong> – If you were previously invited to receive the Sinovac-CoronaVac vaccine under a special public health programme, you should follow the instructions provided in the SMS invitation to continue with the regime.<br><br>
+1. Persons <strong>who were medically ineligible for a two-dose mRNA vaccine regime </strong> – If you were previously invited to receive the Sinovac-CoronaVac vaccine under a special public health programme, you should follow the instructions provided in the SMS invitation to continue with the regime.<br><br>
 2.Persons who have <strong>taken at least one dose of Sinovac-CoronaVac</strong> and wish to sign up for second/third dose – You can continue to take the remaining dose(s) of your three-dose regime at any of the PSAR-authorised private clinics. You may proceed to book your remaining appointments at these clinics from 1 November 2021, if you have not already done so. The list of PSAR-authorised private clinics will be updated <a href="https://www.vaccine.gov.sg/locations">here</a>.<br><br>
 3. <strong>Persons who have yet to take a dose of any COVID-19 vaccine and wish to take the Sinovac-CoronaVac vaccine</strong> may register their interest <a href="https://preregister.vaccine.gov.sg/">here</a>. Once registered, an SMS with a personalised booking link will be sent to the mobile number used to register interest, and individuals may use the link to make an appointment at the vaccination centre at Raffles City Convention Centre (RCCC) or at any of the Public Health Preparedness Clinics (PHPCs) offering Sinovac-CoronaVac listed <a href="https://www.vaccine.gov.sg/locations">here</a>.<br><br>
 4. <strong>Seniors aged 60 years and above who</strong> belong to any of the above groups may also walk into the vaccination centre at Raffles City Convention Centre (RCCC) to receive their Sinovac-CoronaVac doses, without the need to register for interest or make an appointment.
-							</p> 
+	</p> 
 							</div>
 					</div>				
     			<div class="tab">
@@ -86,10 +89,10 @@ Alternatively, you may register <a href="https://preregister.vaccine.gov.sg/">he
 					</div>
 					<div class="tab">
 						<input id="question-1-10" type="checkbox">
-						<label for="question-1-10" class="tab-label">My child/ward turns 12 this year. Can I get him/her vaccinated?</label>
+						<label for="question-1-10" class="tab-label">My child/ward turns 5 this year. Can I get him/her vaccinated?</label>
 						<div class="tab-content">
 							<p>
-						Children who turn 12 in 2021 must have crossed their birthday before they are eligible to book a vaccination appointment.</p>
+						Children who turn 5 years old in 2022 must have crossed their birthday before they are eligible to book a vaccination appointment.</p>
 							</div>
 					</div>				
 					<div class="tab">
@@ -97,17 +100,15 @@ Alternatively, you may register <a href="https://preregister.vaccine.gov.sg/">he
 						<label for="question-1-11" class="tab-label">I want to get my child/ward vaccinated. What do I need to do?</label>
 						<div class="tab-content">
 							<p>
-						Parents/guardians can register interest for their child/ward to receive the vaccination on vaccine.gov.sg. To facilitate the booking process,
-parents/guardians should use their contact details to register for their child/ward. A SMS with a personalised booking link will then be sent to
-this contact number to book a vaccination appointment. 
+						Parents/guardians of children aged 5 to 11 who are under the MOE vaccination exercise, will receive an SMS with a personalised link to book an appointment for their child/ward. 
 							</p>
 							<p>
-								Under the national vaccination programme, children/wards below the age of 18 will require the consent of their parents/guardians to book an
-appointment. 
+								Parents/guardians of children aged 5 to 11 who are not part of the MOE vaccination exercise may register on their child/ward’s behalf <a href="https://child.vaccine.gov.sg/">here</a>. 
 							</p>
 							<p>
-Parents/guardians of their child/ward aged 13 and above are not required to accompany their child/ward to the vaccination site on the day of
-vaccination. Children/wards aged 12 will need to be accompanied by a parent or guardian.</p>
+Parents/guardians of children aged 12 to 17 can register interest on their child/ward’s behalf <a href="https://preregister.vaccine.gov.sg/">here</a>. To facilitate the booking process, parents/guardians should use their own contact details to register for their child/ward. A SMS with a personalised link will then be sent to this contact number to book a vaccination appointment.</p>
+<p>
+Under the National Vaccination Programme, children/wards below the age of 18 will require the consent of their parents/guardians to book an appointment. Children/wards aged 12 and under will need to be accompanied by their parent/guardian.</p>
 							</div>
 					</div>					
     		</div>				

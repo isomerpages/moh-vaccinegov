@@ -27,6 +27,12 @@ sections:
           description: Already have the code?
           url: https://appointment.vaccine.gov.sg
   - infobar:
+      title: Children Vaccination
+      description: From 27 Dec 2021 onwards, for more information on vaccinating
+        children aged 5-11
+      button: find out more
+      url: https://child.vaccine.gov.sg/
+  - infobar:
       title: Booster Doses
       description: For more information on booster doses, visit
       button: MOH's website
