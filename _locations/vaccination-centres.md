@@ -188,7 +188,7 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
     <tr>
       <td>Hougang Community Club    </td>
       <td>35 Hougang Avenue 3, Singapore 538840</td>
-			<td>Pfizer/Comirnaty</td>
+			<td>Pfizer/Comirnaty (Adults & Children)</td>
     </tr>	
    <tr>
       <td>Teck Ghee Community Club</td>
@@ -226,7 +226,7 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
     <tr>
       <td>Nanyang Community Club </td>
       <td>60 Jurong West Street 91, Singapore 649040</td>
-			<td>Pfizer/Comirnaty</td>
+			<td>Pfizer/Comirnaty (Adults & Children)</td>
     </tr>	
     <tr>
       <td>Clementi Community Centre  </td>
@@ -236,7 +236,7 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
     <tr>
       <td>Senja-Cashew Community Club</td>
       <td>101 Bukit Panjang Road, Singapore 679910</td>
-			<td>Pfizer/Comirnaty</td>
+			<td>Pfizer/Comirnaty (Adults & Children)</td>
 		</tr>		
     <tr>
       <td>Chua Chu Kang Community Club </td>
