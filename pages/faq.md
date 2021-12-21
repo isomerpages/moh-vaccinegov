@@ -52,11 +52,11 @@ Parents/guardians of children aged 5 to 11 who are not part of the MOE vaccinati
 							<label for="question-1-5" class="tab-label">How do I register to receive Sinovac-CoronaVac?</label>
 						<div class="tab-content">
 							<p>The PSAR-authorised mRNA vaccines remain the recommended COVID-19 vaccines for all persons who are eligible, given the higher vaccine effectiveness against infection and severe disease, including against the Delta variant.<br><br>
-1. 	Persons <strong>who were medically ineligible for a two-dose mRNA vaccine regime </strong> – If you were previously invited to receive the Sinovac-CoronaVac vaccine under a special public health programme, you should follow the instructions provided in the SMS invitation to continue with the regime.<br><br>
+1. Persons <strong>who were medically ineligible for a two-dose mRNA vaccine regime </strong> – If you were previously invited to receive the Sinovac-CoronaVac vaccine under a special public health programme, you should follow the instructions provided in the SMS invitation to continue with the regime.<br><br>
 2.Persons who have <strong>taken at least one dose of Sinovac-CoronaVac</strong> and wish to sign up for second/third dose – You can continue to take the remaining dose(s) of your three-dose regime at any of the PSAR-authorised private clinics. You may proceed to book your remaining appointments at these clinics from 1 November 2021, if you have not already done so. The list of PSAR-authorised private clinics will be updated <a href="https://www.vaccine.gov.sg/locations">here</a>.<br><br>
 3. <strong>Persons who have yet to take a dose of any COVID-19 vaccine and wish to take the Sinovac-CoronaVac vaccine</strong> may register their interest <a href="https://preregister.vaccine.gov.sg/">here</a>. Once registered, an SMS with a personalised booking link will be sent to the mobile number used to register interest, and individuals may use the link to make an appointment at the vaccination centre at Raffles City Convention Centre (RCCC) or at any of the Public Health Preparedness Clinics (PHPCs) offering Sinovac-CoronaVac listed <a href="https://www.vaccine.gov.sg/locations">here</a>.<br><br>
 4. <strong>Seniors aged 60 years and above who</strong> belong to any of the above groups may also walk into the vaccination centre at Raffles City Convention Centre (RCCC) to receive their Sinovac-CoronaVac doses, without the need to register for interest or make an appointment.
-							</p> 
+	</p> 
 							</div>
 					</div>				
     			<div class="tab">
