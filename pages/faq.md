@@ -89,10 +89,10 @@ Parents/guardians of children aged 5 to 11 who are not part of the MOE vaccinati
 					</div>
 					<div class="tab">
 						<input id="question-1-10" type="checkbox">
-						<label for="question-1-10" class="tab-label">My child/ward turns 12 this year. Can I get him/her vaccinated?</label>
+						<label for="question-1-10" class="tab-label">My child/ward turns 5 this year. Can I get him/her vaccinated?</label>
 						<div class="tab-content">
 							<p>
-						Children who turn 12 in 2021 must have crossed their birthday before they are eligible to book a vaccination appointment.</p>
+						Children who turn 5 years old in 2022 must have crossed their birthday before they are eligible to book a vaccination appointment.</p>
 							</div>
 					</div>				
 					<div class="tab">
