@@ -73,4 +73,10 @@ sections:
       button: Read FAQ
       url: /faq
       alt: Read FAQ
+  - infobar:
+      title: Children Vaccination
+      description: From 27 Dec 2021 onwards, for more information on vaccinating
+        children aged 5-11
+      button: find out more
+      url: https://child.vaccine.gov.sg/
 ---
