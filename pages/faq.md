@@ -107,7 +107,8 @@ Parents/guardians of children aged 5 to 11 who are not part of the MOE vaccinati
 							</p>
 							<p>
 Parents/guardians of children aged 12 to 17 can register interest on their child/ward’s behalf <a href="https://preregister.vaccine.gov.sg/">here</a>. To facilitate the booking process, parents/guardians should use their own contact details to register for their child/ward. A SMS with a personalised link will then be sent to this contact number to book a vaccination appointment.</p>
-Under the National Vaccination Programme, children/wards below the age of 18 will require the consent of their parents/guardians to book an appointment. Children/wards aged 12 and under will need to be accompanied by their parent/guardian.
+<p>
+Under the National Vaccination Programme, children/wards below the age of 18 will require the consent of their parents/guardians to book an appointment. Children/wards aged 12 and under will need to be accompanied by their parent/guardian.</p>
 							</div>
 					</div>					
     		</div>				
