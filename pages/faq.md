@@ -41,7 +41,7 @@ If you are aged 60 years and above and have completed the last dose of your prim
 Alternatively, you may register <a href="https://preregister.vaccine.gov.sg/">here</a>. A Short Message Service (SMS) invitation with a personalised link to book your vaccination appointments will subsequently be sent to you.<br><br>
 Parents/guardians of children aged 5 to 11 who are under the MOE vaccination exercise, will receive an SMS with a personalised link to book an appointment for your child/ward.<br><br>
 
-Parents/guardians of children aged 5 to 11 who are not part of the MOE vaccination exercise may register on your child/ward’s behalf <a href="https://child.vaccine.gov.sg/">here</a>.
+Parents/guardians of children aged 5 to 11 who are not part of the MOE vaccination exercise may register on your child/ward’s behalf <a href="https://child.vaccine.gov.sg/">here</a>.<br><br>
 
 *Individuals aged 12 and above for Pfizer-BioNTech/Comirnaty vaccine, or 18 and above for Moderna vaccine
 								</p>
