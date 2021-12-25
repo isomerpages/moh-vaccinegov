@@ -28,8 +28,7 @@ sections:
           url: https://appointment.vaccine.gov.sg
   - infobar:
       title: Children Vaccination
-      description: From 26 Dec 2021 onwards, for more information on vaccinating
-        children aged 5-11
+      description: For more information on vaccinating children aged 5-11
       button: find out more
       url: https://child.vaccine.gov.sg/
   - infobar:
