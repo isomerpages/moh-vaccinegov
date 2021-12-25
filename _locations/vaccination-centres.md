@@ -20,8 +20,6 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
 1pm on Eve of Public Holiday 
 
 **Upcoming Public Hoildays operating hours**<br>
-24 Dec 2021 (Christmas Day's Eve): 8am to 3pm (last appointment will be at 2pm)<br>
-25 Dec  2021(Christmas Day) - Closed<br>
 31 Dec 2021 (New Year's Eve): 8am to 3pm (last appointment will be at 2pm)<br>
 1 Jan 2022 (New Year's Day) - Closed<br>
 31 Jan 2022 (Chinese New Year's Eve): 8am to 3pm (last appointment will be at 2pm)<br>
