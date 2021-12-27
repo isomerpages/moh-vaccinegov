@@ -28,9 +28,9 @@ sections:
           url: https://appointment.vaccine.gov.sg
   - infobar:
       title: Children Vaccination
-      description: For more information on vaccinating children aged 5-11
+      description: For information on vaccinating children aged 5-11
       button: find out more
-      url: https://child.vaccine.gov.sg/
+      url: https://www.moh.gov.sg/covid-19/vaccination/faqs---children-related-vaccination-matters
   - infobar:
       title: Booster Doses
       description: For more information on booster doses, visit
