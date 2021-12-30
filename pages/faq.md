@@ -28,7 +28,7 @@ Do I need to register for my booster dose?</label>
 						<div class="tab-content">
 							<p>
 								You will receive an SMS invitation with a personalised link to book your booster dose appointment when you become eligible – about five months after the last dose of your primary series vaccination. Please use it to book an appointment for the booster.<br><br>
-If you are aged 18 to 59  and have completed the last dose of your primary series vaccination, you may walk in to any Vaccination Centre without a prior appointment to receive your booster dose.<br><br>
+If you are aged 18 to 59  and have completed the last dose of your primary series vaccination, you may walk in to any Vaccination Centre offering the mRNA COVID-19 vaccine, without a prior appointment to receive your booster dose.<br><br>
 If you are aged 60 years and above and have completed the last dose of your primary series vaccination, you may also walk into any of the participating Public Health Preparedness Clinics, or Polyclinics, in addition to the Vaccination Centres, to receive your booster dose without an appointment.							
 									</p>
 							</div>
@@ -110,6 +110,15 @@ Parents/guardians of children aged 12 to 17 can register interest on their child
 <p>
 Under the National Vaccination Programme, children/wards below the age of 18 will require the consent of their parents/guardians to book an appointment. Children/wards aged 12 and under will need to be accompanied by their parent/guardian.</p>
 							</div>
+					</div>				
+					<div class="tab">
+						<input id="question-1-12" type="checkbox">
+						<label for="question-1-12" class="tab-label">Will it be possible for parents/guardians to take their booster shot together with their child/ward?</label>
+						<div class="tab-content">
+							<p>
+						Children aged 12 and under will require the accompaniment of their parent/guardian. Parents/guardians will not be able to take their booster shot during their child/ward’s vaccination.
+							</p>
+							</div>
 					</div>					
     		</div>				
 				<div class="tabs">
@@ -119,7 +128,7 @@ Under the National Vaccination Programme, children/wards below the age of 18 wil
 						<label for="question-2-1" class="tab-label">How many doses are there?</label>
 						<div class="tab-content">
 							<p>The dosing regimen for the primary series vaccination is 21 days apart for the Pfizer-BioNTech/Comirnaty vaccine, and 28 days apart for the Moderna vaccine. Two doses of the Pfizer-BioNTech/Comirnaty and Moderna COVID-19 vaccines are required to be fully vaccinated. A booster dose* is recommended to be taken <strong>from five months</strong> after you have been vaccinated with two doses of the Pfizer-BioNTech/Comirnaty or Moderna vaccines.<br><br>
-								For the Sinovac-CoronaVac vaccine*, the second dose should be taken 28 days after the first dose, while the third dose should be taken 90 days after the second dose. Three doses of the Sinovac-CoronaVac COVID-19 vaccine are required to be considered fully vaccinated. A booster dose will likely be needed for persons vaccinated with the Sinovac-CoronaVac vaccine. Recommendations on this will be released at a future date.<br><br>
+								For the Sinovac-CoronaVac vaccine*, the second dose should be taken 28 days after the first dose, while the third dose should be taken 90 days after the second dose. Three doses of the Sinovac-CoronaVac COVID-19 vaccine are required to be considered fully vaccinated. Persons who had received three doses of COVID-19 vaccines as part of a primary vaccination series incorporating the Sinovac-Coronavac vaccine are recommended to receive a booster dose of either the Pfizer-BioNTech/Comirnaty or Moderna mRNA vaccines 5 months after completing their primary series.<br><br>
 *Sinovac-CoronaVac should not be used as a booster vaccination. The exception is for persons who have been recommended to receive a booster but are unable to receive an mRNA vaccine due to medical reasons, such as an allergy to the mRNA vaccine.
 							</p>
 						</div>
@@ -161,6 +170,14 @@ Under the National Vaccination Programme, children/wards below the age of 18 wil
 						<p>
 							Parents/guardians are reminded to ensure that their child/ward brings along documentary proof of their consent to the vaccination site for verification. The letter of consent required can be found <a href="https://www.go.gov.sg/parcf">here</a>. A completed electronic copy of the consent form will be accepted as well.
 						</p>
+						</div>
+				</div>
+				<div class="tab">
+					<input id="question-2-6" type="checkbox">
+					<label for="question-2-6" class="tab-label">Will parents/guardians be allowed to accompany their child to the vaccination centres?</label>
+					<div class="tab-content">
+						<p>
+							For the 5 to 11 years old vaccination exercise, parental/legal guardian presence is required. Only one parent/guardian is allowed to accompany their child/ward to the vaccination centre if they are below 13 years old. This is to avoid congestion and ensure compliance to Safe Management Measures at the vaccination centres.</p>
 					</div>
 				</div>
 			</div>
@@ -248,6 +265,17 @@ No additional booster dose is recommended at this time.
     					<p>You are recommended to receive three doses of the Sinovac-CoronaVac COVID-19 vaccine to achieve vaccine protection and be considered fully vaccinated. The third dose should be received from 90 days after the second dose.<br><br>
 Persons who had received two doses of Sinovac-CoronaVac/Sinopharm are recommended to receive a dose of the PSAR mRNA vaccine to complete their primary vaccination series if they are not contraindicated to receive the mRNA vaccines.<br><br>
 To provide enough time for you to get your third dose and maintain your vaccination status, all individuals who have taken two doses of Sinovac-CoronaVac will be regarded as fully vaccinated for 4 months after the second dose, or until 31 December 2021, whichever is later.
+							</p>
+							</div>
+    			</div>	
+    			<div class="tab">
+    				<input id="question-3-6" type="checkbox">
+    				<label for="question-3-6" class="tab-label">Will my child/ward still receive the reduced dosage if he/she turns 12 on the day of the first appointment? Should my child wait until he/she turns 12 to receive the adult dose?
+    				</label>
+    				<div class="tab-content">
+    					<p>Children who turn 12 on the day of their first appointment will receive the dose for ages 12 and above. Those who received the paediatric dosage on their first appointment will continue to receive the same dosage on their second appointment, even if they have turned 12 between the first and second vaccine doses.<br><br>
+
+For those nearing their 12th birthday and desire to receive the adult dose, they have the choice to wait until after their birthday to do so.
 							</p>
     				</div>
     			</div><p>For more information on booster doses, visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---booster-doses">MOH's website</a>.</p>
