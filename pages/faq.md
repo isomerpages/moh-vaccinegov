@@ -110,6 +110,15 @@ Parents/guardians of children aged 12 to 17 can register interest on their child
 <p>
 Under the National Vaccination Programme, children/wards below the age of 18 will require the consent of their parents/guardians to book an appointment. Children/wards aged 12 and under will need to be accompanied by their parent/guardian.</p>
 							</div>
+					</div>				
+					<div class="tab">
+						<input id="question-1-12" type="checkbox">
+						<label for="question-1-12" class="tab-label">Will it be possible for parents/guardians to take their booster shot together with their child/ward?</label>
+						<div class="tab-content">
+							<p>
+						Children aged 12 and under will require the accompaniment of their parent/guardian. Parents/guardians will not be able to take their booster shot during their child/ward’s vaccination.
+							</p>
+							</div>
 					</div>					
     		</div>				
 				<div class="tabs">
