@@ -170,6 +170,14 @@ Under the National Vaccination Programme, children/wards below the age of 18 wil
 						<p>
 							Parents/guardians are reminded to ensure that their child/ward brings along documentary proof of their consent to the vaccination site for verification. The letter of consent required can be found <a href="https://www.go.gov.sg/parcf">here</a>. A completed electronic copy of the consent form will be accepted as well.
 						</p>
+						</div>
+				</div>
+				<div class="tab">
+					<input id="question-2-6" type="checkbox">
+					<label for="question-2-6" class="tab-label">Will parents/guardians be allowed to accompany their child to the vaccination centres?</label>
+					<div class="tab-content">
+						<p>
+							For the 5 to 11 years old vaccination exercise, parental/legal guardian presence is required. Only one parent/guardian is allowed to accompany their child/ward to the vaccination centre if they are below 13 years old. This is to avoid congestion and ensure compliance to Safe Management Measures at the vaccination centres.
 					</div>
 				</div>
 			</div>
