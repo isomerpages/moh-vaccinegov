@@ -61,32 +61,32 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
     <tr>
       <td>Tanjong Pagar Community Club</td>
       <td>101 Cantonment Road, Singapore 089774</td>
-			<td>Pfizer/Comirnaty</td>
+			<td>Pfizer/Comirnaty and Moderna</td>
     </tr>		
     <tr>
       <td>Jalan Besar Community Club</td>
       <td>69 Jellicoe Road, Singapore 208737</td>
-			<td>Pfizer/Comirnaty</td>
+			<td>Pfizer/Comirnaty (Adults & Children)</td>
     </tr>		
     <tr>
       <td>Bishan Community Club</td>
       <td>51 Bishan Street 13, Singapore 579799</td>
-			<td>Pfizer/Comirnaty</td>
+			<td>Pfizer/Comirnaty and Moderna</td>
     </tr>	
     <tr>
       <td>Queenstown Community Centre </td>
       <td>365 Commonwealth Avenue, Singapore 149732</td>
-			<td>Pfizer/Comirnaty</td>
+			<td>Pfizer/Comirnaty (Adults & Children)</td>
     </tr>
     <tr>
       <td>Toa Payoh West Community Club </td>
       <td>200 Lorong 2 Toa Payoh, Singapore 319642</td>
-			<td>Pfizer/Comirnaty</td>
+			<td>Pfizer/Comirnaty (Adults & Children)</td>
     </tr>	
     <tr>
       <td>Marine Parade Community Club </td>
       <td>278 Marine Parade Road, Singapore 449282</td>
-			<td>Pfizer/Comirnaty</td>
+			<td>Pfizer/Comirnaty (Adults & Children)</td>
     </tr>  
   </tbody>
 </table>
@@ -148,7 +148,7 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
     <tr>
       <td>Canberra Community Club</td>
       <td>2 Sembawang Crescent, Singapore 757632</td>
-			<td>Pfizer/Comirnaty</td>
+			<td>Pfizer/Comirnaty and Moderna</td>
     </tr>	
     <tr>
       <td>Nee Soon East Community Club</td>
@@ -176,7 +176,7 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
     <tr>
       <td>The Serangoon Community Club </td>
       <td>10 Serangoon North Avenue 2, Singapore 555877</td>
-			<td>Pfizer/Comirnaty</td>
+			<td>Pfizer/Comirnaty (Adults & Children)</td>
     </tr>	
     <tr>
       <td>Sengkang Community Club  </td>
@@ -219,7 +219,7 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
     <tr>
       <td>Former Hong Kah Secondary School</td>
       <td>931 Jurong West Street 42, Singapore 649370</td>
-			<td>Pfizer/Comirnaty</td>
+			<td>Pfizer/Comirnaty (Adults & Children)</td>
     </tr>
     <tr>
       <td>Nanyang Community Club </td>
@@ -229,7 +229,7 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
     <tr>
       <td>Clementi Community Centre  </td>
       <td>220 Clementi Avenue 4, Singapore 129880</td>
-			<td>Pfizer/Comirnaty</td>
+			<td>Pfizer/Comirnaty (Adults & Children)</td>
     </tr>	
     <tr>
       <td>Senja-Cashew Community Club</td>
