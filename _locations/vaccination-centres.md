@@ -190,6 +190,11 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
       <td>Teck Ghee Community Club</td>
       <td>861 Ang Mo Kio Avenue 10, Singapore 569734</td>
 			<td>Pfizer/Comirnaty</td>
+		  </tr>	
+    <tr>
+      <td>Yusof Ishak Secondary School</td>
+      <td>8 Sumang Walk, Singapore 828676</td>
+			<td>Pfizer/Comirnaty (Adults & Children)</td>
     </tr>  
   </tbody>
 </table>

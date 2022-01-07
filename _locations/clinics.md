@@ -271,11 +271,6 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>Healthmark Family Clinic (SIMS)*</td>
-      <td>48 Sims Place, Sims Vista #1-167, Singapore 380048 (register via vaccine.gov.sg)</td>
-			<td>Sinovac</td>
-			</tr>    
-    <tr>
       <td>Shenton Medical Group (Toh Yi)*</td>
       <td>18 Toh Yi Drive #01-103 , Singapore 590018 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
