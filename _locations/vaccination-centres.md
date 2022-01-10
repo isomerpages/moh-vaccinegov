@@ -194,7 +194,7 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
     <tr>
       <td>Yusof Ishak Secondary School</td>
       <td>8 Sumang Walk, Singapore 828676</td>
-			<td>Pfizer/Comirnaty (Adults & Children)</td>
+			<td>Pfizer/Comirnaty (Children)</td>
     </tr>  
   </tbody>
 </table>
