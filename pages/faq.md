@@ -119,6 +119,16 @@ Under the National Vaccination Programme, children/wards below the age of 18 wil
 						Children aged 12 and under will require the accompaniment of their parent/guardian. Parents/guardians will not be able to take their booster shot during their child/ward’s vaccination.
 							</p>
 							</div>
+					</div>				
+					<div class="tab">
+						<input id="question-1-13" type="checkbox">
+						<label for="question-1-13" class="tab-label">My child has an appointment for his/her second dose after 10 Jan. Can I bring his/her siblings along for vaccination under the “sibling walk-in” arrangement? </label>
+						<div class="tab-content">
+							<p>
+						You can bring along your younger child for his/her vaccination during the appointment slot of your older child, so long as the older child’s appointment date is on Mondays to Thursdays. No prior appointment for the younger child is required. To ensure a smooth and pleasant experience for all, parents planning to vaccinate children under this “sibling walk-in” arrangement should arrive at the VCs by 7 pm, with all children. (Do note that for the vaccination centre at Yusof Ishak Secondary School, it would be only Tuesdays to Thursdays with the arrival time to be before 5pm as the last appointment is at 5pm.)<br><br>
+If you have booked separate appointments for both children, you are strongly encouraged to keep only one desired slot and cancel the remaining bookings on NAS.								
+							</p>
+							</div>
 					</div>					
     		</div>				
 				<div class="tabs">
@@ -251,9 +261,10 @@ Under the National Vaccination Programme, children/wards below the age of 18 wil
     				<label for="question-3-4" class="tab-label">I have recovered from a COVID-19 infection. Can I take my COVID-19 vaccine now?
     				</label>
     				<div class="tab-content">
-    					<p>	If you have recovered from a COVID-19 infection, it is recommended that you receive a single dose of an mRNA vaccine at least 3 months after the date of your diagnosis, if you have not already completed your vaccination. There is evidence that a single dose of mRNA would further boost your immunity against COVID-19.<br><br>
-If you are medically ineligible to receive the mRNA vaccine, you may take two doses of Sinovac-CoronaVac vaccine spaced 28 days apart, from 3 months after the date of your diagnosis.<br><br>
-No additional booster dose is recommended at this time.
+    					<p>	At present, for persons who have recovered from COVID-19 and were fully vaccinated before their infection, we do not recommend a booster dose.<br><br>
+Recovered persons who were unvaccinated, or partially vaccinated before their infection, should receive one dose of mRNA vaccine at least three months after infection to reduce their risk of reinfection, as part of their primary series vaccination. We do not recommend a subsequent booster dose following this at this time^.<br><br>
+Note: Recovered persons who are medically ineligible for the mRNA vaccines and were unvaccinated or partially vaccinated before infection, should receive two doses of the Sinovac-CoronaVac vaccine taken 28 days apart at least three months after infection, as part of their primary series vaccination.<br><br>
+^While there is no recommendation for a subsequent booster dose, it is safe to receive a booster dose from 5 months after the last dose for extra protection. 
 								</p>
     				</div>
     			</div>	
