@@ -210,9 +210,13 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			<td>Pfizer/Comirnaty</td>
 			</tr>    
     <tr>
-      <td>Ko Family Clinic
-</td>
+      <td>Ko Family Clinic</td>
       <td>18 Upper Boon Keng Road #01-1133, Singapore 380018</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
+      <td>TPC Medical Clinic</td>
+      <td>7 Wallich Street #B1-15 Guoco Tower Singapore 078884</td>
 			<td>Pfizer/Comirnaty</td>
 			</tr>    
     <tr>
