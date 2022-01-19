@@ -489,8 +489,13 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			<td>Pfizer/Comirnaty</td>
 			</tr>		
     <tr>
+      <td>Viva Medical Clinic</td>
+      <td> 450A Tampines Street 42, #01-356, Singapore 521450</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>		
+    <tr>
       <td>Little Cross Family Clinic*</td>
-      <td>929 Tampines St 91 #01-445, Singapore 520929 (Phone:65440040)(register via vaccine.gov.sg)</td>
+      <td>929 Tampines Street 91 #01-445, Singapore 520929 (Phone:65440040)(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 			</tr>		
     <tr>
