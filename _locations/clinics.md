@@ -210,9 +210,33 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			<td>Pfizer/Comirnaty</td>
 			</tr>    
     <tr>
-      <td>Ko Family Clinic
-</td>
+      <td>Ko Family Clinic</td>
       <td>18 Upper Boon Keng Road #01-1133, Singapore 380018</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
+      <td>TPC Medical Clinic</td>
+      <td>7 Wallich Street #B1-15 Guoco Tower Singapore 078884</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
+      <td>Parklane Medical Centre</td>
+      <td>35 Selegie Road, Parklane Shopping Mall #02-25A, Singapore 188307</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
+      <td>Trucare Medical and Surgery (Havelock)</td>
+      <td>51 Havelock Road #01-04, Singapore 161051</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
+      <td>King George's Medical Clinic</td>
+      <td>803 King George's Avenue #01-144, Singapore 200803</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
+      <td>FAITH Clinic (Toa Payoh)</td>
+      <td> 211 Lorong 8 Toa Payoh #01-19, Singapore 310211</td>
 			<td>Pfizer/Comirnaty</td>
 			</tr>    
     <tr>
@@ -226,8 +250,8 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>Phoenix Medical Group (Novena)</td>
-      <td>275 Thomson Road, #01-05 Novena Regency #01-05 , Singapore 307645 (Phone:62543862)</td>
+      <td>Phoenix Medical Group (Novena)*</td>
+      <td>275 Thomson Road, #01-05 Novena Regency #01-05 , Singapore 307645 (Phone:62543862)(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
@@ -286,8 +310,8 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>Doctors For Life Medical</td>
-      <td> 3 Pickering Street, Nankin Row #01-02, Singapore 048660(Phone:69090527)</td>
+      <td>Doctors For Life Medical*</td>
+      <td> 3 Pickering Street, Nankin Row #01-02, Singapore 048660(Phone:69090527)(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
@@ -348,6 +372,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
     <tr>
       <td>Advantage Medical Clinic*</td>
       <td>1 Fifth Ave, Guthrie House 03-12, Singapore 268802(register via vaccine.gov.sg)</td>
+			<td>Sinovac</td>
+			</tr>    
+    <tr>
+      <td>Lily Neo Clinic Pte Ltd*</td>
+      <td>101 Irrawaddy Road, Royal Square Medical Centre #21-09, Singapore 329565(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
     </tr> 
 		  </tbody>
@@ -489,8 +518,28 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			<td>Pfizer/Comirnaty</td>
 			</tr>		
     <tr>
+      <td>Viva Medical Clinic</td>
+      <td>450A Tampines Street 42, #01-356, Singapore 521450</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>		
+    <tr>
+      <td>Yoong Family Clinic & Surgery</td>
+      <td> 333 Tampines Street 32, #01-536, Singapore 520333</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>		
+    <tr>
+      <td>Pasir Ris Clinic & Surgery Pte Ltd</td>
+      <td> 442 Pasir Ris Drive 6 #01-28, Singapore 510442</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>		
+    <tr>
+      <td>FAITH Clinic (Simei)</td>
+      <td>  139 Simei Street 1 #01-10, Singapore 520139</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>		
+    <tr>
       <td>Little Cross Family Clinic*</td>
-      <td>929 Tampines St 91 #01-445, Singapore 520929 (Phone:65440040)(register via vaccine.gov.sg)</td>
+      <td>929 Tampines Street 91 #01-445, Singapore 520929 (Phone:65440040)(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 			</tr>		
     <tr>
@@ -619,6 +668,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
    <tr>
     <td>United Health Family Clinic & Surgery</td>
       <td>627 Yishun Street 61 #01-63, Singapore 760627</td>
+				<td>Pfizer/Comirnaty</td>
+		 </tr>	
+   <tr>
+    <td>FAITH Clinic (Yishun)</td>
+      <td>598 Yishun Ring Road, Wisteria Mall #01-11, Singapore 768698</td>
 				<td>Pfizer/Comirnaty</td>
 		 </tr>	
    <tr>
@@ -831,6 +885,26 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 			<td>Pfizer/Comirnaty</td>
 				</tr>
     	<tr>
+      <td>Medivene Clinic & Surgery</td>
+      <td>330 Anchorvale Street #01-05, Singapore 540330</td>
+			<td>Pfizer/Comirnaty</td>
+				</tr>
+    	<tr>
+      <td>Family Medicare Clinic & Surgery</td>
+      <td> 721 Ang Mo Kio Avenue 8, #01-2815, Singapore 560721</td>
+			<td>Pfizer/Comirnaty</td>
+				</tr>
+    	<tr>
+      <td>Island Family Clinic (Seletar)</td>
+      <td>455 Sengkang West Avenue #01-14, Singapore 790455</td>
+			<td>Pfizer/Comirnaty</td>
+				</tr>
+    	<tr>
+      <td>Punggol Family Clinic Pte Ltd</td>
+      <td>322 Sumang Walk #01-03, Singapore 820322</td>
+			<td>Pfizer/Comirnaty</td>
+				</tr>
+    	<tr>
       <td>Myclnq Medical</td>
       <td> 554 Ang Mo Kio Avenue 10 #01-2048 Cheng San Place Singapore 560554 (Phone:62350308)</td>
 			<td>Sinovac</td>
@@ -851,8 +925,8 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 			<td>Sinovac</td>
 					</tr>
     	<tr>
-      <td>SATA CommHealth Ang Mo Kio Medical Centre</td>
-      <td>715 Ang Mo Kio Avenue 6 #01-4008 & 4010  Singapore 560715 (Phone: 62446688)</td>
+      <td>SATA CommHealth Ang Mo Kio Medical Centre*</td>
+      <td>715 Ang Mo Kio Avenue 6 #01-4008 & 4010  Singapore 560715 (Phone: 62446688)(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 				</tr>
     	<tr>
@@ -883,6 +957,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
     	<tr>
       <td>1 Medical Teck Ghee*</td>
       <td>410 Ang Mo Kio Ave 10, Teck Ghee Square #01-837, Singapore 560410 (register via vaccine.gov.sg)</td>
+			<td>Sinovac</td>
+				</tr>
+    	<tr>
+      <td>Premier Clinic and Surgery*</td>
+      <td>631 Ang Mo Kio Avenue 4 #01-936, Singapore 560631 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
     </tr>
   </tbody>
@@ -994,6 +1073,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 			<td>Pfizer/Comirnaty</td>
 			</tr>
     <tr>
+      <td>FAITH Clinic (Jurong West)</td>
+      <td>762 Jurong West Street 75, Gek Poh Shopping Centre #02-256D, Singapore 640762</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>
+    <tr>
       <td>Providence Clinic @ Hillford*</td>
       <td>182 Jalan Jurong Kechil, The Hillford, #01-65 Singapore 596152 (Phone:63140970)(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
@@ -1009,8 +1093,8 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 			<td>Sinovac</td>
 			</tr>
     <tr>
-      <td>Chua Medical Clinic And Surgery Pte Ltd</td>
-      <td>642 Bukit Batok Central #01-52, Singapore 650642 (Phone:69726948)</td>
+      <td>Chua Medical Clinic And Surgery Pte Ltd*</td>
+      <td>642 Bukit Batok Central #01-52, Singapore 650642 (Phone:69726948)(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 			</tr>
     <tr>
