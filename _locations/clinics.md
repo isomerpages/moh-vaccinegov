@@ -225,6 +225,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			<td>Pfizer/Comirnaty</td>
 			</tr>    
     <tr>
+      <td>Trucare Medical and Surgery (Havelock)</td>
+      <td>51 Havelock Road #01-04, Singapore 161051</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>    
+    <tr>
       <td>Anteh Dispensary Pte Ltd*</td>
       <td>1 Lorong 22 Geylang, Grandview Suites #01-02 , Singapore 398664 (Phone:67441809)(register via vaccine.gov.sg) </td>
 			<td>Sinovac</td>
