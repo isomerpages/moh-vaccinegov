@@ -214,6 +214,10 @@ As operating hours may vary, please call the respective clinics for enquiries on
 </td>
       <td>18 Upper Boon Keng Road #01-1133, Singapore 380018</td>
 			<td>Pfizer/Comirnaty</td>
+			<tr>
+      <td>TPC Medical Clinic</td>
+      <td>7 Wallich Street, Guoco Tower #B1-15,  Singapore 078884</td>
+			<td>Pfizer/Comirnaty</td>
 			</tr>    
     <tr>
       <td>Anteh Dispensary Pte Ltd*</td>
