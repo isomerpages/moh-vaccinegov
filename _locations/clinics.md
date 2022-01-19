@@ -494,6 +494,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			<td>Pfizer/Comirnaty</td>
 			</tr>		
     <tr>
+      <td>Yoong Family Clinic & Surgery</td>
+      <td> 333 Tampines Street 32, #01-536, Singapore 520333</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>		
+    <tr>
       <td>Little Cross Family Clinic*</td>
       <td>929 Tampines Street 91 #01-445, Singapore 520929 (Phone:65440040)(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
