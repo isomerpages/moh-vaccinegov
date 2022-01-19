@@ -250,8 +250,8 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>Phoenix Medical Group (Novena)</td>
-      <td>275 Thomson Road, #01-05 Novena Regency #01-05 , Singapore 307645 (Phone:62543862)</td>
+      <td>Phoenix Medical Group (Novena)*</td>
+      <td>275 Thomson Road, #01-05 Novena Regency #01-05 , Singapore 307645 (Phone:62543862)(register via vaccine.gov.sg</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
