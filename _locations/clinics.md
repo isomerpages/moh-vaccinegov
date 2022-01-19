@@ -373,6 +373,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td>Advantage Medical Clinic*</td>
       <td>1 Fifth Ave, Guthrie House 03-12, Singapore 268802(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
+			</tr>    
+    <tr>
+      <td>Advantage Medical Clinic*</td>
+      <td>1 Fifth Ave, Guthrie House 03-12, Singapore 268802(register via vaccine.gov.sg)</td>
+			<td>Sinovac</td>
     </tr> 
 		  </tbody>
 </table>
