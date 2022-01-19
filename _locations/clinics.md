@@ -310,8 +310,8 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>Doctors For Life Medical</td>
-      <td> 3 Pickering Street, Nankin Row #01-02, Singapore 048660(Phone:69090527)</td>
+      <td>Doctors For Life Medical*</td>
+      <td> 3 Pickering Street, Nankin Row #01-02, Singapore 048660(Phone:69090527)(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
