@@ -210,13 +210,9 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			<td>Pfizer/Comirnaty</td>
 			</tr>    
     <tr>
-      <td>Ko Family Clinic</td>
+      <td>Ko Family Clinic
+</td>
       <td>18 Upper Boon Keng Road #01-1133, Singapore 380018</td>
-			<td>Pfizer/Comirnaty</td>
-			</tr>
-			<tr>
-      <td>TPC Medical Clinic</td>
-      <td>7 Wallich Street, Guoco Tower #B1-15,  Singapore 078884</td>
 			<td>Pfizer/Comirnaty</td>
 			</tr>    
     <tr>
@@ -493,18 +489,8 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			<td>Pfizer/Comirnaty</td>
 			</tr>		
     <tr>
-      <td>Viva Medical Clinic</td>
-      <td> 450A Tampines Street 42 #01-356, Singapore 521450</td>
-			<td>Pfizer/Comirnaty</td>
-			</tr>
-			<tr>
-      <td>Yoong Family Clinic & Surgery</td>
-      <td> 333 Tampines Street 32 #01-536, Singapore 520333</td>
-			<td>Pfizer/Comirnaty</td>
-			</tr>		
-    <tr>
       <td>Little Cross Family Clinic*</td>
-      <td>929 Tampines Street 91 #01-445, Singapore 520929 (Phone:65440040)(register via vaccine.gov.sg)</td>
+      <td>929 Tampines St 91 #01-445, Singapore 520929 (Phone:65440040)(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 			</tr>		
     <tr>
