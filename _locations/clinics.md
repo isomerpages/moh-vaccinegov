@@ -661,6 +661,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
 				<td>Pfizer/Comirnaty</td>
 		 </tr>	
    <tr>
+    <td>FAITH Clinic (Yishun)</td>
+      <td>598 Yishun Ring Road, Wisteria Mall #01-11, Singapore 768698</td>
+				<td>Pfizer/Comirnaty</td>
+		 </tr>	
+   <tr>
     <td>Sembawang Mart Medical Centre</td>
       <td>511 Canbeera Road, Sembawang Mart #02-02A, Singapore 750511 (Phone:64819793)</td>
 				<td>Sinovac</td>
