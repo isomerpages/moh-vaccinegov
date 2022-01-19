@@ -958,6 +958,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>1 Medical Teck Ghee*</td>
       <td>410 Ang Mo Kio Ave 10, Teck Ghee Square #01-837, Singapore 560410 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
+				</tr>
+    	<tr>
+      <td>Premier Clinic and Surgery*</td>
+      <td>631 Ang Mo Kio Avenue 4 #01-936, Singapore 560631 (register via vaccine.gov.sg)</td>
+			<td>Sinovac</td>
     </tr>
   </tbody>
 </table>
