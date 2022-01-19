@@ -496,6 +496,7 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td>Viva Medical Clinic</td>
       <td> 450A Tampines Street 42 #01-356, Singapore 521450</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>
 			<tr>
       <td>Yoong Family Clinic & Surgery</td>
       <td> 333 Tampines Street 32 #01-536, Singapore 520333</td>
