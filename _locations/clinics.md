@@ -920,8 +920,8 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 			<td>Sinovac</td>
 					</tr>
     	<tr>
-      <td>SATA CommHealth Ang Mo Kio Medical Centre</td>
-      <td>715 Ang Mo Kio Avenue 6 #01-4008 & 4010  Singapore 560715 (Phone: 62446688)</td>
+      <td>SATA CommHealth Ang Mo Kio Medical Centre*</td>
+      <td>715 Ang Mo Kio Avenue 6 #01-4008 & 4010  Singapore 560715 (Phone: 62446688)(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 				</tr>
     	<tr>
