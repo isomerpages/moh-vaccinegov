@@ -271,7 +271,7 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			</tr>    
     <tr>
       <td>Central Medical Group Pte Ltd*</td>
-      <td>11 Jalan Bukit Merah #01-4442  Singapore 150011 (Phone:62722212)</td>
+      <td>11 Jalan Bukit Merah #01-4442  Singapore 150011 (Phone:62722212)(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
@@ -286,7 +286,7 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			</tr>    
     <tr>
       <td>The Family Practice @ Skyville*</td>
-      <td>85 Dawson Road #01-06, Singapore 141085 (Phone:62551382)</td>
+      <td>85 Dawson Road #01-06, Singapore 141085 (Phone:62551382)(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
