@@ -25,7 +25,7 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
 14 Apr 2022 (Eve of Good Friday): 8am to 3pm (last appointment will be at 2pm)<br>
 15 Apr 2022 (Good Friday) - Closed<br>
 30 Apr 2022 (Eve of Labour Day): 8am to 3pm (last appointment will be at 2pm)<br>
-1 May 2022 (Good Friday) - Closed<br>
+1 May 2022 (Labour Day) - Closed<br>
 2 May 2022 (Eve of Hari Raya Puasa): 8am to 3pm (last appointment will be at 2pm)<br>
 3 May 2022 (Hari Raya Puasa) - Closed<br>
 14 May 2022 (Eve of Vesak Day): 8am to 3pm (last appointment will be at 2pm)<br>
