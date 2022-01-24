@@ -24,8 +24,8 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
 1 to 2 Feb 2022 (Chinese New Year) - Closed<br>
 2 May 2022 (Eve of Hari Raya Puasa): 8am to 3pm (last appointment will be at 2pm)<br>
 3 May 2022 (Hari Raya Puasa) - Closed<br>
-5 May 2022 (Eve of Vesak Day): 8am to 3pm (last appointment will be at 2pm)<br>
-6 May 2022 (Vesak Day) - Closed<br>
+14 May 2022 (Eve of Vesak Day): 8am to 3pm (last appointment will be at 2pm)<br>
+15 May 2022 (Vesak Day) - Closed<br>
 9 Jul 2022 (Eve of Hari Raya Haji): 8am to 3pm (last appointment will be at 2pm)<br>
 10 Jul 2022 (Hari Raya Haji) - Closed<br>
 23 Oct 2022 (Eve of Deepavali): 8am to 3pm (last appointment will be at 2pm)<br>
