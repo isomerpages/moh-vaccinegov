@@ -692,7 +692,7 @@ As operating hours may vary, please call the respective clinics for enquiries on
 		  </tr>	
    <tr>
     <td>Pinnacle Family Clinic (Woodlands)*</td>
-      <td>573 Woodlands Drive 16 #01-06,  Singapore 730573 (Phone:67601623)</td>
+      <td>573 Woodlands Drive 16 #01-06,  Singapore 730573 (Phone:67601623)(register via vaccine.gov.sg)</td>
 				<td>Sinovac</td>
 		  </tr>	
    <tr>
