@@ -261,7 +261,7 @@ If you have booked separate appointments for both children, you are strongly enc
     				<label for="question-3-4" class="tab-label">I have recovered from a COVID-19 infection. Can I take my COVID-19 vaccine now?
     				</label>
     				<div class="tab-content">
-    					<p>	At present, for persons who have recovered from COVID-19 and were fully vaccinated before their infection, we do not recommend a booster dose.<br><br>
+    					<p>	There are currently no recommendations for persons who had recovered from COVID-19 and were fully vaccinated before their infection to receive a booster dose. Notwithstanding this, it is generally safe for persons (e.g. fully vaccinated persons who have recovered from COVID-19) to receive the booster vaccination.<br><br>
 Recovered persons who were unvaccinated, or partially vaccinated before their infection, should receive one dose of mRNA vaccine at least three months after infection to reduce their risk of reinfection, as part of their primary series vaccination. We do not recommend a subsequent booster dose following this at this time^.<br><br>
 Note: Recovered persons who are medically ineligible for the mRNA vaccines and were unvaccinated or partially vaccinated before infection, should receive two doses of the Sinovac-CoronaVac vaccine taken 28 days apart at least three months after infection, as part of their primary series vaccination.<br><br>
 ^While there is no recommendation for a subsequent booster dose, it is safe to receive a booster dose from 5 months after the last dose for extra protection. 
