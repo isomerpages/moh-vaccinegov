@@ -23,24 +23,22 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
 Walk-ins to Paediatric Vaccination Centres at Nanyang Community Club and Queenstown
 Community Club have ceased
 
-**Upcoming Public Hoildays Operating Hours**<br>(Please note that the last appointment on the eve of the Public Holiday will be at 2pm)<br><br>
-31 Jan 2022 (Chinese New Year's Eve): 8am to 3pm (last appointment will be at 2pm)<br>
-1 to 2 Feb 2022 (Chinese New Year) - Closed<br>
-14 Apr 2022 (Eve of Good Friday): 8am to 3pm (last appointment will be at 2pm)<br>
+**Upcoming Public Hoildays Operating Hours**<br>(Please note that the last appointment on the eve of the Public Holiday will be at 2pm.)<br><br>
+14 Apr 2022 (Eve of Good Friday): 8am to 3pm<br>
 15 Apr 2022 (Good Friday) - Closed<br>
-30 Apr 2022 (Eve of Labour Day): 8am to 3pm (last appointment will be at 2pm)<br>
+30 Apr 2022 (Eve of Labour Day): 8am to 3pm<br>
 1 May 2022 (Labour Day) - Closed<br>
-2 May 2022 (Eve of Hari Raya Puasa): 8am to 3pm (last appointment will be at 2pm)<br>
+2 May 2022 (Eve of Hari Raya Puasa): 8am to 3pm<br>
 3 May 2022 (Hari Raya Puasa) - Closed<br>
-14 May 2022 (Eve of Vesak Day): 8am to 3pm (last appointment will be at 2pm)<br>
+14 May 2022 (Eve of Vesak Day): 8am to 3pm<br>
 15 May 2022 (Vesak Day) - Closed<br>
-9 Jul 2022 (Eve of Hari Raya Haji): 8am to 3pm (last appointment will be at 2pm)<br>
+9 Jul 2022 (Eve of Hari Raya Haji): 8am to 3pm<br>
 10 Jul 2022 (Hari Raya Haji) - Closed<br>
-8 Aug 2022 (Eve of National Day): 8am to 3pm (last appointment will be at 2pm)<br>
+8 Aug 2022 (Eve of National Day): 8am to 3pm<br>
 9 Aug 2022 (National Day) - Closed<br>
-23 Oct 2022 (Eve of Deepavali): 8am to 3pm (last appointment will be at 2pm)<br>
+23 Oct 2022 (Eve of Deepavali): 8am to 3pm<br>
 24 Oct 2022 (Deepavali) - Closed<br>
-24 Dec 2022 (Christmas Day's Eve): 8am to 3pm (last appointment will be at 2pm)<br>
+24 Dec 2022 (Christmas Day's Eve): 8am to 3pm<br>
 25 Dec 2022 (Chistmas Day) - Closed<br>
 
 ###  **Central**
