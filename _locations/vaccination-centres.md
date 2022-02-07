@@ -39,7 +39,7 @@ Community Club have ceased
 23 Oct 2022 (Eve of Deepavali): 8am to 3pm<br>
 24 Oct 2022 (Deepavali) - Closed<br>
 24 Dec 2022 (Christmas Day's Eve): 8am to 3pm<br>
-25 Dec 2022 (Chistmas Day) - Closed<br>
+25 Dec 2022 (Christmas Day) - Closed<br>
 
 ###  **Central**
 <table>
