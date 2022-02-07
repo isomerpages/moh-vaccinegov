@@ -21,7 +21,7 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
 7.30pm Mondays to Sundays for all other Vaccination Centres,<br>
 1pm on eve of Public Holiday,<br>
 Walk-ins to Paediatric Vaccination Centres at Nanyang Community Club and Queenstown
-Community Club have ceased.
+Community Club have ceased
 
 **Upcoming Public Hoildays Operating Hours**<br>(Please note that the last appointment on the eve of the Public Holiday will be at 2pm)<br><br>
 31 Jan 2022 (Chinese New Year's Eve): 8am to 3pm (last appointment will be at 2pm)<br>
