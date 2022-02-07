@@ -22,7 +22,7 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
 Walk-ins to Paediatric Vaccination Centres at Nanyang Community Club and Queenstown
 Community Club have ceased
 
-**Upcoming Public Hoildays Operating Hours**<br>(Please note that the last appointment on the eve of the Public Holiday will be at 2pm.)<br><br>
+**Upcoming Public Hoildays Operating Hours**<br>Please note that the last appointment on the eve of the Public Holiday will be at 2pm.<br><br>
 14 Apr 2022 (Eve of Good Friday): 8am to 3pm<br>
 15 Apr 2022 (Good Friday) - Closed<br>
 30 Apr 2022 (Eve of Labour Day): 8am to 3pm<br>
