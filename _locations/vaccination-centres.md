@@ -221,12 +221,12 @@ Community Club have ceased
     <tr>
       <td>Hong Kah North Community Club </td>
       <td>30 Bukit Batok Street 31, Singapore 659440</td>
-			<td>Moderna</td>
+			<td>Moderna/Spikevax</td>
     </tr>
     <tr>
       <td>Yew Tee Community Club   </td>
       <td>20 Choa Chu Kang Street 52, Singapore 689286</td>
-			<td>Moderna</td>
+			<td>Moderna/Spikevax</td>
     </tr>
     <tr>
       <td>Former Hong Kah Secondary School</td>
