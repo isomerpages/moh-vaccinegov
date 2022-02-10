@@ -145,7 +145,7 @@ Community Club have ceased
     <tr>
       <td>Woodlands Community Club   </td>
       <td>1 Woodlands Street 81, Singapore 738526</td>
-			<td>Moderna / Spikevax</td>
+			<td>Moderna/Spikevax</td>
     </tr>  
     <tr>
       <td>Woodlands Galaxy Community Club</td>
