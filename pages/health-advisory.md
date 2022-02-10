@@ -5,14 +5,14 @@ permalink: /health-advisory/
 **You are considered fully vaccinated against COVID-19 if you have had**:
 
 - 2 doses of **Pfizer-BioNTech / Comirnaty**, at least 21 days apart
-- 2 doses of **Moderna**,  at least 28 days apart
+- 2 doses of **Moderna / Spikevax**,  at least 28 days apart
 - 3 doses of **Sinovac-CoronaVac**, the second dose should be 28 days after the first dose, and the third dose should be 90 days after the second dose
   <br/>
 
 **COVID-19 vaccine is currently not recommended for**
 
 - Individuals below 5 years of age for the Pfizer-BioNTech / Comirnaty vaccine
-- Individuals below 18 years of age for the Moderna and Sinovac-CoronaVac vaccines
+- Individuals below 18 years of age for the Moderna / Spikevax and Sinovac-CoronaVac vaccines
 <br/>
 
 **Important reminders**:
@@ -47,7 +47,7 @@ Persons who are moderately to severely immunocompromised are recommended to rece
  
 [Screening Form and Vaccination Information Sheet - Pfizer / Comirnaty*(Adults and Children)](http://go.gov.sg/visp)<br>
 
- [Screening Form and Vaccination Information Sheet - Moderna*](https://go.gov.sg/vism)<br>
+ [Screening Form and Vaccination Information Sheet - Moderna / Spikevax*](https://go.gov.sg/vism)<br>
  
  [Screening Form and Vaccination Information Sheet – Sinovac*](https://go.gov.sg/viss)<br>
  ^This is not applicable for persons under the vaccination channels for Overseas Singaporeans<br>

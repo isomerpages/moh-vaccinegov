@@ -53,12 +53,12 @@ Community Club have ceased
     <tr>
       <td>Radin Mas Community Club  </td>
       <td>51 Telok Blangah Crescent, Singapore 098917</td>
-			<td>Moderna</td>
+			<td>Moderna/Spikevax</td>
     </tr>	
     <tr>
       <td>Buona Vista Community Club </td>
       <td>36 Holland Drive, Singapore 270036</td>
-			<td>Moderna</td>
+			<td>Moderna/Spikevax</td>
     </tr> 
     <tr>
       <td>Raffles City Convention Centre</td>
@@ -112,7 +112,7 @@ Community Club have ceased
     <tr>
       <td>Tampines East Community Club </td>
       <td>10 Tampines Street 23, Singapore 529341</td>
-			<td>Moderna</td>
+			<td>Moderna/Spikevax</td>
     </tr>  
     <tr>
       <td>Bedok Community Centre   </td>
@@ -145,7 +145,7 @@ Community Club have ceased
     <tr>
       <td>Woodlands Community Club   </td>
       <td>1 Woodlands Street 81, Singapore 738526</td>
-			<td>Moderna</td>
+			<td>Moderna/Spikevax</td>
     </tr>  
     <tr>
       <td>Woodlands Galaxy Community Club</td>
@@ -178,7 +178,7 @@ Community Club have ceased
     <tr>
       <td>Punggol 21 Community Club</td>
       <td>80 Punggol Field #01-01, Singapore 828815</td>
-			<td>Moderna</td>
+			<td>Moderna/Spikevax</td>
     </tr> 
     <tr>
       <td>The Serangoon Community Club </td>
@@ -221,12 +221,12 @@ Community Club have ceased
     <tr>
       <td>Hong Kah North Community Club </td>
       <td>30 Bukit Batok Street 31, Singapore 659440</td>
-			<td>Moderna</td>
+			<td>Moderna/Spikevax</td>
     </tr>
     <tr>
       <td>Yew Tee Community Club   </td>
       <td>20 Choa Chu Kang Street 52, Singapore 689286</td>
-			<td>Moderna</td>
+			<td>Moderna/Spikevax</td>
     </tr>
     <tr>
       <td>Former Hong Kah Secondary School</td>
