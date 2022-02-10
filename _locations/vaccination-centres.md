@@ -53,12 +53,12 @@ Community Club have ceased
     <tr>
       <td>Radin Mas Community Club  </td>
       <td>51 Telok Blangah Crescent, Singapore 098917</td>
-			<td>Moderna</td>
+			<td>Moderna / Spikevax</td>
     </tr>	
     <tr>
       <td>Buona Vista Community Club </td>
       <td>36 Holland Drive, Singapore 270036</td>
-			<td>Moderna</td>
+			<td>Moderna / Spikevax</td>
     </tr> 
     <tr>
       <td>Raffles City Convention Centre</td>
