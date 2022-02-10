@@ -178,7 +178,7 @@ Community Club have ceased
     <tr>
       <td>Punggol 21 Community Club</td>
       <td>80 Punggol Field #01-01, Singapore 828815</td>
-			<td>Moderna / Spikevax</td>
+			<td>Moderna/Spikevax</td>
     </tr> 
     <tr>
       <td>The Serangoon Community Club </td>
