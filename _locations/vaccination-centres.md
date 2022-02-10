@@ -112,7 +112,7 @@ Community Club have ceased
     <tr>
       <td>Tampines East Community Club </td>
       <td>10 Tampines Street 23, Singapore 529341</td>
-			<td>Moderna</td>
+			<td>Moderna / Spikevax</td>
     </tr>  
     <tr>
       <td>Bedok Community Centre   </td>
@@ -145,7 +145,7 @@ Community Club have ceased
     <tr>
       <td>Woodlands Community Club   </td>
       <td>1 Woodlands Street 81, Singapore 738526</td>
-			<td>Moderna</td>
+			<td>Moderna / Spikevax</td>
     </tr>  
     <tr>
       <td>Woodlands Galaxy Community Club</td>
