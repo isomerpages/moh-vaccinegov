@@ -47,7 +47,7 @@ Persons who are moderately to severely immunocompromised are recommended to rece
  
 [Screening Form and Vaccination Information Sheet - Pfizer / Comirnaty*(Adults and Children)](http://go.gov.sg/visp)<br>
 
- [Screening Form and Vaccination Information Sheet - Moderna*](https://go.gov.sg/vism)<br>
+ [Screening Form and Vaccination Information Sheet - Moderna / Spikevax*](https://go.gov.sg/vism)<br>
  
  [Screening Form and Vaccination Information Sheet – Sinovac*](https://go.gov.sg/viss)<br>
  ^This is not applicable for persons under the vaccination channels for Overseas Singaporeans<br>
