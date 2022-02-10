@@ -43,7 +43,7 @@ Parents/guardians of children aged 5 to 11 who are under the MOE vaccination exe
 
 Parents/guardians of children aged 5 to 11 who are not part of the MOE vaccination exercise may register on your child/ward’s behalf <a href="https://child.vaccine.gov.sg/">here</a>. <br><br>
 
-*Individuals aged 12 and above for Pfizer-BioNTech/Comirnaty vaccine, or 18 and above for Moderna vaccine
+*Individuals aged 12 and above for Pfizer-BioNTech/Comirnaty vaccine, or 18 and above for Moderna/Spikevax vaccine
 								</p>
 							</div>
 					</div>
