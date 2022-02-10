@@ -5,7 +5,7 @@ permalink: /health-advisory/
 **You are considered fully vaccinated against COVID-19 if you have had**:
 
 - 2 doses of **Pfizer-BioNTech / Comirnaty**, at least 21 days apart
-- 2 doses of **Moderna**,  at least 28 days apart
+- 2 doses of **Moderna / Spikevax**,  at least 28 days apart
 - 3 doses of **Sinovac-CoronaVac**, the second dose should be 28 days after the first dose, and the third dose should be 90 days after the second dose
   <br/>
 
