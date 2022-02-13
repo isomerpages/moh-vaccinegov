@@ -255,11 +255,6 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>Providence Clinic @ Redhill</td>
-      <td>86 Redhill Close #01-598,  Singapore 150086 (Phone:64710301)</td>
-			<td>Sinovac</td>
-			</tr>    
-    <tr>
       <td>Mediview Clinic & Surgery*</td>
       <td>150 Toa Payoh Lorong 1 #01-999  Singapore 310150 (Phone:62532351)(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
