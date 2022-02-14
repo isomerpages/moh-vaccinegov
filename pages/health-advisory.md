@@ -51,7 +51,7 @@ Persons who are moderately to severely immunocompromised are recommended to rece
  
  [Screening Form and Vaccination Information Sheet – Sinovac*](https://go.gov.sg/viss)<br>
  
- [Parental Consent Form for Paeds SAM (By Invite Only](https://go.gov.sg/sampcf)<br><br>
+ [Parental Consent Form for Paeds SAM (By Invite Only)](https://go.gov.sg/sampcf)<br><br>
  ^This is not applicable for persons under the vaccination channels for Overseas Singaporeans<br>
  ^^Persons under IO who have not completed their primary series may resume their vaccination regime 90 days from their date of diagnosis<br>
   *These forms will be provided and filled up at the vaccination site
