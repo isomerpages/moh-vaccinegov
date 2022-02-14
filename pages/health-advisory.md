@@ -55,5 +55,3 @@ Persons who are moderately to severely immunocompromised are recommended to rece
  ^This is not applicable for persons under the vaccination channels for Overseas Singaporeans<br>
  ^^Persons under IO who have not completed their primary series may resume their vaccination regime 90 days from their date of diagnosis<br>
   *These forms will be provided and filled up at the vaccination site
-	
-[Screening Form and Vaccination Information Sheet - Moderna / Spikevax*](https://go.gov.sg/vism)<br>
