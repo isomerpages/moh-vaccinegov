@@ -150,11 +150,6 @@ Locations that are administering the Covid-19 Vaccines.
       <td>Pioneer Polyclinic</td>
       <td>26 Jurong West Street 61, Singapore 648201</td>
 			<td> Pfizer/Comirnaty</td>
-    </tr>    
-    <tr>
-      <td>Clementi Polyclinic</td>
-      <td>451 Clementi Avenue 3, Singapore 120451</td>
-			<td> Pfizer/Comirnaty</td>
     </tr>	
     <tr>
       <td>Jurong Polyclinic</td>
