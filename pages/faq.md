@@ -125,7 +125,7 @@ Under the National Vaccination Programme, children/wards below the age of 18 wil
 						<label for="question-1-13" class="tab-label">My child has an appointment for his/her second dose after 10 Jan. Can I bring his/her siblings along for vaccination under the “sibling walk-in” arrangement? </label>
 						<div class="tab-content">
 							<p>
-						You can bring along your younger child for his/her vaccination during the appointment slot of your older child, so long as the older child’s appointment date is on Mondays to Thursdays. No prior appointment for the younger child is required. To ensure a smooth and pleasant experience for all, parents planning to vaccinate children under this “sibling walk-in” arrangement should arrive at the VCs by 7 pm, with all children. (Do note that for the vaccination centre at Yusof Ishak Secondary School, it would be only Tuesdays to Thursdays with the arrival time to be before 5pm as the last appointment is at 5pm.)<br><br>
+						You can bring along your younger child for his/her vaccination during the appointment slot of your older child, so long as the older child’s appointment date is on Mondays to Thursdays. No prior appointment for the younger child is required. To ensure a smooth and pleasant experience for all, parents planning to vaccinate children under this “sibling walk-in” arrangement should arrive at the VCs by 7 pm, with all children. (Do note that for the vaccination centre at Yusof Ishak Secondary School, it would be only Tuesdays to Thursdays with the arrival time to be before 4pm.)<br><br>
 If you have booked separate appointments for both children, you are strongly encouraged to keep only one desired slot and cancel the remaining bookings on NAS.								
 							</p>
 							</div>
