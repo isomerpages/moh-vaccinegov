@@ -260,11 +260,6 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>Thomson Wellth Clinic</td>
-      <td>290 Orchard Road, Paragon Medical Centre #19-01, Singapore 238859 (Phone:63526550)</td>
-			<td>Sinovac</td>
-			</tr>    
-    <tr>
       <td>Central Medical Group Pte Ltd*</td>
       <td>11 Jalan Bukit Merah #01-4442  Singapore 150011 (Phone:62722212)(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
