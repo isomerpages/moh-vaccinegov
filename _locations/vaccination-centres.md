@@ -18,7 +18,7 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
  **Last Walk-in**:<br>
  7pm on Mondays to Thursdays for all Vaccination Centres except at Yusof Ishak Secondary School,<br>
 1pm on eve of Public Holiday,<br>
-Walk-ins to Paediatric Vaccination Centres at Nanyang Community Club and Queenstown Community Club have ceased<br>
+Walk-ins to Paediatric Vaccination Centres at Nanyang Community Club and Queenstown Community Club have ceased<br><br>
 **Vaccination Centre at Yusof Ishak Secondary School:**<br>
 Normal Operating Hours:<br>
 10am – 6.30pm on Tuesdays to Thursdays (last appointment at 5pm)<br>
