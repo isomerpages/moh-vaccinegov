@@ -669,11 +669,6 @@ As operating hours may vary, please call the respective clinics for enquiries on
     <td>FAITH Clinic (Yishun)</td>
       <td>598 Yishun Ring Road, Wisteria Mall #01-11, Singapore 768698</td>
 				<td>Pfizer/Comirnaty</td>
-		 </tr>	
-   <tr>
-    <td>Woodgrove Family Clinic</td>
-      <td>325 Woodlands Street 32 #01-135  Singapore 730325 (Phone:62351751)</td>
-				<td>Sinovac</td>
 		  </tr>	
    <tr>
     <td>Pinnacle Family Clinic (Woodlands)*</td>
