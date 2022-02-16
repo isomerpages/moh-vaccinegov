@@ -671,11 +671,6 @@ As operating hours may vary, please call the respective clinics for enquiries on
 				<td>Pfizer/Comirnaty</td>
 		 </tr>	
    <tr>
-    <td>Sembawang Mart Medical Centre</td>
-      <td>511 Canbeera Road, Sembawang Mart #02-02A, Singapore 750511 (Phone:64819793)</td>
-				<td>Sinovac</td>
-		 </tr>	
-   <tr>
     <td>The Cliniq</td>
       <td>590A Montreal Link, Montreal Dale #01-23, Singapore 751590 (Phone:67107635)</td>
 				<td>Sinovac</td>
