@@ -900,11 +900,6 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 			<td>Pfizer/Comirnaty</td>
 				</tr>
     	<tr>
-      <td>Myclnq Medical</td>
-      <td> 554 Ang Mo Kio Avenue 10 #01-2048 Cheng San Place Singapore 560554 (Phone:62350308)</td>
-			<td>Sinovac</td>
-				</tr>
-    	<tr>
       <td>Sengkang Family Clinic</td>
       <td>274D Compassvale Bow #01-01,  Singapore 544274 (Phone:63867781)</td>
 			<td>Sinovac</td>
