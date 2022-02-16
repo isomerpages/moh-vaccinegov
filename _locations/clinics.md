@@ -310,8 +310,8 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>iCare Medical and Wellness Clinic</td>
-      <td> 22 Havelock Road #01-701, Singapore 160022(Phone:62746858)</td>
+      <td>iCare Medical and Wellness Clinic*</td>
+      <td> 22 Havelock Road #01-701, Singapore 160022(Phone:62746858)(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
