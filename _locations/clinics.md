@@ -536,11 +536,6 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td>Pinnacle Family Clinic (Pasir Ris)*</td>
       <td>571 Pasir Ris Street 53 #01-50, Singapore 510571 (Phone:62437338)(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
-				</tr>		
-    <tr>
-      <td>Ardennes Healthcare Pte Ltd</td>
-      <td>60 Paya Lebar Road, Paya Lebar Sqaure, #02-02/03, Singapore 409051 (Phone:69803045)</td>
-			<td>Sinovac</td>
 			</tr>		
     <tr>
       <td>Phoenix Medical Group(Paya Lebar)</td>
