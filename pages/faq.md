@@ -106,8 +106,8 @@ If your child/ward is not under the MOE vaccination exercise, or has recovered f
 							<p>
 Alternatively, you may accompany him/her and walk in without an appointment to any paediatric
 Pfizer-BioNTech/Comirnaty vaccination centre to receive his/her first vaccination dose from
-Mondays to Thursdays before 7pm. Please note that walk-ins at the vaccination centre at Yusof
-Ishak Secondary School are only accepted from Tuesdays to Thursdays, before 4pm.</p>
+								<strong>Mondays to Thursdays before 7pm</strong>. Please note that walk-ins at the vaccination centre at Yusof
+								Ishak Secondary School are only accepted from <strong>Tuesdays to Thursdays, before 4pm.</strong></p>
 							</div>
 					</div>				
 					<div class="tab">
