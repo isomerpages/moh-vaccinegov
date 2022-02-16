@@ -35,9 +35,9 @@ If you are aged 60 years and above and have completed the last dose of your prim
 					</div>
 				   <div class="tab">
 						<input id="question-1-4" type="checkbox">
-							<label for="question-1-4" class="tab-label">How do I register for mRNA vaccines?</label>
+							<label for="question-1-4" class="tab-label">How do I register for an mRNA vaccination?</label>
 						<div class="tab-content">
-							<p>Singapore residents and Long-Term Pass Holders aged 12* and above can walk to any Vaccination Centre offering mRNA vaccines, without an appointment. Seniors aged 60 years and above may also walk into any of the Polyclinics or participating Public Health Preparedness Clinics to receive their first dose of vaccination, without a prior appointment.<br><br>
+							<p>Singapore residents and Long-Term Pass Holders aged 5*^ and above can walk in to any Vaccination Centre offering mRNA vaccinations, from Mondays to Thursdays before 7pm, without an appointment. Seniors aged 60 years and above may walk into any of the Polyclinics or participating Public Health Preparedness Clinics to receive their first dose of the vaccination, without an appointment. They may also walk in to any vaccination centre, any day before 7pm to receive their booster dose, without an appointment.<br><br>
 Alternatively, you may register <a href="https://preregister.vaccine.gov.sg/">here</a>. A Short Message Service (SMS) invitation with a personalised link to book your vaccination appointments will subsequently be sent to you.<br><br>
 Parents/guardians of children aged 5 to 11 who are under the MOE vaccination exercise, will receive an SMS with a personalised link to book an appointment for your child/ward.<br><br>
 
