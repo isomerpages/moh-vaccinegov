@@ -35,15 +35,13 @@ If you are aged 60 years and above and have completed the last dose of your prim
 					</div>
 				   <div class="tab">
 						<input id="question-1-4" type="checkbox">
-							<label for="question-1-4" class="tab-label">How do I register for mRNA vaccines?</label>
+							<label for="question-1-4" class="tab-label">How do I register for an mRNA vaccination?</label>
 						<div class="tab-content">
-							<p>Singapore residents and Long-Term Pass Holders aged 12* and above can walk to any Vaccination Centre offering mRNA vaccines, without an appointment. Seniors aged 60 years and above may also walk into any of the Polyclinics or participating Public Health Preparedness Clinics to receive their first dose of vaccination, without a prior appointment.<br><br>
-Alternatively, you may register <a href="https://preregister.vaccine.gov.sg/">here</a>. A Short Message Service (SMS) invitation with a personalised link to book your vaccination appointments will subsequently be sent to you.<br><br>
-Parents/guardians of children aged 5 to 11 who are under the MOE vaccination exercise, will receive an SMS with a personalised link to book an appointment for your child/ward.<br><br>
-
-Parents/guardians of children aged 5 to 11 who are not part of the MOE vaccination exercise may register on your child/ward’s behalf <a href="https://child.vaccine.gov.sg/">here</a>. <br><br>
-
-*Individuals aged 12 and above for Pfizer-BioNTech/Comirnaty vaccine, or 18 and above for Moderna/Spikevax vaccine
+							<p>Singapore residents and Long-Term Pass Holders aged 5*^ and above can walk in to any Vaccination Centre offering mRNA vaccinations, from Mondays to Thursdays before 7pm, without an appointment. Seniors aged 60 years and above may walk into any of the Polyclinics or participating Public Health Preparedness Clinics to receive their first dose of the vaccination, without an appointment. They may also walk in to any vaccination centre, any day before 7pm to receive their booster dose, without an appointment.<br><br>
+Alternatively, individuals aged 12 and above may register <a href="https://preregister.vaccine.gov.sg/">here</a>. A Short Message Service (SMS) invitation with a personalised link to book your vaccination appointments will subsequently be sent
+to you.<br><br>
+*Individuals aged 5 and above for Pfizer-BioNTech/Comirnaty vaccine, or 18 and above for Moderna/Spikevax vaccine<br>
+^Children aged 5 to 12 will need to be accompanied by a parent/guardian
 								</p>
 							</div>
 					</div>
@@ -97,23 +95,42 @@ Parents/guardians of children aged 5 to 11 who are not part of the MOE vaccinati
 					</div>				
 					<div class="tab">
 						<input id="question-1-11" type="checkbox">
-						<label for="question-1-11" class="tab-label">I want to get my child/ward vaccinated. What do I need to do?</label>
+						<label for="question-1-11" class="tab-label">I want to get my child/ward who is between 5 and 11 years old vaccinated. What do I need to
+do?</label>
 						<div class="tab-content">
 							<p>
-						Parents/guardians of children aged 5 to 11 who are under the MOE vaccination exercise, will receive an SMS with a personalised link to book an appointment for their child/ward. 
+						If your child/ward is under the MOE vaccination exercise, you will receive an SMS to book an appointment on his/her behalf.<br>
+
+If your child/ward is not under the MOE vaccination exercise, or has recovered from a COVID-19 infection and have passed 3 months from his/her date of diagnosis, you may register him/her <a href="https://child.vaccine.gov.sg/">here</a>. 
 							</p>
 							<p>
-								Parents/guardians of children aged 5 to 11 who are not part of the MOE vaccination exercise may register on their child/ward’s behalf <a href="https://child.vaccine.gov.sg/">here</a>. 
-							</p>
-							<p>
-Parents/guardians of children aged 12 to 17 can register interest on their child/ward’s behalf <a href="https://preregister.vaccine.gov.sg/">here</a>. To facilitate the booking process, parents/guardians should use their own contact details to register for their child/ward. A SMS with a personalised link will then be sent to this contact number to book a vaccination appointment.</p>
-<p>
-Under the National Vaccination Programme, children/wards below the age of 18 will require the consent of their parents/guardians to book an appointment. Children/wards aged 12 and under will need to be accompanied by their parent/guardian.</p>
+Alternatively, you may accompany him/her and walk in without an appointment to any paediatric
+Pfizer-BioNTech/Comirnaty vaccination centre to receive his/her first vaccination dose from
+								<strong>Mondays to Thursdays before 7pm</strong>. Please note that walk-ins at the vaccination centre at Yusof
+								Ishak Secondary School are only accepted from <strong>Tuesdays to Thursdays, before 4pm.</strong></p>
 							</div>
 					</div>				
 					<div class="tab">
 						<input id="question-1-12" type="checkbox">
-						<label for="question-1-12" class="tab-label">Will it be possible for parents/guardians to take their booster shot together with their child/ward?</label>
+						<label for="question-1-12" class="tab-label">I want to get my child/ward (12 to 17 years old) vaccinated. What do I need to do?</label>
+						<div class="tab-content">
+							<p>
+						Under the National Vaccination Programme, if your child/ward is below the age of 18, your consent is required for him/her to get vaccinated. You can register your interest to have your child/ward aged 12 to 17 to be vaccinated <a href="https://preregister.vaccine.gov.sg/">here</a> Please use your own contact details to register for their child/ward. An SMS with a personalised link will then be sent to this contact number to book a vaccination appointment.<br>
+
+Alternatively, if your child is a Singapore Resident or Long-Term Resident aged 12^ and above,
+he/she may walk in without an appointment to any Vaccination Centre offering mRNA vaccines,
+from Mondays to Thursdays before 7pm, for his/her first vaccination dose. 
+							</p>
+							<p>
+If your child/ward is 12 years old, you will also need to accompany him/her during the vaccination.<br>
+^Pfizer-BioNtech/Comirnaty vaccination for individuals aged 12 and above or Moderna vaccine for
+those 18 and above.
+</p>
+							</div>
+					</div>				
+					<div class="tab">
+						<input id="question-1-13" type="checkbox">
+						<label for="question-1-13" class="tab-label">Will it be possible for parents/guardians to take their booster shot together with their child/ward?</label>
 						<div class="tab-content">
 							<p>
 						Children aged 12 and under will require the accompaniment of their parent/guardian. Parents/guardians will not be able to take their booster shot during their child/ward’s vaccination.
@@ -128,7 +145,10 @@ Under the National Vaccination Programme, children/wards below the age of 18 wil
 						<label for="question-2-1" class="tab-label">How many doses are there?</label>
 						<div class="tab-content">
 							<p>The dosing regimen for the primary series vaccination is 21 days apart for the Pfizer-BioNTech/Comirnaty vaccine, and 28 days apart for the Moderna/Spikevax vaccine. Two doses of the Pfizer-BioNTech/Comirnaty and Moderna/Spikevax COVID-19 vaccines are required to be fully vaccinated. A booster dose* is recommended to be taken <strong>from five months</strong> after you have been vaccinated with two doses of the Pfizer-BioNTech/Comirnaty or Moderna/Spikevax vaccines.<br><br>
-								For the Sinovac-CoronaVac vaccine*, the second dose should be taken 28 days after the first dose, while the third dose should be taken 90 days after the second dose. Three doses of the Sinovac-CoronaVac COVID-19 vaccine are required to be considered fully vaccinated. Persons who had received three doses of COVID-19 vaccines as part of a primary vaccination series incorporating the Sinovac-Coronavac vaccine are recommended to receive a booster dose of either the Pfizer-BioNTech/Comirnaty or Moderna/Spikevax mRNA vaccines 5 months after completing their primary series.<br><br>
+								For the Sinovac-CoronaVac vaccine*, the second dose should be taken 28 days after the first dose, while the third dose should be taken 90 days after the second dose. Three doses of the Sinovac- CoronaVac COVID-19 vaccine are required to be considered fully vaccinated. Persons who had received three doses of COVID-19 vaccines as part of a primary vaccination series incorporating the Sinovac-Coronavac vaccine are recommended to receive a booster dose of either the Pfizer BioNTech/Comirnaty or Moderna mRNA vaccines. Such persons who received an mRNA vaccine as
+their third dose should do so around 5 months thereafter. However, those who received the
+Sinovac-CoronaVac or Sinopharm vaccine as their third vaccine dose should do so at 3 months
+thereafter, due to lower antibody levels generated by the third vaccine dose.<br><br>
 *Sinovac-CoronaVac should not be used as a booster vaccination. The exception is for persons who have been recommended to receive a booster but are unable to receive an mRNA vaccine due to medical reasons, such as an allergy to the mRNA vaccine.
 							</p>
 						</div>
