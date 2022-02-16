@@ -10,9 +10,7 @@ permalink: /health-advisory/
 - 1 booster dose of an **mRNA vaccine** taken within 270 days from the last dose of your
 primary vaccination series
 
-You will be eligible for your booster dose 5 months after the last dose of your primary vaccination
-series. If you have taken Sinovac-CoronaVac or Sinopharm as your last dose, you are recommended
-to receive your booster dose 3 months after your last dose.
+You will be eligible for your booster dose 5 months after the last dose of your primary vaccination series. If you have taken Sinovac-CoronaVac or Sinopharm as your last dose, you are recommended to receive your booster dose 3 months after your last dose.
   <br/>
 
 **COVID-19 vaccine is currently not recommended for**
