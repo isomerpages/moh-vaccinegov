@@ -308,11 +308,6 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td>Providence Clinic @ Novena*</td>
       <td> 1 Goldhill Plaza #01-29, Singapore 308899(Phone:62550063)(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
-				</tr>    
-    <tr>
-      <td>Doctors Express Medical Clinic</td>
-      <td> 24 Raffles Place, Clifford Centre #01-17, Singapore 048621(Phone:60110029)</td>
-			<td>Sinovac</td>
 			</tr>    
     <tr>
       <td>Elisa Koh Clinic & Surgery For Women</td>
