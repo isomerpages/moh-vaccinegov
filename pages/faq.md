@@ -95,18 +95,19 @@ to you.<br><br>
 					</div>				
 					<div class="tab">
 						<input id="question-1-11" type="checkbox">
-						<label for="question-1-11" class="tab-label">I want to get my child/ward vaccinated. What do I need to do?</label>
+						<label for="question-1-11" class="tab-label">I want to get my child/ward who is between 5 and 11 years old vaccinated. What do I need to
+do?</label>
 						<div class="tab-content">
 							<p>
-						Parents/guardians of children aged 5 to 11 who are under the MOE vaccination exercise, will receive an SMS with a personalised link to book an appointment for their child/ward. 
+						If your child/ward is under the MOE vaccination exercise, you will receive an SMS to book an appointment on his/her behalf.<br>
+
+If your child/ward is not under the MOE vaccination exercise, or has recovered from a COVID-19 infection and have passed 3 months from his/her date of diagnosis, you may register him/her <a href="https://child.vaccine.gov.sg/">here</a>. 
 							</p>
 							<p>
-								Parents/guardians of children aged 5 to 11 who are not part of the MOE vaccination exercise may register on their child/ward’s behalf <a href="https://child.vaccine.gov.sg/">here</a>. 
-							</p>
-							<p>
-Parents/guardians of children aged 12 to 17 can register interest on their child/ward’s behalf <a href="https://preregister.vaccine.gov.sg/">here</a>. To facilitate the booking process, parents/guardians should use their own contact details to register for their child/ward. A SMS with a personalised link will then be sent to this contact number to book a vaccination appointment.</p>
-<p>
-Under the National Vaccination Programme, children/wards below the age of 18 will require the consent of their parents/guardians to book an appointment. Children/wards aged 12 and under will need to be accompanied by their parent/guardian.</p>
+Alternatively, you may accompany him/her and walk in without an appointment to any paediatric
+Pfizer-BioNTech/Comirnaty vaccination centre to receive his/her first vaccination dose from
+Mondays to Thursdays before 7pm. Please note that walk-ins at the vaccination centre at Yusof
+Ishak Secondary School are only accepted from Tuesdays to Thursdays, before 4pm.</p>
 							</div>
 					</div>				
 					<div class="tab">
