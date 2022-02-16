@@ -270,11 +270,6 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>Primary Care Asia</td>
-      <td>290 Orchard Rd, Paragon Medical Centre #15-11/12, Singapore 238859 (Phone:66725008)</td>
-			<td>Sinovac</td>
-			</tr>    
-    <tr>
       <td>The Family Practice @ Skyville*</td>
       <td>85 Dawson Road #01-06, Singapore 141085 (Phone:62551382)(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
