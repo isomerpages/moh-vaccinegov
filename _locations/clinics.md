@@ -245,8 +245,8 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>Integrated Wellness Clinic</td>
-      <td>8 Sinaran Drive, Specialist Center #05-04, Singapore 307470 (Phone:31292353)</td>
+      <td>Integrated Wellness Clinic*</td>
+      <td>8 Sinaran Drive, Specialist Center #05-04, Singapore 307470 (Phone:31292353)(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
