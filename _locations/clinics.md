@@ -310,11 +310,6 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>Elisa Koh Clinic & Surgery For Women</td>
-      <td> 38 Irrawaddy Road, Mount Elizabeth Novena Specialist Centre, #06-26/27  Singapore 329563</td>
-			<td>Sinovac</td>
-			</tr>    
-    <tr>
       <td>A Life Clinic Pte Ltd*</td>
       <td>10 Sinaran Drive, Novena Medical Center #09-21, Singapore 307506 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
