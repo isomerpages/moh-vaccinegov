@@ -38,7 +38,7 @@ As a precautionary measure, adolescents and men below 30 years of age, in partic
 - Are unwell
 - Had a fever in the last 24 hours
 - 
- Are serving Stay-Home Notice (SHN)^ , Quarantine Order (QO), Isolation Order (IO)^^ or received a Health Risk Notice (HRN) <br> 
+ Are serving Stay-Home Notice (SHN)^, Isolation Order (IO)^^ or received a Health Risk Notice (HRN) <br> 
  
  You are encouraged to defer other vaccinations for 2 weeks or more, if possible.
 
