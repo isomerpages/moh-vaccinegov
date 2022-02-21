@@ -23,7 +23,7 @@ Walk-ins to Paediatric Vaccination Centres at Nanyang Community Club and Queenst
 Normal Operating Hours:<br>
 10am – 5pm on Tuesdays to Thursdays<br>
 10am – 6pm on Fridays to Saturdays <br>
-Break:<br>
+Lunch Break:<br>
 12pm – 1pm<br>
 Last walk-in:<br>
 4pm on Tuesdays to Thursdays
