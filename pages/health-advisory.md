@@ -35,12 +35,12 @@ As a precautionary measure, adolescents and men below 30 years of age, in partic
 
 **Postpone your appointment if you**
 
-- Are unwell
-- Had a fever in the last 24 hours
-- 
- Are serving Stay-Home Notice (SHN)^, Isolation Order (IO)^^ or received a Health Risk Notice (HRN) <br> 
- 
- You are encouraged to defer other vaccinations for 2 weeks or more, if possible.
+- Are unwell or had a fever in the last 24 hours
+- Are serving Stay-Home Notice (SHN), or Isolation Order(IO)
+
+If you received a Health Risk Notice (HRN), please take an ART self-test before leaving home. You may proceed with your vaccination appointment if your ART result is negative. Do minimise unnecessary social interactions.
+
+You are encouraged to defer other vaccinations for 2 weeks or more, if possible.
 
 
 Persons who are moderately to severely immunocompromised are recommended to receive a third dose of the same PSAR mRNA vaccine they had received for the first two doses, two months after their second dose.  They should be referred to receive the third dose by their treating specialist, who would have the best understanding of their medical condition. For more information, please refer to the [FAQ](https://www.moh.gov.sg/covid-19/vaccination/faqs---enhanced-primary-series).

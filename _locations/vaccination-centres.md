@@ -17,8 +17,8 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
 
  **Last Walk-in**:<br>
  7pm on Mondays to Thursdays for all Vaccination Centres except at Yusof Ishak Secondary School,<br>
-1pm on eve of Public Holiday,<br>
-Walk-ins to Paediatric Vaccination Centres at Nanyang Community Club and Queenstown Community Club have ceased<br><br>
+1pm on eve of Public Holiday<br>
+<br>
 **Vaccination Centre at Yusof Ishak Secondary School:**<br>
 Normal Operating Hours:<br>
 10am – 5pm on Tuesdays to Thursdays<br>
@@ -91,7 +91,7 @@ Last walk-in:<br>
     <tr>
       <td>Queenstown Community Centre </td>
       <td>365 Commonwealth Avenue, Singapore 149732</td>
-			<td>Pfizer/Comirnaty (Adults & Children)</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>
     <tr>
       <td>Toa Payoh West Community Club </td>
@@ -244,7 +244,7 @@ Last walk-in:<br>
     <tr>
       <td>Nanyang Community Club </td>
       <td>60 Jurong West Street 91, Singapore 649040</td>
-			<td>Pfizer/Comirnaty (Adults & Children)</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>	
     <tr>
       <td>Clementi Community Centre  </td>
