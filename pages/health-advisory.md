@@ -36,7 +36,7 @@ As a precautionary measure, adolescents and men below 30 years of age, in partic
 **Postpone your appointment if you**
 
 - Are unwell or had a fever in the last 24 hours
-- Are serving Stay-Home Notice (SHN), or Isolation Order(IO)
+- Are serving Stay-Home Notice (SHN)^, or Isolation Order(IO)^^
 
 If you received a Health Risk Notice (HRN), please take an ART self-test before leaving home. You may proceed with your vaccination appointment if your ART result is negative. Do minimise unnecessary social interactions.
 
