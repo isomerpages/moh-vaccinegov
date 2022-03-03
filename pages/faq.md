@@ -101,7 +101,7 @@ do?</label>
 							<p>
 						If your child/ward is under the MOE vaccination exercise, you will receive an SMS to book an appointment on his/her behalf.<br>
 
-If your child/ward is not under the MOE vaccination exercise, or has recovered from a COVID-19 infection and have passed 3 months from his/her date of diagnosis, you may register him/her <a href="https://child.vaccine.gov.sg/">here</a>. 
+If your child/ward is not under the MOE vaccination exercise, or has recovered from a COVID-19 infection more than 3 months ago and has yet to complete the COVID-19 vaccination, you may register him/her <a href="https://child.vaccine.gov.sg/">here</a>. 
 							</p>
 							<p>
 Alternatively, you may accompany him/her and walk in without an appointment to any paediatric
