@@ -26,7 +26,8 @@ Normal Operating Hours:<br>
 Lunch Break:<br>
 12pm – 1pm<br>
 Last walk-in:<br>
-4pm on Tuesdays to Thursdays
+4pm on Tuesdays to Thursdays<br>
+Walk ins will cease from 10 March 2022
 
 
 
