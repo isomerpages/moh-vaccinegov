@@ -164,7 +164,7 @@ Walk ins will cease from 10 March 2022
     <tr>
       <td>Canberra Community Club</td>
       <td>2 Sembawang Crescent, Singapore 757632</td>
-			<td>Pfizer/Comirnaty and Moderna</td>
+			<td>Pfizer/Comirnaty and Moderna/Spikevax</td>
     </tr>	
     <tr>
       <td>Nee Soon East Community Club</td>
