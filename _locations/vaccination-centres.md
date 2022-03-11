@@ -77,7 +77,7 @@ Walk ins will cease from 10 March 2022
     <tr>
       <td>Tanjong Pagar Community Club</td>
       <td>101 Cantonment Road, Singapore 089774</td>
-			<td>Pfizer/Comirnaty and Moderna</td>
+			<td>Pfizer/Comirnaty and Moderna/Spikevax</td>
     </tr>		
     <tr>
       <td>Jalan Besar Community Club</td>
@@ -87,7 +87,7 @@ Walk ins will cease from 10 March 2022
     <tr>
       <td>Bishan Community Club</td>
       <td>51 Bishan Street 13, Singapore 579799</td>
-			<td>Pfizer/Comirnaty and Moderna</td>
+			<td>Pfizer/Comirnaty and Moderna/Spikevax</td>
     </tr>	
     <tr>
       <td>Queenstown Community Centre </td>
