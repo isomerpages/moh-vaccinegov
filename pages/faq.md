@@ -27,9 +27,9 @@ permalink: /faq
 Do I need to register for my booster dose?</label>
 						<div class="tab-content">
 							<p>
-								You will receive an SMS invitation with a personalised link to book your booster dose appointment when you become eligible – about five months after the last dose of your primary series vaccination. Please use it to book an appointment for the booster.<br><br>
-If you are aged 18 to 59  and have completed the last dose of your primary series vaccination, but have not yet received your SMS notification from MOH, you may walk in to any Vaccination Centre offering the mRNA COVID-19 vaccine, without an appointment to receive your booster dose.<br><br>
-If you are aged 60 years and above and have completed the last dose of your primary series vaccination, you may also walk into any of the participating Public Health Preparedness Clinics, or Polyclinics, in addition to the Vaccination Centres, to receive your booster dose without an appointment.							
+								People who are eligible for their booster dose will be progressively invited to be vaccinated, from five months after their second dose. When it is your turn, an SMS with a personalised booking link will be sent to the mobile number that you had registered with for your first two doses. Please use it to book an appointment for the booster <a href="https://appointment.vaccine.gov.sg/">here</a> .<br><br>
+Alternatively, if you are between 18 and 59 years old, and have completed your primary series vaccination, you may walk in without an appointment, to any Vaccination Centre offering an mRNA COVID-19 vaccine, from Mondays to Thursdays before 7pm, to receive your booster dose.<br><br>
+If you are 60 years old and above, and have completed the last dose of your primary series vaccination, you may also walk into any of the participating Public Health Preparedness Clinics (PHPCs) or Polyclinics, to receive your booster dose without an appointment. You may also walk in to any vaccination centre, any day before 7pm to receive your booster dose, without an appointment. If you would like to go to a PHPC, you are advised to call the respective clinics for enquiries on the vaccination cut-off time for your preferred date, as operating hours may vary.				
 									</p>
 							</div>
 					</div>
