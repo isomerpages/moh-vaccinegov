@@ -1012,6 +1012,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>762 Jurong West Street 75, Gek Poh Shopping Centre #02-256D, Singapore 640762</td>
 			<td>Pfizer/Comirnaty</td>
 			</tr>
+		<tr>
+      <td>Dr Stanley Peck Family Clinic</td>
+      <td>636 Bukit Batok Central #01-06, Singapore 650636</td>
+				<td>Pfizer/Comirnaty</td>
+    </tr>		
     <tr>
       <td>Providence Clinic @ Hillford*</td>
       <td>182 Jalan Jurong Kechil, The Hillford, #01-65 Singapore 596152 (Phone:63140970)(register via vaccine.gov.sg)</td>
