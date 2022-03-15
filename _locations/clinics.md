@@ -576,11 +576,6 @@ As operating hours may vary, please call the respective clinics for enquiries on
   </thead>
   <tbody>  
     <tr>
-      <td>Dr Stanley Peck Family Clinic</td>
-      <td>636 Bukit Batok Central #01-06, Singapore 650636</td>
-				<td>Pfizer/Comirnaty</td>
-    </tr>		
-    <tr>
       <td>Lian Clinic</td>
       <td>18 Marsiling Lane, Singapore 730018</td>
 				<td>Pfizer/Comirnaty</td>
