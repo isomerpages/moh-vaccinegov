@@ -238,7 +238,52 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td>FAITH Clinic (Toa Payoh)</td>
       <td> 211 Lorong 8 Toa Payoh #01-19, Singapore 310211</td>
 			<td>Pfizer/Comirnaty</td>
-			</tr>    
+			</tr>
+		<tr>
+      <td>Arcadia Clinic</td>
+      <td>2 Pandan Valley #01-211, Singapore 597626</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>
+		<tr>
+      <td>Good Shepherd Family Clinic</td>
+      <td> 9 Jalan Kukoh #01-81, Singapore 160009</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>
+		<tr>
+      <td>New Health Family Clinic</td>
+      <td> 108 Depot Road #01-08, Singapore 100108</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>
+		<tr>
+      <td>T Medical Clinic (Kallang)</td>
+      <td>5 Upper Boon Keng Road #01-14, Singapore 380005</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>
+		<tr>
+      <td>Chang Clinic & Surgery</td>
+      <td>7 Everton Park #01- 21, Singapore 080007</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>
+		<tr>
+      <td>Dr Gary's Family Clinic</td>
+      <td>77 Indus Road #01-519, Singapore 160077</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>
+		<tr>
+      <td>Family Health Clinic & Surgery</td>
+      <td>2 Balestier Road #01-651, Singapore 320002</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>
+		<tr>
+      <td>Healthsprings Medical & Laser Clinic (Bidadari/Woodleigh)</td>
+      <td>105A Bidadari Park Drive #01-09, Singapore 341105</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>
+		<tr>
+      <td>Healthsprings Medical Clinic (Liat Towers)</td>
+      <td>541 Orchard Road, Liat Towers #10-02, Singapore 238881</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>
     <tr>
       <td>Anteh Dispensary Pte Ltd*</td>
       <td>1 Lorong 22 Geylang, Grandview Suites #01-02 , Singapore 398664 (Phone:67441809)(register via vaccine.gov.sg) </td>
@@ -635,6 +680,16 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td>598 Yishun Ring Road, Wisteria Mall #01-11, Singapore 768698</td>
 				<td>Pfizer/Comirnaty</td>
 		  </tr>	
+		<tr>
+    <td>T Medical Clinic (Canberra)</td>
+      <td>115 Canberra Walk #01-05, Singapore 750115</td>
+				<td>Pfizer/Comirnaty</td>
+		  </tr>	
+		<tr>
+    <td>Viva Medical Group (Canberra Plaza)</td>
+      <td>133 Canberra View, Canberra Plaza #02-14, Singapore 750133</td>
+				<td>Pfizer/Comirnaty</td>
+		  </tr>	
    <tr>
     <td>Pinnacle Family Clinic (Woodlands)*</td>
       <td>573 Woodlands Drive 16 #01-06,  Singapore 730573 (Phone:67601623)(register via vaccine.gov.sg)</td>
@@ -849,6 +904,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>322 Sumang Walk #01-03, Singapore 820322</td>
 			<td>Pfizer/Comirnaty</td>
 					</tr>
+		<tr>
+      <td>Affinity Medical Clinic</td>
+      <td> 253 Serangoon Central Drive #01-187, Singapore 550253</td>
+			<td>Pfizer/Comirnaty</td>
+					</tr>
     	<tr>
       <td>Pinnacle Family Clinic (Serangoon North)*</td>
       <td>518 Serangoon North Avenue 4, #B1-208  Singapore 550518 (Phone:62193910)(register via vaccine.gov.sg)</td>
@@ -1011,7 +1071,17 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>Dr Stanley Peck Family Clinic</td>
       <td>636 Bukit Batok Central #01-06, Singapore 650636</td>
 				<td>Pfizer/Comirnaty</td>
-    </tr>		
+    </tr>
+		<tr>
+      <td>Prohealth 24-Hour Medical Clinic</td>
+      <td>259 Bukit Panjang Ring Road #01-18, Singapore 671259</td>
+				<td>Pfizer/Comirnaty</td>
+    </tr>
+		<tr>
+      <td>Evercare Medical Clinic</td>
+      <td>475 Choa Chu Kang Avenue 3 #02-02,  Singapore 680475</td>
+				<td>Pfizer/Comirnaty</td>
+    </tr>	
     <tr>
       <td>Providence Clinic @ Hillford*</td>
       <td>182 Jalan Jurong Kechil, The Hillford, #01-65 Singapore 596152 (Phone:63140970)(register via vaccine.gov.sg)</td>
