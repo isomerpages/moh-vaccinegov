@@ -274,6 +274,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td>2 Balestier Road #01-651, Singapore 320002</td>
 			<td>Pfizer/Comirnaty</td>
 			</tr>
+		<tr>
+      <td>Healthsprings Medical & Laser Clinic (Bidadari/Woodleigh)</td>
+      <td>105A Bidadari Park Drive #01-09, Singapore 341105</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>
     <tr>
       <td>Anteh Dispensary Pte Ltd*</td>
       <td>1 Lorong 22 Geylang, Grandview Suites #01-02 , Singapore 398664 (Phone:67441809)(register via vaccine.gov.sg) </td>
