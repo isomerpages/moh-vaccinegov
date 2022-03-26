@@ -650,6 +650,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td>598 Yishun Ring Road, Wisteria Mall #01-11, Singapore 768698</td>
 				<td>Pfizer/Comirnaty</td>
 		  </tr>	
+		<tr>
+    <td>T Medical Clinic (Canberra)</td>
+      <td>115 Canberra Walk #01-05, Singapore 750115</td>
+				<td>Pfizer/Comirnaty</td>
+		  </tr>	
    <tr>
     <td>Pinnacle Family Clinic (Woodlands)*</td>
       <td>573 Woodlands Drive 16 #01-06,  Singapore 730573 (Phone:67601623)(register via vaccine.gov.sg)</td>
