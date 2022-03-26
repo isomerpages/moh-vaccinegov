@@ -249,6 +249,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td> 9 Jalan Kukoh #01-81, Singapore 160009</td>
 			<td>Pfizer/Comirnaty</td>
 			</tr>
+		<tr>
+      <td>New Health Family Clinic</td>
+      <td> 108 Depot Road #01-08, Singapore 100108</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>
     <tr>
       <td>Anteh Dispensary Pte Ltd*</td>
       <td>1 Lorong 22 Geylang, Grandview Suites #01-02 , Singapore 398664 (Phone:67441809)(register via vaccine.gov.sg) </td>
