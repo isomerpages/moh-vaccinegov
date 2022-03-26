@@ -1056,7 +1056,12 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>Prohealth 24-Hour Medical Clinic</td>
       <td>259 Bukit Panjang Ring Road #01-18 Singapore 671259</td>
 				<td>Pfizer/Comirnaty</td>
-    </tr>		
+    </tr>
+		<tr>
+      <td>Evercare Medical Clinic</td>
+      <td>475 Choa Chu Kang Avenue 3 #02-02,  Singapore 680475</td>
+				<td>Pfizer/Comirnaty</td>
+    </tr>	
     <tr>
       <td>Providence Clinic @ Hillford*</td>
       <td>182 Jalan Jurong Kechil, The Hillford, #01-65 Singapore 596152 (Phone:63140970)(register via vaccine.gov.sg)</td>
