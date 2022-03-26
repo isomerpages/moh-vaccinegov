@@ -238,6 +238,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td>FAITH Clinic (Toa Payoh)</td>
       <td> 211 Lorong 8 Toa Payoh #01-19, Singapore 310211</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>
+		<tr>
+      <td>Arcadia Clinic</td>
+      <td>2 Pandan Valley #01-211, Singapore 597626</td>
+			<td>Pfizer/Comirnaty</td>
 			</tr>    
     <tr>
       <td>Anteh Dispensary Pte Ltd*</td>
