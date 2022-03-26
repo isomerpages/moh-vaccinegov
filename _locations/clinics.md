@@ -259,6 +259,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td>5 Upper Boon Keng Road #01-14, Singapore 380005</td>
 			<td>Pfizer/Comirnaty</td>
 			</tr>
+		<tr>
+      <td>Chang Clinic & Surgery</td>
+      <td>7 Everton Park #01- 21, Singapore 080007</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>
     <tr>
       <td>Anteh Dispensary Pte Ltd*</td>
       <td>1 Lorong 22 Geylang, Grandview Suites #01-02 , Singapore 398664 (Phone:67441809)(register via vaccine.gov.sg) </td>
