@@ -1031,6 +1031,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>Dr Stanley Peck Family Clinic</td>
       <td>636 Bukit Batok Central #01-06, Singapore 650636</td>
 				<td>Pfizer/Comirnaty</td>
+    </tr>
+		<tr>
+      <td>Prohealth 24-Hour Medical Clinic</td>
+      <td>259 Bukit Panjang Ring Road #01-18 Singapore 671259</td>
+				<td>Pfizer/Comirnaty</td>
     </tr>		
     <tr>
       <td>Providence Clinic @ Hillford*</td>
