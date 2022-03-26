@@ -269,6 +269,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td>77 Indus Road #01-519, Singapore 160077</td>
 			<td>Pfizer/Comirnaty</td>
 			</tr>
+		<tr>
+      <td>Family Health Clinic & Surgery</td>
+      <td>2 Balestier Road #01-651, Singapore 320002</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>
     <tr>
       <td>Anteh Dispensary Pte Ltd*</td>
       <td>1 Lorong 22 Geylang, Grandview Suites #01-02 , Singapore 398664 (Phone:67441809)(register via vaccine.gov.sg) </td>
