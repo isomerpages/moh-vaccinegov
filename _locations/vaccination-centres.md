@@ -16,8 +16,8 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
 5pm – 6pm
 
  **Last Walk-in**:<br>
- 7pm on Mondays to Thursdays for all Vaccination Centres except at Yusof Ishak Secondary School,<br>
-1pm on eve of Public Holiday<br>
+ 7pm daily<br>
+ 1pm on eve of Public Holiday<br>
 <br>
 **Vaccination Centre at Yusof Ishak Secondary School:**<br>
 Normal Operating Hours:<br>
