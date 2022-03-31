@@ -17,20 +17,11 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
 
  **Last Walk-in**:<br>
  7pm daily<br>
- 1pm on eve of Public Holiday<br>
+ 1pm on eve of Public Holiday<br><br>
+Walk-ins for Dose 1 at the Vaccination Centres at  Marine Parade Community Club, Woodlands
+Community Club and Nee Soon East Community Club will cease from 9 April, 2 May, and 10 May
+respectively.<br>
 <br>
-**Vaccination Centre at Yusof Ishak Secondary School:**<br>
-Normal Operating Hours:<br>
-10am – 5pm on Tuesdays to Thursdays<br>
-10am – 6pm on Fridays to Saturdays <br>
-Lunch Break:<br>
-12pm – 1pm<br>
-Last walk-in:<br>
-4pm on Tuesdays to Thursdays<br>
-Walk ins will cease from 10 March 2022
-
-
-
 **Upcoming Public Hoildays Operating Hours**<br>Please note that the last appointment on the eve of the Public Holiday will be at 2pm.<br><br>
 14 Apr 2022 (Eve of Good Friday): 8am to 3pm<br>
 15 Apr 2022 (Good Friday) - Closed<br>
