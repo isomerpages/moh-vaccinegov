@@ -16,21 +16,12 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
 5pm – 6pm
 
  **Last Walk-in**:<br>
- 7pm on Mondays to Thursdays for all Vaccination Centres except at Yusof Ishak Secondary School,<br>
-1pm on eve of Public Holiday<br>
+ 7pm daily<br>
+ 1pm on eve of Public Holiday<br><br>
+Walk-ins for Dose 1 at the Vaccination Centres at  Marine Parade Community Club, Woodlands
+Community Club and Nee Soon East Community Club will cease from 9 April, 2 May, and 10 May
+respectively.<br>
 <br>
-**Vaccination Centre at Yusof Ishak Secondary School:**<br>
-Normal Operating Hours:<br>
-10am – 5pm on Tuesdays to Thursdays<br>
-10am – 6pm on Fridays to Saturdays <br>
-Lunch Break:<br>
-12pm – 1pm<br>
-Last walk-in:<br>
-4pm on Tuesdays to Thursdays<br>
-Walk ins will cease from 10 March 2022
-
-
-
 **Upcoming Public Hoildays Operating Hours**<br>Please note that the last appointment on the eve of the Public Holiday will be at 2pm.<br><br>
 14 Apr 2022 (Eve of Good Friday): 8am to 3pm<br>
 15 Apr 2022 (Good Friday) - Closed<br>
@@ -209,11 +200,6 @@ Walk ins will cease from 10 March 2022
       <td>861 Ang Mo Kio Avenue 10, Singapore 569734</td>
 			<td>Pfizer/Comirnaty</td>
 		  </tr>	
-    <tr>
-      <td>Yusof Ishak Secondary School</td>
-      <td>8 Sumang Walk, Singapore 828676</td>
-			<td>Pfizer/Comirnaty (Children)</td>
-    </tr>  
   </tbody>
 </table>
 
