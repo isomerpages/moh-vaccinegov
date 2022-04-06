@@ -27,9 +27,13 @@ permalink: /faq
 Do I need to register for my booster dose?</label>
 						<div class="tab-content">
 							<p>
-								People who are eligible for their booster dose will be progressively invited to be vaccinated, from five months after their second dose. When it is your turn, an SMS with a personalised booking link will be sent to the mobile number that you had registered with for your first two doses. Please use it to book an appointment for the booster <a href="https://appointment.vaccine.gov.sg/">here</a> .<br><br>
-Alternatively, if you are between 18 and 59 years old, and have completed your primary series vaccination, you may walk in without an appointment, to any Vaccination Centre offering an mRNA COVID-19 vaccine, from Mondays to Thursdays before 7pm, to receive your booster dose.<br><br>
-If you are 60 years old and above, and have completed the last dose of your primary series vaccination, you may also walk into any of the participating Public Health Preparedness Clinics (PHPCs) or Polyclinics, to receive your booster dose without an appointment. You may also walk in to any vaccination centre, any day before 7pm to receive your booster dose, without an appointment. If you would like to go to a PHPC, you are advised to call the respective clinics for enquiries on the vaccination cut-off time for your preferred date, as operating hours may vary.				
+								People who are eligible for their booster dose will be invited to be vaccinated, from about five months after their second dose.<br><br>
+								All individuals who are eligible for COVID-19 vaccination may walk in for their primary vaccination series and booster doses, without prior appointment, every day of the week, before 7pm:<br>
+								<span>• Individuals aged 12 to 17 may now walk in to any VC offering the Pfizer-BioNTech/Comirnaty vaccine to receive their primary vaccination series and booster dose. These individuals will be required to bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a> .</span><br>
+								<span>• Individuals aged 18 and above may walk into any VC offering mRNA vaccines to receive their primary vaccination series and booster dose.</span><br><br>
+								If you are 60 years old and above, and have completed the last dose of your primary series vaccination, you may also walk in to any of the participating Public Health Preparedness Clinics (PHPCs) or Polyclinics, to receive your booster dose without an appointment. If you would like to go to a PHPC, you are advised to call the respective clinics for enquiries on the vaccination cut-off time for your preferred date, as operating hours may vary.<br><br>
+Alternatively, eligible individuals aged 18 and above will receive an SMS with a personalised link to book an appointment. Parents/guardians of individuals aged 12-17 will also receive the SMS
+notification, to provide consent and book their child/ward’s booster vaccination appointment.		
 									</p>
 							</div>
 					</div>
@@ -37,11 +41,17 @@ If you are 60 years old and above, and have completed the last dose of your prim
 						<input id="question-1-4" type="checkbox">
 							<label for="question-1-4" class="tab-label">How do I register for an mRNA vaccination?</label>
 						<div class="tab-content">
-							<p>Singapore residents and Long-Term Pass Holders aged 5*^ and above can walk in to any Vaccination Centre offering mRNA vaccinations, from Mondays to Thursdays before 7pm, without an appointment. Seniors aged 60 years and above may walk into any of the Polyclinics or participating Public Health Preparedness Clinics to receive their first dose of the vaccination, without an appointment. They may also walk in to any vaccination centre, any day before 7pm to receive their booster dose, without an appointment.<br><br>
-Alternatively, individuals aged 12 and above may register <a href="https://preregister.vaccine.gov.sg/">here</a>. A Short Message Service (SMS) invitation with a personalised link to book your vaccination appointments will subsequently be sent
-to you.<br><br>
-*Individuals aged 5 and above for Pfizer-BioNTech/Comirnaty vaccine, or 18 and above for Moderna/Spikevax vaccine<br>
-^Children aged 5 to 12 will need to be accompanied by a parent/guardian
+							<p>Under the National Vaccination Programme, children/wards below the age of 18 will require the consent of their parents/guardians to receive their vaccination.<br><br>
+All eligible individuals can walk in to any vaccination centre (VC) offering mRNA vaccines for their primary vaccination series and booster doses, without the need for an appointment, <strong>any day of the week, before 7pm</strong>. This means:<br>
+								<span>• Children <strong>aged 5 to 11</strong> may walk in with their parents/guardians to any paediatric VC</span><br>
+								<span>• Individuals <strong>aged 12 to 17</strong> may walk in to any VC offering the Pfizer-BioNTech/Comirnaty vaccine
+Individuals aged 18 and above may walk in to any VC offering mRNA vaccines</span><br><br>
+All children below the age of 18 will be required to bring a duly completed and signed hard or
+electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a><br><br>
+Seniors aged 60 years and above may also walk into any of the Polyclinics or participating Public
+Health Preparedness Clinics to receive their vaccination, without an appointment.<br><br>
+
+Alternatively, you may still register <a href="https://preregister.vaccine.gov.sg/">here</a> A SMS invitation with a personalised booking link to book your vaccination appointments will subsequently be sent to you.
 								</p>
 							</div>
 					</div>
@@ -99,15 +109,16 @@ to you.<br><br>
 do?</label>
 						<div class="tab-content">
 							<p>
-						If your child/ward is under the MOE vaccination exercise, you will receive an SMS to book an appointment on his/her behalf.<br>
+					You may accompany him/her and walk in without an appointment to any paediatric Pfizer-
+BioNTech/Comirnaty vaccination centre to receive his/her vaccination dose, any day of the week
+before 7pm. Please bring along their Student Identification, or if not available, other forms of
+identification (e.g. Birth Certificate/Passport/SingPass) for verification purposes.<br><br>
 
-If your child/ward is not under the MOE vaccination exercise, or has recovered from a COVID-19 infection more than 3 months ago and has yet to complete the COVID-19 vaccination, you may register him/her <a href="https://child.vaccine.gov.sg/">here</a>. 
-							</p>
-							<p>
-Alternatively, you may accompany him/her and walk in without an appointment to any paediatric
-Pfizer-BioNTech/Comirnaty vaccination centre to receive his/her first vaccination dose from
-								<strong>Mondays to Thursdays before 7pm</strong>. Please note that walk-ins at the vaccination centre at Yusof
-								Ishak Secondary School are only accepted from <strong>Tuesdays to Thursdays, before 4pm.</strong></p>
+Alternatively, If your child/ward is under the MOE vaccination exercise, you will receive an SMS to
+book an appointment on his/her behalf. If your child/ward is not under the MOE vaccination
+exercise, or has recovered from a COVID-19 infection more than 3 months ago and has yet to
+complete the COVID-19 vaccination, you may register him/her <a href="https://child.vaccine.gov.sg/">here</a>. 
+						</p>
 							</div>
 					</div>				
 					<div class="tab">
@@ -115,16 +126,12 @@ Pfizer-BioNTech/Comirnaty vaccination centre to receive his/her first vaccinatio
 						<label for="question-1-12" class="tab-label">I want to get my child/ward (12 to 17 years old) vaccinated. What do I need to do?</label>
 						<div class="tab-content">
 							<p>
-						Under the National Vaccination Programme, if your child/ward is below the age of 18, your consent is required for him/her to get vaccinated. You can register your interest to have your child/ward aged 12 to 17 to be vaccinated <a href="https://preregister.vaccine.gov.sg/">here</a> Please use your own contact details to register for their child/ward. An SMS with a personalised link will then be sent to this contact number to book a vaccination appointment.<br>
-
-Alternatively, if your child is a Singapore Resident or Long-Term Resident aged 12^ and above,
-he/she may walk in without an appointment to any Vaccination Centre offering mRNA vaccines,
-from Mondays to Thursdays before 7pm, for his/her first vaccination dose. 
-							</p>
-							<p>
-If your child/ward is 12 years old, you will also need to accompany him/her during the vaccination.<br>
-^Pfizer-BioNtech/Comirnaty vaccination for individuals aged 12 and above or Moderna vaccine for
-those 18 and above.
+								Under the National Vaccination Programme, if your child/ward is below the age of 18, your consent is required for him/her to get vaccinated. If your child/ward is 12 years old, you will need to accompany him/her during the vaccination.<br><br>
+He/she may walk in without an appointment to any Vaccination Centre offering the Pfizer-
+BioNTech/Comirnaty vaccine, any day of the week before 7pm, for his/her vaccination dose. All
+children aged 12 to 17 will also be required to bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a><br><br>
+Alternatively, you may register your interest to have your child/ward aged 12 to 17 to be vaccinated <a href="https://preregister.vaccine.gov.sg/">here</a> Please use your own contact details to register for their child/ward. An SMS with a
+personalised link will then be sent to this contact number to book a vaccination appointment.
 </p>
 							</div>
 					</div>				
