@@ -126,16 +126,12 @@ complete the COVID-19 vaccination, you may register him/her <a href="https://chi
 						<label for="question-1-12" class="tab-label">I want to get my child/ward (12 to 17 years old) vaccinated. What do I need to do?</label>
 						<div class="tab-content">
 							<p>
-						Under the National Vaccination Programme, if your child/ward is below the age of 18, your consent is required for him/her to get vaccinated. You can register your interest to have your child/ward aged 12 to 17 to be vaccinated <a href="https://preregister.vaccine.gov.sg/">here</a> Please use your own contact details to register for their child/ward. An SMS with a personalised link will then be sent to this contact number to book a vaccination appointment.<br>
-
-Alternatively, if your child is a Singapore Resident or Long-Term Resident aged 12^ and above,
-he/she may walk in without an appointment to any Vaccination Centre offering mRNA vaccines,
-from Mondays to Thursdays before 7pm, for his/her first vaccination dose. 
-							</p>
-							<p>
-If your child/ward is 12 years old, you will also need to accompany him/her during the vaccination.<br>
-^Pfizer-BioNtech/Comirnaty vaccination for individuals aged 12 and above or Moderna vaccine for
-those 18 and above.
+								Under the National Vaccination Programme, if your child/ward is below the age of 18, your consent is required for him/her to get vaccinated. If your child/ward is 12 years old, you will need to accompany him/her during the vaccination.<br><br>
+He/she may walk in without an appointment to any Vaccination Centre offering the Pfizer-
+BioNTech/Comirnaty vaccine, any day of the week before 7pm, for his/her vaccination dose. All
+children aged 12 to 17 will also be required to bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a><br><br>
+Alternatively, you may register your interest to have your child/ward aged 12 to 17 to be vaccinated <a href="https://preregister.vaccine.gov.sg/">here</a> Please use your own contact details to register for their child/ward. An SMS with a
+personalised link will then be sent to this contact number to book a vaccination appointment.
 </p>
 							</div>
 					</div>				
