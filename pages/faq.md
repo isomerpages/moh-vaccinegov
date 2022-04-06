@@ -47,7 +47,7 @@ All eligible individuals can walk in to any vaccination centre (VC) offering mRN
 								<span>• Individuals <strong>aged 12 to 17</strong> may walk in to any VC offering the Pfizer-BioNTech/Comirnaty vaccine
 Individuals aged 18 and above may walk in to any VC offering mRNA vaccines</span><br><br>
 All children below the age of 18 will be required to bring a duly completed and signed hard or
-electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a> .</span><br><br>
+electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a><br><br>
 Seniors aged 60 years and above may also walk into any of the Polyclinics or participating Public
 Health Preparedness Clinics to receive their vaccination, without an appointment.<br><br>
 
