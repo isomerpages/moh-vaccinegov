@@ -556,7 +556,12 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td>FAITH Clinic (Simei)</td>
       <td>  139 Simei Street 1 #01-10, Singapore 520139</td>
 			<td>Pfizer/Comirnaty</td>
-			</tr>		
+			</tr>
+		<tr>
+      <td>ProHealth Medical Group@Tampines</td>
+      <td>610 Tampines North Drive 1, Tampines GreenWeave #01-03, Singapore 520610</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>
     <tr>
       <td>Little Cross Family Clinic*</td>
       <td>929 Tampines Street 91 #01-445, Singapore 520929 (Phone:65440040)(register via vaccine.gov.sg)</td>
