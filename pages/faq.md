@@ -51,13 +51,7 @@ electronic copy of the parental consent form, which can be downloaded <a href="h
 Seniors aged 60 years and above may also walk into any of the Polyclinics or participating Public
 Health Preparedness Clinics to receive their vaccination, without an appointment.<br><br>
 
-								
-								
-								Singapore residents and Long-Term Pass Holders aged 5*^ and above can walk in to any Vaccination Centre offering mRNA vaccinations, from Mondays to Thursdays before 7pm, without an appointment. Seniors aged 60 years and above may walk into any of the Polyclinics or participating Public Health Preparedness Clinics to receive their first dose of the vaccination, without an appointment. They may also walk in to any vaccination centre, any day before 7pm to receive their booster dose, without an appointment.<br><br>
-Alternatively, individuals aged 12 and above may register <a href="https://preregister.vaccine.gov.sg/">here</a>. A Short Message Service (SMS) invitation with a personalised link to book your vaccination appointments will subsequently be sent
-to you.<br><br>
-*Individuals aged 5 and above for Pfizer-BioNTech/Comirnaty vaccine, or 18 and above for Moderna/Spikevax vaccine<br>
-^Children aged 5 to 12 will need to be accompanied by a parent/guardian
+Alternatively, you may still register <a href="https://preregister.vaccine.gov.sg/">here</a>An SMS invitation with a personalised booking link to book your vaccination appointments will subsequently be sent to you.
 								</p>
 							</div>
 					</div>
