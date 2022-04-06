@@ -27,7 +27,7 @@ permalink: /faq
 Do I need to register for my booster dose?</label>
 						<div class="tab-content">
 							<p>
-								People who are eligible for their booster dose will be invited to be vaccinated, from about five months after their second dose.<br>
+								People who are eligible for their booster dose will be invited to be vaccinated, from about five months after their second dose.<br><br>
 								All individuals who are eligible for COVID-19 vaccination may walk in for their primary vaccination series and booster doses, without prior appointment, every day of the week, before 7pm:<br><br>
 								<span>• Individuals aged 12 to 17 may now walk in to any VC offering the Pfizer-BioNTech/Comirnaty vaccine to receive their primary vaccination series and booster dose. These individuals will be required to bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a> .<br><br></span><br>
 								<span>• Individuals aged 18 and above may walk into any VC offering mRNA vaccines to receive their primary vaccination series and booster dose.</span><br>
