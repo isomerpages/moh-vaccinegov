@@ -109,15 +109,16 @@ Alternatively, you may still register <a href="https://preregister.vaccine.gov.s
 do?</label>
 						<div class="tab-content">
 							<p>
-						If your child/ward is under the MOE vaccination exercise, you will receive an SMS to book an appointment on his/her behalf.<br>
+					You may accompany him/her and walk in without an appointment to any paediatric Pfizer-
+BioNTech/Comirnaty vaccination centre to receive his/her vaccination dose, any day of the week
+before 7pm. Please bring along their Student Identification, or if not available, other forms of
+identification (e.g. Birth Certificate/Passport/SingPass) for verification purposes.<br><br>
 
-If your child/ward is not under the MOE vaccination exercise, or has recovered from a COVID-19 infection more than 3 months ago and has yet to complete the COVID-19 vaccination, you may register him/her <a href="https://child.vaccine.gov.sg/">here</a>. 
-							</p>
-							<p>
-Alternatively, you may accompany him/her and walk in without an appointment to any paediatric
-Pfizer-BioNTech/Comirnaty vaccination centre to receive his/her first vaccination dose from
-								<strong>Mondays to Thursdays before 7pm</strong>. Please note that walk-ins at the vaccination centre at Yusof
-								Ishak Secondary School are only accepted from <strong>Tuesdays to Thursdays, before 4pm.</strong></p>
+Alternatively, If your child/ward is under the MOE vaccination exercise, you will receive an SMS to
+book an appointment on his/her behalf. If your child/ward is not under the MOE vaccination
+exercise, or has recovered from a COVID-19 infection more than 3 months ago and has yet to
+complete the COVID-19 vaccination, you may register him/her <a href="https://child.vaccine.gov.sg/">here</a>. 
+						</p>
 							</div>
 					</div>				
 					<div class="tab">
