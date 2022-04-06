@@ -904,6 +904,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td> 253 Serangoon Central Drive #01-187, Singapore 550253</td>
 			<td>Pfizer/Comirnaty</td>
 					</tr>
+		<tr>
+      <td>ProHealth Medical Group@Hougang</td>
+      <td> 476D Upper Serangoon View #02-04, Singapore 537476</td>
+			<td>Pfizer/Comirnaty</td>
+					</tr>
     	<tr>
       <td>Pinnacle Family Clinic (Serangoon North)*</td>
       <td>518 Serangoon North Avenue 4, #B1-208  Singapore 550518 (Phone:62193910)(register via vaccine.gov.sg)</td>
