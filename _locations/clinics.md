@@ -556,7 +556,12 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td>FAITH Clinic (Simei)</td>
       <td>  139 Simei Street 1 #01-10, Singapore 520139</td>
 			<td>Pfizer/Comirnaty</td>
-			</tr>		
+			</tr>
+		<tr>
+      <td>ProHealth Medical Group@Tampines</td>
+      <td>610 Tampines North Drive 1, Tampines GreenWeave #01-03, Singapore 520610</td>
+			<td>Pfizer/Comirnaty</td>
+			</tr>
     <tr>
       <td>Little Cross Family Clinic*</td>
       <td>929 Tampines Street 91 #01-445, Singapore 520929 (Phone:65440040)(register via vaccine.gov.sg)</td>
@@ -904,6 +909,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td> 253 Serangoon Central Drive #01-187, Singapore 550253</td>
 			<td>Pfizer/Comirnaty</td>
 					</tr>
+		<tr>
+      <td>ProHealth Medical Group@Hougang</td>
+      <td> 476D Upper Serangoon View #02-04, Singapore 537476</td>
+			<td>Pfizer/Comirnaty</td>
+					</tr>
     	<tr>
       <td>Pinnacle Family Clinic (Serangoon North)*</td>
       <td>518 Serangoon North Avenue 4, #B1-208  Singapore 550518 (Phone:62193910)(register via vaccine.gov.sg)</td>
@@ -1135,6 +1145,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
     <tr>
       <td>Doctors Koo, Loh & Associates*</td>
       <td>152 Yung Ho Road #B1-03, Singapore 610152 (register via vaccine.gov.sg)</td>
+			<td>Sinovac</td>
+    </tr> 
+		<tr>
+      <td>Pro Health Medical Group @ Taman Jurong</td>
+      <td>399 Yung Sheng Road, Taman Jurong Shopping Centre #01-56, Singapore 610399</td>
 			<td>Sinovac</td>
     </tr> 
   </tbody>
