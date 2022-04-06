@@ -33,7 +33,7 @@ As operating hours may vary, please call the respective clinics for enquiries on
     </tr>		
     <tr>
       <td>Family Medicine Clinic Chinatown</td>
-      <td>133 New Bridge Road #02-09, Singapore 059413</td>
+      <td>133 New Bridge Roads #02-09, Singapore 059413</td>
 			<td>Pfizer/Comirnaty</td>
     </tr>	
     <tr>
