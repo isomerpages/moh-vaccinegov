@@ -1147,6 +1147,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>152 Yung Ho Road #B1-03, Singapore 610152 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
     </tr> 
+		<tr>
+      <td>Pro Health Medical Group @ Taman Jurong</td>
+      <td>399 Yung Sheng Road, Taman Jurong Shopping Centre #01-56, Singapore 610399</td>
+			<td>Sinovac</td>
+    </tr> 
   </tbody>
 	
 	
