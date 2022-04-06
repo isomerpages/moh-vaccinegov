@@ -51,7 +51,7 @@ electronic copy of the parental consent form, which can be downloaded <a href="h
 Seniors aged 60 years and above may also walk into any of the Polyclinics or participating Public
 Health Preparedness Clinics to receive their vaccination, without an appointment.<br><br>
 
-Alternatively, you may still register <a href="https://preregister.vaccine.gov.sg/">here</a>An SMS invitation with a personalised booking link to book your vaccination appointments will subsequently be sent to you.
+Alternatively, you may still register <a href="https://preregister.vaccine.gov.sg/">here</a> An SMS invitation with a personalised booking link to book your vaccination appointments will subsequently be sent to you.
 								</p>
 							</div>
 					</div>
