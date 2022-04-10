@@ -51,8 +51,6 @@ All children below the age of 18 will be required to bring a duly completed and 
 electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a>.<br><br>
 Seniors aged 60 years and above may also walk into any of the Polyclinics or participating Public
 Health Preparedness Clinics to receive their vaccination, without an appointment.<br><br>
-
-Alternatively, you may still register <a href="https://preregister.vaccine.gov.sg/">here</a> A SMS invitation with a personalised booking link to book your vaccination appointments will subsequently be sent to you.
 								</p>
 							</div>
 					</div>
