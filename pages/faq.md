@@ -60,9 +60,9 @@ Health Preparedness Clinics to receive their vaccination, without an appointment
 						<div class="tab-content">
 							<p>We strongly recommend those who can take the mRNA vaccines to complete their primary vaccination series and booster doses with mRNA vaccines, in view of the lower efficacy of the Sinovac-CoronaVac vaccine.<br><br>
 1. Persons <strong>who were medically ineligible for a mRNA vaccine regime </strong> – If you were previously invited to receive the Sinovac-CoronaVac vaccine under a special public health programme, you should follow the instructions provided in the SMS invitation to continue with the regime.<br><br>
-2.You are <strong>aged 18 and above, and have yet to take a dose of any COVID-19 vaccine</strong> – you may walk in to the vaccination centre at RCCC to receive your vaccination.<br><br>
-3. <strong>Persons who have yet to take a dose of any COVID-19 vaccine and wish to take the Sinovac-CoronaVac vaccine</strong> may register their interest <a href="https://preregister.vaccine.gov.sg/">here</a>. Once registered, an SMS with a personalised booking link will be sent to the mobile number used to register interest, and individuals may use the link to make an appointment at the vaccination centre at Raffles City Convention Centre (RCCC) or at any of the Public Health Preparedness Clinics (PHPCs) offering Sinovac-CoronaVac listed <a href="https://www.vaccine.gov.sg/locations">here</a>.<br><br>
-4. <strong>Seniors aged 60 years and above who</strong> belong to any of the above groups may also walk into the vaccination centre at Raffles City Convention Centre (RCCC) to receive their Sinovac-CoronaVac doses, without the need to register for interest or make an appointment.
+2. You are <strong>aged 18 and above, and have yet to take a dose of any COVID-19 vaccine</strong> – you may walk in to the vaccination centre at RCCC to receive your vaccination.<br><br>
+3. <strong>Seniors aged 60 years and above</strong> may also walk into the vaccination centre at RCCC or participating Public Health Preparedness Clinics to receive their vaccination.<br><br>
+Those who are medically ineligible for mRNA vaccines may consider taking the Sinovac-CoronaVac vaccine as a booster vaccine. The Sinovac-CoronaVac vaccine is otherwise not recommended as a booster vaccine.							
 	</p> 
 							</div>
 					</div>				
