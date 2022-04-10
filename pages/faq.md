@@ -45,13 +45,12 @@ notification, to provide consent and book their child/ward’s booster vaccinati
 All eligible individuals can walk in to any vaccination centre (VC) offering mRNA vaccines for their primary vaccination series and booster doses, without the need for an appointment, <strong>any day of the week, before 7pm</strong>. This means:<br>
 								<span>• Children <strong>aged 5 to 11</strong> may walk in with their parents/guardians to any paediatric VC</span><br>
 								<span>• Individuals <strong>aged 12 to 17</strong> may walk in to any VC offering the Pfizer-BioNTech/Comirnaty vaccine
-Individuals aged 18 and above may walk in to any VC offering mRNA vaccines</span><br><br>
+Individuals aged 18 and above may walk in to any VC offering mRNA vaccines</span><br>
+								<span>• Individuals <strong>aged 18 and above</strong> may walk in to any VC offering mRNA vaccines</span><br><br>
 All children below the age of 18 will be required to bring a duly completed and signed hard or
-electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a><br><br>
+electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a>.<br><br>
 Seniors aged 60 years and above may also walk into any of the Polyclinics or participating Public
 Health Preparedness Clinics to receive their vaccination, without an appointment.<br><br>
-
-Alternatively, you may still register <a href="https://preregister.vaccine.gov.sg/">here</a> A SMS invitation with a personalised booking link to book your vaccination appointments will subsequently be sent to you.
 								</p>
 							</div>
 					</div>
@@ -59,11 +58,11 @@ Alternatively, you may still register <a href="https://preregister.vaccine.gov.s
 						<input id="question-1-5" type="checkbox">
 							<label for="question-1-5" class="tab-label">How do I register to receive Sinovac-CoronaVac?</label>
 						<div class="tab-content">
-							<p>The PSAR-authorised mRNA vaccines remain the recommended COVID-19 vaccines for all persons who are eligible, given the higher vaccine effectiveness against infection and severe disease, including against the Delta variant.<br><br>
-1. Persons <strong>who were medically ineligible for a two-dose mRNA vaccine regime </strong> – If you were previously invited to receive the Sinovac-CoronaVac vaccine under a special public health programme, you should follow the instructions provided in the SMS invitation to continue with the regime.<br><br>
-2.Persons who have <strong>taken at least one dose of Sinovac-CoronaVac</strong> and wish to sign up for second/third dose – You can continue to take the remaining dose(s) of your three-dose regime at any of the PSAR-authorised private clinics. You may proceed to book your remaining appointments at these clinics from 1 November 2021, if you have not already done so. The list of PSAR-authorised private clinics will be updated <a href="https://www.vaccine.gov.sg/locations">here</a>.<br><br>
-3. <strong>Persons who have yet to take a dose of any COVID-19 vaccine and wish to take the Sinovac-CoronaVac vaccine</strong> may register their interest <a href="https://preregister.vaccine.gov.sg/">here</a>. Once registered, an SMS with a personalised booking link will be sent to the mobile number used to register interest, and individuals may use the link to make an appointment at the vaccination centre at Raffles City Convention Centre (RCCC) or at any of the Public Health Preparedness Clinics (PHPCs) offering Sinovac-CoronaVac listed <a href="https://www.vaccine.gov.sg/locations">here</a>.<br><br>
-4. <strong>Seniors aged 60 years and above who</strong> belong to any of the above groups may also walk into the vaccination centre at Raffles City Convention Centre (RCCC) to receive their Sinovac-CoronaVac doses, without the need to register for interest or make an appointment.
+							<p>We strongly recommend those who can take the mRNA vaccines to complete their primary vaccination series and booster doses with mRNA vaccines, in view of the lower efficacy of the Sinovac-CoronaVac vaccine.<br><br>
+1. Persons <strong>who were medically ineligible for a mRNA vaccine regime </strong> – If you were previously invited to receive the Sinovac-CoronaVac vaccine under a special public health programme, you should follow the instructions provided in the SMS invitation to continue with the regime.<br><br>
+2. You are <strong>aged 18 and above, and have yet to take a dose of any COVID-19 vaccine</strong> – you may walk in to the vaccination centre at RCCC to receive your vaccination.<br><br>
+3. <strong>Seniors aged 60 years and above</strong> may also walk into the vaccination centre at RCCC or participating Public Health Preparedness Clinics to receive their vaccination.<br><br>
+Those who are medically ineligible for mRNA vaccines may consider taking the Sinovac-CoronaVac vaccine as a booster vaccine. The Sinovac-CoronaVac vaccine is otherwise not recommended as a booster vaccine.							
 	</p> 
 							</div>
 					</div>				
@@ -129,9 +128,7 @@ complete the COVID-19 vaccination, you may register him/her <a href="https://chi
 								Under the National Vaccination Programme, if your child/ward is below the age of 18, your consent is required for him/her to get vaccinated. If your child/ward is 12 years old, you will need to accompany him/her during the vaccination.<br><br>
 He/she may walk in without an appointment to any Vaccination Centre offering the Pfizer-
 BioNTech/Comirnaty vaccine, any day of the week before 7pm, for his/her vaccination dose. All
-children aged 12 to 17 will also be required to bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a><br><br>
-Alternatively, you may register your interest to have your child/ward aged 12 to 17 to be vaccinated <a href="https://preregister.vaccine.gov.sg/">here</a> Please use your own contact details to register for their child/ward. An SMS with a
-personalised link will then be sent to this contact number to book a vaccination appointment.
+children aged 12 to 17 will also be required to bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a>.<br><br>
 </p>
 							</div>
 					</div>				
