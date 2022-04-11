@@ -20,6 +20,7 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
  1pm on eve of Public Holiday<br><br>
  Walk-ins for Dose 1 at all paediatric Vaccination Centres, except Hougang Community Club and
 Senja-Cashew Community Club will cease from 9 April.<br><br>
+Walk-ins for Dose 1 of Sinovac-CoronaVac at the Vaccination Centre at Raffles City Convention Centre will cease from 12 April.<br><br>
 Walk-ins for Dose 1 at the Vaccination Centres at  Marine Parade Community Club, Woodlands
 Community Club and Nee Soon East Community Club will cease from 9 April, 2 May, and 10 May
 respectively.<br>
