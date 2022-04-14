@@ -5,8 +5,8 @@ permalink: /contact-us/
 agency_name: Ministry of Health
 contacts:
   - content:
-      - phone: 1800 333 9999
+      - phone: +65 6995 9199
       - email: ""
-      - other: MOH COVID-19 General Enquiries Hotline
+      - other: ""
     title: HOTLINE
 ---
