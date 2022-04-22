@@ -66,12 +66,14 @@ Walk-ins for Dose 1 of Sinovac-CoronaVac at the Vaccination Centre at Raffles Ci
   </thead>
   <tbody>		
     <tr>
-      <td>Radin Mas Community Club  </td>
+      <td>Radin Mas Community Club (Closes after 31
+May 2022)  </td>
       <td>51 Telok Blangah Crescent, Singapore 098917</td>
 			<td>Moderna/Spikevax</td>
     </tr>	
     <tr>
-      <td>Buona Vista Community Club </td>
+      <td>Buona Vista Community Club (Closes after 31
+May 2022) </td>
       <td>36 Holland Drive, Singapore 270036</td>
 			<td>Moderna/Spikevax</td>
     </tr> 
@@ -81,32 +83,38 @@ Walk-ins for Dose 1 of Sinovac-CoronaVac at the Vaccination Centre at Raffles Ci
 			<td>Pfizer/Comirnaty and Sinovac</td>
     </tr>	
     <tr>
-      <td>Tanjong Pagar Community Club</td>
+      <td>Tanjong Pagar Community Club (Closes after 31
+May 2022)</td>
       <td>101 Cantonment Road, Singapore 089774</td>
 			<td>Pfizer/Comirnaty and Moderna/Spikevax</td>
     </tr>		
     <tr>
-      <td>Jalan Besar Community Club</td>
+      <td>Jalan Besar Community Club (Closes after 31
+May 2022)</td>
       <td>69 Jellicoe Road, Singapore 208737</td>
 			<td>Pfizer/Comirnaty (Adults & Children)</td>
     </tr>		
     <tr>
-      <td>Bishan Community Club</td>
+      <td>Bishan Community Club (Closes after 31
+May 2022)</td>
       <td>51 Bishan Street 13, Singapore 579799</td>
 			<td>Pfizer/Comirnaty and Moderna/Spikevax</td>
     </tr>	
     <tr>
-      <td>Queenstown Community Centre </td>
+      <td>Queenstown Community Centre (Closes after 30
+June 2022) </td>
       <td>365 Commonwealth Avenue, Singapore 149732</td>
 			<td>Pfizer/Comirnaty</td>
     </tr>
     <tr>
-      <td>Toa Payoh West Community Club </td>
+      <td>Toa Payoh West Community Club (Closes after 31
+May 2022) </td>
       <td>200 Lorong 2 Toa Payoh, Singapore 319642</td>
 			<td>Pfizer/Comirnaty (Adults & Children)</td>
     </tr>	
     <tr>
-      <td>Marine Parade Community Club </td>
+      <td>Marine Parade Community Club (Closes after 30
+April 2022) </td>
       <td>278 Marine Parade Road, Singapore 449282</td>
 			<td>Pfizer/Comirnaty (Adults & Children)</td>
     </tr>  
