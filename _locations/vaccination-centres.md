@@ -133,22 +133,26 @@ April 2022) </td>
   </thead>
   <tbody>		
     <tr>
-      <td>Tampines East Community Club </td>
+      <td>Tampines East Community Club (Closes after 31
+May 2022) </td>
       <td>10 Tampines Street 23, Singapore 529341</td>
 			<td>Moderna/Spikevax</td>
     </tr>  
     <tr>
-      <td>Bedok Community Centre   </td>
+      <td>Bedok Community Centre (Closes after 30
+June 2022)   </td>
       <td>850 New Upper Changi Road, Singapore 467352</td>
 			<td>Pfizer/Comirnaty</td>
     </tr>		
     <tr>
-      <td>Pasir Ris Elias Community Club    </td>
+      <td>Pasir Ris Elias Community Club (Closes after 31
+May 2022)    </td>
       <td>93 Pasir Ris Drive 3, Singapore 519498</td>
 			<td>Pfizer/Comirnaty (Adults & Children)</td>
     </tr>	
     <tr>
-      <td>Arena@ Our Tampines Hub (Hockey Court)  </td>
+      <td>Arena@ Our Tampines Hub (Hockey Court) (Closes after 31
+May 2022) </td>
       <td>1 Tampines Walk, Singapore 528523</td>
 			<td>Pfizer/Comirnaty (Adults & Children)</td>
     </tr>  
