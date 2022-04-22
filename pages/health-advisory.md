@@ -33,7 +33,7 @@ You will be eligible for your booster dose 5 months after the last dose of your 
 As a precautionary measure, adolescents and men below 30 years of age, in particular, who have received any dose of the COVID-19 vaccine, are advised to avoid strenuous physical activities such as running, weightlifting, competitive sports, or playing ball games for two weeks after the vaccination.
  <br/>
 
-**Postpone your appointment if you Are unwell or had a fever in the last 24 hours**
+**Postpone your appointment if you are unwell or had a fever in the last 24 hours**
 
 You are encouraged to defer other vaccinations for 2 weeks or more, if possible.
 
