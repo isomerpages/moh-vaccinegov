@@ -170,22 +170,26 @@ May 2022) </td>
   </thead>
   <tbody>		
     <tr>
-      <td>Woodlands Community Club   </td>
+      <td>Woodlands Community Club (Closes after 31
+May 2022)  </td>
       <td>1 Woodlands Street 81, Singapore 738526</td>
 			<td>Moderna/Spikevax</td>
     </tr>  
     <tr>
-      <td>Woodlands Galaxy Community Club</td>
+      <td>Woodlands Galaxy Community Club (Closes after 31
+May 2022)</td>
       <td>31 Woodlands Avenue 6, Singapore 738991</td>
 			<td>Pfizer/Comirnaty (Adults & Children)</td>
     </tr>
     <tr>
-      <td>Canberra Community Club</td>
+      <td>Canberra Community Club (Closes after 30
+June 2022)</td>
       <td>2 Sembawang Crescent, Singapore 757632</td>
 			<td>Pfizer/Comirnaty and Moderna/Spikevax</td>
     </tr>	
     <tr>
-      <td>Nee Soon East Community Club</td>
+      <td>Nee Soon East Community Club (Closes after 31
+May 2022)</td>
       <td>1 Yishun Avenue 9, Singapore 768893</td>
 			<td>Pfizer/Comirnaty (Adults & Children)</td>
     </tr> 
