@@ -2,6 +2,7 @@ collections:
   locations:
     output: true
     order:
+      - Private Vaccination Programme.md
       - clinics.md
       - polyclinics.md
       - vaccination-centres.md
