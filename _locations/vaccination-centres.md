@@ -207,27 +207,32 @@ May 2022)</td>
   </thead>
   <tbody>	
     <tr>
-      <td>Punggol 21 Community Club</td>
+      <td>Punggol 21 Community Club (Closes after 30
+June 2022)</td>
       <td>80 Punggol Field #01-01, Singapore 828815</td>
 			<td>Moderna/Spikevax</td>
     </tr> 
     <tr>
-      <td>The Serangoon Community Club </td>
+      <td>The Serangoon Community Club (Closes after 31
+May 2022) </td>
       <td>10 Serangoon North Avenue 2, Singapore 555877</td>
 			<td>Pfizer/Comirnaty (Adults & Children)</td>
     </tr>	
     <tr>
-      <td>Sengkang Community Club  </td>
+      <td>Sengkang Community Club (Closes after 31
+May 2022) </td>
       <td>2 Sengkang Square,  #01-01 Sengkang Community Hub, Singapore 545025</td>
 			<td>Pfizer/Comirnaty</td>
     </tr>	
     <tr>
-      <td>Hougang Community Club    </td>
+      <td>Hougang Community Club (Closes after 30
+June 2022)    </td>
       <td>35 Hougang Avenue 3, Singapore 538840</td>
 			<td>Pfizer/Comirnaty (Adults & Children)</td>
     </tr>	
    <tr>
-      <td>Teck Ghee Community Club</td>
+      <td>Teck Ghee Community Club (Closes after 31
+May 2022)</td>
       <td>861 Ang Mo Kio Avenue 10, Singapore 569734</td>
 			<td>Pfizer/Comirnaty</td>
 		  </tr>	
@@ -245,12 +250,14 @@ May 2022)</td>
   </thead>
   <tbody>	
     <tr>
-      <td>Hong Kah North Community Club </td>
+      <td>Hong Kah North Community Club (Closes after 31
+May 2022) </td>
       <td>30 Bukit Batok Street 31, Singapore 659440</td>
 			<td>Moderna/Spikevax</td>
     </tr>
     <tr>
-      <td>Yew Tee Community Club   </td>
+      <td>Yew Tee Community Club (Closes after 31
+May 2022)   </td>
       <td>20 Choa Chu Kang Street 52, Singapore 689286</td>
 			<td>Moderna/Spikevax</td>
     </tr>
@@ -260,7 +267,8 @@ May 2022)</td>
 			<td>Pfizer/Comirnaty (Adults & Children)</td>
     </tr>
     <tr>
-      <td>Nanyang Community Club </td>
+      <td>Nanyang Community Club (Closes after 31
+May 2022) </td>
       <td>60 Jurong West Street 91, Singapore 649040</td>
 			<td>Pfizer/Comirnaty</td>
     </tr>	
