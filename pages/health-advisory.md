@@ -33,17 +33,12 @@ You will be eligible for your booster dose 5 months after the last dose of your 
 As a precautionary measure, adolescents and men below 30 years of age, in particular, who have received any dose of the COVID-19 vaccine, are advised to avoid strenuous physical activities such as running, weightlifting, competitive sports, or playing ball games for two weeks after the vaccination.
  <br/>
 
-**Postpone your appointment if you**
-
-- Are unwell or had a fever in the last 24 hours
-- Are serving Stay-Home Notice (SHN)^, or Isolation Order(IO)^^
-
-If you received a Health Risk Notice (HRN), please take an ART self-test before leaving home. You may proceed with your vaccination appointment if your ART result is negative. Do minimise unnecessary social interactions.
+**Postpone your appointment if you Are unwell or had a fever in the last 24 hours**
 
 You are encouraged to defer other vaccinations for 2 weeks or more, if possible.
 
 
-Persons who are moderately to severely immunocompromised are recommended to receive a third dose of the same PSAR mRNA vaccine they had received for the first two doses, two months after their second dose.  They should be referred to receive the third dose by their treating specialist, who would have the best understanding of their medical condition. For more information, please refer to the [FAQ](https://www.moh.gov.sg/covid-19/vaccination/faqs---enhanced-primary-series).
+Persons who are moderately to severely immunocompromised are recommended to receive a third dose of the same mRNA vaccine they had received for the first two doses, two months after their second dose.  They should be referred to receive the third dose by their treating specialist, who would have the best understanding of their medical condition. For more information, please refer to the [FAQ](https://www.moh.gov.sg/covid-19/vaccination/faqs---enhanced-primary-series).
  <br/>
  
  **COVID-19 Vaccination Related Documents**<br>
@@ -56,6 +51,5 @@ Persons who are moderately to severely immunocompromised are recommended to rece
  [Screening Form and Vaccination Information Sheet – Sinovac*](https://go.gov.sg/viss)<br>
  
  [Parental Consent Form for Paeds SAM (By Invite Only)](https://go.gov.sg/sampcf)<br><br>
- ^This is not applicable for persons under the vaccination channels for Overseas Singaporeans<br>
- ^^Persons under IO who have not completed their primary series may resume their vaccination regime 90 days from their date of diagnosis<br>
+ 
   *These forms will be provided and filled up at the vaccination site
