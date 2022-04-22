@@ -18,12 +18,26 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
  **Last Walk-in**:<br>
  7pm daily<br>
  1pm on eve of Public Holiday<br><br>
- Walk-ins for Dose 1 at all paediatric Vaccination Centres, except Hougang Community Club and
-Senja-Cashew Community Club will cease from 9 April.<br><br>
+ Walk-ins for Dose 1 at the Vaccination Centre at Marine Parade Community club, as well as all paediatric Vaccination Centres, except Hougang Community Club and
+Senja-Cashew Community Club has ceased effect from 9 April.<br><br>
 Walk-ins for Dose 1 of Sinovac-CoronaVac at the Vaccination Centre at Raffles City Convention Centre will cease from 12 April.<br><br>
-Walk-ins for Dose 1 at the Vaccination Centres at  Marine Parade Community Club, Woodlands
-Community Club and Nee Soon East Community Club will cease from 9 April, 2 May, and 10 May
-respectively.<br>
+
+**For VCs ceasing operations on 31 May 2022**:<br>
+* VCs offering the Moderna/Spikevax vaccine will administer the last Dose 1 on 2 May 2022.<br>
+* VCs offering the Pfizer-BioNTech/Comirnaty vaccine will administer the last Dose 1 on 10 May
+2022.<br>
+* Dose 2 and booster doses will continue to be administered until 31 May 2022.<br><br>
+
+**For VCs ceasing operations on 30 June 2022**:
+* VCs offering the Moderna/Spikevax vaccine will administer the last Dose 1 on 2 June 2022.<br>
+* VCs offering the Pfizer-BioNTech/Comirnaty vaccine will administer the last Dose 1 on 9 June
+2022.<br>
+* Dose 2 and booster doses will continue to be administered until 30 June 2022.<br>
+
+
+
+
+
 <br>
 **Upcoming Public Hoildays Operating Hours**<br>Please note that the last appointment on the eve of the Public Holiday will be at 2pm.<br><br>
 14 Apr 2022 (Eve of Good Friday): 8am to 3pm<br>
