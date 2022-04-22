@@ -273,17 +273,20 @@ May 2022) </td>
 			<td>Pfizer/Comirnaty</td>
     </tr>	
     <tr>
-      <td>Clementi Community Centre  </td>
+      <td>Clementi Community Centre (Closes after 31
+May 2022)  </td>
       <td>220 Clementi Avenue 4, Singapore 129880</td>
 			<td>Pfizer/Comirnaty (Adults & Children)</td>
     </tr>	
     <tr>
-      <td>Senja-Cashew Community Club</td>
+      <td>Senja-Cashew Community Club (Closes after 30
+June 2022)</td>
       <td>101 Bukit Panjang Road, Singapore 679910</td>
 			<td>Pfizer/Comirnaty (Adults & Children)</td>
 		</tr>		
     <tr>
-      <td>Chua Chu Kang Community Club </td>
+      <td>Chua Chu Kang Community Club (Closes after 31
+May 2022) </td>
       <td>35 Teck Whye Avenue, Singapore 688892</td>
 			<td>Pfizer/Comirnaty</td>
     </tr>
