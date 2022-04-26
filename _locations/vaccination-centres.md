@@ -18,8 +18,7 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
  **Last Walk-in**:<br>
  7pm daily<br>
  1pm on eve of Public Holiday<br><br>
- Walk-ins for Dose 1 at the Vaccination Centre at Marine Parade Community club, as well as all paediatric Vaccination Centres, except Hougang Community Club and
-Senja-Cashew Community Club has ceased effect from 9 April.<br><br>
+ 
 Walk-ins for Dose 1 of Sinovac-CoronaVac at the Vaccination Centre at Raffles City Convention Centre for individuals aged 18 and above has ceased with effect from 12 April.<br><br>
 
 **For VCs ceasing operations on 31 May 2022**:<br>
@@ -40,7 +39,6 @@ Walk-ins for Dose 1 of Sinovac-CoronaVac at the Vaccination Centre at Raffles Ci
 
 <br>
 **Upcoming Public Holidays Operating Hours**<br>Please note that the last appointment on the eve of the Public Holiday will be at 2pm.<br><br>
-30 Apr 2022 (Eve of Labour Day): 8am to 3pm<br>
 1 May 2022 (Labour Day) - Closed<br>
 2 May 2022 (Eve of Hari Raya Puasa): 8am to 3pm<br>
 3 May 2022 (Hari Raya Puasa) - Closed<br>
