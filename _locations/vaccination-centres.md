@@ -18,9 +18,8 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
  **Last Walk-in**:<br>
  7pm daily<br>
  1pm on eve of Public Holiday<br><br>
- Walk-ins for Dose 1 at the Vaccination Centre at Marine Parade Community club, as well as all paediatric Vaccination Centres, except Hougang Community Club and
-Senja-Cashew Community Club has ceased effect from 9 April.<br><br>
-Walk-ins for Dose 1 of Sinovac-CoronaVac at the Vaccination Centre at Raffles City Convention Centre will cease from 12 April.<br><br>
+ 
+Walk-ins for Dose 1 of Sinovac-CoronaVac at the Vaccination Centre at Raffles City Convention Centre for individuals aged 18 and above has ceased with effect from 12 April.<br><br>
 
 **For VCs ceasing operations on 31 May 2022**:<br>
 * VCs offering the Moderna/Spikevax vaccine will administer the last Dose 1 on 2 May 2022.<br>
@@ -39,8 +38,7 @@ Walk-ins for Dose 1 of Sinovac-CoronaVac at the Vaccination Centre at Raffles Ci
 
 
 <br>
-**Upcoming Public Hoildays Operating Hours**<br>Please note that the last appointment on the eve of the Public Holiday will be at 2pm.<br><br>
-30 Apr 2022 (Eve of Labour Day): 8am to 3pm<br>
+**Upcoming Public Holidays Operating Hours**<br>Please note that the last appointment on the eve of the Public Holiday will be at 2pm.<br><br>
 1 May 2022 (Labour Day) - Closed<br>
 2 May 2022 (Eve of Hari Raya Puasa): 8am to 3pm<br>
 3 May 2022 (Hari Raya Puasa) - Closed<br>
@@ -92,7 +90,7 @@ May 2022)</td>
       <td>Jalan Besar Community Club (Closes after 31
 May 2022)</td>
       <td>69 Jellicoe Road, Singapore 208737</td>
-			<td>Pfizer/Comirnaty (Adults & Children)</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>		
     <tr>
       <td>Bishan Community Club (Closes after 31
@@ -110,14 +108,8 @@ June 2022) </td>
       <td>Toa Payoh West Community Club (Closes after 31
 May 2022) </td>
       <td>200 Lorong 2 Toa Payoh, Singapore 319642</td>
-			<td>Pfizer/Comirnaty (Adults & Children)</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>	
-    <tr>
-      <td>Marine Parade Community Club (Closes after 30
-April 2022) </td>
-      <td>278 Marine Parade Road, Singapore 449282</td>
-			<td>Pfizer/Comirnaty (Adults & Children)</td>
-    </tr>  
   </tbody>
 </table>
 
@@ -148,13 +140,13 @@ June 2022)   </td>
       <td>Pasir Ris Elias Community Club (Closes after 31
 May 2022)    </td>
       <td>93 Pasir Ris Drive 3, Singapore 519498</td>
-			<td>Pfizer/Comirnaty (Adults & Children)</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>	
     <tr>
       <td>Arena@ Our Tampines Hub (Hockey Court) (Closes after 31
 May 2022) </td>
       <td>1 Tampines Walk, Singapore 528523</td>
-			<td>Pfizer/Comirnaty (Adults & Children)</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>  
   </tbody>
 </table>
@@ -179,7 +171,7 @@ May 2022)  </td>
       <td>Woodlands Galaxy Community Club (Closes after 31
 May 2022)</td>
       <td>31 Woodlands Avenue 6, Singapore 738991</td>
-			<td>Pfizer/Comirnaty (Adults & Children)</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>
     <tr>
       <td>Canberra Community Club (Closes after 30
@@ -191,7 +183,7 @@ June 2022)</td>
       <td>Nee Soon East Community Club (Closes after 31
 May 2022)</td>
       <td>1 Yishun Avenue 9, Singapore 768893</td>
-			<td>Pfizer/Comirnaty (Adults & Children)</td>
+			<td>Pfizer/Comirnaty</td>
     </tr> 
   </tbody>
 </table>
@@ -216,7 +208,7 @@ June 2022)</td>
       <td>The Serangoon Community Club (Closes after 31
 May 2022) </td>
       <td>10 Serangoon North Avenue 2, Singapore 555877</td>
-			<td>Pfizer/Comirnaty (Adults & Children)</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>	
     <tr>
       <td>Sengkang Community Club (Closes after 31
@@ -264,7 +256,7 @@ May 2022)   </td>
     <tr>
       <td>Former Hong Kah Secondary School</td>
       <td>931 Jurong West Street 42, Singapore 649370</td>
-			<td>Pfizer/Comirnaty (Adults & Children)</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>
     <tr>
       <td>Nanyang Community Club (Closes after 31
@@ -276,7 +268,7 @@ May 2022) </td>
       <td>Clementi Community Centre (Closes after 31
 May 2022)  </td>
       <td>220 Clementi Avenue 4, Singapore 129880</td>
-			<td>Pfizer/Comirnaty (Adults & Children)</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>	
     <tr>
       <td>Senja-Cashew Community Club (Closes after 30
