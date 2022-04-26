@@ -256,7 +256,7 @@ May 2022)   </td>
     <tr>
       <td>Former Hong Kah Secondary School</td>
       <td>931 Jurong West Street 42, Singapore 649370</td>
-			<td>Pfizer/Comirnaty (Adults & Children)</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>
     <tr>
       <td>Nanyang Community Club (Closes after 31
@@ -268,7 +268,7 @@ May 2022) </td>
       <td>Clementi Community Centre (Closes after 31
 May 2022)  </td>
       <td>220 Clementi Avenue 4, Singapore 129880</td>
-			<td>Pfizer/Comirnaty (Adults & Children)</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>	
     <tr>
       <td>Senja-Cashew Community Club (Closes after 30
