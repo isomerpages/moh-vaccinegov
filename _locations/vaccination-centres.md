@@ -183,7 +183,7 @@ June 2022)</td>
       <td>Nee Soon East Community Club (Closes after 31
 May 2022)</td>
       <td>1 Yishun Avenue 9, Singapore 768893</td>
-			<td>Pfizer/Comirnaty (Adults & Children)</td>
+			<td>Pfizer/Comirnaty</td>
     </tr> 
   </tbody>
 </table>
@@ -208,7 +208,7 @@ June 2022)</td>
       <td>The Serangoon Community Club (Closes after 31
 May 2022) </td>
       <td>10 Serangoon North Avenue 2, Singapore 555877</td>
-			<td>Pfizer/Comirnaty (Adults & Children)</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>	
     <tr>
       <td>Sengkang Community Club (Closes after 31
