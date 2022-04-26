@@ -146,7 +146,7 @@ May 2022)    </td>
       <td>Arena@ Our Tampines Hub (Hockey Court) (Closes after 31
 May 2022) </td>
       <td>1 Tampines Walk, Singapore 528523</td>
-			<td>Pfizer/Comirnaty (Adults & Children)</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>  
   </tbody>
 </table>
@@ -171,7 +171,7 @@ May 2022)  </td>
       <td>Woodlands Galaxy Community Club (Closes after 31
 May 2022)</td>
       <td>31 Woodlands Avenue 6, Singapore 738991</td>
-			<td>Pfizer/Comirnaty (Adults & Children)</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>
     <tr>
       <td>Canberra Community Club (Closes after 30
