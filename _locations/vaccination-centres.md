@@ -90,7 +90,7 @@ May 2022)</td>
       <td>Jalan Besar Community Club (Closes after 31
 May 2022)</td>
       <td>69 Jellicoe Road, Singapore 208737</td>
-			<td>Pfizer/Comirnaty (Adults & Children)</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>		
     <tr>
       <td>Bishan Community Club (Closes after 31
@@ -108,14 +108,8 @@ June 2022) </td>
       <td>Toa Payoh West Community Club (Closes after 31
 May 2022) </td>
       <td>200 Lorong 2 Toa Payoh, Singapore 319642</td>
-			<td>Pfizer/Comirnaty (Adults & Children)</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>	
-    <tr>
-      <td>Marine Parade Community Club (Closes after 30
-April 2022) </td>
-      <td>278 Marine Parade Road, Singapore 449282</td>
-			<td>Pfizer/Comirnaty (Adults & Children)</td>
-    </tr>  
   </tbody>
 </table>
 
