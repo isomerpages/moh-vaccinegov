@@ -140,7 +140,7 @@ June 2022)   </td>
       <td>Pasir Ris Elias Community Club (Closes after 31
 May 2022)    </td>
       <td>93 Pasir Ris Drive 3, Singapore 519498</td>
-			<td>Pfizer/Comirnaty (Adults & Children)</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>	
     <tr>
       <td>Arena@ Our Tampines Hub (Hockey Court) (Closes after 31
