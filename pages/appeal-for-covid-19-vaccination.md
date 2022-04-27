@@ -4,8 +4,7 @@ permalink: /appeal
 ---
 **COVID-19 vaccination for Short Term Pass Holders**
 
-With effect from 18 August 2021, the vaccination programme will be open to short-term work pass and special pass holders, such as those on Training Employment Passes (TEPs), Training Work Permits (TWP), Work Holiday Passes (WHP) and Special Passes. It will also be made available to eligible Short-Term Visit Pass (STVP) holders who have been in Singapore for
-at least 60 days. This will help reduce the risk of transmission of COVID-19 even as we continue with our progressive re-opening. 
+With effect from 18 August 2021, the vaccination programme will be open to short-term work pass and special pass holders, such as those on Training Employment Passes (TEPs), Training Work Permits (TWP), Work Holiday Passes (WHP) and Special Passes. It will also be made available to eligible Short-Term Visit Pass (STVP) holders who have a pass validity period of at least 60 days. This will help reduce the risk of transmission of COVID-19 even as we continue with our progressive re-opening. 
 
 The eligible individuals are:
 
@@ -17,7 +16,7 @@ The eligible individuals are:
 | **[New] Short Term Visit Pass holders** (with valid extension)<br>*Individuals should have applied to ICA or MOM and have received at least one extension of your Short-Term Visit Pass. | Eligible STVP holders who have valid phone numbers in their immigration records will receive an SMS from MOH via their registered mobile number. The SMSes will be sent progressively over a few days, and will include a personalised booking link to vaccine.gov.sg where individuals can book their appointments. They will not be able to walk-in to the Vaccination Centres, polyclinics or PHPCs.| 
 
 
-STVP holders with valid pass extensions who do not receive an SMS from MOH by 22 Aug 2021 may request for an appointment via this [form](https://form.gov.sg/611b8d4fd152f10012dd3428). <br><br>
+STVP holders with valid pass extensions who do not receive an SMS from MOH may request for an appointment via this [form](https://form.gov.sg/611b8d4fd152f10012dd3428). <br><br>
 We will review such requests on a case-by-case basis over the following few weeks.
 
 ![Alt text for image on Isomer site](/images/appeal%20QR.png)
