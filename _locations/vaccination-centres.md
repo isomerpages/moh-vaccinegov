@@ -20,7 +20,18 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
  1pm on eve of Public Holiday<br><br>
  
 Walk-ins for Dose 1 of Sinovac-CoronaVac at the Vaccination Centre at Raffles City Convention Centre for individuals aged 18 and above has ceased with effect from 12 April.<br><br>
+The following paediatric VCs will have their last day of operations on 30 April 2022: 
 
+• Arena@Our Tampines Hub<br>
+• Clementi Community Centre<br>
+• Former Hong Kah Secondary School<br>
+• Jalan Besar Community Club<br>
+• Marine Parade Community Club<br>
+• Nee Soon East Community Club<br>
+• Pasir Ris Elias Community Club<br>
+• The Serangoon Community Club<br>
+• Toa Payoh West Community Club<br>
+• Woodlands Galaxy Community Club<br><br>
 **For VCs ceasing operations on 31 May 2022**:<br>
 * VCs offering the Moderna/Spikevax vaccine will administer the last Dose 1 on 2 May 2022.<br>
 * VCs offering the Pfizer-BioNTech/Comirnaty vaccine will administer the last Dose 1 on 10 May
