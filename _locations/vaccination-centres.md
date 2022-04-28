@@ -50,6 +50,7 @@ The following paediatric VCs will have their last day of operations on 30 April 
 
 <br>
 **Upcoming Public Holidays Operating Hours**<br>Please note that the last appointment on the eve of the Public Holiday will be at 2pm.<br><br>
+30 April 2022 (Eve of Labour Day): 8am to 3pm<br>
 1 May 2022 (Labour Day) - Closed<br>
 2 May 2022 (Eve of Hari Raya Puasa): 8am to 3pm<br>
 3 May 2022 (Hari Raya Puasa) - Closed<br>
