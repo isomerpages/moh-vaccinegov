@@ -295,11 +295,6 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>Phoenix Medical Group (Novena)*</td>
-      <td>275 Thomson Road, #01-05 Novena Regency #01-05 , Singapore 307645 (Phone:62543862)(register via vaccine.gov.sg)</td>
-			<td>Sinovac</td>
-			</tr>    
-    <tr>
       <td>Mediview Clinic & Surgery*</td>
       <td>150 Toa Payoh Lorong 1 #01-999  Singapore 310150 (Phone:62532351)(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
@@ -362,11 +357,6 @@ As operating hours may vary, please call the respective clinics for enquiries on
     <tr>
       <td>Pacific Family Clinic*</td>
       <td>75D Redhill Road, #01-116, Singapore 154075 (register via vaccine.gov.sg)</td>
-			<td>Sinovac</td>
-			</tr>    
-    <tr>
-      <td>Boon Keng Clinic & Surgery*</td>
-      <td>11 Upper Boon Keng Road, #01-919 Singapore 380011 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
@@ -563,11 +553,6 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			<td>Sinovac</td>
 			</tr>		
     <tr>
-      <td>Pinnacle Family Clinic (Pasir Ris)*</td>
-      <td>571 Pasir Ris Street 53 #01-50, Singapore 510571 (Phone:62437338)(register via vaccine.gov.sg)</td>
-			<td>Sinovac</td>
-			</tr>				
-    <tr>
       <td>Kai Medical Clinic*</td>
       <td>5 Tampines Street 32, Tampines Mart #02-05, Singapore 529284(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
@@ -684,11 +669,6 @@ As operating hours may vary, please call the respective clinics for enquiries on
     <td>Viva Medical Group (Canberra Plaza)</td>
       <td>133 Canberra View, Canberra Plaza #02-14, Singapore 750133</td>
 				<td>Pfizer/Comirnaty</td>
-		  </tr>	
-   <tr>
-    <td>Pinnacle Family Clinic (Woodlands)*</td>
-      <td>573 Woodlands Drive 16 #01-06,  Singapore 730573 (Phone:67601623)(register via vaccine.gov.sg)</td>
-				<td>Sinovac</td>
 		  </tr>	
    <tr>
     <td>Woodlands Clinic*</td>
@@ -910,11 +890,6 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 			<td>Pfizer/Comirnaty</td>
 					</tr>
     	<tr>
-      <td>Pinnacle Family Clinic (Serangoon North)*</td>
-      <td>518 Serangoon North Avenue 4, #B1-208  Singapore 550518 (Phone:62193910)(register via vaccine.gov.sg)</td>
-			<td>Sinovac</td>
-					</tr>
-    	<tr>
       <td>SATA CommHealth Ang Mo Kio Medical Centre*</td>
       <td>715 Ang Mo Kio Avenue 6 #01-4008 & 4010  Singapore 560715 (Phone: 62446688)(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
@@ -1085,11 +1060,6 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
     <tr>
       <td>Providence Clinic @ Hillford*</td>
       <td>182 Jalan Jurong Kechil, The Hillford, #01-65 Singapore 596152 (Phone:63140970)(register via vaccine.gov.sg)</td>
-			<td>Sinovac</td>
-			</tr>
-    <tr>
-      <td>Pinnacle Family Clinic (Yew Tee)*</td>
-      <td>790 Choa Chu Kang North 6 #01-238  Singapore 680790 (Phone:62357893)(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
 			</tr>
     <tr>
