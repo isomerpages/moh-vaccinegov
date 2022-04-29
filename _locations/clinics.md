@@ -365,11 +365,6 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>Boon Keng Clinic & Surgery*</td>
-      <td>11 Upper Boon Keng Road, #01-919 Singapore 380011 (register via vaccine.gov.sg)</td>
-			<td>Sinovac</td>
-			</tr>    
-    <tr>
       <td>Dover Medical Centre*</td>
       <td>1 Fusionopolis Way,Connexis #03-05, Singapore 138632 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
