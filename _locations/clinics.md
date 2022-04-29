@@ -1083,11 +1083,6 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 			<td>Sinovac</td>
 			</tr>
     <tr>
-      <td>Pinnacle Family Clinic (Yew Tee)*</td>
-      <td>790 Choa Chu Kang North 6 #01-238  Singapore 680790 (Phone:62357893)(register via vaccine.gov.sg)</td>
-			<td>Sinovac</td>
-			</tr>
-    <tr>
       <td>Chua Medical Clinic And Surgery Pte Ltd*</td>
       <td>642 Bukit Batok Central #01-52, Singapore 650642 (Phone:69726948)(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
