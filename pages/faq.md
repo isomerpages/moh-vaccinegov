@@ -59,10 +59,10 @@ Health Preparedness Clinics to receive their vaccination, without an appointment
 							<label for="question-1-5" class="tab-label">How do I register to receive Sinovac-CoronaVac?</label>
 						<div class="tab-content">
 							<p>We strongly recommend those who can take the mRNA vaccines to complete their primary vaccination series and booster doses with mRNA vaccines, in view of the lower efficacy of the Sinovac-CoronaVac vaccine.<br><br>
-1. Persons <strong>who were medically ineligible for a mRNA vaccine regime </strong> – If you were previously invited to receive the Sinovac-CoronaVac vaccine under a special public health programme, you should follow the instructions provided in the SMS invitation to continue with the regime.<br><br>
-2. You are <strong>aged 18 and above, and have yet to take a dose of any COVID-19 vaccine</strong> – you may walk in to the vaccination centre at RCCC to receive your vaccination.<br><br>
-3. <strong>Seniors aged 60 years and above</strong> may also walk into the vaccination centre at RCCC or participating Public Health Preparedness Clinics to receive their vaccination.<br><br>
-Those who are medically ineligible for mRNA vaccines may consider taking the Sinovac-CoronaVac vaccine as a booster vaccine. The Sinovac-CoronaVac vaccine is otherwise not recommended as a booster vaccine.							
+1. You are medically ineligible for a mRNA vaccine regime – If you were previously invited to receive the Sinovac-CoronaVac vaccine under a special public health programme, you should follow the instructions provided in the SMS invitation to continue with the regime.<br><br>
+2. You are aged 18 and above, and have yet to take a dose of any COVID-19 vaccine – you may contact any participating Public Health Preparedness Clinic (PHPC) offering Sinovac- CoronaVac to receive your vaccination.<br><br>
+
+Only who are medically ineligible for mRNA vaccines may consider taking the Sinovac-CoronaVac vaccine as a booster vaccine. The Sinovac-CoronaVac vaccine is otherwise not recommended as a booster vaccine.							
 	</p> 
 							</div>
 					</div>				
