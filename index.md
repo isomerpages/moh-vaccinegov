@@ -4,16 +4,15 @@ title: MOH COVID-19 Vaccination Registration
 description: MOH COVID-19 Vaccination in Singapore
 image: /images/isomer-logo.svg
 permalink: /
-notification: Pre-registration for vaccines is now closed - you will
-  automatically receive a booking code when eligible for your next dose
+notification: ""
 sections:
   - hero:
       title: COVID-19 Vaccination Registration
       subtitle: 登记接种2019冠病疫苗/ Pendaftaran bagi Vaksinasi COVID-19/ கொவிட்-19
         தடுப்பூசிக்கான பதிவு
       background: /images/vaccinegov-hero-withlogo-higher.png
-      button: Book appointment
-      url: https://appointment.vaccine.gov.sg
+      button: Register for booking code
+      url: https://preregister.vaccine.gov.sg
       key_highlights:
         - title: Book appointment
           description: Already have the code?
