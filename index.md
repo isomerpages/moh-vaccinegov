@@ -4,8 +4,7 @@ title: MOH COVID-19 Vaccination Registration
 description: MOH COVID-19 Vaccination in Singapore
 image: /images/isomer-logo.svg
 permalink: /
-notification: Pre-registration for vaccines is now closed - you will
-  automatically receive a booking code when eligible for your next dose
+notification: ""
 sections:
   - hero:
       title: COVID-19 Vaccination Registration
