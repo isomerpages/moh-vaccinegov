@@ -100,6 +100,11 @@ Locations that are administering the Covid-19 Vaccines.
       <td>1 Pasir Ris Drive 4, Singapore 519457</td>
 			<td> Pfizer/Comirnaty</td>
     </tr>
+		<tr>
+      <td>Eunos Polyclinic</td>
+      <td>1 Chin Cheng Avenue, Singapore 429400</td>
+			<td> Pfizer/Comirnaty</td>
+    </tr>
   </tbody>
 </table>
 
