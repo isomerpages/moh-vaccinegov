@@ -121,7 +121,7 @@ Locations that are administering the Covid-19 Vaccines.
     <tr>
       <td>Woodlands Polyclinic</td>
       <td>10 Woodlands Street 31, Singapore 738579</td>
-			<td> Pfizer/Comirnaty</td>
+			<td> Pfizer/Comirnaty (Adults & Children)</td>
     </tr>
     <tr>
       <td>Yishun Polyclinic</td>
