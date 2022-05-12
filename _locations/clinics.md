@@ -547,6 +547,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td>610 Tampines North Drive 1, Tampines GreenWeave #01-03, Singapore 520610</td>
 			<td>Pfizer/Comirnaty</td>
 			</tr>
+		<tr>
+      <td>Raffles Medical (Tampines 1)</td>
+      <td>10 Tampines Central 1, Tampines 1 #03-28, Singapore 529536</td>
+			<td>Pfizer/Comirnaty (Children)</td>
+			</tr>
     <tr>
       <td>Little Cross Family Clinic*</td>
       <td>929 Tampines Street 91 #01-445, Singapore 520929 (Phone:65440040)(register via vaccine.gov.sg)</td>
