@@ -889,6 +889,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td> 476D Upper Serangoon View #02-04, Singapore 537476</td>
 			<td>Pfizer/Comirnaty</td>
 					</tr>
+		<tr>
+      <td>Raffles Medical (Waterway point)</td>
+      <td> 83 Punggol Central, Waterway Point #02-29, Singapore 828761</td>
+			<td>Pfizer/Comirnaty (children)</td>
+					</tr>
     	<tr>
       <td>SATA CommHealth Ang Mo Kio Medical Centre*</td>
       <td>715 Ang Mo Kio Avenue 6 #01-4008 & 4010  Singapore 560715 (Phone: 62446688)(register via vaccine.gov.sg)</td>
