@@ -60,6 +60,16 @@ Locations that are administering the Covid-19 Vaccines.
       <td>Marine Parade Polyclinic</td>
       <td>80 Marine Parade Central, Singapore 440080</td>
 			<td> Pfizer/Comirnaty</td>
+    </tr>
+		<tr>
+      <td>Kallang Polyclinic</td>
+      <td>701 Serangoon Road, Singapore 328263</td>
+			<td> Pfizer/Comirnaty</td>
+    </tr> 
+		<tr>
+      <td>Queenstown Polyclinic</td>
+      <td>580 Stirling Road, Singapore 148958</td>
+			<td> Pfizer/Comirnaty</td>
     </tr>   
   </tbody>
 </table>
