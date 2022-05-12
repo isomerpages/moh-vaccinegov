@@ -284,6 +284,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td>541 Orchard Road, Liat Towers #10-02, Singapore 238881</td>
 			<td>Pfizer/Comirnaty</td>
 			</tr>
+		<tr>
+      <td>Potong Pasir Medical Clinic</td>
+      <td>148 Potong Pasir Avnuee 1, #01-55, Singapore 350148</td>
+			<td>Pfizer/Comirnaty (children)</td>
+			</tr>
     <tr>
       <td>Anteh Dispensary Pte Ltd*</td>
       <td>1 Lorong 22 Geylang, Grandview Suites #01-02 , Singapore 398664 (Phone:67441809)(register via vaccine.gov.sg) </td>
@@ -902,7 +907,7 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 		<tr>
       <td>DR+ Medical Paincare Clinic</td>
       <td>988 Upper Serangoon Road, Stars of Kovan #01-07, Singapore 534733</td>
-			<td>Pfizer/Comirnaty (children)</td>
+			<td>Pfizer/Comirnaty (Children)</td>
 					</tr>
     	<tr>
       <td>SATA CommHealth Ang Mo Kio Medical Centre*</td>
