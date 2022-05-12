@@ -16,6 +16,14 @@ Locations that are administering the Covid-19 Vaccines.
 3.30pm Monday – Friday,<br>
 11.30am Saturday
 
+**To book an appointment for paediatric vaccination:**<br>
+* Refer to polyclinics indicated with “Pfizer/Comirnaty (Adults & Children)” vaccine type<br>
+* Polyclinics only accept appointments made via the National Appointment System (NAS) for now<br>
+* Parents/guardians who wish to vaccinate their child/ward at the selected polyclinics will have to register their child/ward at [child.vaccine.gov.sg](https://child.vaccine.gov.sg/) <br>
+* An SMS with a personalised booking link will be sent to the registered mobile number of the parent/guardian within three to five working days <br>
+* The polyclinic slots on NAS will be opened for booking on 14 May for appointment dates from 18 May onwards<br>
+
+
 
 ###  **Central**
 <table>
@@ -52,6 +60,16 @@ Locations that are administering the Covid-19 Vaccines.
       <td>Marine Parade Polyclinic</td>
       <td>80 Marine Parade Central, Singapore 440080</td>
 			<td> Pfizer/Comirnaty</td>
+    </tr>
+		<tr>
+      <td>Kallang Polyclinic</td>
+      <td>701 Serangoon Road, Singapore 328263</td>
+			<td> Pfizer/Comirnaty</td>
+    </tr> 
+		<tr>
+      <td>Queenstown Polyclinic</td>
+      <td>580 Stirling Road, Singapore 148958</td>
+			<td> Pfizer/Comirnaty</td>
     </tr>   
   </tbody>
 </table>
@@ -82,6 +100,11 @@ Locations that are administering the Covid-19 Vaccines.
       <td>1 Pasir Ris Drive 4, Singapore 519457</td>
 			<td> Pfizer/Comirnaty</td>
     </tr>
+		<tr>
+      <td>Eunos Polyclinic</td>
+      <td>1 Chin Cheng Avenue, Singapore 429400</td>
+			<td> Pfizer/Comirnaty</td>
+    </tr>
   </tbody>
 </table>
 
@@ -98,7 +121,7 @@ Locations that are administering the Covid-19 Vaccines.
     <tr>
       <td>Woodlands Polyclinic</td>
       <td>10 Woodlands Street 31, Singapore 738579</td>
-			<td> Pfizer/Comirnaty</td>
+			<td> Pfizer/Comirnaty (Adults & Children)</td>
     </tr>
     <tr>
       <td>Yishun Polyclinic</td>
@@ -126,7 +149,7 @@ Locations that are administering the Covid-19 Vaccines.
     <tr>
       <td>Punggol Polyclinic</td>
       <td>681 Punggol Drive, Singapore 8206819</td>
-			<td> Pfizer/Comirnaty</td>
+			<td> Pfizer/Comirnaty (Adults & Children)</td>
 			 </tr>		
     <tr>
       <td>Ang Mo Kio Polyclinic</td>
@@ -149,7 +172,7 @@ Locations that are administering the Covid-19 Vaccines.
     <tr>
       <td>Pioneer Polyclinic</td>
       <td>26 Jurong West Street 61, Singapore 648201</td>
-			<td> Pfizer/Comirnaty</td>
+			<td> Pfizer/Comirnaty (Adults & Children)</td>
     </tr>	
     <tr>
       <td>Jurong Polyclinic</td>
@@ -164,6 +187,11 @@ Locations that are administering the Covid-19 Vaccines.
     <tr>
       <td>Choa Chu Kang Polyclinic</td>
       <td>2 Teck Whye Crescent, Singapore 688846</td>
+			<td> Pfizer/Comirnaty</td>
+    </tr>
+		<tr>
+      <td>Bukit Panjang Polyclinic</td>
+      <td>50 Woodlands Road, Singapore 677726</td>
 			<td> Pfizer/Comirnaty</td>
     </tr> 
   </tbody>
