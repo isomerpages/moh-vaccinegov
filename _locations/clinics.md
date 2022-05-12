@@ -287,7 +287,12 @@ As operating hours may vary, please call the respective clinics for enquiries on
 		<tr>
       <td>Potong Pasir Medical Clinic</td>
       <td>148 Potong Pasir Avnuee 1, #01-55, Singapore 350148</td>
-			<td>Pfizer/Comirnaty (children)</td>
+			<td>Pfizer/Comirnaty (Children)</td>
+			</tr>
+		<tr>
+      <td>HeartlandHealth (Circuit Road)</td>
+      <td>88 Circuit Road, #01-965, Singapore 370088</td>
+			<td>Pfizer/Comirnaty (Children)</td>
 			</tr>
     <tr>
       <td>Anteh Dispensary Pte Ltd*</td>
