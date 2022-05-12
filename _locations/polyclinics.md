@@ -16,6 +16,14 @@ Locations that are administering the Covid-19 Vaccines.
 3.30pm Monday – Friday,<br>
 11.30am Saturday
 
+**To book an appointment for paediatric vaccination:**<br>
+* Refer to polyclinics indicated with “Pfizer/Comirnaty (Adults & Children)” vaccine type<br>
+* Polyclinics only accept appointments made via the National Appointment System (NAS) for now<br>
+* Parents/guardians who wish to vaccinate their child/ward at the selected polyclinics will have to register their child/ward at [child.vaccine.gov.sg](https://child.vaccine.gov.sg/) <br>
+* An SMS with a personalised booking link will be sent to the registered mobile number of the parent/guardian within three to five working days <br>
+* The polyclinic slots on NAS will be opened for booking on 14 May for appointment dates from 18 May onwards<br>
+
+
 
 ###  **Central**
 <table>
