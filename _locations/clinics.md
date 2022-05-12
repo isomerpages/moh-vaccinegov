@@ -899,6 +899,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td> 83 Punggol Central, Waterway Point #02-29, Singapore 828761</td>
 			<td>Pfizer/Comirnaty (children)</td>
 					</tr>
+		<tr>
+      <td>DR+ Medical Paincare Clinic</td>
+      <td>988 Upper Serangoon Road, Stars of Kovan #01-07, Singapore 534733</td>
+			<td>Pfizer/Comirnaty (children)</td>
+					</tr>
     	<tr>
       <td>SATA CommHealth Ang Mo Kio Medical Centre*</td>
       <td>715 Ang Mo Kio Avenue 6 #01-4008 & 4010  Singapore 560715 (Phone: 62446688)(register via vaccine.gov.sg)</td>
