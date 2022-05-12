@@ -284,6 +284,16 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td>541 Orchard Road, Liat Towers #10-02, Singapore 238881</td>
 			<td>Pfizer/Comirnaty</td>
 			</tr>
+		<tr>
+      <td>Potong Pasir Medical Clinic</td>
+      <td>148 Potong Pasir Avnuee 1, #01-55, Singapore 350148</td>
+			<td>Pfizer/Comirnaty (Children)</td>
+			</tr>
+		<tr>
+      <td>HeartlandHealth (Circuit Road)</td>
+      <td>88 Circuit Road, #01-965, Singapore 370088</td>
+			<td>Pfizer/Comirnaty (Children)</td>
+			</tr>
     <tr>
       <td>Anteh Dispensary Pte Ltd*</td>
       <td>1 Lorong 22 Geylang, Grandview Suites #01-02 , Singapore 398664 (Phone:67441809)(register via vaccine.gov.sg) </td>
@@ -546,6 +556,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td>ProHealth Medical Group@Tampines</td>
       <td>610 Tampines North Drive 1, Tampines GreenWeave #01-03, Singapore 520610</td>
 			<td>Pfizer/Comirnaty</td>
+			</tr>
+		<tr>
+      <td>Raffles Medical (Tampines 1)</td>
+      <td>10 Tampines Central 1, Tampines 1 #03-28, Singapore 529536</td>
+			<td>Pfizer/Comirnaty (Children)</td>
 			</tr>
     <tr>
       <td>Little Cross Family Clinic*</td>
@@ -888,6 +903,16 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>ProHealth Medical Group@Hougang</td>
       <td> 476D Upper Serangoon View #02-04, Singapore 537476</td>
 			<td>Pfizer/Comirnaty</td>
+					</tr>
+		<tr>
+      <td>Raffles Medical (Waterway point)</td>
+      <td> 83 Punggol Central, Waterway Point #02-29, Singapore 828761</td>
+			<td>Pfizer/Comirnaty (children)</td>
+					</tr>
+		<tr>
+      <td>DR+ Medical Paincare Clinic</td>
+      <td>988 Upper Serangoon Road, Stars of Kovan #01-07, Singapore 534733</td>
+			<td>Pfizer/Comirnaty (Children)</td>
 					</tr>
     	<tr>
       <td>SATA CommHealth Ang Mo Kio Medical Centre*</td>
