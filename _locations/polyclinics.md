@@ -172,7 +172,7 @@ Locations that are administering the Covid-19 Vaccines.
     <tr>
       <td>Pioneer Polyclinic</td>
       <td>26 Jurong West Street 61, Singapore 648201</td>
-			<td> Pfizer/Comirnaty</td>
+			<td> Pfizer/Comirnaty (Adults & Children)</td>
     </tr>	
     <tr>
       <td>Jurong Polyclinic</td>
@@ -187,6 +187,11 @@ Locations that are administering the Covid-19 Vaccines.
     <tr>
       <td>Choa Chu Kang Polyclinic</td>
       <td>2 Teck Whye Crescent, Singapore 688846</td>
+			<td> Pfizer/Comirnaty</td>
+    </tr>
+		<tr>
+      <td>Bukit Panjang Polyclinic</td>
+      <td>50 Woodlands Road, Singapore 677726</td>
 			<td> Pfizer/Comirnaty</td>
     </tr> 
   </tbody>
