@@ -1226,6 +1226,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>OneCare Medical Clinic Clementi</td>
       <td>449 Clementi Avenue 3 #01-241, 120449</td>
 			<td>Novavax</td>
+    </tr>
+		<tr>
+      <td>My Family Clinic (Segar)</td>
+      <td>485 Segar Road #01-508, Singapore 670485</td>
+			<td>Novavax</td>
     </tr> 
   </tbody>
 	
