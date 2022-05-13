@@ -419,6 +419,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td>53 Sims Place, Sims Vista #01-174 Singapore 380053</td>
 			<td>Novavax</td>
     </tr>
+		<tr>
+      <td>The iClinic</td>
+      <td>18 Jalan Membina #02-07, Singapore 164018</td>
+			<td>Novavax</td>
+    </tr>
 		  </tbody>
 </table>
 		
