@@ -414,6 +414,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td>101 Thomson Road, United Square #01 - 17, Singapore 307591</td>
 			<td>Novavax</td>
     </tr>
+		<tr>
+      <td>Sims Drive Medical Clinic</td>
+      <td>53 Sims Place, Sims Vista #01-174 Singapore 380053</td>
+			<td>Novavax</td>
+    </tr>
 		  </tbody>
 </table>
 		
