@@ -720,6 +720,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td>768 Woodlands Avenue 6, #02-06A, Singapore 730768(register via vaccine.gov.sg)</td >
 				<td>Sinovac</td>
     </tr> 
+		<tr>
+    <td>Norwood Medical Clinic</td>
+      <td>785E Woodlands Rise #01-02, Singapore 735785</td >
+				<td>Novavax</td>
+    </tr> 
   </tbody>
 </table>
 
