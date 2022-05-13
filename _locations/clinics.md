@@ -1211,6 +1211,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>Loh & Loh Clinic & Surgery</td>
       <td>501 West Coast Drive #01-284, Singapore 120501</td>
 			<td>Novavax</td>
+    </tr>
+		<tr>
+      <td>OneCare Medical Clinic Clementi</td>
+      <td>449 Clementi Avenue 3 #01-241, 120449</td>
+			<td>Novavax</td>
     </tr> 
   </tbody>
 	
