@@ -1172,6 +1172,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>399 Yung Sheng Road, Taman Jurong Shopping Centre #01-56, Singapore 610399</td>
 			<td>Sinovac</td>
     </tr> 
+		<tr>
+      <td>Loh & Loh Clinic & Surgery</td>
+      <td>501 West Coast Drive #01-284, Singapore 120501</td>
+			<td>Novavax</td>
+    </tr> 
   </tbody>
 	
 	
