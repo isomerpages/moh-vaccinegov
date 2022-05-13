@@ -49,6 +49,8 @@ Persons who are moderately to severely immunocompromised are recommended to rece
 
  [Screening Form and Vaccination Information Sheet - Moderna / Spikevax*](https://go.gov.sg/vism)<br>
  
+ [Screening Form and Vaccination Information Sheet - Nuvaxovid*](https://go.gov.sg/visn)<br>
+ 
  [Screening Form and Vaccination Information Sheet – Sinovac*](https://go.gov.sg/viss)<br>
  
  [Parental Consent Form for Paeds SAM (By Invite Only)](https://go.gov.sg/sampcf)<br><br>
