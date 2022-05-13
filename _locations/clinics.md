@@ -424,6 +424,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td>18 Jalan Membina #02-07, Singapore 164018</td>
 			<td>Novavax</td>
     </tr>
+		<tr>
+      <td>Advantage Medical Clinic (Geylang East)</td>
+      <td>125 Geylang East Avenue 1, Geylang East Grove #01-K1, Singapore 381125</td>
+			<td>Novavax</td>
+    </tr>
 		  </tbody>
 </table>
 		
