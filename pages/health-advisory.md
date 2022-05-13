@@ -39,7 +39,7 @@ As a precautionary measure, adolescents and men below 30 years of age, in partic
 You are encouraged to defer other vaccinations for 2 weeks or more, if possible.
 
 
-Persons who are moderately to severely immunocompromised are recommended to receive a third dose of the same mRNA vaccine they had received for the first two doses, two months after their second dose.  They should be referred to receive the third dose by their treating specialist, who would have the best understanding of their medical condition. For more information, please refer to the [FAQ](https://www.moh.gov.sg/covid-19/vaccination/faqs---enhanced-primary-series).
+Persons who are moderately to severely immunocompromised are recommended to receive a third dose of the same mRNA vaccine or the Nuvaxovid vaccine, with the same dosage as the first two doses they had received. They should be referred to receive the third dose by their treating specialist, who would have the best understanding of their medical condition. For more information, please refer to the [FAQ](https://www.moh.gov.sg/covid-19/vaccination/faqs---enhanced-primary-series).
  <br/>
  
  **COVID-19 Vaccination Related Documents**<br>
