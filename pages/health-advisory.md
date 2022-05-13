@@ -17,7 +17,7 @@ You will be eligible for your booster dose 5 months after the last dose of your 
 **COVID-19 vaccine is currently not recommended for**
 
 - Individuals below 5 years of age for the Pfizer-BioNTech / Comirnaty vaccine
-- Individuals below 18 years of age for the Moderna / Spikevax and Sinovac-CoronaVac vaccines
+- Individuals below 18 years of age for the Moderna / Spikevax, Nuvaxovid and Sinovac-CoronaVac vaccines
 <br/>
 
 **Important reminders**:
