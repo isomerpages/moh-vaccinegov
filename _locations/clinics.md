@@ -393,7 +393,62 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td>Lily Neo Clinic Pte Ltd*</td>
       <td>101 Irrawaddy Road, Royal Square Medical Centre #21-09, Singapore 329565(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
+    </tr>
+		 <tr>
+      <td>EJ Family Clinic</td>
+      <td>109 Lorong 1 Toa Payoh #01-314 Singapore 310109</td>
+			<td>Novavax</td>
     </tr> 
+		<tr>
+      <td>Belief Family Clinic</td>
+      <td>541 Kallang Bahru, Geylang Bahru MRT Station #B1-02b, Singapore 339355</td>
+			<td>Novavax</td>
+    </tr> 
+			<tr>
+      <td>Pulse Clinic Pte Ltd</td>
+      <td>38 Beo Crescent, The Beo Crescent #01-32, Singapore 160038</td>
+			<td>Novavax</td>
+    </tr> 
+		<tr>
+      <td>Physicians Practice Family Medical Center</td>
+      <td>101 Thomson Road, United Square #01 - 17, Singapore 307591</td>
+			<td>Novavax</td>
+    </tr>
+		<tr>
+      <td>Sims Drive Medical Clinic</td>
+      <td>53 Sims Place, Sims Vista #01-174 Singapore 380053</td>
+			<td>Novavax</td>
+    </tr>
+		<tr>
+      <td>The iClinic</td>
+      <td>18 Jalan Membina #02-07, Singapore 164018</td>
+			<td>Novavax</td>
+    </tr>
+		<tr>
+      <td>Advantage Medical Clinic (Geylang East)</td>
+      <td>125 Geylang East Avenue 1, Geylang East Grove #01-K1, Singapore 381125</td>
+			<td>Novavax</td>
+    </tr>
+		<tr>
+      <td>My Family Clinic (Toa Payoh Central)</td>
+      <td>79D Toa Payoh Central #01-53, Singapore 314079</td>
+			<td>Novavax</td>
+    </tr>
+		<tr>
+      <td>Plushealth Medical Clinic & Surgery</td>
+      <td>89 Whampoa Drive, #01-841, Singapore 320089</td>
+			<td>Novavax</td>
+    </tr>
+			<tr>
+      <td>Everwell Clinic & Surgery</td>
+      <td>45 Owen Rd #01-289, Singapore 210045</td>
+			<td>Novavax</td>
+    </tr>
+		<tr>
+      <td>The Family Clinic @ Towner</td>
+      <td>101 Towner Road #01-202, Singapore 322101</td>
+			<td>Novavax</td>
+    </tr>
 		  </tbody>
 </table>
 		
@@ -705,6 +760,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td>768 Woodlands Avenue 6, #02-06A, Singapore 730768(register via vaccine.gov.sg)</td >
 				<td>Sinovac</td>
     </tr> 
+		<tr>
+    <td>Norwood Medical Clinic</td>
+      <td>785E Woodlands Rise #01-02, Singapore 735785</td >
+				<td>Novavax</td>
+    </tr> 
   </tbody>
 </table>
 
@@ -954,6 +1014,31 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>631 Ang Mo Kio Avenue 4 #01-936, Singapore 560631 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
     </tr>
+		<tr>
+      <td>Q & M Medical Clinic (Buangkok MRT) Pte Ltd</td>
+      <td>10 Sengkang Central, Buangkok MRT Station #01-02, Singapore 545061</td>
+			<td>Novavax</td>
+    </tr>
+		<tr>
+      <td>Suncare Medical Clinic (Sengkang West)</td>
+      <td> 455 Sengkang West Avenue, Multi Storey Car Park #01-08, Singapore 790455</td>
+			<td>Novavax</td>
+    </tr>
+		<tr>
+      <td>Island Family Clinic (Sengkang)</td>
+      <td> 279 Sengkang East Avenue #01-05, Singapore 540279</td>
+			<td>Novavax</td>
+    </tr>
+		<tr>
+      <td>ProHealth Medical Group @Punggol North Shore</td>
+      <td> 408 Northshore Drive, Northshore Plaza #01-26, Singapore 820408</td>
+			<td>Novavax</td>
+    </tr>
+		<tr>
+      <td>Prohealth Medical Group @Punggol Spectra</td>
+      <td> 622D Punggol Central #01-02, Singapore 824622</td>
+			<td>Novavax</td>
+    </tr>
   </tbody>
 </table>
 
@@ -1141,6 +1226,21 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>Pro Health Medical Group @ Taman Jurong</td>
       <td>399 Yung Sheng Road, Taman Jurong Shopping Centre #01-56, Singapore 610399</td>
 			<td>Sinovac</td>
+    </tr> 
+		<tr>
+      <td>Loh & Loh Clinic & Surgery</td>
+      <td>501 West Coast Drive #01-284, Singapore 120501</td>
+			<td>Novavax</td>
+    </tr>
+		<tr>
+      <td>OneCare Medical Clinic Clementi</td>
+      <td>449 Clementi Avenue 3 #01-241, 120449</td>
+			<td>Novavax</td>
+    </tr>
+		<tr>
+      <td>My Family Clinic (Segar)</td>
+      <td>485 Segar Road #01-508, Singapore 670485</td>
+			<td>Novavax</td>
     </tr> 
   </tbody>
 	
