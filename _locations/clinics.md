@@ -393,6 +393,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td>Lily Neo Clinic Pte Ltd*</td>
       <td>101 Irrawaddy Road, Royal Square Medical Centre #21-09, Singapore 329565(register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
+    </tr>
+		 <tr>
+      <td>EJ Family Clinic</td>
+      <td>109 Lorong 1 Toa Payoh #01-314 Singapore 310109</td>
+			<td>Novavax</td>
     </tr> 
 		  </tbody>
 </table>
