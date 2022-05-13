@@ -19,19 +19,7 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
  7pm daily<br>
  1pm on eve of Public Holiday<br><br>
  
-Walk-ins for Dose 1 of Sinovac-CoronaVac at the Vaccination Centre at Raffles City Convention Centre for individuals aged 18 and above has ceased with effect from 12 April.<br><br>
-The following paediatric VCs will have their last day of operations on 30 April 2022: 
 
-• Arena@Our Tampines Hub<br>
-• Clementi Community Centre<br>
-• Former Hong Kah Secondary School<br>
-• Jalan Besar Community Club<br>
-• Marine Parade Community Club<br>
-• Nee Soon East Community Club<br>
-• Pasir Ris Elias Community Club<br>
-• The Serangoon Community Club<br>
-• Toa Payoh West Community Club<br>
-• Woodlands Galaxy Community Club<br><br>
 **For VCs ceasing operations on 31 May 2022**:<br>
 * VCs offering the Moderna/Spikevax vaccine will administer the last Dose 1 on 2 May 2022.<br>
 * VCs offering the Pfizer-BioNTech/Comirnaty vaccine will administer the last Dose 1 on 10 May
@@ -44,16 +32,9 @@ The following paediatric VCs will have their last day of operations on 30 April 
 2022.<br>
 * Dose 2 and booster doses will continue to be administered until 30 June 2022.<br>
 
-
-
-
-
 <br>
 **Upcoming Public Holidays Operating Hours**<br>Please note that the last appointment on the eve of the Public Holiday will be at 2pm.<br><br>
-30 April 2022 (Eve of Labour Day): 8am to 3pm<br>
-1 May 2022 (Labour Day) - Closed<br>
-2 May 2022 (Eve of Hari Raya Puasa): 8am to 3pm<br>
-3 May 2022 (Hari Raya Puasa) - Closed<br>
+
 14 May 2022 (Eve of Vesak Day): 8am to 3pm<br>
 15 May 2022 (Vesak Day) - Closed<br>
 9 Jul 2022 (Eve of Hari Raya Haji): 8am to 3pm<br>
