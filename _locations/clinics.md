@@ -429,6 +429,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td>125 Geylang East Avenue 1, Geylang East Grove #01-K1, Singapore 381125</td>
 			<td>Novavax</td>
     </tr>
+		<tr>
+      <td>My Family Clinic (Toa Payoh Central)</td>
+      <td>79D Toa Payoh Central, #01-53, Singapore 314079</td>
+			<td>Novavax</td>
+    </tr>
 		  </tbody>
 </table>
 		
