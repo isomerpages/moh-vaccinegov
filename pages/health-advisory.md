@@ -8,7 +8,7 @@ permalink: /health-advisory/
 - 2 doses of **Nuvaxovid**, at least 21 days apart
 - 2 doses of **Moderna / Spikevax**,  at least 28 days apart
 - 3 doses of **Sinovac-CoronaVac**, the second dose should be 28 days after the first dose, and the third dose should be 90 days after the second dose
-- 1 booster dose of an **mRNA vaccine** taken within 270 days from the last dose of your
+- 1 booster dose of an **mRNA vaccine**or the **Nuvaxovid vaccine** taken within 270 days from the last dose of your
 primary vaccination series
 
 You will be eligible for your booster dose 5 months after the last dose of your primary vaccination series. If you have taken Sinovac-CoronaVac or Sinopharm as your last dose, you are recommended to receive your booster dose 3 months after your last dose.
