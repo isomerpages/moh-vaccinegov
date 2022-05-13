@@ -404,6 +404,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td>541 Kallang Bahru, Geylang Bahru MRT Station #B1-02b, Singapore 339355</td>
 			<td>Novavax</td>
     </tr> 
+			<tr>
+      <td>Pulse Clinic Pte Ltd</td>
+      <td>38 Beo Crescent, The Beo Crescent #01-32, Singapore 160038</td>
+			<td>Novavax</td>
+    </tr> 
 		  </tbody>
 </table>
 		
