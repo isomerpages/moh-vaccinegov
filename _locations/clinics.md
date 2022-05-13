@@ -434,6 +434,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td>79D Toa Payoh Central #01-53, Singapore 314079</td>
 			<td>Novavax</td>
     </tr>
+		<tr>
+      <td>Plushealth Medical Clinic & Surgery</td>
+      <td>89 Whampoa Drive, #01-841, Singapore 320089</td>
+			<td>Novavax</td>
+    </tr>
 		  </tbody>
 </table>
 		
