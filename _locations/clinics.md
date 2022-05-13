@@ -444,6 +444,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td>45 Owen Rd #01-289, Singapore 210045</td>
 			<td>Novavax</td>
     </tr>
+		<tr>
+      <td>The Family Clinic @ Towner</td>
+      <td>101 Towner Road #01-202, Singapore 322101</td>
+			<td>Novavax</td>
+    </tr>
 		  </tbody>
 </table>
 		
