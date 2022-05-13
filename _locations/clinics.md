@@ -1024,6 +1024,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td> 279 Sengkang East Avenue #01-05, Singapore 540279</td>
 			<td>Novavax</td>
     </tr>
+		<tr>
+      <td>ProHealth Medical Group (Punggol North Shore)</td>
+      <td> 408 Northshore Drive, Northshore Plaza #01-26, Singapore 820408</td>
+			<td>Novavax</td>
+    </tr>
   </tbody>
 </table>
 
