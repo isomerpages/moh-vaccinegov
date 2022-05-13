@@ -33,7 +33,7 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
 * Dose 2 and booster doses will continue to be administered until 30 June 2022.<br>
 
 <br>
-**Upcoming Public Holidays Operating Hours**<br>Please note that the last appointment on the eve of the Public Holiday will be at 2pm.<br><br>
+**Upcoming Public Holidays Operating Hours**<br>Please note that the last appointment on the eve of the Public Holiday will be at 2pm.<br>
 
 14 May 2022 (Eve of Vesak Day): 8am to 3pm<br>
 15 May 2022 (Vesak Day) - Closed<br>
