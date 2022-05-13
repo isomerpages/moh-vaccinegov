@@ -974,6 +974,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td> 455 Sengkang West Avenue, Multi Storey Car Park #01-08, Singapore 790455</td>
 			<td>Novavax</td>
     </tr>
+		<tr>
+      <td>Island Family Clinic (Sengkang)</td>
+      <td> 279 Sengkang East Avenue #01-05, Singapore 540279</td>
+			<td>Novavax</td>
+    </tr>
   </tbody>
 </table>
 
