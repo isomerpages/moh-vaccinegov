@@ -969,6 +969,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>10 Sengkang Central, Buangkok MRT Station #01-02, Singapore 545061</td>
 			<td>Novavax</td>
     </tr>
+		<tr>
+      <td>Suncare Medical Clinic (Sengkang West)</td>
+      <td> 455 Sengkang West Avenue, Multi Storey Car Park #01-08, Singapore 790455</td>
+			<td>Novavax</td>
+    </tr>
   </tbody>
 </table>
 
