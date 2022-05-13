@@ -439,6 +439,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td>89 Whampoa Drive, #01-841, Singapore 320089</td>
 			<td>Novavax</td>
     </tr>
+			<tr>
+      <td>Everwell Clinic & Surgery</td>
+      <td>45 Owen Rd #01-289, Singapore 210045</td>
+			<td>Novavax</td>
+    </tr>
 		  </tbody>
 </table>
 		
