@@ -399,6 +399,11 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td>109 Lorong 1 Toa Payoh #01-314 Singapore 310109</td>
 			<td>Novavax</td>
     </tr> 
+		<tr>
+      <td>Belief Family Clinic</td>
+      <td>541 Kallang Bahru, Geylang Bahru MRT Station #B1-02b, Singapore 339355</td>
+			<td>Novavax</td>
+    </tr> 
 		  </tbody>
 </table>
 		
