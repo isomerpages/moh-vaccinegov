@@ -964,6 +964,11 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
       <td>631 Ang Mo Kio Avenue 4 #01-936, Singapore 560631 (register via vaccine.gov.sg)</td>
 			<td>Sinovac</td>
     </tr>
+		<tr>
+      <td>Q & M Medical Clinic (Buangkok MRT) Pte Ltd</td>
+      <td>10 Sengkang Central, Buangkok MRT Station #01-02, Singapore 545061</td>
+			<td>Novavax</td>
+    </tr>
   </tbody>
 </table>
 
