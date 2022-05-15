@@ -32,8 +32,7 @@ Sun and gazetted Public Holidays: Close<br>
   </thead>
   <tbody>	
     <tr>
-      <td>JTVC Jurong East
-(Former Shuqun Secondary School)
+      <td>JTVC Jurong East (Former Shuqun Secondary School)
  </td>
       <td>450 Jurong East Street 21 Singapore 609604</td>
 			<td>Moderna/Spikevax, Pfizer-BioNTech /
@@ -41,10 +40,11 @@ Comirnaty</td>
 			<td>PCR and ART</td>
     </tr>
     <tr>
-      <td>Yew Tee Community Club (Closes after 31
-May 2022)   </td>
-      <td>20 Choa Chu Kang Street 52, Singapore 689286</td>
-			<td>Moderna/Spikevax</td>
+      <td>JTVC Pasir Ris (Former Siglap Secondary School)</td>
+      <td>10 Pasir Ris Drive 10 Singapore 519385</td>
+			<td>Moderna/Spikevax, Pfizer-BioNTech /
+Comirnaty</td>
+			<td>PCR and ART</td>
     </tr>
     <tr>
       <td>Former Hong Kah Secondary School</td>
