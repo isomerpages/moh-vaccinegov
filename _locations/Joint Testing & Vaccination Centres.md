@@ -13,7 +13,10 @@ progressively across the island from end-June 2022. These centres are designed w
 To enable the medical service providers to better manage vaccine preparation and reduce any unnecessary wastage, the
 public are strongly encouraged to book an appointment at www.vaccine.gov.sg before proceeding to the JTVCs.
 
-For COVID-19 testing services, please visit www.gowhere.gov.sg/testcentres.
+For COVID-19 testing services, please visit www.gowhere.gov.sg/testcentres. <br><br>
 
-
+**Normal Operating Hours:**<br>
+Monday - Friday: 9am-1pm, 2pm-7pm<br>
+Sat and Eve of Public Holiday :9am-1pm<br>
+Sun and gazetted Public Holidays: Close
 
