@@ -42,13 +42,14 @@ Comirnaty</td>
     <tr>
       <td>JTVC Pasir Ris (Former Siglap Secondary School)</td>
       <td>10 Pasir Ris Drive 10 Singapore 519385</td>
-			<td>Moderna/Spikevax, Pfizer-BioNTech /
+			<td>Moderna/Spikevax, Pfizer/
 Comirnaty</td>
 			<td>PCR and ART</td>
     </tr>
     <tr>
-      <td>Former Hong Kah Secondary School</td>
-      <td>931 Jurong West Street 42, Singapore 649370</td>
+      <td>JTVC Kaki Bukit (Former Bedok North Secondary
+School)</td>
+      <td>20 Jalan Damai Singapore 419612</td>
 			<td>Pfizer/Comirnaty</td>
     </tr>
     <tr>
