@@ -18,5 +18,62 @@ For COVID-19 testing services, please visit www.gowhere.gov.sg/testcentres. <br>
 **Normal Operating Hours:**<br>
 Monday - Friday: 9am-1pm, 2pm-7pm<br>
 Sat and Eve of Public Holiday :9am-1pm<br>
-Sun and gazetted Public Holidays: Close
+Sun and gazetted Public Holidays: Close<br>
 
+### **JTVC Locations**
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Address</th>
+			<th>Vaccine Type</th>
+			<th>COVID-19 Test Types*</th>
+    </tr>
+  </thead>
+  <tbody>	
+    <tr>
+      <td>JTVC Jurong East
+(Former Shuqun Secondary School)
+ </td>
+      <td>450 Jurong East Street 21 Singapore 609604</td>
+			<td>Moderna/Spikevax, Pfizer-BioNTech /
+Comirnaty</td>
+			<td>PCR and ART</td>
+    </tr>
+    <tr>
+      <td>Yew Tee Community Club (Closes after 31
+May 2022)   </td>
+      <td>20 Choa Chu Kang Street 52, Singapore 689286</td>
+			<td>Moderna/Spikevax</td>
+    </tr>
+    <tr>
+      <td>Former Hong Kah Secondary School</td>
+      <td>931 Jurong West Street 42, Singapore 649370</td>
+			<td>Pfizer/Comirnaty</td>
+    </tr>
+    <tr>
+      <td>Nanyang Community Club (Closes after 31
+May 2022) </td>
+      <td>60 Jurong West Street 91, Singapore 649040</td>
+			<td>Pfizer/Comirnaty</td>
+    </tr>	
+    <tr>
+      <td>Clementi Community Centre (Closes after 31
+May 2022)  </td>
+      <td>220 Clementi Avenue 4, Singapore 129880</td>
+			<td>Pfizer/Comirnaty</td>
+    </tr>	
+    <tr>
+      <td>Senja-Cashew Community Club (Closes after 30
+June 2022)</td>
+      <td>101 Bukit Panjang Road, Singapore 679910</td>
+			<td>Pfizer/Comirnaty (Adults & Children)</td>
+		</tr>		
+    <tr>
+      <td>Chua Chu Kang Community Club (Closes after 31
+May 2022) </td>
+      <td>35 Teck Whye Avenue, Singapore 688892</td>
+			<td>Pfizer/Comirnaty</td>
+    </tr>
+	</tbody>
+</table>
