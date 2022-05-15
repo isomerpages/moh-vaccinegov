@@ -35,28 +35,27 @@ Sun and gazetted Public Holidays: Close<br>
       <td>JTVC Jurong East (Former Shuqun Secondary School)
  </td>
       <td>450 Jurong East Street 21 Singapore 609604</td>
-			<td>Moderna/Spikevax, Pfizer-BioNTech /
-Comirnaty</td>
+			<td>Moderna/Spikevax, Pfizer/Comirnaty</td>
 			<td>PCR and ART</td>
     </tr>
     <tr>
       <td>JTVC Pasir Ris (Former Siglap Secondary School)</td>
       <td>10 Pasir Ris Drive 10 Singapore 519385</td>
-			<td>Moderna/Spikevax, Pfizer/
-Comirnaty</td>
+			<td>Moderna/Spikevax, Pfizer/Comirnaty</td>
 			<td>PCR and ART</td>
     </tr>
     <tr>
       <td>JTVC Kaki Bukit (Former Bedok North Secondary
 School)</td>
       <td>20 Jalan Damai Singapore 419612</td>
-			<td>Pfizer/Comirnaty</td>
+			<td>Moderna/Spikevax, Pfizer/Comirnaty</td>
+			<td>PCR and ART</td>
     </tr>
     <tr>
-      <td>Nanyang Community Club (Closes after 31
-May 2022) </td>
-      <td>60 Jurong West Street 91, Singapore 649040</td>
-			<td>Pfizer/Comirnaty</td>
+      <td>JTVC Bishan (Former Bishan Park Secondary School)</td>
+      <td>2 Sin Ming Walk Singapore 575565</td>
+			<td>Pfizer/Comirnaty, Novovax /Nuvaxovid</td>
+			<td>PCR and ART</td>
     </tr>	
     <tr>
       <td>Clementi Community Centre (Closes after 31
