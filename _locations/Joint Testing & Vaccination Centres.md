@@ -65,3 +65,5 @@ School)</td>
     </tr>	
 	</tbody>
 </table>
+
+*All JTVCs will offer pre-event testing (PET) services to the public.
