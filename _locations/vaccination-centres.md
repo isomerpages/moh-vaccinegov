@@ -35,8 +35,6 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
 <br>
 **Upcoming Public Holidays Operating Hours**<br>Please note that the last appointment on the eve of the Public Holiday will be at 2pm.<br>
 
-14 May 2022 (Eve of Vesak Day): 8am to 3pm<br>
-15 May 2022 (Vesak Day) - Closed<br>
 9 Jul 2022 (Eve of Hari Raya Haji): 8am to 3pm<br>
 10 Jul 2022 (Hari Raya Haji) - Closed<br>
 8 Aug 2022 (Eve of National Day): 8am to 3pm<br>
