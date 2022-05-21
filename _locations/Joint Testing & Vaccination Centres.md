@@ -46,7 +46,7 @@ School)</td>
     <tr>
       <td>JTVC Bishan (Former Bishan Park Secondary School)</td>
       <td>2 Sin Ming Walk Singapore 575565</td>
-			<td>Pfizer/Comirnaty, Novovax /Nuvaxovid</td>
+			<td>Pfizer/Comirnaty, Novavax /Nuvaxovid</td>
 			<td>PCR and ART</td>
     </tr>	
     <tr>
