@@ -69,7 +69,7 @@ May 2022) </td>
     <tr>
       <td>Raffles City Convention Centre</td>
       <td>252 North Bridge Road, Singapore 179103, Level 4 Orchard Room</td>
-			<td>Pfizer/Comirnaty and Sinovac</td>
+			<td>Pfizer/Comirnaty</td>
     </tr>	
     <tr>
       <td>Tanjong Pagar Community Club (Closes after 31
