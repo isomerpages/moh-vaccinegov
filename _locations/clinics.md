@@ -6,10 +6,7 @@ Locations that are administering the Covid-19 Vaccines.
 
 As operating hours may vary, please call the respective clinics for enquiries on the vaccination cut-off time for your preferred date.
 
-**To book an appointment for Sinovac vaccine:**<br>
-* Contact any of the following clinics indicated with "Sinovac" vaccine type
-* For clinics (marked with an asterisk*), patients are accepted mainly through registration via vaccine.gov.sg
-* If you are making an appointment for first Dose of Sinovac, please book at Raffles City Convention Centre or the clinics (marked with an asterisk*)
+
 
 ###  **Central**
 <table>
@@ -296,27 +293,27 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			</tr>
     <tr>
       <td>Anteh Dispensary Pte Ltd*</td>
-      <td>1 Lorong 22 Geylang, Grandview Suites #01-02 , Singapore 398664 (Phone:67441809)(register via vaccine.gov.sg) </td>
+      <td>1 Lorong 22 Geylang, Grandview Suites #01-02 , Singapore 398664 </td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
       <td>Integrated Wellness Clinic*</td>
-      <td>8 Sinaran Drive, Specialist Center #05-04, Singapore 307470 (Phone:31292353)(register via vaccine.gov.sg)</td>
+      <td>8 Sinaran Drive, Specialist Center #05-04, Singapore 307470 )</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
       <td>Mediview Clinic & Surgery*</td>
-      <td>150 Toa Payoh Lorong 1 #01-999  Singapore 310150 (Phone:62532351)(register via vaccine.gov.sg)</td>
+      <td>150 Toa Payoh Lorong 1 #01-999  Singapore 310150</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
       <td>Central Medical Group Pte Ltd*</td>
-      <td>11 Jalan Bukit Merah #01-4442  Singapore 150011 (Phone:62722212)(register via vaccine.gov.sg)</td>
+      <td>11 Jalan Bukit Merah #01-4442  Singapore 150011</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
       <td>Precious Medical Centre Pte Ltd*</td>
-      <td>290 Orchard Road, The Paragon #12-01,  Singapore 238859 (Phone:66816656)(register via vaccine.gov.sg)</td>
+      <td>290 Orchard Road, The Paragon #12-01,  Singapore 238859</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
@@ -326,72 +323,72 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			</tr>    
     <tr>
       <td>Our Woodleigh Family Clinic*</td>
-      <td>115B Alkaff Crescent #01-05, Singapore 342115 (Phone:69700560) (register via vaccine.gov.sg)</td>
+      <td>115B Alkaff Crescent #01-05, Singapore 342115</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
       <td>Shenton Medical Group (Toh Yi)*</td>
-      <td>18 Toh Yi Drive #01-103 , Singapore 590018 (register via vaccine.gov.sg)</td>
+      <td>18 Toh Yi Drive #01-103 , Singapore 590018</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
       <td>Doctors Inc Medical Group*</td>
-      <td>178 Toa Payoh Central, #01-206, Singapore 310178 (register via vaccine.gov.sg)</td>
+      <td>178 Toa Payoh Central, #01-206, Singapore 310178</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
       <td>Marina Medical Centre (Tiong Bahru)*</td>
-      <td>78 Guan Chuan Street #01-39, Singapore 160078 (Phone:62222177) (register via vaccine.gov.sg)</td>
+      <td>78 Guan Chuan Street #01-39, Singapore 160078</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
       <td>iCare Medical and Wellness Clinic*</td>
-      <td> 22 Havelock Road #01-701, Singapore 160022(Phone:62746858)(register via vaccine.gov.sg)</td>
+      <td> 22 Havelock Road #01-701, Singapore 160022</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
       <td>Providence Clinic @ Novena*</td>
-      <td> 1 Goldhill Plaza #01-29, Singapore 308899(Phone:62550063)(register via vaccine.gov.sg)</td>
+      <td> 1 Goldhill Plaza #01-29, Singapore 308899</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
       <td>A Life Clinic Pte Ltd*</td>
-      <td>10 Sinaran Drive, Novena Medical Center #09-21, Singapore 307506 (register via vaccine.gov.sg)</td>
+      <td>10 Sinaran Drive, Novena Medical Center #09-21, Singapore 307506</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
       <td>Lim Clinic & Surgery*</td>
-      <td>109 Lorong 1 Toa Payoh, #01-312, Singapore 310109 (register via vaccine.gov.sg)</td>
+      <td>109 Lorong 1 Toa Payoh, #01-312, Singapore 310109</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
       <td>Pacific Family Clinic*</td>
-      <td>75D Redhill Road, #01-116, Singapore 154075 (register via vaccine.gov.sg)</td>
+      <td>75D Redhill Road, #01-116, Singapore 154075</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
       <td>Dover Medical Centre*</td>
-      <td>1 Fusionopolis Way,Connexis #03-05, Singapore 138632 (register via vaccine.gov.sg)</td>
+      <td>1 Fusionopolis Way,Connexis #03-05, Singapore 138632</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
       <td>57 Medical Clinic (Geylang Bahru)*</td>
-      <td>57 Geylang Bahru #01-3505, Singapore 330057(register via vaccine.gov.sg)</td>
+      <td>57 Geylang Bahru #01-3505, Singapore 330057</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
       <td>Braddell Medical Clinic*</td>
-      <td>124 Lorong 1 Toa Payoh #01-489, Singapore 310124(register via vaccine.gov.sg)</td>
+      <td>124 Lorong 1 Toa Payoh #01-489, Singapore 310124</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
       <td>Advantage Medical Clinic*</td>
-      <td>1 Fifth Ave, Guthrie House 03-12, Singapore 268802(register via vaccine.gov.sg)</td>
+      <td>1 Fifth Ave, Guthrie House 03-12, Singapore 268802</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
       <td>Lily Neo Clinic Pte Ltd*</td>
-      <td>101 Irrawaddy Road, Royal Square Medical Centre #21-09, Singapore 329565(register via vaccine.gov.sg)</td>
+      <td>101 Irrawaddy Road, Royal Square Medical Centre #21-09, Singapore 329565</td>
 			<td>Sinovac</td>
     </tr>
 		 <tr>
