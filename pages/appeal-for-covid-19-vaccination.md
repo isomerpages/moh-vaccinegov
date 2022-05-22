@@ -4,7 +4,7 @@ permalink: /appeal
 ---
 **COVID-19 vaccination for Short Term Pass Holders**
 
-With effect from 18 August 2021, the vaccination programme will be open to short-term work pass and special pass holders, such as those on Training Employment Passes (TEPs), Training Work Permits (TWP), Work Holiday Passes (WHP) and Special Passes. It will also be made available to eligible Short-Term Visit Pass (STVP) holders who have a pass validity period of at least 60 days. This will help reduce the risk of transmission of COVID-19 even as we continue with our progressive re-opening. 
+With effect from 18 August 2021, the vaccination programme will be open to short-term work pass and special pass holders, such as those on Training Employment Passes (TEPs), Training Work Permits (TWP), Work Holiday Passes (WHP), Special Passes and Short-Term Visit Pass (STVP) holders who have a pass validity period of at least 60 days. You may walk in to any vaccination centre to with supporting immigration documents to receive your vaccination.
 
 The eligible individuals are:
 
