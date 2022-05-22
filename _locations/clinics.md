@@ -1166,57 +1166,57 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
     </tr>	
     <tr>
       <td>Providence Clinic @ Hillford*</td>
-      <td>182 Jalan Jurong Kechil, The Hillford, #01-65 Singapore 596152 (Phone:63140970)(register via vaccine.gov.sg)</td>
+      <td>182 Jalan Jurong Kechil, The Hillford, #01-65 Singapore 596152</td>
 			<td>Sinovac</td>
 			</tr>
     <tr>
       <td>Chua Medical Clinic And Surgery Pte Ltd*</td>
-      <td>642 Bukit Batok Central #01-52, Singapore 650642 (Phone:69726948)(register via vaccine.gov.sg)</td>
+      <td>642 Bukit Batok Central #01-52, Singapore 650642</td>
 			<td>Sinovac</td>
 			</tr>
     <tr>
       <td>West Coast Clinic & Surgery* (Clementi West) Pte Ltd</td>
-      <td>722 Clementi West Street 2 #01-162, Singapore 120722 (register via vaccine.gov.sg)</td>
+      <td>722 Clementi West Street 2 #01-162, Singapore 120722</td>
 			<td>Sinovac</td>
 			</tr>
     <tr>
       <td>Raffles Medical* (only accessible via stairs)</td>
-      <td>131 Jurong Gateway Road #01-267, Singapore 600131 (register via vaccine.gov.sg)</td>
+      <td>131 Jurong Gateway Road #01-267, Singapore 600131</td>
 			<td>Sinovac</td>
 			</tr>
     <tr>
       <td>Wee HealthFirst Medical Clinic*</td>
-      <td>378 Clementi Avenue 5 #01-342,  Singapore 120378 (Phone:67775755)(register via vaccine.gov.sg)</td>
+      <td>378 Clementi Avenue 5 #01-342,  Singapore 120378</td>
 			<td>Sinovac</td>
 			</tr>
     <tr>
       <td>Dr. W.K. Koo & Associates P.L.*</td>
-      <td>1 Jurong West Central 2, Jurong Point Shopping Center #01-16A/B, Singapore 648886 (register via vaccine.gov.sg)</td>
+      <td>1 Jurong West Central 2, Jurong Point Shopping Center #01-16A/B, Singapore 648886</td>
 			<td>Sinovac</td>
 			</tr>
     <tr>
       <td>Central 24-HR Clinic (Pioneer North)*</td>
-      <td>959 Jurong West Street 92, #01-160, Singapore 640959 (register via vaccine.gov.sg)</td>
+      <td>959 Jurong West Street 92, #01-160, Singapore 640959</td>
 			<td>Sinovac</td>
 			</tr>
     <tr>
       <td>Pro Health Medical Group @ Taman Jurong*</td>
-      <td>399 Yung Sheng Road, Taman Jurong Shopping Centre #01-56, Singapore 610399 (register via vaccine.gov.sg)</td>
+      <td>399 Yung Sheng Road, Taman Jurong Shopping Centre #01-56, Singapore 610399</td>
 			<td>Sinovac</td>
 			</tr>
     <tr>
       <td>FairCare Family Clinic (Clementi)*</td>
-      <td>345 Clementi Avenue 5 #01-94, Singapore 120345 (register via vaccine.gov.sg)</td>
+      <td>345 Clementi Avenue 5 #01-94, Singapore 120345</td>
 			<td>Sinovac</td>
 			</tr>
     <tr>
       <td>HeartlandHealth (Bukit Batok)*</td>
-      <td>164 Bukit Batok Street 11 #01-152, Singapore 650164 (register via vaccine.gov.sg)</td>
+      <td>164 Bukit Batok Street 11 #01-152, Singapore 650164</td>
 			<td>Sinovac</td>
 			</tr>
     <tr>
       <td>Doctors Koo, Loh & Associates*</td>
-      <td>152 Yung Ho Road #B1-03, Singapore 610152 (register via vaccine.gov.sg)</td>
+      <td>152 Yung Ho Road #B1-03, Singapore 610152</td>
 			<td>Sinovac</td>
     </tr> 
 		<tr>
