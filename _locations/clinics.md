@@ -962,42 +962,42 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
 			<td>Pfizer/Comirnaty (Children)</td>
 					</tr>
     	<tr>
-      <td>SATA CommHealth Ang Mo Kio Medical Centre*</td>
+      <td>SATA CommHealth Ang Mo Kio Medical Centre</td>
       <td>715 Ang Mo Kio Avenue 6 #01-4008 & 4010  Singapore 560715</td>
 			<td>Sinovac</td>
 				</tr>
     	<tr>
-      <td>Mutual Healthcare Medical Clinic*</td>
+      <td>Mutual Healthcare Medical Clinic</td>
       <td>319B Anchorvale Drive #01-92, Singapore 542319</td>
 			<td>Sinovac</td>
 				</tr>
     	<tr>
-      <td>Lifeline Medical Group*</td>
+      <td>Lifeline Medical Group</td>
       <td>118 Rivervale Drive, Rivervale Plaza # #02-18, Singapore 540118</td>
 			<td>Sinovac</td>
 				</tr>
     	<tr>
-      <td>Edgedale Medical Clinic*</td>
+      <td>Edgedale Medical Clinic</td>
       <td>122A Edgedale Plains, #01-187, Singapore 821122</td>
 			<td>Sinovac</td>
 				</tr>
     	<tr>
-      <td>Etern Medical Clinic (Fernvale Palm)*</td>
+      <td>Etern Medical Clinic (Fernvale Palm)</td>
       <td>432A Sengkang West Way, Fernvale Palms #01-03, Singapore 791432</td>
 			<td>Sinovac</td>
 				</tr>
     	<tr>
-      <td>FAITH Healthcare (Rivervale) Clinic*</td>
+      <td>FAITH Healthcare (Rivervale) Clinic</td>
       <td>11 Rivervale Crescent, Rivervale Mall #02-15, Singapore 545082</td>
 			<td>Sinovac</td>
 				</tr>
     	<tr>
-      <td>1 Medical Teck Ghee*</td>
+      <td>1 Medical Teck Ghee</td>
       <td>410 Ang Mo Kio Ave 10, Teck Ghee Square #01-837, Singapore 560410</td>
 			<td>Sinovac</td>
 				</tr>
     	<tr>
-      <td>Premier Clinic and Surgery*</td>
+      <td>Premier Clinic and Surgery</td>
       <td>631 Ang Mo Kio Avenue 4 #01-936, Singapore 560631</td>
 			<td>Sinovac</td>
     </tr>
