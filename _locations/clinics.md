@@ -210,12 +210,7 @@ As operating hours may vary, please call the respective clinics for enquiries on
       <td>Ko Family Clinic</td>
       <td>18 Upper Boon Keng Road #01-1133, Singapore 380018</td>
 			<td>Pfizer/Comirnaty</td>
-			</tr>    
-    <tr>
-      <td>TPC Medical Clinic</td>
-      <td>7 Wallich Street #B1-15 Guoco Tower Singapore 078884</td>
-			<td>Pfizer/Comirnaty</td>
-			</tr>    
+			</tr>       
     <tr>
       <td>Parklane Medical Centre</td>
       <td>35 Selegie Road, Parklane Shopping Mall #02-25A, Singapore 188307</td>
@@ -292,102 +287,102 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			<td>Pfizer/Comirnaty (Children)</td>
 			</tr>
     <tr>
-      <td>Anteh Dispensary Pte Ltd*</td>
+      <td>Anteh Dispensary Pte Ltd</td>
       <td>1 Lorong 22 Geylang, Grandview Suites #01-02 , Singapore 398664 </td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>Integrated Wellness Clinic*</td>
-      <td>8 Sinaran Drive, Specialist Center #05-04, Singapore 307470 )</td>
+      <td>Integrated Wellness Clinic</td>
+      <td>8 Sinaran Drive, Specialist Center #05-04, Singapore 307470</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>Mediview Clinic & Surgery*</td>
+      <td>Mediview Clinic & Surgery</td>
       <td>150 Toa Payoh Lorong 1 #01-999  Singapore 310150</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>Central Medical Group Pte Ltd*</td>
+      <td>Central Medical Group Pte Ltd</td>
       <td>11 Jalan Bukit Merah #01-4442  Singapore 150011</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>Precious Medical Centre Pte Ltd*</td>
+      <td>Precious Medical Centre Pte Ltd</td>
       <td>290 Orchard Road, The Paragon #12-01,  Singapore 238859</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>The Family Practice @ Skyville*</td>
-      <td>85 Dawson Road #01-06, Singapore 141085 (Phone:62551382)(register via vaccine.gov.sg)</td>
+      <td>The Family Practice @ Skyville</td>
+      <td>85 Dawson Road #01-06, Singapore 141085</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>Our Woodleigh Family Clinic*</td>
+      <td>Our Woodleigh Family Clinic</td>
       <td>115B Alkaff Crescent #01-05, Singapore 342115</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>Shenton Medical Group (Toh Yi)*</td>
+      <td>Shenton Medical Group (Toh Yi)</td>
       <td>18 Toh Yi Drive #01-103 , Singapore 590018</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>Doctors Inc Medical Group*</td>
+      <td>Doctors Inc Medical Group</td>
       <td>178 Toa Payoh Central, #01-206, Singapore 310178</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>Marina Medical Centre (Tiong Bahru)*</td>
+      <td>Marina Medical Centre (Tiong Bahru)</td>
       <td>78 Guan Chuan Street #01-39, Singapore 160078</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>iCare Medical and Wellness Clinic*</td>
+      <td>iCare Medical and Wellness Clinic</td>
       <td> 22 Havelock Road #01-701, Singapore 160022</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>Providence Clinic @ Novena*</td>
+      <td>Providence Clinic @ Novena</td>
       <td> 1 Goldhill Plaza #01-29, Singapore 308899</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>A Life Clinic Pte Ltd*</td>
+      <td>A Life Clinic Pte Ltd</td>
       <td>10 Sinaran Drive, Novena Medical Center #09-21, Singapore 307506</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>Lim Clinic & Surgery*</td>
+      <td>Lim Clinic & Surgery</td>
       <td>109 Lorong 1 Toa Payoh, #01-312, Singapore 310109</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>Pacific Family Clinic*</td>
+      <td>Pacific Family Clinic</td>
       <td>75D Redhill Road, #01-116, Singapore 154075</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>Dover Medical Centre*</td>
+      <td>Dover Medical Centre</td>
       <td>1 Fusionopolis Way,Connexis #03-05, Singapore 138632</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>57 Medical Clinic (Geylang Bahru)*</td>
+      <td>57 Medical Clinic (Geylang Bahru)</td>
       <td>57 Geylang Bahru #01-3505, Singapore 330057</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>Braddell Medical Clinic*</td>
+      <td>Braddell Medical Clinic</td>
       <td>124 Lorong 1 Toa Payoh #01-489, Singapore 310124</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>Advantage Medical Clinic*</td>
+      <td>Advantage Medical Clinic</td>
       <td>1 Fifth Ave, Guthrie House 03-12, Singapore 268802</td>
 			<td>Sinovac</td>
 			</tr>    
     <tr>
-      <td>Lily Neo Clinic Pte Ltd*</td>
+      <td>Lily Neo Clinic Pte Ltd</td>
       <td>101 Irrawaddy Road, Royal Square Medical Centre #21-09, Singapore 329565</td>
 			<td>Sinovac</td>
     </tr>
@@ -615,22 +610,22 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			<td>Pfizer/Comirnaty (Children)</td>
 			</tr>
     <tr>
-      <td>Little Cross Family Clinic*</td>
+      <td>Little Cross Family Clinic</td>
       <td>929 Tampines Street 91 #01-445, Singapore 520929</td>
 			<td>Sinovac</td>
 			</tr>		
     <tr>
-      <td>Kai Medical Clinic*</td>
+      <td>Kai Medical Clinic</td>
       <td>5 Tampines Street 32, Tampines Mart #02-05, Singapore 529284</td>
 			<td>Sinovac</td>
 			</tr>		
     <tr>
-      <td>FAITH Family Clinic*</td>
+      <td>FAITH Family Clinic</td>
       <td>57 Marine Terrance, #01-113, Singapore 440057</td>
 			<td>Sinovac</td>
 			</tr>		
     <tr>
-      <td>FAITH Clinic (Bedok)*</td>
+      <td>FAITH Clinic (Bedok)</td>
       <td>746 Bedok Reservoir Road,#01-3013, Singapore 470746</td>
 			<td>Sinovac</td>
 			</tr>		
