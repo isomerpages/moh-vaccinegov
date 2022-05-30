@@ -630,22 +630,22 @@ As operating hours may vary, please call the respective clinics for enquiries on
 			<td>Sinovac</td>
 			</tr>		
     <tr>
-      <td>Central 24-HR Clinic (Bedok)*</td>
+      <td>Central 24-HR Clinic (Bedok)</td>
       <td>219 Bedok Central, #01-124, Singapore 460219</td>
 			<td>Sinovac</td>
 			</tr>		
     <tr>
-      <td>HeartlandHealth (Upper Changi)*</td>
+      <td>HeartlandHealth (Upper Changi)</td>
       <td>59 New Upper Changi Road #01-1268, Singapore 461059</td>
 			<td>Sinovac</td>
 			</tr>		
     <tr>
-      <td>HeartlandHealth (Bedok South)*</td>
+      <td>HeartlandHealth (Bedok South)</td>
       <td>18 Bedok South Road #01-69, Singapore 460018</td>
 			<td>Sinovac</td>
 			</tr>		
     <tr>
-      <td>FAITH Healthcare (Tampines)*</td>
+      <td>FAITH Healthcare (Tampines)</td>
       <td>11 Tampines Street 32, Tampines Mart #01-11, Singapore 529287</td>
 			<td>Sinovac</td>
     </tr>  
@@ -733,22 +733,17 @@ As operating hours may vary, please call the respective clinics for enquiries on
 				<td>Pfizer/Comirnaty</td>
 		  </tr>	
    <tr>
-    <td>Woodlands Clinic*</td>
-      <td>131 Marsiling Rise #01-204, Singapore 730131</td >
-				<td>Sinovac</td>
-		  </tr>	
-   <tr>
-    <td>BestMed Family Clinic & Homecare*</td>
+    <td>BestMed Family Clinic & Homecare</td>
       <td>126 Canberra Street, Multistorey Park, #01-04, Singapore 750126</td >
 				<td>Sinovac</td>
 		 </tr>	
    <tr>
-    <td>Central 24-HR Clinic (Yishun)*</td>
+    <td>Central 24-HR Clinic (Yishun)</td>
       <td>701A Yishun Ave 5, #01-04, Singapore 761701</td >
 				<td>Sinovac</td>
 		 </tr>	
    <tr>
-    <td>Central 24-HR Clinic (Woodlands)*</td>
+    <td>Central 24-HR Clinic (Woodlands)</td>
       <td>768 Woodlands Avenue 6, #02-06A, Singapore 730768</td >
 				<td>Sinovac</td>
     </tr> 
