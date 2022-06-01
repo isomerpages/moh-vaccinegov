@@ -84,7 +84,7 @@ Only who are medically ineligible for mRNA vaccines may consider taking the Sino
     				<input id="question-1-8" type="checkbox">
     				<label for="question-1-8" class="tab-label">How do I reschedule my appointment? </label>
     				<div class="tab-content">
-    					<p> You may reschedule your appointments using the same booking link in the original SMS.<br>For enquiries, please call the MOH COVID-19 hotline at 6995 9199..</p>
+    					<p> You may reschedule your appointments using the same booking link in the original SMS.<br>For enquiries, please call the MOH COVID-19 hotline at 6995 9199.</p>
     				</div>
     			</div>	
     			<div class="tab">
