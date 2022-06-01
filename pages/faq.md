@@ -70,7 +70,7 @@ Only who are medically ineligible for mRNA vaccines may consider taking the Sino
     				<input id="question-1-6" type="checkbox">
     				<label for="question-1-6" class="tab-label">I lost my SMS/booking code. How can I retrieve the link?</label>
     				<div class="tab-content">
-    					<p>Please call MOH at 6995 9199 for assistance.</p>
+    					<p>Please cal lthe MOH COVID-19 hotline at 6995 9199 for assistance.</p>
     				</div>
     			</div>   			
     			<div class="tab">
