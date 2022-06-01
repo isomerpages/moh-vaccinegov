@@ -77,7 +77,7 @@ Only who are medically ineligible for mRNA vaccines may consider taking the Sino
     				<input id="question-1-7" type="checkbox">
     				<label for="question-1-7" class="tab-label">Can I change my contact information? </label>
     				<div class="tab-content">
-    					<p>If you have changed your mobile number or email address, please call MOH at 1800 333 9999 for assistance.</p>
+    					<p>If you have changed your mobile number or email address, please call MOH COVID-19 hotline at 6995 9199 for assistance.</p>
     				</div>
     			</div>			
     			<div class="tab">
