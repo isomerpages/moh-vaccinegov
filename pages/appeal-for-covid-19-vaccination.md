@@ -16,11 +16,6 @@ The eligible individuals are:
 
 
 
-STVP holders with valid pass extensions who do not receive an SMS from MOH may request for an appointment via this [form](https://form.gov.sg/611b8d4fd152f10012dd3428). <br><br>
-We will review such requests on a case-by-case basis over the following few weeks.
-
-![Alt text for image on Isomer site](/images/appeal%20QR.png)
-
 
 
 
