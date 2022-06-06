@@ -39,10 +39,10 @@ notification, to provide consent and book their child/ward’s booster vaccinati
 					</div>
 				   <div class="tab">
 						<input id="question-1-4" type="checkbox">
-							<label for="question-1-4" class="tab-label">How do I register for an mRNA vaccination?</label>
+							<label for="question-1-4" class="tab-label">How do I register for mRNA vaccination?</label>
 						<div class="tab-content">
-							<p>Under the National Vaccination Programme, children/wards below the age of 18 will require the consent of their parents/guardians to receive their vaccination.<br><br>
-All eligible individuals can walk in to any vaccination centre (VC) offering mRNA vaccines for their primary vaccination series and booster doses, without the need for an appointment, <strong>any day of the week, before 7pm</strong>. This means:<br>
+							<p>Under the National Vaccination Programme, children/wards below 18 must have the consent of their parents/guardians to receive their vaccination.<br><br>
+All eligible individuals can walk into any vaccination centre (VC) offering mRNA vaccines for their primary vaccination series and booster doses, without an appointment, <strong>any day of the week, before 7pm</strong>. This means:<br><br>
 								<span>• Children <strong>aged 5 to 11</strong> may walk in with their parents/guardians to any paediatric VC</span><br>
 								<span>• Individuals <strong>aged 12 to 17</strong> may walk in to any VC offering the Pfizer-BioNTech/Comirnaty vaccine
 Individuals aged 18 and above may walk in to any VC offering mRNA vaccines</span><br>
