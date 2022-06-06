@@ -39,18 +39,17 @@ notification, to provide consent and book their child/ward’s booster vaccinati
 					</div>
 				   <div class="tab">
 						<input id="question-1-4" type="checkbox">
-							<label for="question-1-4" class="tab-label">How do I register for an mRNA vaccination?</label>
+							<label for="question-1-4" class="tab-label">How do I register for mRNA vaccination?</label>
 						<div class="tab-content">
-							<p>Under the National Vaccination Programme, children/wards below the age of 18 will require the consent of their parents/guardians to receive their vaccination.<br><br>
-All eligible individuals can walk in to any vaccination centre (VC) offering mRNA vaccines for their primary vaccination series and booster doses, without the need for an appointment, <strong>any day of the week, before 7pm</strong>. This means:<br>
+							<p>Under the National Vaccination Programme, children/wards below 18 must have the consent of their parents/guardians to receive their vaccination.<br><br>
+All eligible individuals can walk into any vaccination centre (VC) offering mRNA vaccines for their primary vaccination series and booster doses, without an appointment, <strong>any day of the week, before 7pm</strong>. This means:<br><br>
 								<span>• Children <strong>aged 5 to 11</strong> may walk in with their parents/guardians to any paediatric VC</span><br>
 								<span>• Individuals <strong>aged 12 to 17</strong> may walk in to any VC offering the Pfizer-BioNTech/Comirnaty vaccine
-Individuals aged 18 and above may walk in to any VC offering mRNA vaccines</span><br>
-								<span>• Individuals <strong>aged 18 and above</strong> may walk in to any VC offering mRNA vaccines</span><br><br>
-All children below the age of 18 will be required to bring a duly completed and signed hard or
-electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a>.<br><br>
-Seniors aged 60 years and above may also walk into any of the Polyclinics or participating Public
-Health Preparedness Clinics to receive their vaccination, without an appointment.<br><br>
+Individuals aged 18 and above may walk in to any VC offering mRNA vaccines</span><br><br>
+								All children below the age of 18 must bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a>.<br><br>
+								Individuals <strong>aged 18 and above</strong> may walk in to any VC offering mRNA vaccines.<br><br>
+Seniors aged 60 years and above may also walk into any of the Polyclinics or participating Public Health Preparedness Clinics to receive their vaccination, without an appointment.<br><br>
+								Alternatively, you may register here for your first vaccination dose. An SMS with a personalised booking link will be sent to your registered mobile number to book an appointment on the National Appointment System.<br><br>
 								</p>
 							</div>
 					</div>
@@ -58,53 +57,63 @@ Health Preparedness Clinics to receive their vaccination, without an appointment
 						<input id="question-1-5" type="checkbox">
 							<label for="question-1-5" class="tab-label">How do I register to receive Sinovac-CoronaVac?</label>
 						<div class="tab-content">
-							<p>We strongly recommend those who can take the mRNA vaccines to complete their primary vaccination series and booster doses with mRNA vaccines, in view of the lower efficacy of the Sinovac-CoronaVac vaccine.<br><br>
-1. You are medically ineligible for a mRNA vaccine regime – If you were previously invited to receive the Sinovac-CoronaVac vaccine under a special public health programme, you should follow the instructions provided in the SMS invitation to continue with the regime.<br><br>
-2. You are aged 18 and above, and have yet to take a dose of any COVID-19 vaccine – you may contact any participating Public Health Preparedness Clinic (PHPC) offering Sinovac- CoronaVac to receive your vaccination.<br><br>
-
-Only who are medically ineligible for mRNA vaccines may consider taking the Sinovac-CoronaVac vaccine as a booster vaccine. The Sinovac-CoronaVac vaccine is otherwise not recommended as a booster vaccine.							
+							<p>We strongly recommend you receive the mRNA vaccines or Nuvaxovid to complete their primary vaccination series and booster doses, in view of the lower efficacy of the Sinovac-CoronaVac vaccine.<br><br>
+								<strong>For primary vaccination series:</strong><br><br>								
+If you are medically ineligible for the mRNA vaccine and were previously invited to receive the Sinovac-CoronaVac vaccine under a special public health programme, follow the instructions in your SMS invitation to continue with the regime.<br><br>
+If you are 18 and above, and have yet to receive any dose of the COVID-19 vaccine – you may register your interest here. An SMS invitation with a personalised booking link will be sent to you to book an appointment to receive your vaccination.<br><br>
+<strong>For booster:</strong><br><br>
+If you are medically ineligible for the mRNA vaccine and Nuvaxovid, you may consider receiving the Sinovac-CoronaVac vaccine as a booster. The Sinovac-CoronaVac vaccine is otherwise not recommended as a booster vaccine.							
+	</p> 
+							</div>
+					</div>
+				   <div class="tab">
+						<input id="question-1-6" type="checkbox">
+							<label for="question-1-6" class="tab-label">How can I register to receive the Nuvaxovid COVID-19 vaccine?</label>
+						<div class="tab-content">
+							<p>Persons <strong>18 and above</strong> who have yet to receive any dose of the COVID-19 vaccine and wish to receive Nuvaxovid for their primary series may register their interest here. An SMS with a personalised booking link will be sent to the registered mobile number to book an appointment on the National Appointment System.<br><br>
+Eligible individuals who wish to complete their primary series or booster vaccination with Nuvaxovid can book an appointment using the link from their existing SMS invite.<br><br>						
 	</p> 
 							</div>
 					</div>				
     			<div class="tab">
-    				<input id="question-1-6" type="checkbox">
-    				<label for="question-1-6" class="tab-label">I lost my SMS/booking code. How can I retrieve the link?</label>
+    				<input id="question-1-7" type="checkbox">
+    				<label for="question-1-7" class="tab-label">I lost my SMS/booking code. How can I retrieve the link?</label>
     				<div class="tab-content">
     					<p>Please cal lthe MOH COVID-19 vaccination hotline at 6995 9199 for assistance.</p>
     				</div>
     			</div>   			
     			<div class="tab">
-    				<input id="question-1-7" type="checkbox">
-    				<label for="question-1-7" class="tab-label">Can I change my contact information? </label>
+    				<input id="question-1-8" type="checkbox">
+    				<label for="question-1-8" class="tab-label">Can I change my contact information? </label>
     				<div class="tab-content">
     					<p>If you have changed your mobile number or email address, please call MOH COVID-19 vaccination hotline at 6995 9199 for assistance.</p>
     				</div>
     			</div>			
     			<div class="tab">
-    				<input id="question-1-8" type="checkbox">
-    				<label for="question-1-8" class="tab-label">How do I reschedule my appointment? </label>
+    				<input id="question-1-9" type="checkbox">
+    				<label for="question-1-9" class="tab-label">How do I reschedule my appointment? </label>
     				<div class="tab-content">
     					<p> You may reschedule your appointments using the same booking link in the original SMS.<br>For enquiries, please call the MOH COVID-19 vaccination hotline at 6995 9199.</p>
     				</div>
     			</div>	
     			<div class="tab">
-    				<input id="question-1-9" type="checkbox">
-    				<label for="question-1-9" class="tab-label">How will I know that the SMS is authentic and not a scam? </label>
+    				<input id="question-1-10" type="checkbox">
+    				<label for="question-1-10" class="tab-label">How will I know that the SMS is authentic and not a scam? </label>
     				<div class="tab-content">
     					<p>The Covid-19 vaccination is free for all Singaporeans and long-term residents in Singapore and no one should ask you for a payment to register for appointments. The link that is provided in the SMS should go to <strong>"vaccine.gov.sg"</strong>. Only government officials can register for a <strong>gov.sg</strong> domain. Do not trust any other URLs that are not from a <strong>.gov.sg</strong> domain. </p><p>When in doubt, you should check with the agency who sent you the message to confirm the authenticity before responding to the message.</p>
 							</div>
 					</div>
 					<div class="tab">
-						<input id="question-1-10" type="checkbox">
-						<label for="question-1-10" class="tab-label">My child/ward turns 5 this year. Can I get him/her vaccinated?</label>
+						<input id="question-1-11" type="checkbox">
+						<label for="question-1-11" class="tab-label">My child/ward turns 5 this year. Can I get him/her vaccinated?</label>
 						<div class="tab-content">
 							<p>
 						Children who turn 5 years old in 2022 must have crossed their birthday before they are eligible to book a vaccination appointment.</p>
 							</div>
 					</div>				
 					<div class="tab">
-						<input id="question-1-11" type="checkbox">
-						<label for="question-1-11" class="tab-label">I want to get my child/ward who is between 5 and 11 years old vaccinated. What do I need to
+						<input id="question-1-12" type="checkbox">
+						<label for="question-1-12" class="tab-label">I want to get my child/ward who is between 5 and 11 years old vaccinated. What do I need to
 do?</label>
 						<div class="tab-content">
 							<p>
@@ -121,20 +130,19 @@ complete the COVID-19 vaccination, you may register him/her <a href="https://chi
 							</div>
 					</div>				
 					<div class="tab">
-						<input id="question-1-12" type="checkbox">
-						<label for="question-1-12" class="tab-label">I want to get my child/ward (12 to 17 years old) vaccinated. What do I need to do?</label>
+						<input id="question-1-13" type="checkbox">
+						<label for="question-1-13" class="tab-label">I want to get my child/ward (12 to 17 years old) vaccinated. What do I need to do?</label>
 						<div class="tab-content">
 							<p>
 								Under the National Vaccination Programme, if your child/ward is below the age of 18, your consent is required for him/her to get vaccinated. If your child/ward is 12 years old, you will need to accompany him/her during the vaccination.<br><br>
-He/she may walk in without an appointment to any Vaccination Centre offering the Pfizer-
-BioNTech/Comirnaty vaccine, any day of the week before 7pm, for his/her vaccination dose. All
-children aged 12 to 17 will also be required to bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a>.<br><br>
+He/she may walk in without an appointment to any Vaccination Centre offering the Pfizer-BioNTech/Comirnaty vaccine, any day of the week before 7pm, for his/her vaccination dose. All children aged 12 to 17 will also be required to bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a>.<br><br>
+								Alternatively, you may register your interest to have your child/ward aged 12 to 17 to be vaccinated here. Please use your own contact details to register for your child/ward. An SMS with a personalised link will then be sent to this contact number to book a vaccination appointment.
 </p>
 							</div>
 					</div>				
 					<div class="tab">
-						<input id="question-1-13" type="checkbox">
-						<label for="question-1-13" class="tab-label">Will it be possible for parents/guardians to take their booster shot together with their child/ward?</label>
+						<input id="question-1-14" type="checkbox">
+						<label for="question-1-14" class="tab-label">Will it be possible for parents/guardians to take their booster shot together with their child/ward?</label>
 						<div class="tab-content">
 							<p>
 						Children aged 12 and under will require the accompaniment of their parent/guardian. Parents/guardians will not be able to take their booster shot during their child/ward’s vaccination.
@@ -275,8 +283,8 @@ thereafter, due to lower antibody levels generated by the third vaccine dose.<br
     				<label for="question-3-4" class="tab-label">I have recovered from a COVID-19 infection and have an official record of the infection. Can I take my COVID-19 vaccine now?
     				</label>
     				<div class="tab-content">
-    					<p>	Persons who had recovered from COVID-19 and were fully vaccinated before their infection are considered to have completed their primary series. Persons who have not completed their primary vaccination series before recovering from a COVID-19 infection, are recommended to receive a single dose of an mRNA vaccine.<br><br>
-If you are due for your vaccination based on the schedules recommended in the national vaccination programme (e.g. to receive a booster dose about 5 months after two doses of mRNA vaccines), you may receive your next vaccine dose 28 days after infection, although you are recommended to do so three months from the infection for better effectiveness.<br><br>
+    					<p>Persons who had recovered from COVID-19 and had received two doses of mRNA or Nuvaxovid vaccines, or three doses of Sinovac-CoronaVac before their infection are considered to have completed their primary series. Persons who have not completed their primary vaccination series before recovering from a COVID-19 infection, are recommended to complete their primary series.<br><br>
+If you are due for your vaccination based on the schedules recommended in the National Vaccination Programme (e.g. to receive a booster dose about 5 months after two doses of mRNA or Nuvaxovid vaccines), you may receive your next vaccine dose 28 days after infection.<br><br>
 								</p>
     				</div>
     			</div>	
@@ -285,9 +293,11 @@ If you are due for your vaccination based on the schedules recommended in the na
     				<label for="question-3-5" class="tab-label">I had received 2 doses of the Sinovac-CoronaVac vaccine. Am I considered fully vaccinated?
     				</label>
     				<div class="tab-content">
-    					<p>You are recommended to receive three doses of the Sinovac-CoronaVac COVID-19 vaccine to achieve vaccine protection and be considered fully vaccinated. The third dose should be received from 90 days after the second dose.<br><br>
-Persons who had received two doses of Sinovac-CoronaVac/Sinopharm are recommended to receive a dose of the PSAR mRNA vaccine to complete their primary vaccination series if they are not contraindicated to receive the mRNA vaccines.<br><br>
-To provide enough time for you to get your third dose and maintain your vaccination status, all individuals who have taken two doses of Sinovac-CoronaVac will be regarded as fully vaccinated for 4 months after the second dose, or until 31 December 2021, whichever is later.
+    					<p>You are recommended to receive three doses of the Sinovac-CoronaVac COVID-19 vaccine as your primary vaccination series. It is recommended that the third dose be administered three months
+after the second dose.<br><br>
+Persons aged who are medically ineligible to complete the primary vaccination series with the mRNA vaccines or Nuvaxovid vaccine are recommended to receive the Sinovac-CoronaVac vaccine. These persons should receive 3 doses of vaccines (inclusive of the mRNA vaccines or Nuvaxovid vaccine) to complete their primary vaccination series.<br><br>
+Persons who had received two or more doses of the Sinovac-CoronaVac vaccine, and have completed their three-dose primary vaccination series are recommended to receive a booster dose with an mRNA vaccine or Nuvaxovid, if they are medically eligible to do so. Persons should only receive the Sinovac-CoronaVac vaccine as a booster if they are medically ineligible to receive
+the mRNA vaccines and Nuvaxovid.
 							</p>
 							</div>
     			</div>	
