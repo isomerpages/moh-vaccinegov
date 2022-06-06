@@ -61,7 +61,7 @@ Seniors aged 60 years and above may also walk into any of the Polyclinics or par
 								<strong>For primary vaccination series:</strong><br><br>								
 If you are medically ineligible for the mRNA vaccine and were previously invited to receive the Sinovac-CoronaVac vaccine under a special public health programme, follow the instructions in your SMS invitation to continue with the regime.<br><br>
 If you are 18 and above, and have yet to receive any dose of the COVID-19 vaccine – you may register your interest here. An SMS invitation with a personalised booking link will be sent to you to book an appointment to receive your vaccination.<br><br>
-<strong>For primary vaccination series:</strong><br><br>
+<strong>For booster:</strong><br><br>
 If you are medically ineligible for the mRNA vaccine and Nuvaxovid, you may consider receiving the Sinovac-CoronaVac vaccine as a booster. The Sinovac-CoronaVac vaccine is otherwise not recommended as a booster vaccine..							
 	</p> 
 							</div>
