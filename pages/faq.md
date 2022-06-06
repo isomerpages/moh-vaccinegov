@@ -295,8 +295,9 @@ If you are due for your vaccination based on the schedules recommended in the Na
     				<div class="tab-content">
     					<p>You are recommended to receive three doses of the Sinovac-CoronaVac COVID-19 vaccine as your primary vaccination series. It is recommended that the third dose be administered three months
 after the second dose.<br><br>
-Persons who had received two doses of Sinovac-CoronaVac/Sinopharm are recommended to receive a dose of the PSAR mRNA vaccine to complete their primary vaccination series if they are not contraindicated to receive the mRNA vaccines.<br><br>
-To provide enough time for you to get your third dose and maintain your vaccination status, all individuals who have taken two doses of Sinovac-CoronaVac will be regarded as fully vaccinated for 4 months after the second dose, or until 31 December 2021, whichever is later.
+Persons aged who are medically ineligible to complete the primary vaccination series with the mRNA vaccines or Nuvaxovid vaccine are recommended to receive the Sinovac-CoronaVac vaccine. These persons should receive 3 doses of vaccines (inclusive of the mRNA vaccines or Nuvaxovid vaccine) to complete their primary vaccination series.<br><br>
+Persons who had received two or more doses of the Sinovac-CoronaVac vaccine, and have completed their three-dose primary vaccination series are recommended to receive a booster dose with an mRNA vaccine or Nuvaxovid, if they are medically eligible to do so. Persons should only receive the Sinovac-CoronaVac vaccine as a booster if they are medically ineligible to receive
+the mRNA vaccines and Nuvaxovid.
 							</p>
 							</div>
     			</div>	
