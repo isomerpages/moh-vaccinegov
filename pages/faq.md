@@ -45,10 +45,9 @@ notification, to provide consent and book their child/ward’s booster vaccinati
 All eligible individuals can walk into any vaccination centre (VC) offering mRNA vaccines for their primary vaccination series and booster doses, without an appointment, <strong>any day of the week, before 7pm</strong>. This means:<br><br>
 								<span>• Children <strong>aged 5 to 11</strong> may walk in with their parents/guardians to any paediatric VC</span><br>
 								<span>• Individuals <strong>aged 12 to 17</strong> may walk in to any VC offering the Pfizer-BioNTech/Comirnaty vaccine
-Individuals aged 18 and above may walk in to any VC offering mRNA vaccines</span><br>
-								<span>• Individuals <strong>aged 18 and above</strong> may walk in to any VC offering mRNA vaccines</span><br><br>
-All children below the age of 18 will be required to bring a duly completed and signed hard or
-electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a>.<br><br>
+Individuals aged 18 and above may walk in to any VC offering mRNA vaccines</span><br><br>
+								All children below the age of 18 must bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a>.<br><br>
+								Individuals <strong>aged 18 and above</strong> may walk in to any VC offering mRNA vaccines.<br><br>
 Seniors aged 60 years and above may also walk into any of the Polyclinics or participating Public
 Health Preparedness Clinics to receive their vaccination, without an appointment.<br><br>
 								</p>
