@@ -48,8 +48,8 @@ All eligible individuals can walk into any vaccination centre (VC) offering mRNA
 Individuals aged 18 and above may walk in to any VC offering mRNA vaccines</span><br><br>
 								All children below the age of 18 must bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a>.<br><br>
 								Individuals <strong>aged 18 and above</strong> may walk in to any VC offering mRNA vaccines.<br><br>
-Seniors aged 60 years and above may also walk into any of the Polyclinics or participating Public
-Health Preparedness Clinics to receive their vaccination, without an appointment.<br><br>
+Seniors aged 60 years and above may also walk into any of the Polyclinics or participating Public Health Preparedness Clinics to receive their vaccination, without an appointment.<br><br>
+								Alternatively, you may register here for your first vaccination dose. An SMS with a personalised booking link will be sent to your registered mobile number to book an appointment on the National Appointment System.<br><br>
 								</p>
 							</div>
 					</div>
