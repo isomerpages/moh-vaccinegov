@@ -67,13 +67,10 @@ Only who are medically ineligible for mRNA vaccines may consider taking the Sino
 					</div>
 				   <div class="tab">
 						<input id="question-1-6" type="checkbox">
-							<label for="question-1-6" class="tab-label">How do I register to receive Sinovac-CoronaVac?</label>
+							<label for="question-1-6" class="tab-label">How can I register to receive the Nuvaxovid COVID-19 vaccine?</label>
 						<div class="tab-content">
-							<p>We strongly recommend those who can take the mRNA vaccines to complete their primary vaccination series and booster doses with mRNA vaccines, in view of the lower efficacy of the Sinovac-CoronaVac vaccine.<br><br>
-1. You are medically ineligible for a mRNA vaccine regime – If you were previously invited to receive the Sinovac-CoronaVac vaccine under a special public health programme, you should follow the instructions provided in the SMS invitation to continue with the regime.<br><br>
-2. You are aged 18 and above, and have yet to take a dose of any COVID-19 vaccine – you may contact any participating Public Health Preparedness Clinic (PHPC) offering Sinovac- CoronaVac to receive your vaccination.<br><br>
-
-Only who are medically ineligible for mRNA vaccines may consider taking the Sinovac-CoronaVac vaccine as a booster vaccine. The Sinovac-CoronaVac vaccine is otherwise not recommended as a booster vaccine.							
+							<p>Persons <strong>18 and above</strong> who have yet to receive any dose of the COVID-19 vaccine and wish to receive Nuvaxovid for their primary series may register their interest here. An SMS with a personalised booking link will be sent to the registered mobile number to book an appointment on the National Appointment System.<br><br>
+Eligible individuals who wish to complete their primary series or booster vaccination with Nuvaxovid can book an appointment using the link from their existing SMS invite.<br><br>						
 	</p> 
 							</div>
 					</div>				
