@@ -58,11 +58,11 @@ Seniors aged 60 years and above may also walk into any of the Polyclinics or par
 							<label for="question-1-5" class="tab-label">How do I register to receive Sinovac-CoronaVac?</label>
 						<div class="tab-content">
 							<p>We strongly recommend you receive the mRNA vaccines or Nuvaxovid to complete their primary vaccination series and booster doses, in view of the lower efficacy of the Sinovac-CoronaVac vaccine.<br><br>
-								<strong>For primary vaccination series:</strong><br>								
-If you are medically ineligible for a mRNA vaccine regime – If you were previously invited to receive the Sinovac-CoronaVac vaccine under a special public health programme, you should follow the instructions provided in the SMS invitation to continue with the regime.<br><br>
-2. You are aged 18 and above, and have yet to take a dose of any COVID-19 vaccine – you may contact any participating Public Health Preparedness Clinic (PHPC) offering Sinovac- CoronaVac to receive your vaccination.<br><br>
-
-Only who are medically ineligible for mRNA vaccines may consider taking the Sinovac-CoronaVac vaccine as a booster vaccine. The Sinovac-CoronaVac vaccine is otherwise not recommended as a booster vaccine.							
+								<strong>For primary vaccination series:</strong><br><br>								
+If you are medically ineligible for the mRNA vaccine and were previously invited to receive the Sinovac-CoronaVac vaccine under a special public health programme, follow the instructions in your SMS invitation to continue with the regime.<br><br>
+If you are 18 and above, and have yet to receive any dose of the COVID-19 vaccine – you may register your interest here. An SMS invitation with a personalised booking link will be sent to you to book an appointment to receive your vaccination.<br><br>
+<strong>For primary vaccination series:</strong><br><br>
+If you are medically ineligible for the mRNA vaccine and Nuvaxovid, you may consider receiving the Sinovac-CoronaVac vaccine as a booster. The Sinovac-CoronaVac vaccine is otherwise not recommended as a booster vaccine..							
 	</p> 
 							</div>
 					</div>
