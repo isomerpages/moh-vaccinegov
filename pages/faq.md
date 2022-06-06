@@ -135,9 +135,7 @@ complete the COVID-19 vaccination, you may register him/her <a href="https://chi
 						<div class="tab-content">
 							<p>
 								Under the National Vaccination Programme, if your child/ward is below the age of 18, your consent is required for him/her to get vaccinated. If your child/ward is 12 years old, you will need to accompany him/her during the vaccination.<br><br>
-He/she may walk in without an appointment to any Vaccination Centre offering the Pfizer-
-BioNTech/Comirnaty vaccine, any day of the week before 7pm, for his/her vaccination dose. All
-children aged 12 to 17 will also be required to bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a>.<br><br>
+He/she may walk in without an appointment to any Vaccination Centre offering the Pfizer-BioNTech/Comirnaty vaccine, any day of the week before 7pm, for his/her vaccination dose. All children aged 12 to 17 will also be required to bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a>.<br><br>
 </p>
 							</div>
 					</div>				
