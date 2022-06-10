@@ -31,12 +31,14 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
 
 9 Jul 2022 (Eve of Hari Raya Haji): 8am to 3pm<br>
 10 Jul 2022 (Hari Raya Haji) - Closed<br>
+11 Jul 2022 (Hari Raya Haji Holiday) - Closed<br>
 8 Aug 2022 (Eve of National Day): 8am to 3pm<br>
 9 Aug 2022 (National Day) - Closed<br>
 23 Oct 2022 (Eve of Deepavali): 8am to 3pm<br>
 24 Oct 2022 (Deepavali) - Closed<br>
 24 Dec 2022 (Christmas Day's Eve): 8am to 3pm<br>
 25 Dec 2022 (Christmas Day) - Closed<br>
+26 Dec 2022 (Christmas Day Holiday) - Closed<br>
 
 ###  **Central**
 <table>
