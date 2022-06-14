@@ -3,8 +3,7 @@ title: Private Vaccination Programme
 permalink: /locations/PVP
 description: ""
 ---
-All Short-Term Visitors to Singapore may receive paid COVID-19 vaccinations and boosters under the
-Private Vaccination Programme (PVP). We are progressively onboarding more clinics to the PVP.<br><br>
+All individuals aged 18 years and above (including long-term residents and short-term visitors) may receive vaccinations and boosters under the Private Vaccination Programme (PVP). This will allow individuals who wish to take additional vaccine doses, but who do not qualify under the National Vaccination Programme, to do so based on a doctor’s assessment. As this is a private arrangement, the vaccinations will be at the individual’s own cost. We are progressively onboarding more clinics to the PVP.<br><br>
 To book an appointment or for any enquiries, please directly contact the clinics in the list below.
 
 <table>
