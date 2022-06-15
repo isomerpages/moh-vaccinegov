@@ -783,7 +783,7 @@ As operating hours may vary, please call the respective clinics for enquiries on
     <tr>
       <td>Raffles Medical Clinic Compass One</td>
       <td>1 Sengkang Square #04-09, Compass Mall One, Singapore 545078</td>
-			<td>Pfizer/Comirnaty</td>
+			<td>Pfizer/Comirnaty(Adults & Children)</td>
     </tr>	
     <tr>
       <td>Mission Medical Clinic</td>
