@@ -86,7 +86,7 @@ As operating hours may vary, please call the respective clinics for enquiries on
     <tr>
       <td>1 Bishan Medical Clinic </td>
       <td> 283 Bishan Street 22, #01-191, Singapore 570283</td>
-			<td>Pfizer/Comirnaty</td>
+			<td>Pfizer/Comirnaty(Adults & Children)</td>
 			</tr>    
     <tr>
       <td>Healthify Medical Family Clinic </td>
@@ -219,7 +219,7 @@ As operating hours may vary, please call the respective clinics for enquiries on
     <tr>
       <td>Trucare Medical and Surgery (Havelock)</td>
       <td>51 Havelock Road #01-04, Singapore 161051</td>
-			<td>Pfizer/Comirnaty</td>
+			<td>Pfizer/Comirnaty(Adults & Children)</td>
 			</tr>    
     <tr>
       <td>King George's Medical Clinic</td>
@@ -512,7 +512,7 @@ As operating hours may vary, please call the respective clinics for enquiries on
     <tr>
       <td>Eastern Medical Centre </td>
       <td>631 Bedok Reservoir Road #01-896, Singapore 470631</td>
-			<td>Pfizer/Comirnaty</td>
+			<td>Pfizer/Comirnaty(Adults & Children)</td>
 				</tr>		
     <tr>
       <td>Tampines Medilife Clinic</td>
@@ -537,7 +537,7 @@ As operating hours may vary, please call the respective clinics for enquiries on
     <tr>
       <td>Our Family Physician Clinic & Surgery</td>
       <td>829 Tampines Street 81, #01-292, Singapore 520829</td>
-			<td>Pfizer/Comirnaty</td>
+			<td>Pfizer/Comirnaty(Adults & Children)</td>
 			</tr>		
     <tr>
       <td>ProHealth Medical Group@Tampines</td>
@@ -710,7 +710,7 @@ As operating hours may vary, please call the respective clinics for enquiries on
    <tr>
     <td>Admiralty Family Medical Clinic</td>
       <td>693 Woodlands Avenue 6 #01-08, Singapore 730693</td>
-				<td>Pfizer/Comirnaty</td>
+				<td>Pfizer/Comirnaty(Adults & Children)</td>
 		 </tr>	
    <tr>
     <td>United Health Family Clinic & Surgery</td>
@@ -768,7 +768,7 @@ As operating hours may vary, please call the respective clinics for enquiries on
     <tr>
       <td>Kenneth Tan Medical Clinic</td>
       <td>658 Punggol East #01-04, Singapore 820658</td>
-			<td>Pfizer/Comirnaty</td>
+			<td>Pfizer/Comirnaty(Adults & Children)</td>
     </tr>
     <tr>
       <td>Etern Medical Clinic</td>
@@ -783,7 +783,7 @@ As operating hours may vary, please call the respective clinics for enquiries on
     <tr>
       <td>Raffles Medical Clinic Compass One</td>
       <td>1 Sengkang Square #04-09, Compass Mall One, Singapore 545078</td>
-			<td>Pfizer/Comirnaty</td>
+			<td>Pfizer/Comirnaty(Adults & Children)</td>
     </tr>	
     <tr>
       <td>Mission Medical Clinic</td>
@@ -884,7 +884,7 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
     	<tr>
       <td>Trucare Medical Clinic And Surgery (Hougang Central)</td>
       <td> 1187 Upper Serangoon Rd, The Midtown #01-53, Singapore 533971</td>
-			<td>Pfizer/Comirnaty</td>
+			<td>Pfizer/Comirnaty(Adults & Children)</td>
 				</tr>
     	<tr>
       <td>Lifeline Punggol Medical Clinic Pte. Ltd.</td>
