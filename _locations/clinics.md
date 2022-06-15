@@ -884,7 +884,7 @@ Etern Medical Clinic (Punggol Sumang LRT)</td>
     	<tr>
       <td>Trucare Medical Clinic And Surgery (Hougang Central)</td>
       <td> 1187 Upper Serangoon Rd, The Midtown #01-53, Singapore 533971</td>
-			<td>Pfizer/Comirnaty</td>
+			<td>Pfizer/Comirnaty(Adults & Children)</td>
 				</tr>
     	<tr>
       <td>Lifeline Punggol Medical Clinic Pte. Ltd.</td>
