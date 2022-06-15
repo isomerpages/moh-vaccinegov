@@ -537,7 +537,7 @@ As operating hours may vary, please call the respective clinics for enquiries on
     <tr>
       <td>Our Family Physician Clinic & Surgery</td>
       <td>829 Tampines Street 81, #01-292, Singapore 520829</td>
-			<td>Pfizer/Comirnaty</td>
+			<td>Pfizer/Comirnaty(Adults & Children)</td>
 			</tr>		
     <tr>
       <td>ProHealth Medical Group@Tampines</td>
