@@ -86,7 +86,7 @@ As operating hours may vary, please call the respective clinics for enquiries on
     <tr>
       <td>1 Bishan Medical Clinic </td>
       <td> 283 Bishan Street 22, #01-191, Singapore 570283</td>
-			<td>Pfizer/Comirnaty</td>
+			<td>Pfizer/Comirnaty(Adults & Children)</td>
 			</tr>    
     <tr>
       <td>Healthify Medical Family Clinic </td>
