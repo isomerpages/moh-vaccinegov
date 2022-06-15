@@ -219,7 +219,7 @@ As operating hours may vary, please call the respective clinics for enquiries on
     <tr>
       <td>Trucare Medical and Surgery (Havelock)</td>
       <td>51 Havelock Road #01-04, Singapore 161051</td>
-			<td>Pfizer/Comirnaty</td>
+			<td>Pfizer/Comirnaty(Adults & Children)</td>
 			</tr>    
     <tr>
       <td>King George's Medical Clinic</td>
