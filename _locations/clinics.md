@@ -512,7 +512,7 @@ As operating hours may vary, please call the respective clinics for enquiries on
     <tr>
       <td>Eastern Medical Centre </td>
       <td>631 Bedok Reservoir Road #01-896, Singapore 470631</td>
-			<td>Pfizer/Comirnaty</td>
+			<td>Pfizer/Comirnaty(Adults & Children)</td>
 				</tr>		
     <tr>
       <td>Tampines Medilife Clinic</td>
