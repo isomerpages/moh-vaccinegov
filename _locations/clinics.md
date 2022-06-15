@@ -768,7 +768,7 @@ As operating hours may vary, please call the respective clinics for enquiries on
     <tr>
       <td>Kenneth Tan Medical Clinic</td>
       <td>658 Punggol East #01-04, Singapore 820658</td>
-			<td>Pfizer/Comirnaty</td>
+			<td>Pfizer/Comirnaty(Adults & Children)</td>
     </tr>
     <tr>
       <td>Etern Medical Clinic</td>
