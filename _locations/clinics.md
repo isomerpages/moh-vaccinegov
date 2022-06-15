@@ -710,7 +710,7 @@ As operating hours may vary, please call the respective clinics for enquiries on
    <tr>
     <td>Admiralty Family Medical Clinic</td>
       <td>693 Woodlands Avenue 6 #01-08, Singapore 730693</td>
-				<td>Pfizer/Comirnaty</td>
+				<td>Pfizer/Comirnaty(Adults & Children)</td>
 		 </tr>	
    <tr>
     <td>United Health Family Clinic & Surgery</td>
