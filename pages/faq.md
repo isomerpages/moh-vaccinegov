@@ -69,8 +69,8 @@ If you are medically ineligible for the mRNA vaccine and Novavax/Nuvaxovid, you 
 						<input id="question-1-6" type="checkbox">
 							<label for="question-1-6" class="tab-label">How can I register to receive the Novavax/Nuvaxovid COVID-19 vaccine?</label>
 						<div class="tab-content">
-							<p>Persons <strong>18 and above</strong> who have yet to receive any dose of the COVID-19 vaccine and wish to receive Nuvaxovid for their primary series may register their interest here. An SMS with a personalised booking link will be sent to the registered mobile number to book an appointment on the National Appointment System.<br><br>
-Eligible individuals who wish to complete their primary series or booster vaccination with Nuvaxovid can book an appointment using the link from their existing SMS invite.<br><br>						
+							<p>Individuals may walk in to JTVC Bishan to receive their Novavax/Nuvaxovid vaccine.<br><br>
+Eligible individuals who wish to complete their primary series or booster vaccination with Novavax/Nuvaxovid can also book an appointment using the link from their existing SMS invite, to receive their vaccination at JTVC Bishan or any of the selected polyclinics and PHPCs.<br><br>						
 	</p> 
 							</div>
 					</div>				
