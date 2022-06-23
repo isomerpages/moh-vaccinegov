@@ -3,9 +3,6 @@ title: Joint Testing & Vaccination Centres (Vaccination Wing)
 permalink: /locations/jtvc
 description: ""
 ---
-For COVID-19 vaccination, the public are strongly encouraged to book an appointment at www.vaccine.gov.sg before proceeding to the JTVCs.
-
-
 **Vaccination Operating Hours:**<br>
 Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm & 6.30pm)<br>
 Sat and Eve of Public Holiday :9am-1pm (Last walk-in 12.30pm)<br>

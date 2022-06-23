@@ -51,7 +51,7 @@ Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centr
   </thead>
   <tbody>		
     <tr>
-      <td>Raffles City Convention Centre</td>
+      <td>Raffles City Convention Centre (Closes after 18 July 2022)</td>
       <td>252 North Bridge Road, Singapore 179103, Level 4 Orchard Room</td>
 			<td>Pfizer/Comirnaty</td>
     </tr>	
