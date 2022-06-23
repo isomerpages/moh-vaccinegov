@@ -68,5 +68,10 @@ School)</td>
       <td>3A Woodlands Square Singapore 737735</td>
 			<td>Moderna/Spikevax, Pfizer/Comirnaty</td>
     </tr>
+		<tr>
+      <td>JTVC Sengkang (former pre-school)</td>
+      <td>60 Sengkang East Way Singapore 548596</td>
+			<td>Moderna/Spikevax, Pfizer/Comirnaty</td>
+    </tr>
 	</tbody>
 </table>
