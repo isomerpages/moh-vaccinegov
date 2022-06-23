@@ -47,6 +47,16 @@ School)</td>
       <td>JTVC Commonwealth (Former MOE Heritage Centre)</td>
       <td>402 Commonwealth Drive Singapore 149599</td>
 			<td>Moderna/Spikevax, Pfizer/Comirnaty</td>
+    </tr>
+		<tr>
+      <td>JTVC Ang Mo Kio (former AMK ITE)</td>
+      <td>4300 Ang Mo Kio Avenue 5 Singapore 569869</td>
+			<td>Moderna/Spikevax, Pfizer/Comirnaty</td>
+    </tr>
+		<tr>
+      <td>JTVC Bukit Merah (former SEAB Centre)</td>
+      <td>8 Lower Delta Road Singapore 169198</td>
+			<td>Moderna/Spikevax, Pfizer/Comirnaty</td>
     </tr>	
 	</tbody>
 </table>
