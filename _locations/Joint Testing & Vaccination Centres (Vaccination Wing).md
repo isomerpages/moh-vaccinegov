@@ -57,6 +57,16 @@ School)</td>
       <td>JTVC Bukit Merah (former SEAB Centre)</td>
       <td>8 Lower Delta Road Singapore 169198</td>
 			<td>Moderna/Spikevax, Pfizer/Comirnaty</td>
-    </tr>	
+    </tr>
+		<tr>
+      <td>JTVC Yishun (former Yishun Bus Interchange)</td>
+      <td>20A Yishun Central 1 Singapore 768830</td>
+			<td>Moderna/Spikevax, Pfizer/Comirnaty</td>
+    </tr>
+		<tr>
+      <td>JTVC Woodlands (former Woodlands Bus Interchange)</td>
+      <td>3A Woodlands Square Singapore 737735</td>
+			<td>Moderna/Spikevax, Pfizer/Comirnaty</td>
+    </tr>
 	</tbody>
 </table>
