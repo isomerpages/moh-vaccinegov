@@ -47,6 +47,31 @@ School)</td>
       <td>JTVC Commonwealth (Former MOE Heritage Centre)</td>
       <td>402 Commonwealth Drive Singapore 149599</td>
 			<td>Moderna/Spikevax, Pfizer/Comirnaty</td>
-    </tr>	
+    </tr>
+		<tr>
+      <td>JTVC Ang Mo Kio (former AMK ITE)</td>
+      <td>4300 Ang Mo Kio Avenue 5 Singapore 569869</td>
+			<td>Moderna/Spikevax, Pfizer/Comirnaty</td>
+    </tr>
+		<tr>
+      <td>JTVC Bukit Merah (former SEAB Centre)</td>
+      <td>8 Lower Delta Road Singapore 169198</td>
+			<td>Moderna/Spikevax, Pfizer/Comirnaty</td>
+    </tr>
+		<tr>
+      <td>JTVC Yishun (former Yishun Bus Interchange)</td>
+      <td>20A Yishun Central 1 Singapore 768830</td>
+			<td>Moderna/Spikevax, Pfizer/Comirnaty</td>
+    </tr>
+		<tr>
+      <td>JTVC Woodlands (former Woodlands Bus Interchange)</td>
+      <td>3A Woodlands Square Singapore 737735</td>
+			<td>Moderna/Spikevax, Pfizer/Comirnaty</td>
+    </tr>
+		<tr>
+      <td>JTVC Sengkang (former pre-school)</td>
+      <td>60 Sengkang East Way Singapore 548596</td>
+			<td>Moderna/Spikevax, Pfizer/Comirnaty</td>
+    </tr>
 	</tbody>
 </table>
