@@ -16,7 +16,7 @@ Locations that are administering the Covid-19 Vaccines.
 11.30am (morning session) and 3.30pm (afternoon session) Monday – Friday,<br>
 11.30am Saturday<br><br>
 
-From 30 June 2022, Jurong/ Yishun Polyclinic will no longer accept walk-ins for Pfizer Dose 1 primary vaccinations as the polyclinic will be converting to administer Novavax/Nuvaxovid vaccinations from 12 August 2022. The polyclinic will continue to administer Pfizer Dose 2 and Booster vaccinations for individuals who have already taken their Pfizer Dose 1 vaccination at the polyclinic.<br><br>
+From 30 June 2022, Jurong and Yishun Polyclinics will no longer accept walk-ins for Pfizer Dose 1 primary vaccinations as these polyclinic will be converting to administer Novavax vaccinations from 12 August 2022. These polyclinic will continue to administer Pfizer Dose 2 and Pfizer Booster vaccinations for individuals who have already taken their Pfizer Dose 1 vaccination at the polyclinic.<br><br>
 
 **To book an appointment for paediatric vaccination:**<br>
 * Refer to polyclinics indicated with “Pfizer/Comirnaty (Adults & Children)” vaccine type<br>
@@ -71,6 +71,11 @@ From 30 June 2022, Jurong/ Yishun Polyclinic will no longer accept walk-ins for 
 		<tr>
       <td>Queenstown Polyclinic</td>
       <td>580 Stirling Road, Singapore 148958</td>
+			<td> Pfizer/Comirnaty</td>
+    </tr>
+		<tr>
+      <td>Clementi Polyclinic</td>
+      <td>451 Clementi Avenue 3, #02-307, Singapore 120451</td>
 			<td> Pfizer/Comirnaty</td>
     </tr>   
   </tbody>
@@ -157,7 +162,12 @@ From 30 June 2022, Jurong/ Yishun Polyclinic will no longer accept walk-ins for 
       <td>Ang Mo Kio Polyclinic</td>
       <td>21 Ang Mo Kio Central 2, Singapore 569666</td>
 			<td> Pfizer/Comirnaty</td>
-    </tr>    
+    </tr>
+		 <tr>
+      <td>Seng Kang Polyclinic</td>
+      <td>2 Sengkang Square, #01-06, Singapore 545025</td>
+			<td> Pfizer/Comirnaty</td>
+    </tr> 
   </tbody>
 </table>
 
