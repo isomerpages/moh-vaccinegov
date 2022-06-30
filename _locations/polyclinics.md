@@ -162,7 +162,12 @@ From 30 June 2022, Jurong and Yishun Polyclinics will no longer accept walk-ins 
       <td>Ang Mo Kio Polyclinic</td>
       <td>21 Ang Mo Kio Central 2, Singapore 569666</td>
 			<td> Pfizer/Comirnaty</td>
-    </tr>    
+    </tr>
+		 <tr>
+      <td>Seng Kang Polyclinic</td>
+      <td>2 Sengkang Square, #01-06, Singapore 545025</td>
+			<td> Pfizer/Comirnaty</td>
+    </tr> 
   </tbody>
 </table>
 
