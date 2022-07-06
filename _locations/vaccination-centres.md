@@ -5,7 +5,6 @@ permalink: /locations-vcs
 Locations that are administering the Covid-19 Vaccines. 
 
 
-Use [Map](https://www.onemap.sg/main/v2/vaccination) to find a Vaccination Centre near you.
 
 **Normal Operating Hours:**<br>
 8am – 10pm Daily<br>
