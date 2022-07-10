@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Joint Testing & Vaccination Centres (Vaccination Wing).md
-      - clinics.md
+      - Clinics.md
       - polyclinics.md
       - vaccination-centres.md
       - mobile-vaccination-team.md
