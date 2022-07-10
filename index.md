@@ -22,15 +22,16 @@ sections:
           description: Submit with supporting docs
           url: /appeal
   - infobar:
+      title: Booster Doses
+      description: If you are aged 12 and above, walk-in to receive your vaccination
+        and booster at any JTVC
+      button: CLICK Here for locations
+      url: https://www.vaccine.gov.sg/locations
+  - infobar:
       title: Children Vaccination
       description: For information on vaccinating children aged 5-11
       button: find out more
       url: https://www.moh.gov.sg/covid-19/vaccination/faqs
-  - infobar:
-      title: Booster Doses
-      description: For more information on booster doses, visit
-      button: MOH's website
-      url: https://www.vaccine.gov.sg/locations
   - infobar:
       description: We are aware of websites, emails, SMS text messages and phone calls
         falsely claiming to offer registration for COVID-19 vaccination
