@@ -19,6 +19,6 @@ To book an appointment or for any enquiries, please directly contact the clinics
       <td>Healthway Medical (Kwong Wai Shiu Hospital)</td>
       <td>705 Serangoon Road, Kwong
 Wai Shiu Hospital Block A #01-06, Singapore
-328127 (Call 6977 6633 for booking. Hotline is only available from Monday to Sunday, 8:30am – 5:30pm)</td>
+328127 (Please make an appointment via this <a href="https://healthwaymedical.com/moderna-covid-19-vaccination/">link</a> or Call 6977 6633 for booking. Hotline is only available from Monday to Sunday, 8:30am – 5:30pm)</td>
 			<td>Moderna/Spikevax</td>
     </tr>
