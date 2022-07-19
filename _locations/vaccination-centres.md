@@ -20,9 +20,6 @@ Locations that are administering the Covid-19 Vaccines.
  
 **Upcoming Public Holidays Operating Hours**<br>Please note that the last appointment on the eve of the Public Holiday will be at 2pm.<br>
 
-9 Jul 2022 (Eve of Hari Raya Haji): 8am to 3pm<br>
-10 Jul 2022 (Hari Raya Haji) - Closed<br>
-11 Jul 2022 (Hari Raya Haji Holiday) - Closed<br>
 8 Aug 2022 (Eve of National Day): 8am to 3pm<br>
 9 Aug 2022 (National Day) - Closed<br>
 23 Oct 2022 (Eve of Deepavali): 8am to 3pm<br>
@@ -30,25 +27,6 @@ Locations that are administering the Covid-19 Vaccines.
 24 Dec 2022 (Christmas Day's Eve): 8am to 3pm<br>
 25 Dec 2022 (Christmas Day) - Closed<br>
 26 Dec 2022 (Christmas Day Holiday) - Closed<br>
-
-###  **Central**
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Address</th>
-			<th>Vaccine Type</th>
-    </tr>
-  </thead>
-  <tbody>		
-    <tr>
-      <td>Raffles City Convention Centre (Closes after 18 July 2022)</td>
-      <td>252 North Bridge Road, Singapore 179103, Level 4 Orchard Room</td>
-			<td>Pfizer/Comirnaty</td>
-    </tr>	
-  </tbody>
-</table>
-
 
 ### **West**
 <table>
