@@ -65,7 +65,7 @@ School)</td>
 			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm & 6.30pm)<br><br> Sat and Eve of Public Holiday: 9am-1pm (Last walk-in 12.30pm)<br><br>Sun and gazetted Public Holidays: Close</td>
     </tr>
 		<tr>
-      <td>JTVC Woodlands (former Woodlands Bus Interchange)</td>
+      <td>JTVC Woodlands (Woodlands Temporary Bus Interchange)</td>
       <td>3A Woodlands Square Singapore 737735</td>
 			<td>Moderna/Spikevax, Pfizer/Comirnaty</td>
 			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm & 6.30pm)<br><br> Sat and Eve of Public Holiday: 9am-1pm (Last walk-in 12.30pm)<br><br>Sun and gazetted Public Holidays: Close</td>
