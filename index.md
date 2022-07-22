@@ -22,7 +22,7 @@ sections:
           description: Submit with supporting docs
           url: /appeal
   - infobar:
-      title: Booster Doses
+      title: Primary & Booster Doses
       description: If you are aged 12 and above, walk-in to receive your vaccination
         and booster at any JTVC
       button: CLICK Here for locations
