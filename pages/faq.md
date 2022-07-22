@@ -28,12 +28,12 @@ Do I need to register for my booster dose?</label>
 						<div class="tab-content">
 							<p>
 								People who are eligible for their booster dose will be invited to be vaccinated, from about five months after their second dose.<br><br>
-								All individuals who are eligible for COVID-19 vaccination may walk in for their primary vaccination series and booster doses, without prior appointment, every day of the week, before 7pm:<br>
-								<span>• Individuals aged 12 to 17 may now walk in to any VC offering the Pfizer-BioNTech/Comirnaty vaccine to receive their primary vaccination series and booster dose. These individuals will be required to bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a> .</span><br>
-								<span>• Individuals aged 18 and above may walk into any VC offering mRNA vaccines to receive their primary vaccination series and booster dose.</span><br><br>
-								If you are 60 years old and above, and have completed the last dose of your primary series vaccination, you may also walk in to any of the participating Public Health Preparedness Clinics (PHPCs) or Polyclinics, to receive your booster dose without an appointment. If you would like to go to a PHPC, you are advised to call the respective clinics for enquiries on the vaccination cut-off time for your preferred date, as operating hours may vary.<br><br>
-Alternatively, eligible individuals aged 18 and above will receive an SMS with a personalised link to book an appointment. Parents/guardians of individuals aged 12-17 will also receive the SMS
-notification, to provide consent and book their child/ward’s booster vaccination appointment.		
+								All individuals who are eligible for COVID-19 vaccination may walk in for their primary vaccination series and booster doses, without prior appointment, every day of the week, before 630pm:<br>
+								<span>• Individuals <strong> aged 12 to 17 </strong> may walk in to any Joint Testing and Vaccination Centre (JTVC) offering the Pfizer-BioNTech/Comirnaty vaccine. These individuals will be required to bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a>.</span><br>
+								<span>• Individuals <strong> aged 18 and above </strong> may walk into any JTVC.</span><br>
+								<span>• If you are <strong> 60 years old and above</strong>, you may walk in to any JTVC or participating Public Health Preparedness Clinics (PHPCs).</span> <br><br>
+								Individuals mentioned above may also receive their vaccination at polyclinics and PHPCs. Vaccinations at polyclinics will only be accepted on appointment basis, with the exception of seniors aged 80 years and above who may walk in for their vaccination. Individuals who wish to receive their vaccination at participating PHPCs are strongly encouraged to make an appointment with the PHPC to avoid long waiting times.<br><br>
+Alternatively, eligible individuals aged 18 and above will receive an SMS with a personalised link to book an appointment. <br><br>Parents/guardians of individuals aged 12-17 will also receive the SMS notification, to provide consent and book their child/ward’s booster vaccination appointment.		
 									</p>
 							</div>
 					</div>
@@ -41,15 +41,18 @@ notification, to provide consent and book their child/ward’s booster vaccinati
 						<input id="question-1-4" type="checkbox">
 							<label for="question-1-4" class="tab-label">How do I register for mRNA vaccination?</label>
 						<div class="tab-content">
-							<p>Under the National Vaccination Programme, children/wards below 18 must have the consent of their parents/guardians to receive their vaccination.<br><br>
-All eligible individuals can walk into any vaccination centre (VC) Individuals aged 12 to 17 may walk into any VC or Joint Testing Vaccination Centre (JTVC)
-for their primary vaccination series and booster doses without an appointment. This means:<br><br>
-								<span>• Children <strong>aged 5 to 11</strong> may walk in with their parents/guardians to any paediatric VC</span><br>
-								<span>• Individuals <strong>aged 12 to 17</strong> may walk in to any VC or JTVC offering the Pfizer-BioNTech/Comirnaty</span><br><br>
-								All children below the age of 18 must bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a>.<br><br>
-								Individuals <strong>aged 18 and above</strong> may walk in to any VC or JTVC.<br><br>
-Seniors aged 60 years and above may also walk into any of the Polyclinics or participating Public Health Preparedness Clinics to receive their vaccination, without an appointment.<br><br>
-								</p>
+							<p>For those <strong>aged 5 to 11</strong>, parents/guardians will have to first register their child/ward at child.vaccine.gov.sg . An SMS with a personalised booking link will be sent to the registered mobile number of the parent/guardian within three to five working days to book a vaccination appointment at selected polyclinics and Public Health Preparedness Clinics (PHPCs) via the National Appointment System.<br><br>
+Please visit gowhere.gov.sg/vaccine to locate the nearest polyclinic or PHPC offering paediatric
+vaccines.<br><br>
+								Under the National Vaccination Programme, children/wards below 18 must have the consent of their parents/guardians to receive their vaccination. They must bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a>.<br><br>
+						 The following groups of individuals may receive their vaccinations via the following means:<br>
+						 <span>• Individuals <strong>aged 12 to 17</strong> may walk in to any Joint Testing and Vaccination Centre (JTVC)
+offering the Pfizer-BioNTech/Comirnaty vaccine.</span><br>
+						 <span>• Individuals <strong>aged 18 and above</strong> may walk in to any JTVC.</span><br>
+						 <span>• Seniors <strong>aged 60 and above</strong> may walk in to any JTVC or participating PHPCs.</span><br><br>
+Individuals mentioned above may also receive their vaccination at polyclinics and PHPCs. Vaccinations at polyclinics will only be accepted on appointment basis, with the exception of seniors aged 80 years and above who may walk in for their vaccination. Individuals who wish to receive their vaccination at participating PHPCs are strongly encouraged to make an appointmentwith the PHPC to avoid long waiting times.<br><br>
+Holders of Training Employment Pass, Training Work Permit, Work Holiday Pass, Special Pass and Short Term Visit Pass with a pass validity period of at least 60 days may walk in to any JTVC to receive their vaccination. You should bring along identifying documents such as your passport or approval of extension for verification. No prior booking or registration is required.						 
+						</p>
 							</div>
 					</div>
 				   <div class="tab">
@@ -115,16 +118,9 @@ Eligible individuals who wish to complete their primary series or booster vaccin
 						<label for="question-1-12" class="tab-label">I want to get my child/ward who is between 5 and 11 years old vaccinated. What do I need to
 do?</label>
 						<div class="tab-content">
-							<p>
-					You may accompany him/her and walk in without an appointment to any paediatric Pfizer-
-BioNTech/Comirnaty vaccination centre to receive his/her vaccination dose, any day of the week
-before 7pm. Please bring along their Student Identification, or if not available, other forms of
-identification (e.g. Birth Certificate/Passport/SingPass) for verification purposes.<br><br>
-
-Alternatively, If your child/ward is under the MOE vaccination exercise, you will receive an SMS to
-book an appointment on his/her behalf. If your child/ward is not under the MOE vaccination
-exercise, or has recovered from a COVID-19 infection more than 3 months ago and has yet to
-complete the COVID-19 vaccination, you may register him/her <a href="https://child.vaccine.gov.sg/">here</a>. 
+							<p>For parents whose <strong>child/ward is aged 5 to 11</strong>:<br>
+								<span>• If he/she is under the MOE vaccination exercise, you will receive an SMS to book an appointment on his/her behalf.</span><br>
+						 <span>• If he/she is not under the MOE vaccination exercise, or you have not received an SMS, you may register him/her at  child.vaccine.gov.sg . An SMS with a personalised booking link will be sent to the registered mobile number of the parent/guardian within three to five working days to book a vaccination appointment at selected polyclinics and Public Health Preparedness Clinics (PHPCs) offering paediatric vaccine dose.</span><br>
 						</p>
 							</div>
 					</div>				
@@ -204,10 +200,10 @@ thereafter, due to lower antibody levels generated by the third vaccine dose.<br
 				</div>
 				<div class="tab">
 					<input id="question-2-6" type="checkbox">
-					<label for="question-2-6" class="tab-label">Will parents/guardians be allowed to accompany their child to the vaccination centres?</label>
+					<label for="question-2-6" class="tab-label">Will parents/guardians be allowed to accompany their child/ward to the vaccination location?</label>
 					<div class="tab-content">
 						<p>
-							For the 5 to 11 years old vaccination exercise, parental/legal guardian presence is required. Only one parent/guardian is allowed to accompany their child/ward to the vaccination centre if they are below 13 years old. This is to avoid congestion and ensure compliance to Safe Management Measures at the vaccination centres.</p>
+							A parental/legal guardian is required to be present if your child/ward is below 13 years old.</p>
 					</div>
 				</div>
 			</div>
