@@ -2,11 +2,8 @@
 title: How to Sign Up
 permalink: /how-to-sign-up/
 ---
-Parents/guardians of children aged 5 to 11 who are under the MOE vaccination exercise, will receive an SMS with a personalised link to book an appointment for your child/ward.<br><br>
+For those <strong>aged 5 to 11</strong>, parents/guardians will have to first register their child/ward at https://child.vaccine.gov.sg. An SMS with a personalised booking link will be sent to the registered mobile number of the parents/guardian within three to five workings days to book a vaccination appointment at selected polyclinic and Public Health Preparedness Clinics (PHPCs) via the National Appointment System.
 
-Parents/guardians of children aged 5 to 11 who are not part of the MOE vaccination exercise may register on behalf of your child/ward here.<br><br>
+Please visit https://www.gowhere.gov.sg to locate the nearest polyclinic or PHPC offering paediatric vaccines.
 
-All individuals who are eligible for COVID-19 vaccination, may also walk in for their primary vaccination series and booster doses. This means:<br>
-* Children aged 5 to 11 may walk in with their parents/guardians to any paediatric Vaccination Centre (VC)<br>
-* Individuals aged 12 to 17 may walk into any VC or Joint Testing Vaccination Centre (JTVC)offering the Pfizer-BioNTech/Comirnaty vaccine<br>
-
+Under the National Vaccination Programme, children/
