@@ -3,7 +3,6 @@ title: Joint Testing & Vaccination Centres (Vaccination Wing)
 permalink: /locations
 description: ""
 ---
-
 **Vaccination Operating Hours:**<br>
 Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm & 6.30pm)<br>
 Sat and Eve of Public Holiday :9am-1pm (Last walk-in 12.30pm)<br>
@@ -16,6 +15,7 @@ Sun and gazetted Public Holidays: Close<br>
       <th>Name</th>
       <th>Address</th>
 			<th>Vaccine Type</th>
+			<th>Opening Hours</th>
     </tr>
   </thead>
   <tbody>	
@@ -24,6 +24,10 @@ Sun and gazetted Public Holidays: Close<br>
  </td>
       <td>450 Jurong East Street 21 Singapore 609604</td>
 			<td>Moderna/Spikevax, Pfizer/Comirnaty</td>
+			<td>Monday - Friday: 9am-1pm, 2pm-
+7pm (Last walk-in 12.30pm & 6.30pm)<br><br> Sat and Eve of Public Holiday: 9am-
+1pm (Last walk-in 12.30pm)<br><br>Sun and gazetted Public Holidays:
+Close</td>
     </tr>
     <tr>
       <td>JTVC Pasir Ris (Former Siglap Secondary School)</td>
