@@ -44,7 +44,7 @@ Alternatively, eligible individuals aged 18 and above will receive an SMS with a
 							<p>For those <strong>aged 5 to 11</strong>, parents/guardians will have to first register their child/ward at child.vaccine.gov.sg . An SMS with a personalised booking link will be sent to the registered mobile number of the parent/guardian within three to five working days to book a vaccination appointment at selected polyclinics and Public Health Preparedness Clinics (PHPCs) via the National Appointment System.<br><br>
 Please visit gowhere.gov.sg/vaccine to locate the nearest polyclinic or PHPC offering paediatric
 vaccines.<br><br>
-								Under the National Vaccination Programme, children/wards below 18 must have the consent of their parents/guardians to receive their vaccination. They must bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a> .</span><br><br>
+								Under the National Vaccination Programme, children/wards below 18 must have the consent of their parents/guardians to receive their vaccination. They must bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a>.<br><br>
 						 The following groups of individuals may receive their vaccinations via the following means:<br>
 						 <span>• Individuals <strong>aged 12 to 17</strong> may walk in to any Joint Testing and Vaccination Centre (JTVC)
 offering the Pfizer-BioNTech/Comirnaty vaccine.</span><br>
