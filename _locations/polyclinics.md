@@ -5,9 +5,9 @@ permalink: /locations-polyclinics
 Locations that are administering the Covid-19 Vaccines.
 
 **For COVID-19 vaccination at the Polyclinics:**
-* Walk-ins only accepted for persons aged 80 years and above..
-* For all other age groups, polyclinics will only accept appointments made via the National Appointment System which can be accessed via the SMS invitation
-* Alternatively, individuals can visit the nearest Joint Testing & Vaccination Centre (JTVC) which has higher vaccination capacityy
+* Walk-ins only accepted for persons aged 80 years and above.
+* For all other age groups, polyclinics will only accept appointments made via the National Appointment System which can be accessed via the SMS invitation.
+* Alternatively, individuals can visit the nearest Joint Testing & Vaccination Centre (JTVC) which has higher vaccination capacity.
 	
 **Normal Operating Hours:**<br>
 8am – 4.30pm Monday – Friday,<br>
