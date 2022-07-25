@@ -5,9 +5,9 @@ permalink: /locations-polyclinics
 Locations that are administering the Covid-19 Vaccines.
 
 **For COVID-19 vaccination at the Polyclinics:**
-* Priority will be for seniors aged 60 years and above to walk in.
-* For individuals aged 59 years and below, vaccination slots will be allocated on a first come first served basis, subject to venue space and vaccine availability
-* Alternatively, individuals can visit the nearest Joint Testing & Vaccination Centre (JTVC) which has higher vaccination capacity
+* Walk-ins only accepted for persons aged 80 years and above..
+* For all other age groups, polyclinics will only accept appointments made via the National Appointment System which can be accessed via the SMS invitation
+* Alternatively, individuals can visit the nearest Joint Testing & Vaccination Centre (JTVC) which has higher vaccination capacityy
 	
 **Normal Operating Hours:**<br>
 8am – 4.30pm Monday – Friday,<br>
