@@ -27,3 +27,8 @@ Wai Shiu Hospital Block A #01-06, Singapore
       <td>585 North Bridge Road, Raffles Hospital Level 12, Singapore 188770</td>
 			<td>Moderna/Spikevax</td>
     </tr>
+		<tr>
+      <td>The Clinic@One George Street</td>
+      <td>1 George Street, One George Street, #05-05 (Lobby C), Singapore 049145</td>
+			<td>Moderna/Spikevax</td>
+    </tr>
