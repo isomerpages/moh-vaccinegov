@@ -46,6 +46,13 @@ sections:
       button: Learn More
       url: /how-to-sign-up
       alt: How to Sign Up
+  - infobar:
+      title: Clinical Trial
+      description: NCID is conducting a clinical trial of different booster vaccines (
+        Pfizer, Moderna or Novavax), to understand the advantages of the
+        different combination
+      button: Find out more
+      url: https://www.ncid.sg/For-General-Public/NCID-Research-Studies/Pages/default.aspx
   - infopic:
       title: Health Advisory
       description: Check the latest health advisory to see if you are suitable for the
