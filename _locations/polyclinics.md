@@ -137,7 +137,7 @@ From 30 June 2022, Jurong and Yishun Polyclinics will no longer accept walk-ins 
     <tr>
       <td>Yishun Polyclinic</td>
       <td>2 Yishun Avenue 9, Singapore 768898</td>
-			<td> Pfizer/Comirnaty</td>
+			<td> Novavax</td>
     </tr>
   </tbody>
 </table>
@@ -193,7 +193,7 @@ From 30 June 2022, Jurong and Yishun Polyclinics will no longer accept walk-ins 
     <tr>
       <td>Jurong Polyclinic</td>
       <td>190 Jurong East Avenue 1, Singapore 609788</td>
-			<td> Pfizer/Comirnaty</td>
+			<td> Novavax</td>
     </tr>	
     <tr>
       <td>Bukit Batok Polyclinic</td>
