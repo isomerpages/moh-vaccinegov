@@ -37,3 +37,9 @@ Wai Shiu Hospital Block A #01-06, Singapore
       <td>1 Jurong West Central 2, Jurong Point Shopping Mall #B1-A19B, Singapore 648886</td>
 			<td>Moderna/Spikevax</td>
     </tr>
+		<tr>
+      <td>Healthway Medical (Sembawang Drive)</td>
+      <td>406 Sembawang Drive #01-820, Singapore 750406</td>
+			<td>Moderna/Spikevax</td>
+    </tr>
+		
