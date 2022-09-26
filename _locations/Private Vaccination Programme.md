@@ -42,3 +42,13 @@ Wai Shiu Hospital Block A #01-06, Singapore
       <td>406 Sembawang Drive #01-820, Singapore 750406</td>
 			<td>Pfizer /Comirnaty</td>
     </tr>
+		<tr>
+      <td>Medico Clinic & Surgery</td>
+      <td>249 Jurong East Street 24 #01-88, Singapore 600249</td>
+			<td>Pfizer /Comirnaty</td>
+    </tr>
+		<tr>
+      <td>Healthway Medical (Towner Road)</td>
+      <td>101 Towner Road #01-236, Singapore 322101</td>
+			<td>Pfizer /Comirnaty</td>
+    </tr>
