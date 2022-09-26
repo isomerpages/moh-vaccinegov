@@ -4,7 +4,7 @@ permalink: /locations/PVP/
 description: ""
 ---
 All individuals aged 12 years* and above (including long-term residents and short-term visitors) may receive vaccinations and boosters under the Private Vaccination Programme (PVP). This will allow individuals who wish to take additional vaccine doses, but who do not qualify under the National Vaccination Programme, to do so based on a doctor’s assessment. As this is a private arrangement, the vaccinations will be at the individual’s own cost. We are progressively onboarding more clinics to the PVP.<br><br>
-*Individuals aged 12-17 years are recommended to receive Pfizer-BioNTech/Comirnaty vaccine, while individuals aged 18 years and older are recommended to receive either the Pfizer-BioNTech/Comirnaty vaccine or the Moderna/Spikevax vaccine<br><br>
+*Individuals aged 12-17 years are recommended to receive Pfizer-BioNTech/Comirnaty vaccine, while individuals aged 18 years and older are recommended to receive either the Pfizer-BioNTech/Comirnaty vaccine or the Moderna/Spikevax vaccine.<br><br>
 To book an appointment or for any enquiries, please directly contact the clinics in the list below.
 
 <table>
