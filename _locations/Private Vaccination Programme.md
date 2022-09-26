@@ -40,6 +40,5 @@ Wai Shiu Hospital Block A #01-06, Singapore
 		<tr>
       <td>Healthway Medical (Sembawang Drive)</td>
       <td>406 Sembawang Drive #01-820, Singapore 750406</td>
-			<td>Moderna/Spikevax</td>
+			<td>Pfizer /Comirnaty</td>
     </tr>
-		
