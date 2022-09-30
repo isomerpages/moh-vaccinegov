@@ -2,13 +2,13 @@
 title: Vaccination Centres
 permalink: /locations-vcs/
 ---
-Locations that are administering the Covid-19 Vaccines. 
+Please note that the Vaccination Centre at Former Hong Kah Secondary School will start administering Moderna/Spikevax, in addition to Pfizer-BioNTech/Comirnaty. The operating hours will also be changed.
  
-**Upcoming Public Holidays Operating Hours**<br>Please note that the last appointment on the eve of the Public Holiday will be at 2pm.<br>
+**Upcoming Public Holidays Operating Hours**
 
-23 Oct 2022 (Eve of Deepavali): 8am to 3pm<br>
+23 Oct 2022 (Eve of Deepavali): 9am to 1pm<br>
 24 Oct 2022 (Deepavali) - Closed<br>
-24 Dec 2022 (Christmas Day's Eve): 8am to 3pm<br>
+24 Dec 2022 (Christmas Day's Eve): 9am to 1pm<br>
 25 Dec 2022 (Christmas Day) - Closed<br>
 26 Dec 2022 (Christmas Day Holiday) - Closed<br>
 
