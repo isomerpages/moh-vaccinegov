@@ -26,10 +26,8 @@ Please note that the Vaccination Centre at Former Hong Kah Secondary School will
     <tr>
       <td>Former Hong Kah Secondary School</td>
       <td>931 Jurong West Street 42, Singapore 649370</td>
-			<td>Pfizer/Comirnaty, Moderna/Spikevax (From 1 October 2022)</td>
-			<td>Monday – Sunday: 8am – 10pm (Last walk-in: 7pm)<br><br>
-Eve of Public Holidays: 8am–3pm (Last walk-in: 1pm)<br><br>
-Breaks: 11am – 12pm, 5pm – 6pm<br><br>From 1 October 2022:
+			<td>Pfizer/Comirnaty, Moderna/Spikevax</td>
+			<td>
 Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm & 6.30pm)
 <br><br>Sat and Eve of Public Holiday: 9am-1pm (Last walk-in 12.30pm)
 <br><br>Sun and gazetted Public Holidays: Closed</td>
