@@ -131,10 +131,14 @@ Eligible individuals who wish to complete their primary series or booster vaccin
 					</div>
 					<div class="tab">
 						<input id="question-1-13" type="checkbox">
-						<label for="question-1-13" class="tab-label">When can I get my child/ward vaccinated?</label>
+						<label for="question-1-13" class="tab-label">I want to get my child/ward is between 6 months and 4 years old
+vaccinated. What do I need to do?</label>
 						<div class="tab-content">
 							<p>
-						Children must cross the age of 6 months to be eligible for vaccination.</p>
+						From 18 October 2022, parents/guardians of children aged 6 months to 4 years need to register their interest for their child/ward to receive the vaccination at https://child.vaccine.gov.sg . An SMS with a personalized booking link will be sent to the registered mobile number of the parent/guardian within three to five working days to book a
+vaccination appointment. Vaccination for this age band is only available at dedicated Vaccination Centres (VCs) and selected Polyclinics offering the paediatric Moderna/Spikevax vaccine dose.<br><br>
+							To find a vaccination location near you that offers the paediatric vaccines, please visit
+https://gowhere.gov.sg/vaccine.</p>
 							</div>
 					</div>				
 					<div class="tab">
