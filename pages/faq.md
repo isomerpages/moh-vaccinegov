@@ -40,10 +40,13 @@ Do I need to register for my first booster dose?</label>
 					</div>				
 					<div class="tab">
 						<input id="question-1-4" type="checkbox">
-						<label for="question-1-4" class="tab-label">Who is eligible for the vaccine?</label>
+						<label for="question-1-4" class="tab-label">When and how can I register for my additional booster dose?</label>
 						<div class="tab-content">
 							<p>
-						Singapore Citizens, Permanent Residents, and Long-Term Pass Holders aged 6 months and above are eligible to receive the COVID-19 vaccines under the National Vaccination Programme.
+						Persons aged 5 years and above should complete three mRNA or Novavax/Nuvaxovid doses, or four Sinovac-CoronaVac doses to achieve minimum protection.<br><br>
+								After achieving minimum protection, persons aged 50 years and above should receive an additional booster dose between five months to one year from their last dose, to keep up-to-date with their COVID-19 vaccination. The updated bivalent vaccine is recommended for this. Individuals will be considered up-to-date with their COVID-19 vaccination if they have received at least the minimum protection and their last vaccine dose was received within the past one year.<br><br>
+						Persons aged 50 and above may walk into any Joint Testing and Vaccination Centre (JTVC) offering the Moderna/Spikevax vaccines from 17 October 2022 onwards to receive their bivalent vaccine dose.<br><br>
+								Please refer to https://gowhere.gov.sg/vaccine to locate the nearest JTVC.
 								</p>
 							</div>
 					</div>
