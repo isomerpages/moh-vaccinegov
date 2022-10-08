@@ -123,10 +123,10 @@ Eligible individuals who wish to complete their primary series or booster vaccin
 					</div>
 					<div class="tab">
 						<input id="question-1-12" type="checkbox">
-						<label for="question-1-12" class="tab-label">My child/ward turns 5 this year. Can I get him/her vaccinated?</label>
+						<label for="question-1-12" class="tab-label">When can I get my child/ward vaccinated?</label>
 						<div class="tab-content">
 							<p>
-						Children who turn 5 years old in 2022 must have crossed their birthday before they are eligible to book a vaccination appointment.</p>
+						Children must cross the age of 6 months to be eligible for vaccination.</p>
 							</div>
 					</div>				
 					<div class="tab">
