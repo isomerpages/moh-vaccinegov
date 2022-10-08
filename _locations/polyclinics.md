@@ -2,7 +2,6 @@
 title: Polyclinics
 permalink: /locations-polyclinics/
 ---
-
 **To book an appointment for paediatric vaccination:**<br>
 * Refer to polyclinics indicated with “Moderna/Spikevax (6 months to 4 years) or “Pfizer/Comirnaty (Adults & Children aged 5 to 11 years) vaccine type<br>
 * Polyclinics only accept appointments made via the National Appointment System (NAS) for now<br>
@@ -121,7 +120,8 @@ years)</td>
     <tr>
       <td>Woodlands Polyclinic</td>
       <td>10 Woodlands Street 31, Singapore 738579</td>
-			<td> Pfizer/Comirnaty (Adults & Children)</td>
+			<td> Pfizer/Comirnaty (Adults & Children aged 5
+to 11 years)</td>
     </tr>
     <tr>
       <td>Yishun Polyclinic</td>
