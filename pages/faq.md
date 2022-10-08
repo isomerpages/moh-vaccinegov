@@ -146,9 +146,8 @@ https://gowhere.gov.sg/vaccine.</p>
 						<label for="question-1-14" class="tab-label">I want to get my child/ward who is between 5 and 11 years old vaccinated. What do I need to
 do?</label>
 						<div class="tab-content">
-							<p>For parents whose <strong>child/ward is aged 5 to 11</strong>:<br>
-								<span>• If he/she is under the MOE vaccination exercise, you will receive an SMS to book an appointment on his/her behalf.</span><br>
-						 <span>• If he/she is not under the MOE vaccination exercise, or you have not received an SMS, you may register him/her at  child.vaccine.gov.sg . An SMS with a personalised booking link will be sent to the registered mobile number of the parent/guardian within three to five working days to book a vaccination appointment at selected polyclinics and Public Health Preparedness Clinics (PHPCs) offering paediatric vaccine dose.</span><br>
+							<p>You may register your child/ward at https://child.vaccine.gov.sg . An SMS with a personalised booking link will be sent to the registered mobile number of the parent/guardian within three to five working days to book a vaccination appointment at selected polyclinics and Public Health Preparedness Clinics (PHPCs) offering paediatric Pfizer-BioNTech/Comirnaty vaccine dose.<br><br>
+							To find a vaccination location near you that offers the paediatric vaccines, please visit https://gowhere.gov.sg/vaccine
 						</p>
 							</div>
 					</div>				
