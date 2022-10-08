@@ -72,8 +72,10 @@ Holders of Training Employment Pass, Training Work Permit, Work Holiday Pass, Sp
 						<input id="question-1-6" type="checkbox">
 							<label for="question-1-6" class="tab-label">How do I register to receive Sinovac-CoronaVac?</label>
 						<div class="tab-content">
-							<p>We strongly recommend you receive the mRNA vaccines or Novavax/Nuvaxovid to complete their primary vaccination series and booster doses, in view of the lower efficacy of the Sinovac-CoronaVac vaccine.<br><br>
-								<strong>For primary vaccination series:</strong><br><br>								
+							<p>We strongly recommend that you receive the mRNA vaccine or Novavax/Nuvaxovid to complete your primary vaccination series and booster doses, in view of the lower efficacy of the Sinovac-CoronaVac vaccine.<br><br>
+								<strong>For primary vaccination series:</strong><br><br>
+								Should you choose to receive the Sinovac-CoronaVac vaccine instead, you may do so at selected participating Public Health Preparedness Clinics (PHPCs) offering the vaccine. You are strongly
+encouraged to call the clinic beforehand to make an appointment. Please visit https://gowhere.gov.sg/vaccine to find the PHPCs offering the vaccine.<br><br>
 If you are medically ineligible for the mRNA vaccine and were previously invited to receive the Sinovac-CoronaVac vaccine under a special public health programme, follow the instructions in your SMS invitation to continue with the regime.<br><br>
 								
 <strong>For booster:</strong><br><br>
