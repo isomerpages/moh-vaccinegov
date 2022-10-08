@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions
-permalink: /faq
+permalink: /faq/
 ---
 <div class="accordion">
 			<div class="tabs">			
@@ -17,7 +17,7 @@ permalink: /faq
 						<label for="question-1-2" class="tab-label">Who is eligible for the vaccine?</label>
 						<div class="tab-content">
 							<p>
-						Singapore Citizens, Permanent Residents, and Long-Term Pass Holders aged 5 and above are eligible to receive the COVID-19 vaccines under the National Vaccination Programme.
+						Singapore Citizens, Permanent Residents, and Long-Term Pass Holders aged 6 months and above are eligible to receive the COVID-19 vaccines under the National Vaccination Programme.
 								</p>
 							</div>
 					</div>
@@ -27,11 +27,13 @@ permalink: /faq
 Do I need to register for my booster dose?</label>
 						<div class="tab-content">
 							<p>
-								People who are eligible for their booster dose will be invited to be vaccinated, from about five months after their second dose.<br><br>
-								All individuals who are eligible for COVID-19 vaccination may walk in for their primary vaccination series and booster doses, without prior appointment, every day of the week, before 630pm:<br>
-								<span>• Individuals <strong> aged 12 to 17 </strong> may walk in to any Joint Testing and Vaccination Centre (JTVC) offering the Pfizer-BioNTech/Comirnaty vaccine. These individuals will be required to bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a>.</span><br>
-								<span>• Individuals <strong> aged 18 and above </strong> may walk into any JTVC.</span><br>
-								<span>• If you are <strong> 60 years old and above</strong>, you may walk in to any JTVC or participating Public Health Preparedness Clinics (PHPCs).</span> <br><br>
+								Persons who are eligible for their first booster dose will be invited, from about five months after their primary vaccination series.<br><br>
+								Parents/guardians of individuals aged 5 to 17 years will receive an SMS notification when their child/ward is eligible, to provide consent and book their child/ward’s booster vaccination appointment.<br><br>
+								Eligible individuals aged 18 years and above will receive an SMS with a personalised link to book an appointment at https://appointment.vaccine.gov.sg.<br><br>
+								Alternatively, all individuals aged 12 years and above who are eligible for COVID-19 vaccination may walk in for their first booster doses, without prior appointment, everyday of the week, before 6.30pm:<br>
+								<span>• Individuals <strong> aged 12 to 17 years </strong> may walk in to any Joint Testing and Vaccination Centre (JTVC) offering the Pfizer-BioNTech/Comirnaty vaccine. These individuals will be required to bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a>.</span><br>
+								<span>• Individuals <strong> aged 18 years and above </strong> may walk into any JTVC.</span><br>
+								<span>• If you are <strong> 60 years old and above</strong>, you may walk into any JTVC or participating Public Health Preparedness Clinics (PHPCs).</span> <br><br>
 								Individuals mentioned above may also receive their vaccination at polyclinics and PHPCs. Vaccinations at polyclinics will only be accepted on appointment basis, with the exception of seniors aged 80 years and above who may walk in for their vaccination. Individuals who wish to receive their vaccination at participating PHPCs are strongly encouraged to make an appointment with the PHPC to avoid long waiting times.<br><br>
 Alternatively, eligible individuals aged 18 and above will receive an SMS with a personalised link to book an appointment. <br><br>Parents/guardians of individuals aged 12-17 will also receive the SMS notification, to provide consent and book their child/ward’s booster vaccination appointment.		
 									</p>
