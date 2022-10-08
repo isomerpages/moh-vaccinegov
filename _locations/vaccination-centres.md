@@ -111,7 +111,6 @@ BioNTech/Comirnaty
       <td>Former Hong Kah Secondary School</td>
       <td>931 Jurong West Street 42, Singapore 649370</td>
 			<td>Pfizer/Comirnaty, Moderna/Spikevax</td>
-			<td>
     </tr>
 	</tbody>
 </table>
