@@ -2,6 +2,25 @@
 title: Polyclinics
 permalink: /locations-polyclinics/
 ---
+Locations that are administering the Covid-19 Vaccines.
+
+**For COVID-19 vaccination at the Polyclinics:**
+
+*   Walk-ins only accepted for persons aged 80 years and above.
+*   For all other age groups, polyclinics will only accept appointments made via the National Appointment System which can be accessed via the SMS invitation.
+*   Alternatively, individuals can visit the nearest Joint Testing & Vaccination Centre (JTVC) which has higher vaccination capacity.
+
+**Normal Operating Hours:**  
+8am – 4.30pm Monday – Friday,  
+8am – 12.30pm Saturday
+
+**Break:**  
+1pm – 2pm
+
+**Last Walk-in:**  
+11.30am (morning session) and 3.30pm (afternoon session) Monday – Friday,  
+11.30am Saturday
+
 **To book an appointment for paediatric vaccination:**<br>
 * Refer to polyclinics indicated with “Moderna/Spikevax (6 months to 4 years) or “Pfizer/Comirnaty (Adults & Children aged 5 to 11 years) vaccine type<br>
 * Polyclinics only accept appointments made via the National Appointment System (NAS) for now<br>
@@ -149,7 +168,8 @@ to 11 years)</td>
     <tr>
       <td>Punggol Polyclinic</td>
       <td>681 Punggol Drive, Singapore 820681</td>
-			<td> Pfizer/Comirnaty (Adults & Children)</td>
+			<td> Pfizer/Comirnaty (Adults & Children aged 5
+to 11 years)</td>
 			 </tr>		
     <tr>
       <td>Ang Mo Kio Polyclinic</td>
@@ -177,7 +197,7 @@ to 11 years)</td>
     <tr>
       <td>Pioneer Polyclinic</td>
       <td>26 Jurong West Street 61, Singapore 648201</td>
-			<td> Pfizer/Comirnaty (Adults & Children)</td>
+			<td> Pfizer/Comirnaty (Adults & Children aged 5 to 11 years)</td>
     </tr>	
     <tr>
       <td>Jurong Polyclinic</td>
@@ -187,7 +207,10 @@ to 11 years)</td>
     <tr>
       <td>Bukit Batok Polyclinic</td>
       <td>50 Bukit Batok West Avenue 3, Singapore 659164</td>
-			<td> Pfizer/Comirnaty</td>
+			<td> Pfizer/Comirnaty<br><br>From 25 October 2022:
+Moderna/Spikevax
+(6 months to 4
+years)</td>
     </tr>		
     <tr>
       <td>Choa Chu Kang Polyclinic</td>
@@ -197,7 +220,11 @@ to 11 years)</td>
 		<tr>
       <td>Bukit Panjang Polyclinic</td>
       <td>50 Woodlands Road, Singapore 677726</td>
-			<td> Pfizer/Comirnaty</td>
+			<td> Pfizer/Comirnaty<br><br> From 25 October
+2022:
+Moderna/Spikevax
+(6 months to 4
+years)</td>
     </tr> 
   </tbody>
 </table>
