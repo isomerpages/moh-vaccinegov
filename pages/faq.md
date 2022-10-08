@@ -24,7 +24,7 @@ permalink: /faq/
 				<div class="tab">
 						<input id="question-1-3" type="checkbox">
 						<label for="question-1-3" class="tab-label">	
-Do I need to register for my booster dose?</label>
+Do I need to register for my first booster dose?</label>
 						<div class="tab-content">
 							<p>
 								Persons who are eligible for their first booster dose will be invited, from about five months after their primary vaccination series.<br><br>
