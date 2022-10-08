@@ -64,7 +64,7 @@ offering the Pfizer-BioNTech/Comirnaty vaccine.</span><br>
 						 <span>• Seniors <strong>aged 60 years and above</strong> may walk in to any JTVC or participating PHPCs.</span><br><br>
 Individuals mentioned above may also receive their vaccination at polyclinics and PHPCs. Vaccinations at polyclinics will only be accepted on appointment basis, with the exception of seniors aged 80 years and above who may walk in for their vaccination. Individuals who wish to receive their vaccination at participating PHPCs are strongly encouraged to make an appointmentwith the PHPC to avoid long waiting times.<br><br>
 													Under the National Vaccination Programme, children/wards below 18 must have the consent of their parents/guardians to receive their vaccination. They must bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a>.<br><br>
-Holders of Training Employment Pass, Training Work Permit, Work Holiday Pass, Special Pass and Short Term Visit Pass with a pass validity period of at least 60 days may walk in to any JTVC to receive their vaccination. You should bring along identifying documents such as your passport or approval of extension for verification. No prior booking or registration is required.						 
+Holders of Training Employment Pass, Training Work Permit, Work Holiday Pass, Special Pass and Short Term Visit Pass with a pass validity period of at least 60 days may walk in to any JTVC to receive their vaccination. The pass holder should bring along identifying documents such as your passport or approval of extension for verification purposes. No prior booking or registration is required.					
 						</p>
 							</div>
 					</div>
