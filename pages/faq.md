@@ -34,8 +34,7 @@ Do I need to register for my booster dose?</label>
 								<span>• Individuals <strong> aged 12 to 17 years </strong> may walk in to any Joint Testing and Vaccination Centre (JTVC) offering the Pfizer-BioNTech/Comirnaty vaccine. These individuals will be required to bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a>.</span><br>
 								<span>• Individuals <strong> aged 18 years and above </strong> may walk into any JTVC.</span><br>
 								<span>• If you are <strong> 60 years old and above</strong>, you may walk into any JTVC or participating Public Health Preparedness Clinics (PHPCs).</span> <br><br>
-								Individuals mentioned above may also receive their vaccination at polyclinics and PHPCs. Vaccinations at polyclinics will only be accepted on appointment basis, with the exception of seniors aged 80 years and above who may walk in for their vaccination. Individuals who wish to receive their vaccination at participating PHPCs are strongly encouraged to make an appointment with the PHPC to avoid long waiting times.<br><br>
-Alternatively, eligible individuals aged 18 and above will receive an SMS with a personalised link to book an appointment. <br><br>Parents/guardians of individuals aged 12-17 will also receive the SMS notification, to provide consent and book their child/ward’s booster vaccination appointment.		
+								Individuals mentioned above may also receive their vaccination at Polyclinics and PHPCs. Vaccinations at Polyclinics will only be offered on appointment basis, with the exception of seniors aged 80 years and above who may walk in for their vaccination. Individuals who wish to receive their vaccination at participating PHPCs are strongly encouraged to make an appointment with the PHPC to avoid long waiting times.<br><br>
 									</p>
 							</div>
 					</div>
