@@ -37,10 +37,19 @@ Do I need to register for my first booster dose?</label>
 								Individuals mentioned above may also receive their vaccination at Polyclinics and PHPCs. Vaccinations at Polyclinics will only be offered on appointment basis, with the exception of seniors aged 80 years and above who may walk in for their vaccination. Individuals who wish to receive their vaccination at participating PHPCs are strongly encouraged to make an appointment with the PHPC to avoid long waiting times.<br><br>
 									</p>
 							</div>
+					</div>				
+					<div class="tab">
+						<input id="question-1-4" type="checkbox">
+						<label for="question-1-4" class="tab-label">Who is eligible for the vaccine?</label>
+						<div class="tab-content">
+							<p>
+						Singapore Citizens, Permanent Residents, and Long-Term Pass Holders aged 6 months and above are eligible to receive the COVID-19 vaccines under the National Vaccination Programme.
+								</p>
+							</div>
 					</div>
 				   <div class="tab">
-						<input id="question-1-4" type="checkbox">
-							<label for="question-1-4" class="tab-label">How do I register for mRNA vaccination?</label>
+						<input id="question-1-5" type="checkbox">
+							<label for="question-1-5" class="tab-label">How do I register for mRNA vaccination?</label>
 						<div class="tab-content">
 							<p>For those <strong>aged 5 to 11</strong>, parents/guardians will have to first register their child/ward at child.vaccine.gov.sg . An SMS with a personalised booking link will be sent to the registered mobile number of the parent/guardian within three to five working days to book a vaccination appointment at selected polyclinics and Public Health Preparedness Clinics (PHPCs) via the National Appointment System.<br><br>
 Please visit gowhere.gov.sg/vaccine to locate the nearest polyclinic or PHPC offering paediatric
@@ -57,8 +66,8 @@ Holders of Training Employment Pass, Training Work Permit, Work Holiday Pass, Sp
 							</div>
 					</div>
 				   <div class="tab">
-						<input id="question-1-5" type="checkbox">
-							<label for="question-1-5" class="tab-label">How do I register to receive Sinovac-CoronaVac?</label>
+						<input id="question-1-6" type="checkbox">
+							<label for="question-1-6" class="tab-label">How do I register to receive Sinovac-CoronaVac?</label>
 						<div class="tab-content">
 							<p>We strongly recommend you receive the mRNA vaccines or Novavax/Nuvaxovid to complete their primary vaccination series and booster doses, in view of the lower efficacy of the Sinovac-CoronaVac vaccine.<br><br>
 								<strong>For primary vaccination series:</strong><br><br>								
@@ -70,8 +79,8 @@ If you are medically ineligible for the mRNA vaccine and Novavax/Nuvaxovid, you 
 							</div>
 					</div>
 				   <div class="tab">
-						<input id="question-1-6" type="checkbox">
-							<label for="question-1-6" class="tab-label">How can I register to receive the Novavax/Nuvaxovid COVID-19 vaccine?</label>
+						<input id="question-1-7" type="checkbox">
+							<label for="question-1-7" class="tab-label">How can I register to receive the Novavax/Nuvaxovid COVID-19 vaccine?</label>
 						<div class="tab-content">
 							<p>Individuals may walk in to JTVC Bishan to receive their Novavax/Nuvaxovid vaccine.<br><br>
 Eligible individuals who wish to complete their primary series or booster vaccination with Novavax/Nuvaxovid can also book an appointment using the link from their existing SMS invite, to receive their vaccination at JTVC Bishan or any of the selected polyclinics and PHPCs.<br><br>						
@@ -79,44 +88,44 @@ Eligible individuals who wish to complete their primary series or booster vaccin
 							</div>
 					</div>				
     			<div class="tab">
-    				<input id="question-1-7" type="checkbox">
-    				<label for="question-1-7" class="tab-label">I lost my SMS/booking code. How can I retrieve the link?</label>
+    				<input id="question-1-8" type="checkbox">
+    				<label for="question-1-8" class="tab-label">I lost my SMS/booking code. How can I retrieve the link?</label>
     				<div class="tab-content">
     					<p>Please cal lthe MOH COVID-19 vaccination hotline at 6995 9199 for assistance.</p>
     				</div>
     			</div>   			
     			<div class="tab">
-    				<input id="question-1-8" type="checkbox">
-    				<label for="question-1-8" class="tab-label">Can I change my contact information? </label>
+    				<input id="question-1-9" type="checkbox">
+    				<label for="question-1-9" class="tab-label">Can I change my contact information? </label>
     				<div class="tab-content">
     					<p>If you have changed your mobile number or email address, please call MOH COVID-19 vaccination hotline at 6995 9199 for assistance.</p>
     				</div>
     			</div>			
     			<div class="tab">
-    				<input id="question-1-9" type="checkbox">
-    				<label for="question-1-9" class="tab-label">How do I reschedule my appointment? </label>
+    				<input id="question-1-10" type="checkbox">
+    				<label for="question-1-10" class="tab-label">How do I reschedule my appointment? </label>
     				<div class="tab-content">
     					<p> You may reschedule your appointments using the same booking link in the original SMS.<br>For enquiries, please call the MOH COVID-19 vaccination hotline at 6995 9199.</p>
     				</div>
     			</div>	
     			<div class="tab">
-    				<input id="question-1-10" type="checkbox">
-    				<label for="question-1-10" class="tab-label">How will I know that the SMS is authentic and not a scam? </label>
+    				<input id="question-1-11" type="checkbox">
+    				<label for="question-1-11" class="tab-label">How will I know that the SMS is authentic and not a scam? </label>
     				<div class="tab-content">
     					<p>The Covid-19 vaccination is free for all Singaporeans and long-term residents in Singapore and no one should ask you for a payment to register for appointments. The link that is provided in the SMS should go to <strong>"vaccine.gov.sg"</strong>. Only government officials can register for a <strong>gov.sg</strong> domain. Do not trust any other URLs that are not from a <strong>.gov.sg</strong> domain. </p><p>When in doubt, you should check with the agency who sent you the message to confirm the authenticity before responding to the message.</p>
 							</div>
 					</div>
 					<div class="tab">
-						<input id="question-1-11" type="checkbox">
-						<label for="question-1-11" class="tab-label">My child/ward turns 5 this year. Can I get him/her vaccinated?</label>
+						<input id="question-1-12" type="checkbox">
+						<label for="question-1-12" class="tab-label">My child/ward turns 5 this year. Can I get him/her vaccinated?</label>
 						<div class="tab-content">
 							<p>
 						Children who turn 5 years old in 2022 must have crossed their birthday before they are eligible to book a vaccination appointment.</p>
 							</div>
 					</div>				
 					<div class="tab">
-						<input id="question-1-12" type="checkbox">
-						<label for="question-1-12" class="tab-label">I want to get my child/ward who is between 5 and 11 years old vaccinated. What do I need to
+						<input id="question-1-13" type="checkbox">
+						<label for="question-1-13" class="tab-label">I want to get my child/ward who is between 5 and 11 years old vaccinated. What do I need to
 do?</label>
 						<div class="tab-content">
 							<p>For parents whose <strong>child/ward is aged 5 to 11</strong>:<br>
@@ -126,8 +135,8 @@ do?</label>
 							</div>
 					</div>				
 					<div class="tab">
-						<input id="question-1-13" type="checkbox">
-						<label for="question-1-13" class="tab-label">I want to get my child/ward (12 to 17 years old) vaccinated. What do I need to do?</label>
+						<input id="question-1-14" type="checkbox">
+						<label for="question-1-14" class="tab-label">I want to get my child/ward (12 to 17 years old) vaccinated. What do I need to do?</label>
 						<div class="tab-content">
 							<p>
 								Under the National Vaccination Programme, if your child/ward is below the age of 18, your consent is required for him/her to get vaccinated. If your child/ward is 12 years old, you will need to accompany him/her during the vaccination.<br><br>
@@ -136,8 +145,8 @@ He/she may walk in without an appointment to any Vaccination Centre or Joint Tes
 							</div>
 					</div>				
 					<div class="tab">
-						<input id="question-1-14" type="checkbox">
-						<label for="question-1-14" class="tab-label">Will it be possible for parents/guardians to take their booster shot together with their child/ward?</label>
+						<input id="question-1-15" type="checkbox">
+						<label for="question-1-15" class="tab-label">Will it be possible for parents/guardians to take their booster shot together with their child/ward?</label>
 						<div class="tab-content">
 							<p>
 						Children aged 12 and under will require the accompaniment of their parent/guardian. Parents/guardians will not be able to take their booster shot during their child/ward’s vaccination.
