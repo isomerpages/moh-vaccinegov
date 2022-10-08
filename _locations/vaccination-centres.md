@@ -16,8 +16,7 @@ Please note that the Vaccination Centre at Former Hong Kah Secondary School will
   <tbody>	
     <tr>
       <td>Queenstown
-Community Centre <br><br>From 25 October
-2022</td>
+Community Centre <br><br>From 25 October 2022</td>
       <td>365 Commonwealth Avenue, Singapore
 149732</td>
 			<td>Moderna/Spikevax (6
@@ -40,8 +39,7 @@ BioNTech/Comirnaty
   </thead>
   <tbody>	
     <tr>
-      <td>Our Tampines Hub<br><br>From 25 October
-2022</td>
+      <td>Our Tampines Hub<br><br>From 25 October 2022</td>
       <td>1 Tampines Walk, #03-03 & 03-04
 (Lobby B), Singapore 528523</td>
 			<td>Moderna/Spikevax (6
@@ -64,9 +62,7 @@ BioNTech/Comirnaty
   </thead>
   <tbody>	
     <tr>
-      <td>Sembawang
-Community Club<br><br>From 25 October
-2022</td>
+      <td>Sembawang Community Club<br><br>From 25 October 2022</td>
       <td>2125 Sembawang Road, Singapore
 758528</td>
 			<td>Moderna/Spikevax (6
@@ -89,8 +85,7 @@ BioNTech/Comirnaty
   </thead>
   <tbody>	
     <tr>
-      <td>One Punggol<br><br>From 25 October
-2022</td>
+      <td>One Punggol<br><br>From 25 October 2022</td>
       <td>1 Punggol Drive, Level 3 Futsal Court,
 Singapore 828619</td>
 			<td>Moderna/Spikevax (6
