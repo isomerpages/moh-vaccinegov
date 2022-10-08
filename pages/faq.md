@@ -76,10 +76,11 @@ Holders of Training Employment Pass, Training Work Permit, Work Holiday Pass, Sp
 								<strong>For primary vaccination series:</strong><br><br>
 								Should you choose to receive the Sinovac-CoronaVac vaccine instead, you may do so at selected participating Public Health Preparedness Clinics (PHPCs) offering the vaccine. You are strongly
 encouraged to call the clinic beforehand to make an appointment. Please visit https://gowhere.gov.sg/vaccine to find the PHPCs offering the vaccine.<br><br>
-If you are medically ineligible for the mRNA vaccine and were previously invited to receive the Sinovac-CoronaVac vaccine under a special public health programme, follow the instructions in your SMS invitation to continue with the regime.<br><br>
+If you are medically ineligible for the mRNA and Novavax/Nuvaxovid vaccines, and were previously invited to receive the Sinovac-CoronaVac vaccine under a special public health programme, please follow the instructions in your SMS invitation to continue with the regime.<br><br>
 								
 <strong>For booster:</strong><br><br>
-If you are medically ineligible for the mRNA vaccine and Novavax/Nuvaxovid, you may consider receiving the Sinovac-CoronaVac vaccine as a booster. The Sinovac-CoronaVac vaccine is otherwise not recommended as a booster vaccine.							
+								When you are eligible for your booster dose, you will receive an SMS with a personalised booking link to make an appointment at selected PHPCs offering Sinovac-CoronaVac.<br><br>
+If you are medically ineligible for the mRNA vaccine and Novavax/Nuvaxovid, you should receive the Sinovac-CoronaVac vaccine as a booster.					
 	</p> 
 							</div>
 					</div>
