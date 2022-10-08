@@ -333,13 +333,11 @@ the mRNA vaccines and Nuvaxovid.
 
 For those nearing their 12th birthday and desire to receive the adult dose, they have the choice to wait until after their birthday to do so.
 							</p>
-    				</div>
-    			</div><p>For more information on booster doses, visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---booster-doses">MOH's website</a>.</p>
-	</div>
+							</div>
     			</div>	
     			<div class="tab">
-    				<input id="question-3-7" type="checkbox">
-    				<label for="question-3-7" class="tab-label">Will my child/ward still receive the reduced dosage if he/she turns 12 on the day of the first appointment? Should my child wait until he/she turns 12 to receive the adult dose?
+    				<input id="question-3-6" type="checkbox">
+    				<label for="question-3-6" class="tab-label">Will my child/ward still receive the reduced dosage if he/she turns 12 on the day of the first appointment? Should my child wait until he/she turns 12 to receive the adult dose?
     				</label>
     				<div class="tab-content">
     					<p>Children who turn 12 on the day of their first appointment will receive the dose for ages 12 and above. Those who received the paediatric dosage on their first appointment will continue to receive the same dosage on their second appointment, even if they have turned 12 between the first and second vaccine doses.<br><br>
@@ -347,4 +345,7 @@ For those nearing their 12th birthday and desire to receive the adult dose, they
 For those nearing their 12th birthday and desire to receive the adult dose, they have the choice to wait until after their birthday to do so.
 							</p>
     				</div>
-    			</div><p>For more information on booster doses, visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---booster-doses">MOH's website</a>.</p>
+    			</div>
+	<p>For more information on booster doses, visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---booster-doses">MOH's website</a>.</p>
+    				
+	
