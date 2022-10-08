@@ -128,10 +128,18 @@ Eligible individuals who wish to complete their primary series or booster vaccin
 							<p>
 						Children must cross the age of 6 months to be eligible for vaccination.</p>
 							</div>
-					</div>				
+					</div>
 					<div class="tab">
 						<input id="question-1-13" type="checkbox">
-						<label for="question-1-13" class="tab-label">I want to get my child/ward who is between 5 and 11 years old vaccinated. What do I need to
+						<label for="question-1-13" class="tab-label">When can I get my child/ward vaccinated?</label>
+						<div class="tab-content">
+							<p>
+						Children must cross the age of 6 months to be eligible for vaccination.</p>
+							</div>
+					</div>				
+					<div class="tab">
+						<input id="question-1-14" type="checkbox">
+						<label for="question-1-14" class="tab-label">I want to get my child/ward who is between 5 and 11 years old vaccinated. What do I need to
 do?</label>
 						<div class="tab-content">
 							<p>For parents whose <strong>child/ward is aged 5 to 11</strong>:<br>
@@ -141,8 +149,8 @@ do?</label>
 							</div>
 					</div>				
 					<div class="tab">
-						<input id="question-1-14" type="checkbox">
-						<label for="question-1-14" class="tab-label">I want to get my child/ward (12 to 17 years old) vaccinated. What do I need to do?</label>
+						<input id="question-1-15" type="checkbox">
+						<label for="question-1-15" class="tab-label">I want to get my child/ward (12 to 17 years old) vaccinated. What do I need to do?</label>
 						<div class="tab-content">
 							<p>
 								Under the National Vaccination Programme, if your child/ward is below the age of 18, your consent is required for him/her to get vaccinated. If your child/ward is 12 years old, you will need to accompany him/her during the vaccination.<br><br>
@@ -151,8 +159,8 @@ He/she may walk in without an appointment to any Vaccination Centre or Joint Tes
 							</div>
 					</div>				
 					<div class="tab">
-						<input id="question-1-15" type="checkbox">
-						<label for="question-1-15" class="tab-label">Will it be possible for parents/guardians to take their booster shot together with their child/ward?</label>
+						<input id="question-1-16" type="checkbox">
+						<label for="question-1-16" class="tab-label">Will it be possible for parents/guardians to take their booster shot together with their child/ward?</label>
 						<div class="tab-content">
 							<p>
 						Children aged 12 and under will require the accompaniment of their parent/guardian. Parents/guardians will not be able to take their booster shot during their child/ward’s vaccination.
