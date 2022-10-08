@@ -347,5 +347,3 @@ For those nearing their 12th birthday and desire to receive the adult dose, they
     				</div>
     			</div>
 	<p>For more information on booster doses, visit <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---booster-doses">MOH's website</a>.</p>
-    				
-	
