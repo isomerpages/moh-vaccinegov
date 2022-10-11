@@ -2,7 +2,7 @@
 title: Clinics
 permalink: /locations/clinic
 layout: datagovsg-search
-datagovsg-id: 3ec3d4d9-cf73-4b5c-816b-8972f3e48aaa
+datagovsg-id: 56e62ca0-fe4e-485f-835d-acfe4b05d4b5
 description: ""
 ---
 
