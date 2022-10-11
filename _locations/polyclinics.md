@@ -222,9 +222,7 @@ years)</td>
       <td>50 Woodlands Road, Singapore 677726</td>
 			<td> Pfizer/Comirnaty<br><br> From 25 October
 2022:
-Moderna/Spikevax
-(6 months to 4
-years)</td>
+Pfizer/Comirnaty (Children aged 5 to 11 years)</td>
     </tr> 
   </tbody>
 </table>
