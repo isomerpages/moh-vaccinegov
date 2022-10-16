@@ -43,19 +43,19 @@ School)</td>
     <tr>
       <td>JTVC Commonwealth (Former MOE Heritage Centre)</td>
       <td>402 Commonwealth Drive Singapore 149599</td>
-			<td>Moderna/Spikevax, Pfizer/Comirnaty</td>
+			<td>Moderna/Spikevax Bivalent (BA.1) (18 years old & above),<br><br> Pfizer/Comirnaty (12 years old & above)</td>
 			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm & 6.30pm)<br><br> Sat and Eve of Public Holiday: 9am-1pm (Last walk-in 12.30pm)<br><br>Sun and gazetted Public Holidays: Close</td>
     </tr>
 		<tr>
       <td>JTVC Ang Mo Kio (former AMK ITE)</td>
       <td>4300 Ang Mo Kio Avenue 5 Singapore 569869</td>
-			<td>Moderna/Spikevax, Pfizer/Comirnaty</td>
+			<td>Moderna/Spikevax Bivalent (BA.1) (18 years old & above),<br><br> Pfizer/Comirnaty (12 years old & above)</td>
 			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm & 6.30pm)<br><br> Sat and Eve of Public Holiday: 9am-1pm (Last walk-in 12.30pm)<br><br>Sun and gazetted Public Holidays: Close</td>
     </tr>
 		<tr>
       <td>JTVC Bukit Merah (former SEAB Centre)</td>
       <td>8 Lower Delta Road Singapore 169198</td>
-			<td>Moderna/Spikevax, Pfizer/Comirnaty</td>
+			<td>Moderna/Spikevax Bivalent (BA.1) (18 years old & above),<br><br> Pfizer/Comirnaty (12 years old & above)</td>
 			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm & 6.30pm)<br><br> Sat and Eve of Public Holiday: 9am-1pm (Last walk-in 12.30pm)<br><br>Sun and gazetted Public Holidays: Close</td>
     </tr>
 		<tr>
