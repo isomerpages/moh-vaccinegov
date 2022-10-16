@@ -100,17 +100,17 @@ years old & above)<br><br> From 25 October
     <tr>
       <td>Tampines Polyclinic</td>
       <td>1 Tampines Street 41, Singapore 529203</td>
-			<td> Pfizer/Comirnaty</td>
+			<td> Pfizer/Comirnaty (12 years old above)</td>
     </tr>	 
     <tr>
       <td>Bedok Polyclinic</td>
       <td>11 Bedok North Street 1 Heartbeat@Bedok #02-01, #03-01, Singapore 469662</td>
-			<td> Pfizer/Comirnaty</td>
+			<td> Pfizer/Comirnaty (12 years old above)</td>
     </tr>		
     <tr>
       <td>Pasir Ris Polyclinic</td>
       <td>1 Pasir Ris Drive 4, Singapore 519457</td>
-			<td> Pfizer/Comirnaty</td>
+			<td> Pfizer/Comirnaty (12 years old above)</td>
     </tr>
 		<tr>
       <td>Eunos Polyclinic</td>
