@@ -44,27 +44,27 @@ Locations that are administering the Covid-19 Vaccines.
       <td>Outram Polyclinic</td>
       <td> 3 Second Hospital Avenue, #02-00 Health Promotion Board Building,
         Singapore 168937</td>
-			<td> Pfizer/Comirnaty</td>
+			<td>Pfizer/Comirnaty (12 years old above)</td>
     </tr>	
     <tr>
       <td>Bukit Merah Polyclinic</td>
       <td>162 Bukit Merah Central Level 4, Singapore 150163</td>
-			<td> Pfizer/Comirnaty</td>
+			<td> Pfizer/Comirnaty (12 years old above)</td>
     </tr>		
     <tr>
       <td>Geylang Polyclinic</td>
       <td>21 Geylang East Central, Singapore 389707</td>
-			<td> Pfizer/Comirnaty</td>
+			<td> Pfizer/Comirnaty (12 years old above)</td>
     </tr>		
     <tr>
       <td>Toa Payoh Polyclinic</td>
       <td>2003 Lorong 8 Toa Payoh Singapore 319260</td>
-			<td> Pfizer/Comirnaty</td>
+			<td> Pfizer/Comirnaty (12 years old above)</td>
     </tr>
     <tr>
       <td>Marine Parade Polyclinic</td>
       <td>80 Marine Parade Central, Singapore 440080</td>
-			<td> Pfizer/Comirnaty</td>
+			<td> Pfizer/Comirnaty (12 years old above)</td>
     </tr>
 		<tr>
       <td>Kallang Polyclinic</td>
