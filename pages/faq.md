@@ -44,9 +44,9 @@ Do I need to register for my first booster dose?</label>
 						<div class="tab-content">
 							<p>
 						Persons aged 5 years and above should complete three mRNA or Novavax/Nuvaxovid doses, or four Sinovac-CoronaVac doses to achieve minimum protection.<br><br>
-								After achieving minimum protection, persons aged 50 years and above should receive an additional booster dose between five months to one year from their last dose, to keep up-to-date with their COVID-19 vaccination. The updated bivalent vaccine is recommended for this. Individuals will be considered up-to-date with their COVID-19 vaccination if they have received at least the minimum protection and their last vaccine dose was received within the past one year.<br><br>
-						Persons aged 50 and above may walk into any Joint Testing and Vaccination Centre (JTVC) offering the Moderna/Spikevax vaccines from 17 October 2022 onwards to receive their bivalent vaccine dose.<br><br>
-								Please refer to https://gowhere.gov.sg/vaccine to locate the nearest JTVC.
+								After achieving minimum protection, persons aged 50 years and above should receive an additional booster dose between five months to one year from their last dose, to keep up-to-date with their COVID-19 vaccination. The bivalent mRNA vaccine is recommended for this. Individuals will be considered up-to-date with their COVID-19 vaccination if they have received at least the minimum protection and their last vaccine dose was received within the past one year.<br><br>
+						Persons aged 50 years and above may walk into any Joint Testing and Vaccination Centre (JTVC) offering the Moderna/Spikevax vaccines from 17 October 2022 onwards to receive their bivalent vaccine dose.<br><br>
+								Please refer to https://gowhere.gov.sg/vaccine to locate the nearest JTVC and their operating hours.
 								</p>
 							</div>
 					</div>
