@@ -69,21 +69,19 @@ Locations that are administering the Covid-19 Vaccines.
 		<tr>
       <td>Kallang Polyclinic</td>
       <td>701 Serangoon Road, Singapore 328263</td>
-			<td> Pfizer/Comirnaty<br><br> From 25 October
-2022:
-Moderna/Spikevax
-(6 months to 4
-years)</td>
+			<td>Until 18 October 2022: Pfizer/Comirnaty (12
+years old & above)<br><br> From 25 October
+2022: Moderna/Spikevax (6 months to 4 years)</td>
     </tr> 
 		<tr>
       <td>Queenstown Polyclinic</td>
       <td>580 Stirling Road, Singapore 148958</td>
-			<td> Pfizer/Comirnaty</td>
+			<td> Pfizer/Comirnaty (12 years old above)</td>
     </tr>
 		<tr>
       <td>Clementi Polyclinic</td>
       <td>451 Clementi Avenue 3, #02-307, Singapore 120451</td>
-			<td> Pfizer/Comirnaty</td>
+			<td> Pfizer/Comirnaty (12 years old above)</td>
     </tr>   
   </tbody>
 </table>
