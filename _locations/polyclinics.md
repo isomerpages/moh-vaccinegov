@@ -214,9 +214,10 @@ From 25 October 2022: Moderna/Spikevax
 		<tr>
       <td>Bukit Panjang Polyclinic</td>
       <td>50 Woodlands Road, Singapore 677726</td>
-			<td> Pfizer/Comirnaty<br><br> From 25 October
-2022:
-Pfizer/Comirnaty (Children aged 5 to 11 years)</td>
+			<td> Until 18 October 2022: Pfizer/Comirnaty
+(12 years old & above)<br><br>
+From 25 October 2022: Pfizer/Comirnaty
+(Children aged 5 to 11 years)</td>
     </tr> 
   </tbody>
 </table>
