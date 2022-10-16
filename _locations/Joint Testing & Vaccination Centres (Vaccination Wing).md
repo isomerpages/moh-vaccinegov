@@ -61,19 +61,19 @@ School)</td>
 		<tr>
       <td>JTVC Yishun (former Yishun Bus Interchange)</td>
       <td>20A Yishun Central 1 Singapore 768830</td>
-			<td>Moderna/Spikevax, Pfizer/Comirnaty</td>
+			<td>Moderna/Spikevax Bivalent (BA.1) (18 years old & above),<br><br> Pfizer/Comirnaty (12 years old & above)</td>
 			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm & 6.30pm)<br><br> Sat and Eve of Public Holiday: 9am-1pm (Last walk-in 12.30pm)<br><br>Sun and gazetted Public Holidays: Close</td>
     </tr>
 		<tr>
       <td>JTVC Woodlands (Woodlands Temporary Bus Interchange)</td>
       <td>3A Woodlands Square Singapore 737735</td>
-			<td>Moderna/Spikevax, Pfizer/Comirnaty</td>
+			<td>Moderna/Spikevax Bivalent (BA.1) (18 years old & above),<br><br> Pfizer/Comirnaty (12 years old & above)</td>
 			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm & 6.30pm)<br><br> Sat and Eve of Public Holiday: 9am-1pm (Last walk-in 12.30pm)<br><br>Sun and gazetted Public Holidays: Close</td>
     </tr>
 		<tr>
       <td>JTVC Sengkang</td>
       <td>60 Sengkang East Way Singapore 548596</td>
-			<td>Moderna/Spikevax, Pfizer/Comirnaty</td>
+			<td>Moderna/Spikevax Bivalent (BA.1) (18 years old & above),<br><br> Pfizer/Comirnaty (12 years old & above)</td>
 			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm & 6.30pm)<br><br> Sat and Eve of Public Holiday: 9am-1pm (Last walk-in 12.30pm)<br><br>Sun and gazetted Public Holidays: Close</td>
     </tr>
 	</tbody>
