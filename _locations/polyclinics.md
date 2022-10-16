@@ -115,11 +115,7 @@ years old & above)<br><br> From 25 October
 		<tr>
       <td>Eunos Polyclinic</td>
       <td>1 Chin Cheng Avenue, Singapore 429400</td>
-			<td> Pfizer/Comirnaty<br><br>From 25 October
-2022:
-Moderna/Spikevax
-(6 months to 4
-years)</td>
+			<td> Until 18 October 2022: Pfizer/Comirnaty (12 years old & above)<br><br> From 25 October 2022: Moderna/Spikevax (6 months to 4 years)</td>
     </tr>
   </tbody>
 </table>
