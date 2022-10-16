@@ -31,7 +31,7 @@ sections:
       title: Children Vaccination
       description: For information on vaccinating children aged 6 months -11 years
       button: find out more
-      url: https://www.moh.gov.sg/covid- 19/vaccination/child
+      url: https://www.moh.gov.sg/covid-19/vaccination/child
   - infobar:
       description: We are aware of websites, emails, SMS text messages and phone calls
         falsely claiming to offer registration for COVID-19 vaccination
