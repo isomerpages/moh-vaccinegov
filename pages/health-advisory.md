@@ -2,23 +2,13 @@
 title: Health Advisory
 permalink: /health-advisory/
 ---
-**You are considered fully vaccinated against COVID-19 if you have had**:
+**To achieve minimum protection:**:
 
-- 2 doses of **Pfizer-BioNTech / Comirnaty**, at least 21 days apart
-- 2 doses of **Nuvaxovid**, at least 21 days apart
-- 2 doses of **Moderna / Spikevax**,  at least 28 days apart
-- 3 doses of **Sinovac-CoronaVac**, the second dose should be 28 days after the first dose, and the third dose should be 90 days after the second dose
-- 1 booster dose of an **mRNA vaccine**or the **Nuvaxovid vaccine** taken within 270 days from the last dose of your
-primary vaccination series
+- Children 6 months to 4 years should take 2 doses
+of **Moderna/Spikevax**
+- Persons 5 years and older should receive 3 doses of **mRNA*** or **Novavax/Nuvaxovid** vaccines, or 4 doses of **Sinovac-CoronaVac**vaccine.
 
-You will be eligible for your booster dose 5 months after the last dose of your primary vaccination series. If you have taken Sinovac-CoronaVac or Sinopharm as your last dose, you are recommended to receive your booster dose 3 months after your last dose.
-  <br/>
-
-**COVID-19 vaccine is currently not recommended for**
-
-- Individuals below 5 years of age for the Pfizer-BioNTech / Comirnaty vaccine
-- Individuals below 18 years of age for the Moderna / Spikevax, Nuvaxovid and Sinovac-CoronaVac vaccines
-<br/>
+*Currently, persons aged between 12 to 17 years can only receive the Pfizer- BioNTech/Comirnaty vaccine for their COVID-19 vaccination; and children aged between 5 to 11 years can only receive the **paediatric** Pfizer- BioNTech/Comirnaty vaccine for their COVID-19 vaccination. You will be eligible for your booster dose 5 months after the last dose of your primary vaccination series. If you have taken Sinovac-CoronaVac or Sinopharm as your last dose, you are recommended to receive your booster dose 3 months after your last dose.
 
 **Important reminders**:
 
