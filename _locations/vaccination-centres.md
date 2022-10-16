@@ -110,7 +110,7 @@ BioNTech/Comirnaty
     <tr>
       <td>Former Hong Kah Secondary School</td>
       <td>931 Jurong West Street 42, Singapore 649370</td>
-			<td>Pfizer/Comirnaty, Moderna/Spikevax</td>
+			<td>Pfizer/Comirnaty (12 years old & above), Moderna/Spikevax Bivalent (BA.1) (18 years old & above)</td>
     </tr>
 	</tbody>
 </table>
