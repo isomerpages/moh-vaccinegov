@@ -168,12 +168,12 @@ years old & above)</td>
     <tr>
       <td>Ang Mo Kio Polyclinic</td>
       <td>21 Ang Mo Kio Central 2, Singapore 569666</td>
-			<td> Pfizer/Comirnaty</td>
+			<td> Pfizer/Comirnaty (12 years old & above)</td>
     </tr>
 		 <tr>
       <td>Seng Kang Polyclinic</td>
       <td>2 Sengkang Square, #01-06, Singapore 545025</td>
-			<td> Pfizer/Comirnaty</td>
+			<td> Pfizer/Comirnaty  (12 years old & above)</td>
     </tr> 
   </tbody>
 </table>
