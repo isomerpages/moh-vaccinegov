@@ -133,13 +133,13 @@ years old & above)<br><br> From 25 October
     <tr>
       <td>Woodlands Polyclinic</td>
       <td>10 Woodlands Street 31, Singapore 738579</td>
-			<td> Pfizer/Comirnaty (Adults & Children aged 5
-to 11 years)</td>
+			<td> Pfizer/Comirnaty (5-11 years old) (12 years
+old & above)</td>
     </tr>
     <tr>
       <td>Yishun Polyclinic</td>
       <td>2 Yishun Avenue 9, Singapore 768898</td>
-			<td> Novavax</td>
+			<td> Novavax/Nuvaxovid (18 years old & above)</td>
     </tr>
   </tbody>
 </table>
@@ -157,7 +157,7 @@ to 11 years)</td>
     <tr>
       <td>Hougang Polyclinic</td>
       <td>89 Hougang Avenue 4, Singapore 538829</td>
-			<td> Pfizer/Comirnaty</td>
+			<td> Pfizer/Comirnaty (12 years old above</td>
     </tr>		
     <tr>
       <td>Punggol Polyclinic</td>
