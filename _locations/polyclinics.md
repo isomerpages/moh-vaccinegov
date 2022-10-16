@@ -162,8 +162,8 @@ old & above)</td>
     <tr>
       <td>Punggol Polyclinic</td>
       <td>681 Punggol Drive, Singapore 820681</td>
-			<td> Pfizer/Comirnaty (Adults & Children aged 5
-to 11 years)</td>
+			<td> Pfizer/Comirnaty (5 to 11 years old) (12
+years old & above)</td>
 			 </tr>		
     <tr>
       <td>Ang Mo Kio Polyclinic</td>
