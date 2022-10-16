@@ -37,7 +37,7 @@ School)</td>
     <tr>
       <td>JTVC Bishan (Former Bishan Park Secondary School)</td>
       <td>2 Sin Ming Walk Singapore 575565</td>
-			<td>Novavax /Nuvaxovid,Pfizer/Comirnaty</td>
+			<td>Novavax /Nuvaxovid (18 years old & above),<br><br>Pfizer/Comirnaty (12 years old & above)</td>
 			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm & 6.30pm)<br><br> Sat and Eve of Public Holiday: 9am-1pm (Last walk-in 12.30pm)<br><br>Sun and gazetted Public Holidays: Close</td>
     </tr>	
     <tr>
