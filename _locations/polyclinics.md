@@ -197,7 +197,7 @@ years old & above)</td>
     <tr>
       <td>Jurong Polyclinic</td>
       <td>190 Jurong East Avenue 1, Singapore 609788</td>
-			<td> Novavax</td>
+			<td> Novavax/Nuvaxovid (18 years old & above)</td>
     </tr>	
     <tr>
       <td>Bukit Batok Polyclinic</td>
