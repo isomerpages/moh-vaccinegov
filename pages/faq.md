@@ -188,7 +188,7 @@ Sinovac-CoronaVac or Sinopharm vaccine as their third vaccine dose should do so 
 						<label for="question-2-2" class="tab-label">What should I take note of?</label>
 						<div class="tab-content">
 							<p>				
-								<span>• Bring your ID (NRIC/FIN/Student Pass) for both appointments</span><br>
+								<span>• Bring your ID (NRIC/FIN/Student Pass/Birth Certificate and Health Booklet) for both appointments</span><br>
 								<span>• Please turn up on time</span><br>
 								<span>• Please wear short sleeved attire, or sleeves loose enough to be rolled up</span><br>
 								<span>• If you are unwell or had fever in the past 24 hours, stay home and postpone your appointments</span><br>
