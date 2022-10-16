@@ -2,7 +2,8 @@
 title: How to Sign Up
 permalink: /how-to-sign-up/
 ---
-For those <strong>aged 5 to 11</strong>, parents/guardians will have to first register their child/ward at https://child.vaccine.gov.sg. An SMS with a personalised booking link will be sent to the registered mobile number of the parents/guardian within three to five workings days to book a vaccination appointment at selected polyclinic and Public Health Preparedness Clinics (PHPCs) via the National Appointment System.
+For children aged 6 months to 11 years who have yet to
+receive their primary vaccination series,, parents/guardians will have to first register their child/ward at https://child.vaccine.gov.sg. Registration for children aged 6 months to 4 years will start on 18 October 2022.An SMS with a personalised booking link will be sent to the registered mobile number of the parents/guardian within three to five workings days to book a vaccination appointment at selected polyclinic and Public Health Preparedness Clinics (PHPCs) via the National Appointment System.
 
 Please visit https://www.gowhere.gov.sg to locate the nearest polyclinic or PHPC offering paediatric vaccines.
 
