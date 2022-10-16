@@ -21,7 +21,7 @@ of **Moderna/Spikevax**
 
 **After vaccination**
 
-As a precautionary measure, adolescents and men below 30 years of age, in particular, who have received any dose of the COVID-19 vaccine, are advised to avoid strenuous physical activities such as running, weightlifting, competitive sports, or playing ball games for two weeks after the vaccination.
+As a precautionary measure, all individuals, especially adolescents and men below 30 years of age, who have received any dose of the COVID-19 vaccine, are advised to avoid strenuous physical activities such as running, weightlifting, competitive sports, or playing ball games for two weeks after the vaccination.
  <br/>
 
 **Postpone your appointment if you are unwell or had a fever in the last 24 hours**
