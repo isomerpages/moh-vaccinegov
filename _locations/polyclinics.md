@@ -191,7 +191,8 @@ years old & above)</td>
     <tr>
       <td>Pioneer Polyclinic</td>
       <td>26 Jurong West Street 61, Singapore 648201</td>
-			<td> Pfizer/Comirnaty (Adults & Children aged 5 to 11 years)</td>
+			<td> Pfizer/Comirnaty (5 to 11 years old) (12
+years old & above)</td>
     </tr>	
     <tr>
       <td>Jurong Polyclinic</td>
