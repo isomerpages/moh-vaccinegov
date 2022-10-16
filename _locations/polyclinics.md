@@ -202,15 +202,14 @@ years old & above)</td>
     <tr>
       <td>Bukit Batok Polyclinic</td>
       <td>50 Bukit Batok West Avenue 3, Singapore 659164</td>
-			<td> Pfizer/Comirnaty<br><br>From 25 October 2022:
-Moderna/Spikevax
-(6 months to 4
-years)</td>
+			<td>Pfizer/Comirnaty (12 years old & above)<br><br>
+From 25 October 2022: Moderna/Spikevax
+(6 months to 4 years)</td>
     </tr>		
     <tr>
       <td>Choa Chu Kang Polyclinic</td>
       <td>2 Teck Whye Crescent, Singapore 688846</td>
-			<td> Pfizer/Comirnaty</td>
+			<td> Pfizer/Comirnaty (12 years old & above)</td>
     </tr>
 		<tr>
       <td>Bukit Panjang Polyclinic</td>
