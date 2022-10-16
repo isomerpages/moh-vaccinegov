@@ -1,10 +1,10 @@
 contact_us: /contact-us/
 show_reach: false
-feedback: "https://crms.moh.gov.sg/mohfeedback.aspx"
+feedback: https://www.moh.gov.sg/feedback
 faq: /faq
 social_media:
-  facebook: null
-  twitter: null
-  youtube: null
-  instagram: null
-  linkedin: null
+  ? facebook
+  ? twitter
+  ? youtube
+  ? instagram
+  ? linkedin

@@ -20,10 +20,10 @@ Community Centre <br><br>From 25 October 2022</td>
       <td>365 Commonwealth Avenue, Singapore
 149732</td>
 			<td>Moderna/Spikevax (6
-months to 4 years)<br><br>
+months to 4 years old)<br><br>
 Pfizer-
 BioNTech/Comirnaty
-(5 to 11 years)</td>
+(5 to 11 years old)</td>
     </tr>
 	</tbody>
 </table>
@@ -43,10 +43,10 @@ BioNTech/Comirnaty
       <td>1 Tampines Walk, #03-03 & 03-04
 (Lobby B), Singapore 528523</td>
 			<td>Moderna/Spikevax (6
-months to 4 years)<br><br>
+months to 4 years old)<br><br>
 Pfizer-
 BioNTech/Comirnaty
-(5 to 11 years)</td>
+(5 to 11 years old)</td>
     </tr>
 	</tbody>
 </table>
@@ -66,10 +66,10 @@ BioNTech/Comirnaty
       <td>2125 Sembawang Road, Singapore
 758528</td>
 			<td>Moderna/Spikevax (6
-months to 4 years)<br><br>
+months to 4 years old)<br><br>
 Pfizer-
 BioNTech/Comirnaty
-(5 to 11 years)</td>
+(5 to 11 years old)</td>
     </tr>
 	</tbody>
 </table>
@@ -89,10 +89,10 @@ BioNTech/Comirnaty
       <td>1 Punggol Drive, Level 3 Futsal Court,
 Singapore 828619</td>
 			<td>Moderna/Spikevax (6
-months to 4 years)<br><br>
+months to 4 years old)<br><br>
 Pfizer-
 BioNTech/Comirnaty
-(5 to 11 years)</td>
+(5 to 11 years old)</td>
     </tr>
 	</tbody>
 </table>
@@ -110,7 +110,7 @@ BioNTech/Comirnaty
     <tr>
       <td>Former Hong Kah Secondary School</td>
       <td>931 Jurong West Street 42, Singapore 649370</td>
-			<td>Pfizer/Comirnaty, Moderna/Spikevax</td>
+			<td>Pfizer/Comirnaty (12 years old & above), Moderna/Spikevax Bivalent (BA.1) (18 years old & above)</td>
     </tr>
 	</tbody>
 </table>
