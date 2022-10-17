@@ -304,7 +304,7 @@ or removed easily<br><br>
     				</label>
     				<div class="tab-content">
     					<p>Persons who had recovered from COVID-19 and had received two doses of mRNA or Nuvaxovid vaccines, or three doses of Sinovac-CoronaVac before their infection are considered to have completed their primary series. Persons who have not completed their primary vaccination series before recovering from a COVID-19 infection, are recommended to complete their primary series.<br><br>
-If you are due for your vaccination based on the schedules recommended in the National Vaccination Programme (e.g. to receive a booster dose about five5 months after two doses of mRNA or Nuvaxovid vaccines), you may receive your next vaccine dose three 3 months after infection.
+If you are due for your vaccination based on the schedules recommended in the National Vaccination Programme (e.g. to receive a booster dose about 5 months after two doses of mRNA or Nuvaxovid vaccines), you may receive your next vaccine dose 3 months after infection.
 								</p>
     				</div>
     			</div>	
