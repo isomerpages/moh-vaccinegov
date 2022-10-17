@@ -16,7 +16,7 @@ of **Moderna/Spikevax**
 
 * Wear short sleeved or clothes where the sleeves can be rolled up
 * Bring your ID (NRIC/FIN/Student Pass/Birth Certificate and Health Booklet))
-* Drink plenty of water and eat something before going for your vaccination, and avoid strenuous exercise
+* Drink plenty of water and eat something before going for your vaccination, and avoid strenuous exercise for two weeks after vaccination
 <br/>
 
 **After vaccination**
