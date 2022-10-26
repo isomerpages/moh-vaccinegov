@@ -87,7 +87,7 @@ BioNTech/Comirnaty
     <tr>
       <td>One Punggol<br><br>From 25 October 2022</td>
       <td>1 Punggol Drive, Level 3 Futsal Court,
-Singapore 828619</td>
+Singapore 828629</td>
 			<td>Moderna/Spikevax (6
 months to 4 years old)<br><br>
 Pfizer-
