@@ -2,8 +2,7 @@
 title: Vaccination Centres
 permalink: /locations-vcs/
 ---
-Please note that the Vaccination Centre at Former Hong Kah Secondary School will start administering Moderna/Spikevax, in addition to Pfizer-BioNTech/Comirnaty. The operating hours will also be changed.
- 
+
 ### **Central**
 <table>
   <thead>
@@ -118,7 +117,19 @@ Pfizer- BioNTech/Comirnaty
     <tr>
       <td>Former Hong Kah Secondary School</td>
       <td>931 Jurong West Street 42, Singapore 649370</td>
-			<td>Pfizer/Comirnaty (12 years old & above), Moderna/Spikevax Bivalent (BA.1) (18 years old & above)</td>
+			<td>Pfizer-BioNTech/Comirnaty (12 years old & above)<br><br> Moderna/Spikevax Bivalent (BA.1) (18 years old & above)</td>
+			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm & 6.30pm)<br><br>Sat and Eve of Public Holiday: 9am-1pm (Last walk-in 12.30pm)<br><br>Sun and gazetted Public Holidays: Close</td><tr>
+      <th>Name</th>
+      <th>Address</th>
+			<th>Vaccine Type</th>
+			<th>Operating Hours</th>
+    </tr>
+  </thead>
+  <tbody>	
+    <tr>
+      <td>Taman Jurong Community Club</td>
+      <td>1 Yung Sheng Road, Singapore 618495</td>
+			<td>Moderna/Spikevax (6 months to 4 years old)<br><br> Pfizer- BioNTech/Comirnaty (5 to 11 years old)</td>
 			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm & 6.30pm)<br><br>Sat and Eve of Public Holiday: 9am-1pm (Last walk-in 12.30pm)<br><br>Sun and gazetted Public Holidays: Close</td>
     </tr>
 	</tbody>
