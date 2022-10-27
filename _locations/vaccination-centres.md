@@ -111,6 +111,7 @@ Pfizer- BioNTech/Comirnaty
       <th>Name</th>
       <th>Address</th>
 			<th>Vaccine Type</th>
+			<th>Operating Hours</th>
     </tr>
   </thead>
   <tbody>	
@@ -118,6 +119,7 @@ Pfizer- BioNTech/Comirnaty
       <td>Former Hong Kah Secondary School</td>
       <td>931 Jurong West Street 42, Singapore 649370</td>
 			<td>Pfizer/Comirnaty (12 years old & above), Moderna/Spikevax Bivalent (BA.1) (18 years old & above)</td>
+			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm & 6.30pm)<br><br>Sat and Eve of Public Holiday: 9am-1pm (Last walk-in 12.30pm)<br><br>Sun and gazetted Public Holidays: Close</td>
     </tr>
 	</tbody>
 </table>
