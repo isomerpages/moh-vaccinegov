@@ -62,6 +62,7 @@ BioNTech/Comirnaty
       <th>Name</th>
       <th>Address</th>
 			<th>Vaccine Type</th>
+			<th>Operating Hours</th>
     </tr>
   </thead>
   <tbody>	
@@ -74,6 +75,7 @@ months to 4 years old)<br><br>
 Pfizer-
 BioNTech/Comirnaty
 (5 to 11 years old)</td>
+			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last appointment 5.30pm)<br><br>Sat and Eve of Public Holiday: 9am-1pm (Last appointment 11.30am)<br><br>Sun and gazetted Public Holidays: Close</td>
     </tr>
 	</tbody>
 </table>
@@ -85,19 +87,20 @@ BioNTech/Comirnaty
       <th>Name</th>
       <th>Address</th>
 			<th>Vaccine Type</th>
+			<th>Operating Hours</th>
     </tr>
   </thead>
   <tbody>	
     <tr>
-      <td>One Punggol<br><br>From 25 October 2022</td>
+      <td>One Punggol</td>
       <td>1 Punggol Drive, Level 3 Futsal Court,
 Singapore 828629</td>
 			<td>Moderna/Spikevax (6
 months to 4 years old)<br><br>
-Pfizer-
-BioNTech/Comirnaty
+Pfizer- BioNTech/Comirnaty
 (5 to 11 years old)</td>
-    </tr>
+<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last appointment 5.30pm)<br><br>Sat and Eve of Public Holiday: 9am-1pm (Last appointment 11.30am)<br><br>Sun and gazetted Public Holidays: Close</td>			
+   </tr>
 	</tbody>
 </table>
 
