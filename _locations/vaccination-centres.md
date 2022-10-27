@@ -2,8 +2,6 @@
 title: Vaccination Centres
 permalink: /locations-vcs/
 ---
-Please note that the Vaccination Centre at Former Hong Kah Secondary School will start administering Moderna/Spikevax, in addition to Pfizer-BioNTech/Comirnaty. The operating hours will also be changed.
- 
 ### **Central**
 <table>
   <thead>
@@ -11,12 +9,13 @@ Please note that the Vaccination Centre at Former Hong Kah Secondary School will
       <th>Name</th>
       <th>Address</th>
 			<th>Vaccine Type</th>
+			<th>Operating Hours</th>
     </tr>
   </thead>
   <tbody>	
     <tr>
       <td>Queenstown
-Community Centre <br><br>From 25 October 2022</td>
+Community Centre </td>
       <td>365 Commonwealth Avenue, Singapore
 149732</td>
 			<td>Moderna/Spikevax (6
@@ -24,7 +23,8 @@ months to 4 years old)<br><br>
 Pfizer-
 BioNTech/Comirnaty
 (5 to 11 years old)</td>
-    </tr>
+			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last appointment 5.30pm)<br><br>Sat and Eve of Public Holiday: 9am-1pm (Last appointment 11.30am)<br><br>Sun and gazetted Public Holidays: Close</td>
+    </tr>		
 	</tbody>
 </table>
 
@@ -35,11 +35,12 @@ BioNTech/Comirnaty
       <th>Name</th>
       <th>Address</th>
 			<th>Vaccine Type</th>
+			<th>Operating Hours</th>
     </tr>
   </thead>
   <tbody>	
     <tr>
-      <td>Our Tampines Hub<br><br>From 25 October 2022</td>
+      <td>Our Tampines Hub</td>
       <td>1 Tampines Walk, #03-03 & 03-04
 (Lobby B), Singapore 528523</td>
 			<td>Moderna/Spikevax (6
@@ -47,6 +48,7 @@ months to 4 years old)<br><br>
 Pfizer-
 BioNTech/Comirnaty
 (5 to 11 years old)</td>
+			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last appointment 5.30pm)<br><br>Sat and Eve of Public Holiday: 9am-1pm (Last appointment 11.30am)<br><br>Sun and gazetted Public Holidays: Close</td>
     </tr>
 	</tbody>
 </table>
@@ -58,11 +60,12 @@ BioNTech/Comirnaty
       <th>Name</th>
       <th>Address</th>
 			<th>Vaccine Type</th>
+			<th>Operating Hours</th>
     </tr>
   </thead>
   <tbody>	
     <tr>
-      <td>Sembawang Community Club<br><br>From 25 October 2022</td>
+      <td>Sembawang Community Club</td>
       <td>2125 Sembawang Road, Singapore
 758528</td>
 			<td>Moderna/Spikevax (6
@@ -70,6 +73,7 @@ months to 4 years old)<br><br>
 Pfizer-
 BioNTech/Comirnaty
 (5 to 11 years old)</td>
+			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last appointment 5.30pm)<br><br>Sat and Eve of Public Holiday: 9am-1pm (Last appointment 11.30am)<br><br>Sun and gazetted Public Holidays: Close</td>
     </tr>
 	</tbody>
 </table>
@@ -81,19 +85,20 @@ BioNTech/Comirnaty
       <th>Name</th>
       <th>Address</th>
 			<th>Vaccine Type</th>
+			<th>Operating Hours</th>
     </tr>
   </thead>
   <tbody>	
     <tr>
-      <td>One Punggol<br><br>From 25 October 2022</td>
+      <td>One Punggol</td>
       <td>1 Punggol Drive, Level 3 Futsal Court,
 Singapore 828629</td>
 			<td>Moderna/Spikevax (6
 months to 4 years old)<br><br>
-Pfizer-
-BioNTech/Comirnaty
+Pfizer- BioNTech/Comirnaty
 (5 to 11 years old)</td>
-    </tr>
+<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last appointment 5.30pm)<br><br>Sat and Eve of Public Holiday: 9am-1pm (Last appointment 11.30am)<br><br>Sun and gazetted Public Holidays: Close</td>			
+   </tr>
 	</tbody>
 </table>
 
@@ -104,13 +109,27 @@ BioNTech/Comirnaty
       <th>Name</th>
       <th>Address</th>
 			<th>Vaccine Type</th>
+			<th>Operating Hours</th>
     </tr>
   </thead>
   <tbody>	
     <tr>
       <td>Former Hong Kah Secondary School</td>
       <td>931 Jurong West Street 42, Singapore 649370</td>
-			<td>Pfizer/Comirnaty (12 years old & above), Moderna/Spikevax Bivalent (BA.1) (18 years old & above)</td>
+			<td>Pfizer-BioNTech/Comirnaty (12 years old & above)<br><br> Moderna/Spikevax Bivalent (BA.1) (18 years old & above)</td>
+			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm & 6.30pm)<br><br>Sat and Eve of Public Holiday: 9am-1pm (Last walk-in 12.30pm)<br><br>Sun and gazetted Public Holidays: Close</td><tr>
+      <th>Name</th>
+      <th>Address</th>
+			<th>Vaccine Type</th>
+			<th>Operating Hours</th>
+    </tr>
+  </thead>
+  <tbody>	
+    <tr>
+      <td>Taman Jurong Community Club</td>
+      <td>1 Yung Sheng Road, Singapore 618495</td>
+			<td>Moderna/Spikevax (6 months to 4 years old)<br><br> Pfizer- BioNTech/Comirnaty (5 to 11 years old)</td>
+			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last appointment 5.30pm)<br><br>Sat and Eve of Public Holiday: 9am-1pm (Last appointment 11.30am)<br><br>Sun and gazetted Public Holidays: Close</td>
     </tr>
 	</tbody>
 </table>
