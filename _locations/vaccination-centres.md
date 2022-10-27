@@ -11,12 +11,13 @@ Please note that the Vaccination Centre at Former Hong Kah Secondary School will
       <th>Name</th>
       <th>Address</th>
 			<th>Vaccine Type</th>
+			<th>Operating Hours</th>
     </tr>
   </thead>
   <tbody>	
     <tr>
       <td>Queenstown
-Community Centre <br><br>From 25 October 2022</td>
+Community Centre </td>
       <td>365 Commonwealth Avenue, Singapore
 149732</td>
 			<td>Moderna/Spikevax (6
@@ -24,7 +25,8 @@ months to 4 years old)<br><br>
 Pfizer-
 BioNTech/Comirnaty
 (5 to 11 years old)</td>
-    </tr>
+			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last appointment 5.30pm)<br><br>Sat and Eve of Public Holiday: 9am-1pm (Last appointment 11.30am)<br><br>Sun and gazetted Public Holidays: Close</td>
+    </tr>		
 	</tbody>
 </table>
 
@@ -35,11 +37,12 @@ BioNTech/Comirnaty
       <th>Name</th>
       <th>Address</th>
 			<th>Vaccine Type</th>
+			<th>Operating Hours</th>
     </tr>
   </thead>
   <tbody>	
     <tr>
-      <td>Our Tampines Hub<br><br>From 25 October 2022</td>
+      <td>Our Tampines Hub</td>
       <td>1 Tampines Walk, #03-03 & 03-04
 (Lobby B), Singapore 528523</td>
 			<td>Moderna/Spikevax (6
@@ -47,6 +50,7 @@ months to 4 years old)<br><br>
 Pfizer-
 BioNTech/Comirnaty
 (5 to 11 years old)</td>
+			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last appointment 5.30pm)<br><br>Sat and Eve of Public Holiday: 9am-1pm (Last appointment 11.30am)<br><br>Sun and gazetted Public Holidays: Close</td>
     </tr>
 	</tbody>
 </table>
@@ -62,7 +66,7 @@ BioNTech/Comirnaty
   </thead>
   <tbody>	
     <tr>
-      <td>Sembawang Community Club<br><br>From 25 October 2022</td>
+      <td>Sembawang Community Club</td>
       <td>2125 Sembawang Road, Singapore
 758528</td>
 			<td>Moderna/Spikevax (6
