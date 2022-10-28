@@ -119,7 +119,7 @@ Pfizer- BioNTech/Comirnaty
 			<td>Pfizer-BioNTech/Comirnaty (12 years old & above)<br><br> Moderna/Spikevax Bivalent (BA.1) (18 years old & above)</td>
 			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm & 6.30pm)<br><br>Sat and Eve of Public Holiday: 9am-1pm (Last walk-in 12.30pm)<br><br>Sun and gazetted Public Holidays: Close</td>
 			 <tr>
-      <td>Former Hong Kah Secondary School</td>
-      <td>931 Jurong West Street 42, Singapore 649370</td>
-			<td>Pfizer-BioNTech/Comirnaty (12 years old & above)<br><br> Moderna/Spikevax Bivalent (BA.1) (18 years old & above)</td>
+      <td>Taman Jurong Community Centre</td>
+      <td>1 Yung Sheng Road Singapore 618495</td>
+			<td>Pfizer- BioNTech/Comirnaty (5 to 11 years old)<br><br> Moderna/Spikevax (6 months to 4 years old)</td>
 			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm & 6.30pm)<br><br>Sat and Eve of Public Holiday: 9am-1pm (Last walk-in 12.30pm)<br><br>Sun and gazetted Public Holidays: Close</td>
