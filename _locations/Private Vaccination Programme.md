@@ -26,17 +26,17 @@ Wai Shiu Hospital Block A #01-06, Singapore
 		<tr>
       <td>Raffles Executive Medical Centre</td>
       <td>585 North Bridge Road, Raffles Hospital Level 12, Singapore 188770 (Interested parties, please email to remc@rafflesmedical.com or kwan_gerren@rafflesmedical.com)</td>
-			<td>Moderna/Spikevax (BA.1)(18 years old & above)</td>
+			<td>Moderna/Spikevax  Bivalent (BA.1)(18 years old & above)</td>
     </tr>
 		<tr>
       <td>The Clinic@One George Street</td>
       <td>1 George Street, One George Street, #05-05 (Lobby C), Singapore 049145 (Please make an appointment via this <a href="https://booking.healthwaymedical.com/pov?service=9BFD434F25">link</a> or 6438 5322. Hotline is operational Monday to Friday 8.30am – 1.00p,2.00pm – 5.00pm)</td>
-			<td>Moderna/Spikevax (BA.1)(18 years old & above)</td>
+			<td>Moderna/Spikevax Bivalent (BA.1)(18 years old & above)</td>
     </tr>
 		<tr>
       <td>Fullerton Healthcare @ Drs Trythall Hoy Davies</td>
       <td>1 Jurong West Central 2, Jurong Point Shopping Mall #B1-A19B, Singapore 648886</td>
-			<td>Moderna/Spikevax (BA.1)(18 years old & above)</td>
+			<td>Moderna/Spikevax Bivalent (BA.1)(18 years old & above)</td>
     </tr>
 		<tr>
       <td>Healthway Medical (Sembawang Drive)</td>
