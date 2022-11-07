@@ -4,6 +4,12 @@ permalink: /locations/
 description: ""
 ---
 ### **JTVC Locations (Vaccination Wing)**
+
+**For COVID-19 additional booster doses:**
+
+*   Walk-ins are only accepted for persons aged 50 years and above.
+*   Persons aged 18 to 49 years will receive an SMS to book an appointment via NAS
+
 <table>
   <thead>
     <tr>
