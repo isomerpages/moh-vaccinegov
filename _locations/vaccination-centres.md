@@ -2,7 +2,6 @@
 title: Vaccination Centres
 permalink: /locations-vcs/
 ---
-
 **For COVID-19 additional booster doses:**
 
 *   Walk-ins are only accepted for persons aged 50 years and above.
