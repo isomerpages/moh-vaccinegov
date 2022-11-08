@@ -2,12 +2,6 @@
 title: How to Sign Up
 permalink: /how-to-sign-up/
 ---
-
-
-
-
-
-
 The clinics and polyclinics are currently offering Monovalent Pfizer BioNTech/Comirnaty. Bivalent Pfizer-BioNTech/Comirnaty will only be available at end of the year.
 
 If you wish to receive the Bivalent Moderna vaccine, you may visit the nearest Joint Testing and Vaccination Centre (JTVC)
