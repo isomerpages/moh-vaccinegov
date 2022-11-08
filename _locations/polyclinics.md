@@ -2,6 +2,11 @@
 title: Polyclinics
 permalink: /locations-polyclinics/
 ---
+The clinics and polyclinics are currently offering Monovalent Pfizer-BioNTech/Comirnaty. Bivalent Pfizer-BioNTech/Comirnaty will only be available at end of the year.
+
+If you wish to receive the Bivalent Moderna vaccine, you may visit the nearest Joint Testing and Vaccination Centre (JTVC)
+
+
 Locations that are administering the Covid-19 Vaccines.
 
 **For COVID-19 vaccination at the Polyclinics:**
