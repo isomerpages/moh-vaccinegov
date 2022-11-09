@@ -49,7 +49,7 @@ Locations that are administering the Covid-19 Vaccines.
       <td>Outram Polyclinic</td>
       <td> 3 Second Hospital Avenue, #02-00 Health Promotion Board Building,
         Singapore 168937</td>
-			<td>Pfizer/Comirnaty (12 years old & above))</td>
+			<td>Pfizer/Comirnaty (12 years old & above)</td>
     </tr>	
     <tr>
       <td>Bukit Merah Polyclinic</td>
@@ -59,17 +59,17 @@ Locations that are administering the Covid-19 Vaccines.
     <tr>
       <td>Geylang Polyclinic</td>
       <td>21 Geylang East Central, Singapore 389707</td>
-			<td> Pfizer/Comirnaty (12 years old & above))</td>
+			<td> Pfizer/Comirnaty (12 years old & above)</td>
     </tr>		
     <tr>
       <td>Toa Payoh Polyclinic</td>
       <td>2003 Lorong 8 Toa Payoh Singapore 319260</td>
-			<td> Pfizer/Comirnaty (12 years old & above))</td>
+			<td> Pfizer/Comirnaty (12 years old & above)</td>
     </tr>
     <tr>
       <td>Marine Parade Polyclinic</td>
       <td>80 Marine Parade Central, Singapore 440080</td>
-			<td> Pfizer/Comirnaty (12 years old & above))</td>
+			<td> Pfizer/Comirnaty (12 years old & above)</td>
     </tr>
 		<tr>
       <td>Kallang Polyclinic</td>
@@ -79,12 +79,12 @@ Locations that are administering the Covid-19 Vaccines.
 		<tr>
       <td>Queenstown Polyclinic</td>
       <td>580 Stirling Road, Singapore 148958</td>
-			<td> Pfizer/Comirnaty (12 years old & above))</td>
+			<td> Pfizer/Comirnaty (12 years old & above)</td>
     </tr>
 		<tr>
       <td>Clementi Polyclinic</td>
       <td>451 Clementi Avenue 3, #02-307, Singapore 120451</td>
-			<td> Pfizer/Comirnaty (12 years old & above))</td>
+			<td> Pfizer/Comirnaty (12 years old & above)</td>
     </tr>   
   </tbody>
 </table>
@@ -103,17 +103,17 @@ Locations that are administering the Covid-19 Vaccines.
     <tr>
       <td>Tampines Polyclinic</td>
       <td>1 Tampines Street 41, Singapore 529203</td>
-			<td> Pfizer/Comirnaty (12 years old & above))</td>
+			<td> Pfizer/Comirnaty (12 years old & above)</td>
     </tr>	 
     <tr>
       <td>Bedok Polyclinic</td>
       <td>11 Bedok North Street 1 Heartbeat@Bedok #02-01, #03-01, Singapore 469662</td>
-			<td> Pfizer/Comirnaty (12 years old & above))</td>
+			<td> Pfizer/Comirnaty (12 years old & above)</td>
     </tr>		
     <tr>
       <td>Pasir Ris Polyclinic</td>
       <td>1 Pasir Ris Drive 4, Singapore 519457</td>
-			<td> Pfizer/Comirnaty (12 years old & above))</td>
+			<td> Pfizer/Comirnaty (12 years old & above)</td>
     </tr>
 		<tr>
       <td>Eunos Polyclinic</td>
