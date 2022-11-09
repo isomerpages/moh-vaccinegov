@@ -49,42 +49,42 @@ Locations that are administering the Covid-19 Vaccines.
       <td>Outram Polyclinic</td>
       <td> 3 Second Hospital Avenue, #02-00 Health Promotion Board Building,
         Singapore 168937</td>
-			<td>Pfizer/Comirnaty (12 years old above)</td>
+			<td>Pfizer/Comirnaty (12 years old & above)</td>
     </tr>	
     <tr>
       <td>Bukit Merah Polyclinic</td>
       <td>162 Bukit Merah Central Level 4, Singapore 150163</td>
-			<td> Pfizer/Comirnaty (12 years old above)</td>
+			<td> Pfizer/Comirnaty (12 years old & above)</td>
     </tr>		
     <tr>
       <td>Geylang Polyclinic</td>
       <td>21 Geylang East Central, Singapore 389707</td>
-			<td> Pfizer/Comirnaty (12 years old above)</td>
+			<td> Pfizer/Comirnaty (12 years old & above)</td>
     </tr>		
     <tr>
       <td>Toa Payoh Polyclinic</td>
       <td>2003 Lorong 8 Toa Payoh Singapore 319260</td>
-			<td> Pfizer/Comirnaty (12 years old above)</td>
+			<td> Pfizer/Comirnaty (12 years old & above)</td>
     </tr>
     <tr>
       <td>Marine Parade Polyclinic</td>
       <td>80 Marine Parade Central, Singapore 440080</td>
-			<td> Pfizer/Comirnaty (12 years old above)</td>
+			<td> Pfizer/Comirnaty (12 years old & above)</td>
     </tr>
 		<tr>
       <td>Kallang Polyclinic</td>
       <td>701 Serangoon Road, Singapore 328263</td>
-			<td> From 25 October 2022: Moderna/Spikevax (6 months to 4 years)</td>
+			<td> Moderna/Spikevax (6 months to 4 years)</td>
     </tr> 
 		<tr>
       <td>Queenstown Polyclinic</td>
       <td>580 Stirling Road, Singapore 148958</td>
-			<td> Pfizer/Comirnaty (12 years old above)</td>
+			<td> Pfizer/Comirnaty (12 years old & above)</td>
     </tr>
 		<tr>
       <td>Clementi Polyclinic</td>
       <td>451 Clementi Avenue 3, #02-307, Singapore 120451</td>
-			<td> Pfizer/Comirnaty (12 years old above)</td>
+			<td> Pfizer/Comirnaty (12 years old & above)</td>
     </tr>   
   </tbody>
 </table>
@@ -103,22 +103,22 @@ Locations that are administering the Covid-19 Vaccines.
     <tr>
       <td>Tampines Polyclinic</td>
       <td>1 Tampines Street 41, Singapore 529203</td>
-			<td> Pfizer/Comirnaty (12 years old above)</td>
+			<td> Pfizer/Comirnaty (12 years old & above)</td>
     </tr>	 
     <tr>
       <td>Bedok Polyclinic</td>
       <td>11 Bedok North Street 1 Heartbeat@Bedok #02-01, #03-01, Singapore 469662</td>
-			<td> Pfizer/Comirnaty (12 years old above)</td>
+			<td> Pfizer/Comirnaty (12 years old & above)</td>
     </tr>		
     <tr>
       <td>Pasir Ris Polyclinic</td>
       <td>1 Pasir Ris Drive 4, Singapore 519457</td>
-			<td> Pfizer/Comirnaty (12 years old above)</td>
+			<td> Pfizer/Comirnaty (12 years old & above)</td>
     </tr>
 		<tr>
       <td>Eunos Polyclinic</td>
       <td>1 Chin Cheng Avenue, Singapore 429400</td>
-			<td>From 25 October 2022: Moderna/Spikevax (6 months to 4 years)</td>
+			<td>Moderna/Spikevax (6 months to 4 years)</td>
     </tr>
   </tbody>
 </table>
@@ -160,7 +160,7 @@ old & above)</td>
     <tr>
       <td>Hougang Polyclinic</td>
       <td>89 Hougang Avenue 4, Singapore 538829</td>
-			<td> Pfizer/Comirnaty (12 years old above</td>
+			<td> Pfizer/Comirnaty (12 years old & above)</td>
     </tr>		
     <tr>
       <td>Punggol Polyclinic</td>
@@ -217,7 +217,7 @@ From 25 October 2022: Moderna/Spikevax
 		<tr>
       <td>Bukit Panjang Polyclinic</td>
       <td>50 Woodlands Road, Singapore 677726</td>
-			<td>From 25 October 2022: Pfizer/Comirnaty
+			<td>Pfizer/Comirnaty
 (Children aged 5 to 11 years)</td>
     </tr> 
   </tbody>
