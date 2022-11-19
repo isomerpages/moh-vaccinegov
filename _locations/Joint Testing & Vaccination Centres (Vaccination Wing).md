@@ -54,7 +54,7 @@ School)</td>
 			<td>Monday - Thursday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm & 6.30pm)<br><br>Friday: 9am-1pm, 2pm-7pm
 (No walk-ins)<br><br> Saturday: 9am-1pm, 2pm-
 7pm (Walk ins after 2pm)and<br><br>Eve of Public Holiday: 9am-
-1pm (Last walk-in 12.30pm)<br><br>Sun and gazetted Public Holidays: Close</td>
+1pm (Last walk-in 12.30pm)<br><br>Sun and gazetted Public Holidays: Closed</td>
     </tr>	
     <tr>
       <td>JTVC Commonwealth (Former MOE Heritage Centre)</td>
