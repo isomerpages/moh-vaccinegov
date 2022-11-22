@@ -244,7 +244,7 @@ or removed easily<br><br>
 					<label for="question-2-6" class="tab-label">Will parents/guardians be allowed to accompany their child/ward to the vaccination location?</label>
 					<div class="tab-content">
 						<p>
-							A parental/legal guardian is required to be present if your child/ward is below 13 years old.</p>
+							Yes, if your child/ward is 12 years and below.</p>
 					</div>
 				</div>
 			</div>
@@ -318,14 +318,16 @@ or removed easily<br><br>
     				<label for="question-3-4" class="tab-label">I have recovered from a COVID-19 infection and have an official record of the infection. Can I take my COVID-19 vaccine now?
     				</label>
     				<div class="tab-content">
-    					<p>Persons who had recovered from COVID-19 and had received two doses of mRNA or Nuvaxovid vaccines, or three doses of Sinovac-CoronaVac before their infection are considered to have completed their primary series. Persons who have not completed their primary vaccination series before recovering from a COVID-19 infection, are recommended to complete their primary series.<br><br>
-If you are due for your vaccination based on the schedules recommended in the National Vaccination Programme (e.g. to receive a booster dose about 5 months after two doses of mRNA or Nuvaxovid vaccines), you may receive your next vaccine dose 3 months after infection.
+    					<p>If you had a documented infection before receiving any COVID-19 vaccines, you are considered to have minimum protection if you have received two mRNA or Novavax/Nuvaxovid vaccine doses
+after your infection (i.e. infection-vaccination-vaccination = minimum protection). Otherwise, please complete a total of three mRNA or Novavax/Nuvaxovid vaccine doses to achieve minimum
+protection.<br><br>
+Beyond minimum protection, infection is not considered as a substitute for a shot to keep up-to-date with your vaccination.
 								</p>
     				</div>
     			</div>	
     			<div class="tab">
     				<input id="question-3-5" type="checkbox">
-    				<label for="question-3-5" class="tab-label">I had received 2 doses of the Sinovac-CoronaVac vaccine. Am I considered fully vaccinated?
+    				<label for="question-3-5" class="tab-label">I had completed three doses of the Sinovac-CoronaVac vaccine. Do I need to receive a fourth dose of Sinovac-CoronaVac?
     				</label>
     				<div class="tab-content">
     					<p>You are recommended to receive three doses of the Sinovac-CoronaVac COVID-19 vaccine as your primary vaccination series. It is recommended that the third dose be administered three months
