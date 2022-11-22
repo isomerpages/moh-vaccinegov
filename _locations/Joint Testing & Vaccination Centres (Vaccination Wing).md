@@ -38,7 +38,7 @@ The Moderna Bivalent vaccine is available only at Joint Testing and Vaccin
       <td>JTVC Pasir Ris (Former Siglap Secondary School)</td>
       <td>10 Pasir Ris Drive 10 Singapore 519385</td>
 			<td>Moderna/Spikevax Bivalent (BA.1) (18 years old & above),<br><br> Pfizer/Comirnaty (12 years old & above)</td>
-			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm & 6.30pm)<br><br> Sat and Eve of Public Holiday: 9am-1pm (Last walk-in 12.30pm)<br><br>Sun and gazetted Public Holidays: Close</td>
+			<td>Monday - Thursday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm & 6.30pm)<br><br>Friday: 9am-1pm, 2pm-7pm (No walk-ins)<br><br>Saturday: 9am-1pm, 2pm-7pm (Walk ins after 2pm)<br><br>Eve of Public Holiday: 9am-1pm (Last walk-in 12.30pm)</td>
     </tr>
     <tr>
       <td>JTVC Kaki Bukit (Former Bedok North Secondary
