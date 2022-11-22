@@ -31,7 +31,7 @@ minimum protection??</label>
 								Persons who are eligible for their third booster dose will be invited from about five months after completing their second dose.<br><br>
 								Parents/guardians of individuals aged 5 to 17 years will receive an SMS notification when their child/ward is eligible, to provide consent and book their child/ward’s booster vaccination appointment.<br><br>
 								Eligible individuals aged 18 years and above will receive an SMS with a personalised link to book an appointment at https://appointment.vaccine.gov.sg.<br><br>
-								Alternatively, all individuals aged 12 years and above who are eligible for COVID-19 vaccination may walk in for their first booster doses, without prior appointment, everyday of the week, before 6.30pm:<br>
+								Alternatively, all individuals aged 12 years and above who are eligible for their third dose of COVID-19 vaccination may walk in without prior appointment, everyday of the week, before 6.30pm:<br>
 								<span>• Individuals <strong> aged 12 to 17 years </strong> may walk in to any Joint Testing and Vaccination Centre (JTVC) offering the Pfizer-BioNTech/Comirnaty vaccine. These individuals will be required to bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a>.</span><br>
 								<span>• Individuals <strong> aged 18 years and above </strong> may walk into any JTVC.</span><br>
 								<span>• If you are <strong> 60 years old and above</strong>, you may walk into any JTVC or participating Public Health Preparedness Clinics (PHPCs).</span> <br><br>
