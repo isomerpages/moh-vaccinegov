@@ -55,16 +55,17 @@ minimum protection??</label>
 						<input id="question-1-5" type="checkbox">
 							<label for="question-1-5" class="tab-label">How do I register for mRNA vaccination?</label>
 						<div class="tab-content">
-							<p>For children aged 6 months to 11 years who have yet to receive any COVID-19 vaccine, parents/guardians will have to first register their child/ward at https://child.vaccine.gov.sg/. Registration for children aged 6 months to 4 years will start on 18 October 2022. An SMS with a personalised booking link will be sent to the registered mobile number of the parent/guardian within three to five working days to book a vaccination appointment via the National Appointment System. At the moment, vaccination for 6 months to
+							<p>For children aged 6 months to 11 years who have yet to receive any COVID-19 vaccine, parents/guardians will have to first register their child/ward at https://child.vaccine.gov.sg/. An SMS with a personalised booking link will be sent to the registered mobile number of the parent/guardian within three to five working days to book a vaccination appointment via the National Appointment System. At the moment, vaccination for 6 months to
 11 years old is only available at dedicated Vaccination Centres (VCs), selected Polyclinics and Public Health Preparedness Clinics (PHPCs).<br><br>
 Please visit https://www.gowhere.gov.sg/vaccine to locate the nearest VC, Polyclinic or PHPC offering vaccines for children aged 6 months to 4 years, and 5 to 11 years.<br><br>
-						 The following groups of individuals may receive their vaccinations via the following means:<br>
+						 Individuals in other age groups may receive their vaccinations via the following means:<br>
 						 <span>• Individuals <strong>aged 12 to 17 years</strong> may walk in to any Joint Testing and Vaccination Centre (JTVC)
 offering the Pfizer-BioNTech/Comirnaty vaccine.</span><br>
 						 <span>• Individuals <strong>aged 18 years and above</strong> may walk in to any JTVC.</span><br>
 						 <span>• Seniors <strong>aged 60 years and above</strong> may walk in to any JTVC or participating PHPCs.</span><br><br>
 Individuals mentioned above may also receive their vaccination at polyclinics and PHPCs. Vaccinations at polyclinics will only be accepted on appointment basis, with the exception of seniors aged 80 years and above who may walk in for their vaccination. Individuals who wish to receive their vaccination at participating PHPCs are strongly encouraged to make an appointmentwith the PHPC to avoid long waiting times.<br><br>
-													Under the National Vaccination Programme, children/wards below 18 must have the consent of their parents/guardians to receive their vaccination. They must bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a>.<br><br>
+													Under the National Vaccination Programme, children/wards below 18 must have the consent of their parents/guardians to receive their vaccination.  Those between the age 13 to 17 years must bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a>. Those aged 12 and below must be accompanied by a
+parent/guardian.<br><br>
 Holders of Training Employment Pass, Training Work Permit, Work Holiday Pass, Special Pass and Short Term Visit Pass with a pass validity period of at least 60 days may walk in to any JTVC to receive their vaccination. The pass holder should bring along identifying documents such as your passport or approval of extension for verification purposes. No prior booking or registration is required.					
 						</p>
 							</div>
