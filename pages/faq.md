@@ -24,10 +24,11 @@ permalink: /faq/
 				<div class="tab">
 						<input id="question-1-3" type="checkbox">
 						<label for="question-1-3" class="tab-label">	
-Do I need to register for my first booster dose?</label>
+When and how can register for my vaccine doses to achieve
+minimum protection??</label>
 						<div class="tab-content">
 							<p>
-								Persons who are eligible for their first booster dose will be invited, from about five months after their primary vaccination series.<br><br>
+								Persons who are eligible for their third booster dose will be invited from about five months after completing their second dose.<br><br>
 								Parents/guardians of individuals aged 5 to 17 years will receive an SMS notification when their child/ward is eligible, to provide consent and book their child/ward’s booster vaccination appointment.<br><br>
 								Eligible individuals aged 18 years and above will receive an SMS with a personalised link to book an appointment at https://appointment.vaccine.gov.sg.<br><br>
 								Alternatively, all individuals aged 12 years and above who are eligible for COVID-19 vaccination may walk in for their first booster doses, without prior appointment, everyday of the week, before 6.30pm:<br>
