@@ -143,7 +143,9 @@ https://gowhere.gov.sg/vaccine.</p>
 						<label for="question-1-14" class="tab-label">I want to get my child/ward who is between 5 and 11 years old vaccinated. What do I need to
 do?</label>
 						<div class="tab-content">
-							<p>You may register your child/ward at https://child.vaccine.gov.sg . An SMS with a personalised booking link will be sent to the registered mobile number of the parent/guardian within three to five working days to book a vaccination appointment at selected polyclinics and Public Health Preparedness Clinics (PHPCs) offering paediatric Pfizer-BioNTech/Comirnaty vaccine dose.<br><br>
+							<p>If your child/ward has not received any COVID-19 vaccinations, you may register your child/ward at https://child.vaccine.gov.sg . An SMS with a personalised booking link will be sent to the registered mobile number of the parent/guardian within three to five working days to book a vaccination appointment at dedicated Vaccination Centres (VCs), selected polyclinics or Public Health Preparedness Clinics (PHPCs) offering paediatric Pfizer-BioNTech/Comirnaty vaccine.<br><br>
+								Children aged 5 years and above who completed their second dose more than five months ago are recommended to take a third dose (also known as booster dose). Parents/guardians will
+receive an SMS at the mobile number that you had registered with for your child/ward’s previous COVID-19 vaccination appointment, and they may book an appointment via the personalised booking link provided. You must bring your child/ward’s form of identification (e.g. Birth Certificate/Passport/Student Identification Card/Singpass) on the day of vaccination for verification purposes. You are also required to accompany your child/ward when they receive their vaccination.<br><br>
 							To find a vaccination location near you that offers the paediatric vaccines, please visit https://gowhere.gov.sg/vaccine
 						</p>
 							</div>
