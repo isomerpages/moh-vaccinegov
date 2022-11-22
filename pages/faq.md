@@ -74,15 +74,10 @@ Holders of Training Employment Pass, Training Work Permit, Work Holiday Pass, Sp
 						<input id="question-1-6" type="checkbox">
 							<label for="question-1-6" class="tab-label">How do I register to receive Sinovac-CoronaVac?</label>
 						<div class="tab-content">
-							<p>We strongly recommend that you receive the mRNA vaccine or Novavax/Nuvaxovid to complete your primary vaccination series and booster doses, in view of the lower efficacy of the Sinovac-CoronaVac vaccine.<br><br>
-								<strong>For primary vaccination series:</strong><br><br>
-								Should you choose to receive the Sinovac-CoronaVac vaccine instead, you may do so at selected participating Public Health Preparedness Clinics (PHPCs) offering the vaccine. You are strongly
-encouraged to call the clinic beforehand to make an appointment. Please visit https://gowhere.gov.sg/vaccine to find the PHPCs offering the vaccine.<br><br>
-If you are medically ineligible for the mRNA and Novavax/Nuvaxovid vaccines, and were previously invited to receive the Sinovac-CoronaVac vaccine under a special public health programme, please follow the instructions in your SMS invitation to continue with the regime.<br><br>
-								
-<strong>For booster:</strong><br><br>
-								When you are eligible for your booster dose, you will receive an SMS with a personalised booking link to make an appointment at selected PHPCs offering Sinovac-CoronaVac.<br><br>
-If you are medically ineligible for the mRNA vaccine and Novavax/Nuvaxovid, you should receive the Sinovac-CoronaVac vaccine as a booster.					
+							<p>We strongly recommend that you receive the mRNA or Novavax/Nuvaxovid vaccines for your COVID-19 vaccinations in view of the lower efficacy of the Sinovac-CoronaVac vaccine.<br><br>
+								Should you choose to receive the Sinovac-CoronaVac vaccine instead, you may do so at selected participating Public Health Preparedness Clinics (PHPCs) offering the vaccine. Please call the clinic beforehand to make an appointment. Please visit https://gowhere.gov.sg/vaccine for a list of the PHPCs offering the vaccine.<br><br>
+								You should receive four doses of the Sinovac-CoronaVac vaccine to achieve minimum protection.<br><br>
+If you are medically ineligible for the mRNA and Novavax/Nuvaxovid vaccines, and were previously invited to receive the Sinovac-CoronaVac vaccine under a special public health programme, please follow the instructions in your SMS invitation to continue with the regime.<br><br>			
 	</p> 
 							</div>
 					</div>
@@ -133,11 +128,11 @@ your existing SMS invite, to receive your vaccination at JTVC Bishan or any of t
 					</div>
 					<div class="tab">
 						<input id="question-1-13" type="checkbox">
-						<label for="question-1-13" class="tab-label">I want to get my child/ward is between 6 months and 4 years old
+						<label for="question-1-13" class="tab-label">I want to get my child/ward who is between 6 months and 4 years old
 vaccinated. What do I need to do?</label>
 						<div class="tab-content">
 							<p>
-						From 18 October 2022, parents/guardians of children aged 6 months to 4 years need to register their interest for their child/ward to receive the vaccination at https://child.vaccine.gov.sg . An SMS with a personalized booking link will be sent to the registered mobile number of the parent/guardian within three to five working days to book a
+						Parents/guardians of children aged 6 months to 4 years need to register their interest for their child/ward to receive the vaccination at https://child.vaccine.gov.sg . An SMS with a personalized booking link will be sent to the registered mobile number of the parent/guardian within three to five working days to book a
 vaccination appointment. Vaccination for this age band is only available at dedicated Vaccination Centres (VCs) and selected Polyclinics offering the paediatric Moderna/Spikevax vaccine dose.<br><br>
 							To find a vaccination location near you that offers the paediatric vaccines, please visit
 https://gowhere.gov.sg/vaccine.</p>
