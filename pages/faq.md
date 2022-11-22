@@ -55,7 +55,7 @@ minimum protection??</label>
 						<input id="question-1-5" type="checkbox">
 							<label for="question-1-5" class="tab-label">How do I register for mRNA vaccination?</label>
 						<div class="tab-content">
-							<p>For children aged 6 months to 11 years who have yet to receive their primary vaccination series, parents/guardians will have to first register their child/ward at https://child.vaccine.gov.sg/. Registration for children aged 6 months to 4 years will start on 18 October 2022. An SMS with a personalised booking link will be sent to the registered mobile number of the parent/guardian within three to five working days to book a vaccination appointment via the National Appointment System. At the moment, vaccination for 6 months to
+							<p>For children aged 6 months to 11 years who have yet to receive any COVID-19 vaccine, parents/guardians will have to first register their child/ward at https://child.vaccine.gov.sg/. Registration for children aged 6 months to 4 years will start on 18 October 2022. An SMS with a personalised booking link will be sent to the registered mobile number of the parent/guardian within three to five working days to book a vaccination appointment via the National Appointment System. At the moment, vaccination for 6 months to
 11 years old is only available at dedicated Vaccination Centres (VCs), selected Polyclinics and Public Health Preparedness Clinics (PHPCs).<br><br>
 Please visit https://www.gowhere.gov.sg/vaccine to locate the nearest VC, Polyclinic or PHPC offering vaccines for children aged 6 months to 4 years, and 5 to 11 years.<br><br>
 						 The following groups of individuals may receive their vaccinations via the following means:<br>
