@@ -167,10 +167,11 @@ accompany him/her, as per the arrangements for the previous COVID-19 vaccination
 					</div>				
 					<div class="tab">
 						<input id="question-1-16" type="checkbox">
-						<label for="question-1-16" class="tab-label">Will it be possible for parents/guardians to take their booster shot together with their child/ward?</label>
+						<label for="question-1-16" class="tab-label">Will it be possible for parents/guardians to be vaccinated together with their child/ward?</label>
 						<div class="tab-content">
 							<p>
-						Children aged 12 and under will require the accompaniment of their parent/guardian. Parents/guardians will not be able to take their booster shot during their child/ward’s vaccination.
+						Parents/guardians who accompany their child/wards aged 12 years and under for vaccination will not be able to receive their vaccination together with their child/ward as the dosage for adults
+and children are different.
 							</p>
 							</div>
 					</div>					
