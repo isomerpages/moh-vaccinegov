@@ -155,9 +155,14 @@ receive an SMS at the mobile number that you had registered with for your child/
 						<label for="question-1-15" class="tab-label">I want to get my child/ward (12 to 17 years old) vaccinated. What do I need to do?</label>
 						<div class="tab-content">
 							<p>
-								Under the National Vaccination Programme, if your child/ward is below the age of 18, your consent is required for him/her to get vaccinated. If your child/ward is 12 years old, you will need to accompany him/her during the vaccination.<br><br>
 He/she may walk in without an appointment to any Vaccination Centre or Joint Testing Vaccination Centre offering the Pfizer-BioNTech/Comirnaty vaccine for his/her vaccination dose. All children aged 12 to 17 will also be required to bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a>.<br><br>
-</p>
+								Individuals aged 12 to 17 years old can walk in to any Joint Testing and Vaccination Centre (JTVC) offering the Pfizer-BioNTech/Comirnaty vaccine to receive their three doses for minimum
+protection, without the need for prior appointment. You will also receive an SMS inviting your child/ward to take their third dose (also known as booster dose) when eligible, at the mobile number that you had registered with for your child/ward’s previous COVID-19 vaccinations. If your child/ward is 12 to 17 years old, he/she will require your consent to receive his/her vaccinations.<br><br>
+								Individuals must bring along their identification document (e.g. Birth Certificate/Passport/Student Identification Card/Singpass) for verification purposes, as well as a duly completed and signed
+hard or electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a>.<br><br>.
+								You do not need accompany your child/ward if he/she is aged 13 years and above. However, if he/she is 12 years old or a student in a Special Education (SPED) school you will need to
+accompany him/her, as per the arrangements for the previous COVID-19 vaccinations.
+								</p>
 							</div>
 					</div>				
 					<div class="tab">
