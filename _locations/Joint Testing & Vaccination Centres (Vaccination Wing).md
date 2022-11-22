@@ -87,10 +87,7 @@ School)</td>
       <td>JTVC Jurong West (Former Hong Kah Secondary School)<br><br>(From 21 November 2022)</td>
       <td>931 Jurong West Street 42 Singapore 649370</td>
 			<td>Moderna/Spikevax Bivalent (BA.1) (18 years old & above),<br><br> Pfizer/Comirnaty (12 years old & above)</td>
-			<td>Monday - Thursday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm & 6.30pm)<br><br>Friday: 9am-1pm, 2pm-7pm
-(No walk-ins)<br><br>Saturday: 9am-1pm, 2pm-
-7pm (Walk ins after 2pm)<br><br>Eve of Public Holiday: 9am-
-1pm (Last walk-in 12.30pm)<br><br>Sun and gazetted Public Holidays: Closed</td>
+			<td>Monday - Thursday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm & 6.30pm)<br><br>Friday: 9am-1pm, 2pm-7pm (No walk-ins)<br><br>Saturday: 9am-1pm, 2pm-7pm (Walk ins after 2pm)<br><br>Eve of Public Holiday: 9am-1pm (Last walk-in 12.30pm)</td>
     </tr>
 	</tbody>
 </table>
