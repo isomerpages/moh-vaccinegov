@@ -6,10 +6,9 @@ For children aged 6 months to 11 years who have yet to receive any COVID-19 vacc
  
 Please visit https://www.gowhere.gov.sg/vaccine to locate the nearest VC, Polyclinic or PHPC offering vaccines for children aged 6 months to 4 years, and 5 to 11 years.
 
-Individuals in other age groups may receive their vaccinations via the following means:
-• Individuals aged 12 to 17 years may walk in to any Joint Testing and Vaccination Centre (JTVC) offering the
-Pfizer-BioNTech/Comirnaty vaccine.
-• Individuals aged 18 years and above may walk in to any JTVC*.
+Individuals in other age groups may receive their vaccinations via the following means:<br>
+• Individuals aged 12 to 17 years may walk in to any Joint Testing and Vaccination Centre (JTVC) offering the Pfizer-BioNTech/Comirnaty vaccine.<br>
+• Individuals aged 18 years and above may walk in to any JTVC*.<br>
 • Seniors aged 60 years and above may walk in to any JTVC or participating PHPCs.
 
 Individuals may also receive their vaccination at polyclinics and PHPCs. Vaccinations at polyclinics will only be offered on appointment basis, with the exception of seniors aged 80 years and above who may walk in for their vaccination. Individuals who wish to receive their vaccination at participating PHPCs are strongly encouraged to make an appointment with the PHPC to avoid long waiting times.
