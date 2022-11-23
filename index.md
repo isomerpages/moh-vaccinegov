@@ -23,8 +23,6 @@ sections:
           url: /appeal
   - infobar:
       title: Primary & Booster Doses
-      description: If you are aged 12 and above, walk-in to receive your vaccination
-        and booster at any JTVC
       button: CLICK Here for locations
       url: https://www.vaccine.gov.sg/locations
   - infobar:
