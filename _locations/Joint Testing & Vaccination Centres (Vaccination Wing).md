@@ -1,8 +1,9 @@
 ---
 title: Joint Testing & Vaccination Centres (Vaccination Wing)
-permalink: /locations/
+permalink: /locations/jtvc/
 description: ""
 ---
+
 ### **JTVC Locations (Vaccination Wing)**
 The clinics and polyclinics are currently offering Monovalent Pfizer-BioNTech/Comirnaty vaccine. 
 
