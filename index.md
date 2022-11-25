@@ -24,7 +24,7 @@ sections:
   - infobar:
       title: Primary & Booster Doses
       button: CLICK Here for locations
-      url: https://www.vaccine.gov.sg/locations
+      url: https://www.vaccine.gov.sg/locations/jtvc/
   - infobar:
       title: Children Vaccination
       description: For information on vaccinating children aged 6 months -11 years
