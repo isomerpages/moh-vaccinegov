@@ -25,7 +25,7 @@ permalink: /faq/
 						<input id="question-1-3" type="checkbox">
 						<label for="question-1-3" class="tab-label">	
 When and how can register for my vaccine doses to achieve
-minimum protection??</label>
+minimum protection?</label>
 						<div class="tab-content">
 							<p>
 								Persons who are eligible for their third booster dose will be invited from about five months after completing their second dose.<br><br>
