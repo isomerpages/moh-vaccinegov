@@ -45,15 +45,17 @@ minimum protection?</label>
 						<div class="tab-content">
 							<p>
 						Persons aged 5 years and above should complete three mRNA or Novavax/Nuvaxovid doses, or four Sinovac-CoronaVac doses to achieve minimum protection.<br><br>
-								After achieving minimum protection, persons aged 50 years and above should receive an additional booster dose between five months to one year from their last dose, to keep up-to-date with their COVID-19 vaccination. The updated bivalent vaccine is recommended for this. Individuals will be considered up-to-date with their COVID-19 vaccination if they have received at least the minimum protection and their last vaccine dose was received within the past one year.<br><br>
-						Persons aged 50 years and above may walk into any Joint Testing and Vaccination Centre (JTVC) offering the Moderna/Spikevax vaccines to receive their bivalent vaccine dose.<br><br>
-								Please refer to https://gowhere.gov.sg/vaccine to locate the nearest JTVC and their operating hours.
+						After achieving minimum protection, persons aged 12 years and above should receive an additional booster dose between five months to one year from their last dose, to keep up-to-date with their COVID-19 vaccination. The updated bivalent vaccine is recommended for this. Individuals will be considered up-to-date with their COVID-19 vaccination if they have received at least the minimum protection and their last vaccine dose was received within the past one year. Persons aged 50 years and above may walk into any Joint Testing and Vaccination Centre (JTVC) to receive their bivalent vaccine dose*.<br><br>
+						Persons aged 12 to 49 years will be invited to receive their bivalent vaccine dose when eligible. An SMS with a personalised booking link will be sent to the mobile number that you had registered for your previous COVID-19 vaccinations, and you may book an appointment at any of the vaccination sites offering the bivalent vaccines via the personalised booking link provided.<br><br>
+						We seek your patience and understanding that the SMS may take up to two weeks for some as more appointment slots become available. If you do not receive your SMS, please contact 6995 9199.<br><br>
+						Please refer to https://gowhere.gov.sg/vaccine to locate the nearest JTVC and their operating hours. <br><br>
+						*From 12 December 2022, the bivalent Pfizer-BioNTech/Comirnaty vaccine will replace the current original Pfizer-BioNTech/Comirnaty vaccines at all vaccination locations or persons aged 12 years and above.
 								</p>
 							</div>
 					</div>
 				   <div class="tab">
 						<input id="question-1-5" type="checkbox">
-							<label for="question-1-5" class="tab-label">How do I register for mRNA vaccination?</label>
+							<label for="question-1-5" class="tab-label">How do I register for the first two doses of mRNA vaccination?</label>
 						<div class="tab-content">
 							<p>For children aged 6 months to 11 years who have yet to receive any COVID-19 vaccine, parents/guardians will have to first register their child/ward at https://child.vaccine.gov.sg/. An SMS with a personalised booking link will be sent to the registered mobile number of the parent/guardian within three to five working days to book a vaccination appointment via the National Appointment System. At the moment, vaccination for 6 months to
 11 years old is only available at dedicated Vaccination Centres (VCs), selected Polyclinics and Public Health Preparedness Clinics (PHPCs).<br><br>
@@ -85,7 +87,7 @@ If you are medically ineligible for the mRNA and Novavax/Nuvaxovid vaccines, and
 						<input id="question-1-7" type="checkbox">
 							<label for="question-1-7" class="tab-label">How can I register to receive the Novavax/Nuvaxovid COVID-19 vaccine?</label>
 						<div class="tab-content">
-							<p>You may walk in to the Joint Testing and Vaccination Centre (JTVC) in Bishan to receive the Novavax/Nuvaxovid vaccine. Alternatively, you may book an appointment using the link from your existing SMS invite, to receive your vaccination at JTVC Bishan or any of the selected Polyclinics and participating Public Health Preparedness Clinics (PHPCs).<br><br>Please note that the Novavax/Nuvaxovid vaccine is only approved for use in persons aged 18 and
+							<p>You may book an appointment using the link from your existing SMS invite, to receive your vaccination at any of the selected Polyclinics and participating Public Health Preparedness Clinics (PHPCs).<br><br>Please note that the Novavax/Nuvaxovid vaccine is only approved for use in persons aged 18 and
 above.
 	</p> 
 							</div>
@@ -155,11 +157,10 @@ receive an SMS at the mobile number that you had registered with for your child/
 						<label for="question-1-15" class="tab-label">I want to get my child/ward (12 to 17 years old) vaccinated. What do I need to do?</label>
 						<div class="tab-content">
 							<p>
-He/she may walk in without an appointment to any Vaccination Centre or Joint Testing Vaccination Centre offering the Pfizer-BioNTech/Comirnaty vaccine for his/her vaccination dose. All children aged 12 to 17 will also be required to bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a>.<br><br>
-								Individuals aged 12 to 17 years old can walk in to any Joint Testing and Vaccination Centre (JTVC) offering the Pfizer-BioNTech/Comirnaty vaccine to receive their three doses for minimum
-protection, without the need for prior appointment. You will also receive an SMS inviting your child/ward to take their third dose (also known as booster dose) when eligible, at the mobile number that you had registered with for your child/ward’s previous COVID-19 vaccinations. If your child/ward is 12 to 17 years old, he/she will require your consent to receive his/her vaccinations.<br><br>
+								Individuals aged 12 to 17 years old can walk in to any Joint Testing and Vaccination Centre (JTVC) offering the Pfizer-BioNTech/Comirnaty vaccine to receive their three doses for minimum protection, without the need for prior appointment. You will also receive an SMS inviting your child/ward to take their third dose (also known as booster dose) when eligible, at the mobile number that you had registered with for your child/ward’s previous COVID-19 vaccinations. If your child/ward is 12 to 17 years old, he/she will require your consent to receive his/her vaccinations.<br><br>
+								You will also receive an SMS about five months after your child/ward has achieved minimum protection, to invite them to receive their additional booster dose to keep up-to-date with their COVID-19 vaccination. The updated bivalent Pfizer-BioNTech/Comirnaty vaccine is recommended for this. Walk-ins for this age group receiving their additional boosters are currently not allowed, and appointments should be booked beforehand via the personalised booking link provided.<br><br>
 								Individuals must bring along their identification document (e.g. Birth Certificate/Passport/Student Identification Card/Singpass) for verification purposes, as well as a duly completed and signed
-hard or electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a>.<br><br>.
+hard or electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a>.<br><br>
 								You do not need accompany your child/ward if he/she is aged 13 years and above. However, if he/she is 12 years old or a student in a Special Education (SPED) school you will need to
 accompany him/her, as per the arrangements for the previous COVID-19 vaccinations.
 								</p>
@@ -189,12 +190,12 @@ and children are different.
 								These would be doses that were previously referred to as the primary vaccination series and the first booster.<br><br>
 								The following persons who have achieved minimum protection should receive an additional booster dose between five months to one year from their last vaccine dose to keep up-to-date
 with their COVID-19 vaccination:<br>
-									<span>• Persons aged 18 years and above</span><br>
+									<span>• Persons aged 12 years and above</span><br>
 								<span>• Persons who live in aged care facilities</span><br>
 								<span>• Persons who are medically vulnerable and at higher risk of severe disease</span><br><br>
-								The updated bivalent vaccine is recommended for this.  A person is considered up-to-date with their COVID-19 vaccination if they have received at least the minimum protection and their last
+								The updated bivalent vaccine is recommended for this. A person is considered up-to-date with their COVID-19 vaccination if they have received at least the minimum protection and their last
 vaccine dose was received within the past one year.<br><br>
-								*To achieve minimum protection, persons who had received the first dose of the mRNA or Novavax/Nuvaxovid vaccines, but are medically ineligible to continue with the vaccines, should receive 3 doses of the Sinovac-CoronaVac vaccine
+								*To achieve minimum protection, persons who had received the first dose of the mRNA or Novavax/Nuvaxovid vaccines, but are medically ineligible to continue with the vaccines, should receive 3 doses of the Sinovac-CoronaVac vaccine.
 							</p>
 						</div>
 					</div>				
