@@ -30,7 +30,7 @@ minimum protection?</label>
 							<p>
 								Persons who are eligible for their third booster dose will be invited from about five months after completing their second dose.<br><br>
 								Parents/guardians of individuals aged 5 to 17 years will receive an SMS notification when their child/ward is eligible, to provide consent and book their child/ward’s booster vaccination appointment.<br><br>
-								Eligible individuals aged 18 years and above will receive an SMS with a personalised link to book an appointment at https://appointment.vaccine.gov.sg.<br><br>
+								Eligible individuals aged 18 years and above will receive an SMS with a personalised link to book an appointment at <a href="https://appointment.vaccine.gov.sg">https://appointment.vaccine.gov.sg</a>.<br><br>
 								Alternatively, all individuals aged 12 years and above who are eligible for their third dose of COVID-19 vaccination may walk in without prior appointment, everyday of the week, before 6.30pm:<br>
 								<span>• Individuals <strong> aged 12 to 17 years </strong> may walk in to any Joint Testing and Vaccination Centre (JTVC) offering the Pfizer-BioNTech/Comirnaty vaccine. These individuals will be required to bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a>.</span><br>
 								<span>• Individuals <strong> aged 18 years and above </strong> may walk into any JTVC.</span><br>
@@ -48,7 +48,7 @@ minimum protection?</label>
 						After achieving minimum protection, persons aged 12 years and above should receive an additional booster dose between five months to one year from their last dose, to keep up-to-date with their COVID-19 vaccination. The updated bivalent vaccine is recommended for this. Individuals will be considered up-to-date with their COVID-19 vaccination if they have received at least the minimum protection and their last vaccine dose was received within the past one year. Persons aged 50 years and above may walk into any Joint Testing and Vaccination Centre (JTVC) to receive their bivalent vaccine dose*.<br><br>
 						Persons aged 12 to 49 years will be invited to receive their bivalent vaccine dose when eligible. An SMS with a personalised booking link will be sent to the mobile number that you had registered for your previous COVID-19 vaccinations, and you may book an appointment at any of the vaccination sites offering the bivalent vaccines via the personalised booking link provided.<br><br>
 						We seek your patience and understanding that the SMS may take up to two weeks for some as more appointment slots become available. If you do not receive your SMS, please contact 6995 9199.<br><br>
-						Please refer to https://gowhere.gov.sg/vaccine to locate the nearest JTVC and their operating hours. <br><br>
+						Please refer to <a href="https://gowhere.gov.sg/vaccine"> https://gowhere.gov.sg/vaccine</a> to locate the nearest JTVC and their operating hours. <br><br>
 						*From 12 December 2022, the bivalent Pfizer-BioNTech/Comirnaty vaccine will replace the current original Pfizer-BioNTech/Comirnaty vaccines at all vaccination locations or persons aged 12 years and above.
 								</p>
 							</div>
@@ -57,9 +57,9 @@ minimum protection?</label>
 						<input id="question-1-5" type="checkbox">
 							<label for="question-1-5" class="tab-label">How do I register for the first two doses of mRNA vaccination?</label>
 						<div class="tab-content">
-							<p>For children aged 6 months to 11 years who have yet to receive any COVID-19 vaccine, parents/guardians will have to first register their child/ward at https://child.vaccine.gov.sg/. An SMS with a personalised booking link will be sent to the registered mobile number of the parent/guardian within three to five working days to book a vaccination appointment via the National Appointment System. At the moment, vaccination for 6 months to
+							<p>For children aged 6 months to 11 years who have yet to receive any COVID-19 vaccine, parents/guardians will have to first register their child/ward at <a href="https://child.vaccine.gov.sg"> https://child.vaccine.gov.sg</a>. An SMS with a personalised booking link will be sent to the registered mobile number of the parent/guardian within three to five working days to book a vaccination appointment via the National Appointment System. At the moment, vaccination for 6 months to
 11 years old is only available at dedicated Vaccination Centres (VCs), selected Polyclinics and Public Health Preparedness Clinics (PHPCs).<br><br>
-Please visit https://www.gowhere.gov.sg/vaccine to locate the nearest VC, Polyclinic or PHPC offering vaccines for children aged 6 months to 4 years, and 5 to 11 years.<br><br>
+Please visit <a href="https://gowhere.gov.sg/vaccine"> https://gowhere.gov.sg/vaccine</a> to locate the nearest VC, Polyclinic or PHPC offering vaccines for children aged 6 months to 4 years, and 5 to 11 years.<br><br>
 						 Individuals in other age groups may receive their vaccinations via the following means:<br>
 						 <span>• Individuals <strong>aged 12 to 17 years</strong> may walk in to any Joint Testing and Vaccination Centre (JTVC)
 offering the Pfizer-BioNTech/Comirnaty vaccine.</span><br>
@@ -77,7 +77,7 @@ Holders of Training Employment Pass, Training Work Permit, Work Holiday Pass, Sp
 							<label for="question-1-6" class="tab-label">How do I register to receive Sinovac-CoronaVac?</label>
 						<div class="tab-content">
 							<p>We strongly recommend that you receive the mRNA or Novavax/Nuvaxovid vaccines for your COVID-19 vaccinations in view of the lower efficacy of the Sinovac-CoronaVac vaccine.<br><br>
-								Should you choose to receive the Sinovac-CoronaVac vaccine instead, you may do so at selected participating Public Health Preparedness Clinics (PHPCs) offering the vaccine. Please call the clinic beforehand to make an appointment. Please visit https://gowhere.gov.sg/vaccine for a list of the PHPCs offering the vaccine.<br><br>
+								Should you choose to receive the Sinovac-CoronaVac vaccine instead, you may do so at selected participating Public Health Preparedness Clinics (PHPCs) offering the vaccine. Please call the clinic beforehand to make an appointment. Please visit <a href="https://gowhere.gov.sg/vaccine"> https://gowhere.gov.sg/vaccine</a> for a list of the PHPCs offering the vaccine.<br><br>
 								You should receive four doses of the Sinovac-CoronaVac vaccine to achieve minimum protection.<br><br>
 If you are medically ineligible for the mRNA and Novavax/Nuvaxovid vaccines, and were previously invited to receive the Sinovac-CoronaVac vaccine under a special public health programme, please follow the instructions in your SMS invitation to continue with the regime.<br><br>			
 	</p> 
@@ -134,10 +134,9 @@ above.
 vaccinated. What do I need to do?</label>
 						<div class="tab-content">
 							<p>
-						Parents/guardians of children aged 6 months to 4 years need to register their interest for their child/ward to receive the vaccination at https://child.vaccine.gov.sg . An SMS with a personalized booking link will be sent to the registered mobile number of the parent/guardian within three to five working days to book a
+						Parents/guardians of children aged 6 months to 4 years need to register their interest for their child/ward to receive the vaccination at <a href="https://child.vaccine.gov.sg"> https://child.vaccine.gov.sg</a>. An SMS with a personalized booking link will be sent to the registered mobile number of the parent/guardian within three to five working days to book a
 vaccination appointment. Vaccination for this age band is only available at dedicated Vaccination Centres (VCs) and selected Polyclinics offering the paediatric Moderna/Spikevax vaccine dose.<br><br>
-							To find a vaccination location near you that offers the paediatric vaccines, please visit
-https://gowhere.gov.sg/vaccine.</p>
+							To find a vaccination location near you that offers the paediatric vaccines, please visit <a href="https://gowhere.gov.sg/vaccine"> https://gowhere.gov.sg/vaccine</a>.</p>
 							</div>
 					</div>				
 					<div class="tab">
@@ -145,10 +144,10 @@ https://gowhere.gov.sg/vaccine.</p>
 						<label for="question-1-14" class="tab-label">I want to get my child/ward who is between 5 and 11 years old vaccinated. What do I need to
 do?</label>
 						<div class="tab-content">
-							<p>If your child/ward has not received any COVID-19 vaccinations, you may register your child/ward at https://child.vaccine.gov.sg . An SMS with a personalised booking link will be sent to the registered mobile number of the parent/guardian within three to five working days to book a vaccination appointment at dedicated Vaccination Centres (VCs), selected polyclinics or Public Health Preparedness Clinics (PHPCs) offering paediatric Pfizer-BioNTech/Comirnaty vaccine.<br><br>
+							<p>If your child/ward has not received any COVID-19 vaccinations, you may register your child/ward at <a href="https://child.vaccine.gov.sg">https://child.vaccine.gov.sg</a>. An SMS with a personalised booking link will be sent to the registered mobile number of the parent/guardian within three to five working days to book a vaccination appointment at dedicated Vaccination Centres (VCs), selected polyclinics or Public Health Preparedness Clinics (PHPCs) offering paediatric Pfizer-BioNTech/Comirnaty vaccine.<br><br>
 								Children aged 5 years and above who completed their second dose more than five months ago are recommended to take a third dose (also known as booster dose). Parents/guardians will
 receive an SMS at the mobile number that you had registered with for your child/ward’s previous COVID-19 vaccination appointment, and they may book an appointment via the personalised booking link provided. You must bring your child/ward’s form of identification (e.g. Birth Certificate/Passport/Student Identification Card/Singpass) on the day of vaccination for verification purposes. You are also required to accompany your child/ward when they receive their vaccination.<br><br>
-							To find a vaccination location near you that offers the paediatric vaccines, please visit https://gowhere.gov.sg/vaccine
+							To find a vaccination location near you that offers the paediatric vaccines, please visit <a href="https://gowhere.gov.sg/vaccine"> https://gowhere.gov.sg/vaccine</a>.
 						</p>
 							</div>
 					</div>				
@@ -346,7 +345,6 @@ BioNTech/Comirnaty’s dosage for persons aged 12 years and above is higher than
     				</label>
     				<div class="tab-content">
     					<p>Those who received the dosage for persons aged 5 to 11 years for their first dose will continue to receive the same dosage for their second dose, even if they have turned 12 years between the first and second vaccine doses.<br><br>
-
 Those who turn 12 years before their third dose will, for the dose, receive the dosage for persons
 aged 12 years and above.
 							</p>
