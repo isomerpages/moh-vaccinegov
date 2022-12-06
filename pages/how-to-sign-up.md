@@ -18,5 +18,5 @@ From 12 December 2022, the bivalent Pfizer-BioNTech/Comirnaty vaccine will repla
 Under the National Vaccination Programme, children/wards below 18 years must have the consent of their parents/guardians to receive their vaccination. Those between the age of 13 to 17 years must bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded
 here. Those aged 12 and below must be accompanied by a parent/guardian.
 
-*Walk-ins for additional boosters are only applicable only for persons aged 50 years and above for now. Persons between the ages of 18 to 49 receiving their additional booster dose will have to book an appointment. Eligible individuals will receive an SMS invitation with a personalised booking link five months
+*Walk-ins for additional boosters are only applicable only for persons aged 50 years and above for now. Persons between the ages of 12 to 49 receiving their additional booster dose will have to book an appointment. Eligible individuals will receive an SMS invitation with a personalised booking link five months
 after their last dose to book their additional booster dose appointment.
