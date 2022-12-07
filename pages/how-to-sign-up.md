@@ -2,9 +2,9 @@
 title: How to Sign Up
 permalink: /how-to-sign-up/
 ---
-For children aged 6 months to 11 years who have yet to receive any COVID-19 vaccine, parents/guardians will have to first register their child/ward at https://child.vaccine.gov.sg/ . An SMS with a personalised booking link will be sent to the registered mobile number of the parent/guardian within three to five working days to book a vaccination appointment via the National Appointment System. At the moment, vaccination for 6 months to 11 years old is only available at dedicated Vaccination Centres (VCs), selected Polyclinics and Public Health Preparedness Clinics (PHPCs).
+For children aged 6 months to 11 years who have yet to receive any COVID-19 vaccine, parents/guardians will have to first register their child/ward at [child.vaccine.gov.sg](https://child.vaccine.gov.sg/). An SMS with a personalised booking link will be sent to the registered mobile number of the parent/guardian within three to five working days to book a vaccination appointment via the National Appointment System. At the moment, vaccination for 6 months to 11 years old is only available at dedicated Vaccination Centres (VCs), selected Polyclinics and Public Health Preparedness Clinics (PHPCs).
  
-Please visit https://www.gowhere.gov.sg/vaccine to locate the nearest VC, Polyclinic or PHPC offering vaccines for children aged 6 months to 4 years, and 5 to 11 years.
+Please visit [gowhere.gov.sg/vaccine](https://www.gowhere.gov.sg/vaccine) to locate the nearest VC, Polyclinic or PHPC offering vaccines for children aged 6 months to 4 years, and 5 to 11 years.
 
 Individuals in other age groups may receive their vaccinations via the following means:<br>
 **For Minimum Protection**<br>
