@@ -7,16 +7,16 @@ For children aged 6 months to 11 years who have yet to receive any COVID-19 vacc
 Please visit https://www.gowhere.gov.sg/vaccine to locate the nearest VC, Polyclinic or PHPC offering vaccines for children aged 6 months to 4 years, and 5 to 11 years.
 
 Individuals in other age groups may receive their vaccinations via the following means:<br>
+**For Minimum Protection**<br>
 • Individuals aged 12 to 17 years may walk in to any Joint Testing and Vaccination Centre (JTVC) offering the Pfizer-BioNTech/Comirnaty vaccine.<br>
-• Individuals aged 18 years and above may walk in to any JTVC*.<br>
+• Individuals aged 18 years and above may walk in to any JTVC.<br>
 • Seniors aged 60 years and above may walk in to any JTVC or participating PHPCs.
 
 Individuals may also receive their vaccination at polyclinics and PHPCs. Vaccinations at polyclinics will only be offered on appointment basis, with the exception of seniors aged 80 years and above who may walk in for their vaccination. Individuals who wish to receive their vaccination at participating PHPCs are strongly encouraged to make an appointment with the PHPC to avoid long waiting times.
 
-From 12 December 2022, the bivalent Pfizer-BioNTech/Comirnaty vaccine will replace the current original Pfizer-BioNTech/Comirnaty vaccines at all vaccination locations for persons aged 12 years and above.
+**To Keep Up-To-Date (with additional booster)**<br>
+* Eligible individuals aged 12 to 49 will receive an SMS invitation with a personalised booking link five months after achieving minimum protection. Walk-ins are currently not allowed for this age group.
+* Seniors aged 50 and above may walk into any JTVC to receive their additional booster doses.
 
 Under the National Vaccination Programme, children/wards below 18 years must have the consent of their parents/guardians to receive their vaccination. Those between the age of 13 to 17 years must bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded
 here. Those aged 12 and below must be accompanied by a parent/guardian.
-
-*Walk-ins for additional boosters are only applicable only for persons aged 50 years and above for now. Persons between the ages of 12 to 49 receiving their additional booster dose will have to book an appointment. Eligible individuals will receive an SMS invitation with a personalised booking link five months
-after their last dose to book their additional booster dose appointment.
