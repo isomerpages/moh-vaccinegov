@@ -3,20 +3,17 @@ title: Joint Testing & Vaccination Centres (Vaccination Wing)
 permalink: /locations/jtvc/
 description: ""
 ---
-
 ### **JTVC Locations (Vaccination Wing)**
-The clinics and polyclinics are currently offering Monovalent Pfizer-BioNTech/Comirnaty vaccine. 
-
-The Bivalent Pfizer-BioNTech/Comirnaty vaccine will only be available by the end of the year.
+The clinics and polyclinics are currently offering Monovalent Pfizer-BioNTech/Comirnaty vaccine. The Bivalent Pfizer-BioNTech/Comirnaty vaccine for those aged 12 years and above will only be available from 12 December 2022.
 
 **Moderna** **Bivalent** **vaccine**<br>
-The Moderna Bivalent vaccine is available only at Joint Testing and Vaccination Centres (JTVC). If you wish to receive the Moderna Bivalent vaccine, you may visit the nearest JTVC. Persons aged 18 to 49 years will need to book an appointment via the SMS invitation received. Persons aged 50 years and above may walk-in to the JTVC for their Moderna Bivalent vaccination
+The Moderna Bivalent vaccine is available only at Joint Testing and Vaccination Centres (JTVC). If you wish to receive the Moderna Bivalent vaccine, you may visit the nearest JTVC. Persons aged 18 to 49 years will need to book an appointment via the SMS invitation received. Persons aged 50 years and above may walk-in to the JTVC for their Moderna Bivalent vaccination.
 
 
 **For COVID-19 additional booster doses:**
 
 *   Walk-ins are only accepted for persons aged 50 years and above.
-*   Persons aged 18 to 49 years will receive an SMS to book an appointment via NAS.
+*   Persons aged 12 to 49 years will receive an SMS to book an appointment via NAS.
 
 <table>
   <thead>

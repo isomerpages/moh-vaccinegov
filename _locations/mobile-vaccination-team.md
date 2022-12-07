@@ -1,8 +1,8 @@
 ---
 title: Mobile Vaccination Team
-permalink: /locations/mvt
+permalink: /locations/mvt/
 ---
-The mobile vaccination teams will be deployed for 1 to 2 days at each location before moving to other locations.<br>
+The mobile vaccination teams will be deployed for a few days at each location before moving to other locations.<br>
 
 The operating hours for the mobile vaccination teams are:<br>
 

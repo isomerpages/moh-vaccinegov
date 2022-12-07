@@ -2,11 +2,6 @@
 title: Vaccination Centres
 permalink: /locations-vcs/
 ---
-**For COVID-19 additional booster doses:**
-
-*   Walk-ins are only accepted for persons aged 50 years and above.
-*   Persons aged 18 to 49 years will receive an SMS to book an appointment via NAS.
-
 For added convenience, children aged 6 months to 11 years with siblings who have existing appointments on Mondays to Thursdays may walk in to the VCs by 5.30pm, to receive their vaccination at the same time, without a need for an appointment.
 
 ### **Central**

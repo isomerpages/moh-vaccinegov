@@ -2,12 +2,9 @@
 title: Polyclinics
 permalink: /locations-polyclinics/
 ---
-The clinics and polyclinics are currently offering Monovalent Pfizer-BioNTech/Comirnaty. Bivalent Pfizer-BioNTech/Comirnaty will only be available at end of the year.
+The clinics and polyclinics are currently offering Monovalent Pfizer-BioNTech/Comirnaty. The bivalent Pfizer-BioNTech/Comirnaty vaccine for those aged 12 years and above will only be available from 12 December 2022.
 
-If you wish to receive the Bivalent Moderna vaccine, you may visit the nearest Joint Testing and Vaccination Centre (JTVC)
-
-
-Locations that are administering the Covid-19 Vaccines.
+If you wish to receive the Bivalent Moderna vaccine, you may visit the nearest Joint Testing and Vaccination Centre (JTVC).
 
 **For COVID-19 vaccination at the Polyclinics:**
 
