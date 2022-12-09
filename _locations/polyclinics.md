@@ -2,15 +2,14 @@
 title: Polyclinics
 permalink: /locations-polyclinics/
 ---
-The clinics and polyclinics are currently offering Monovalent Pfizer-BioNTech/Comirnaty. The bivalent Pfizer-BioNTech/Comirnaty vaccine for those aged 12 years and above will only be available from 12 December 2022.
-
-If you wish to receive the Bivalent Moderna vaccine, you may visit the nearest Joint Testing and Vaccination Centre (JTVC).
+**Bivalent vaccines**
+The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and above is available at all vaccination locations offering the vaccine, including Polyclinics. The Moderna/Spikevax bivalent vaccine for individuals aged 18 years and above is available only at Joint Testing and Vaccination Centres (JTVC). If you wish to receive the Moderna/Spikevax bivalent vaccine, you may visit the nearest JTVC.
 
 **For COVID-19 vaccination at the Polyclinics:**
 
-*   Walk-ins only accepted for persons aged 80 years and above.
-*   For all other age groups, polyclinics will only accept appointments made via the National Appointment System which can be accessed via the SMS invitation.
-*   Alternatively, individuals can visit the nearest Joint Testing & Vaccination Centre (JTVC) which has higher vaccination capacity.
+*   Walk-ins to polyclinics are only accepted for persons aged 80 years and above.
+*   For all other age groups, vaccination is by appointment which are made via the National Appointment System which can be accessed via the SMS invitation.
+*   Individuals may want to make appointments at JTVCs where more appointment slots may be available given the higher vaccination capacity.
 
 **Normal Operating Hours:**  
 8am – 4.30pm Monday – Friday,  
