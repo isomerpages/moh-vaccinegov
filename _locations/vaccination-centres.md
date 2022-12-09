@@ -70,7 +70,7 @@ Pfizer-BioNTech/Comirnaty (5 to 11 years old)</td>
 758528</td>
 			<td>Moderna/Spikevax (6
 months to 4 years old)<br><br>
-Pfizer-BioNTech/Comirnaty(5 to 11 years old)</td>
+Pfizer-BioNTech/Comirnaty (5 to 11 years old)</td>
 			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last appointment 5.30pm)<br><br>Saturday: 9am-1pm, 2pm-7pm (Last appointment 5.30pm)<br><br>Eve of Public Holiday: 9am-1pm (Last appointment 11.30am)<br><br>Sun and gazetted Public Holidays: Close</td>
     </tr>
 	</tbody>
