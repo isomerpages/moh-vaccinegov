@@ -45,11 +45,10 @@ minimum protection?</label>
 						<div class="tab-content">
 							<p>
 						Persons aged 5 years and above should complete three mRNA or Novavax/Nuvaxovid doses, or four Sinovac-CoronaVac doses to achieve minimum protection.<br><br>
-						After achieving minimum protection, persons aged 12 years and above should receive an additional booster dose between five months to one year from their last dose, to keep up-to-date with their COVID-19 vaccination. The updated bivalent vaccine is recommended for this. Individuals will be considered up-to-date with their COVID-19 vaccination if they have received at least the minimum protection and their last vaccine dose was received within the past one year. Persons aged 50 years and above may walk into any Joint Testing and Vaccination Centre (JTVC) to receive their bivalent vaccine dose*.<br><br>
+						After achieving minimum protection, persons aged 12 years and above should receive an additional booster dose between five months to one year from their last dose, to keep up-to-date with their COVID-19 vaccination. The updated bivalent vaccine is recommended for this. Individuals will be considered up-to-date with their COVID-19 vaccination if they have received at least the minimum protection and their last vaccine dose was received within the past one year. Persons aged 50 years and above may walk into any Joint Testing and Vaccination Centre (JTVC) to receive their bivalent vaccine dose.<br><br>
 						Persons aged 12 to 49 years will be invited to receive their bivalent vaccine dose when eligible. An SMS with a personalised booking link will be sent to the mobile number that you had registered for your previous COVID-19 vaccinations, and you may book an appointment at any of the vaccination sites offering the bivalent vaccines via the personalised booking link provided.<br><br>
-						We seek your patience and understanding that the SMS may take up to two weeks for some as more appointment slots become available. If you do not receive your SMS, please contact 6995 9199.<br><br>
-						Please refer to <a href="https://gowhere.gov.sg/vaccine"> https://gowhere.gov.sg/vaccine</a> to locate the nearest JTVC and their operating hours. <br><br>
-						*From 12 December 2022, the bivalent Pfizer-BioNTech/Comirnaty vaccine will replace the current original Pfizer-BioNTech/Comirnaty vaccines at all vaccination locations or persons aged 12 years and above.
+						We seek your patience and understanding that the SMS may take up to two weeks. If you do not receive your SMS, please contact 6995 9199.<br><br>
+						Please refer to <a href="https://gowhere.gov.sg/vaccine"> https://gowhere.gov.sg/vaccine</a> to locate the nearest JTVC and their operating hours.
 								</p>
 							</div>
 					</div>
