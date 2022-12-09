@@ -5,7 +5,7 @@ description: ""
 ---
 ### **JTVC Locations (Vaccination Wing)**
 **Bivalent vaccines**<br>
-The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and above is available at all vacination locations offering the vaccine, including all Joint Testing and Vaccination Centres (JTVC). However, t Moderna/Spikevax bivalent vaccine for individuals aged 18 years and above is available only at JTVCs. If you wish to receive the Moderna/Spikevax bivalent vaccine, you may visit the nearest JTVC. 
+The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and above is available at all vacination locations offering the vaccine, including all Joint Testing and Vaccination Centres (JTVC). However, the Moderna/Spikevax bivalent vaccine for individuals aged 18 years and above is available only at JTVCs. If you wish to receive the Moderna/Spikevax bivalent vaccine, you may visit the nearest JTVC. 
 
 **For COVID-19 additional booster doses:**
 
