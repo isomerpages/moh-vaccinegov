@@ -23,7 +23,7 @@ Community Centre </td>
 			<td>Moderna/Spikevax (6
 months to 4 years old)<br><br>
 Pfizer-
-BioNTech/Comirnaty
+BioNTech/Comirnaty Monovalent
 (5 to 11 years old)</td>
 			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last appointment 5.30pm)<br><br>Saturday: 9am-1pm, 2pm-7pm (Last appointment 5.30pm)<br><br>Eve of Public Holiday: 9am-1pm (Last appointment 11.30am)<br><br>Sun and gazetted Public Holidays: Close</td>
     </tr>		
@@ -47,7 +47,7 @@ BioNTech/Comirnaty
 (Lobby B), Singapore 528523</td>
 			<td>Moderna/Spikevax (6
 months to 4 years old)<br><br>
-Pfizer-BioNTech/Comirnaty (5 to 11 years old)</td>
+Pfizer-BioNTech/Comirnaty Monovalent (5 to 11 years old)</td>
 			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last appointment 5.30pm)<br><br>Saturday: 9am-1pm, 2pm-7pm (Last appointment 5.30pm)<br><br>Eve of Public Holiday: 9am-1pm (Last appointment 11.30am)<br><br>Sun and gazetted Public Holidays: Close</td>
     </tr>
 	</tbody>
@@ -70,7 +70,7 @@ Pfizer-BioNTech/Comirnaty (5 to 11 years old)</td>
 758528</td>
 			<td>Moderna/Spikevax (6
 months to 4 years old)<br><br>
-Pfizer-BioNTech/Comirnaty(5 to 11 years old)</td>
+Pfizer-BioNTech/Comirnaty Monovalent (5 to 11 years old)</td>
 			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last appointment 5.30pm)<br><br>Saturday: 9am-1pm, 2pm-7pm (Last appointment 5.30pm)<br><br>Eve of Public Holiday: 9am-1pm (Last appointment 11.30am)<br><br>Sun and gazetted Public Holidays: Close</td>
     </tr>
 	</tbody>
@@ -92,7 +92,7 @@ Pfizer-BioNTech/Comirnaty(5 to 11 years old)</td>
       <td>1 Punggol Drive, Level 3 Futsal Court,
 Singapore 828629</td>
 			<td>Moderna/Spikevax (6 months to 4 years old)<br><br>
-Pfizer- BioNTech/Comirnaty (5 to 11 years old)</td>
+Pfizer- BioNTech/Comirnaty Monovalent (5 to 11 years old)</td>
 <td>Monday - Friday: 9am-1pm, 2pm-7pm (Last appointment 5.30pm)<br><br>Saturday: 9am-1pm, 2pm-7pm (Last appointment 5.30pm)<br><br>Eve of Public Holiday: 9am-1pm (Last appointment 11.30am)<br><br>Sun and gazetted Public Holidays: Close</td>			
    </tr>
 	</tbody>
@@ -112,5 +112,6 @@ Pfizer- BioNTech/Comirnaty (5 to 11 years old)</td>
 			 <tr>
       <td>Taman Jurong Community Centre</td>
       <td>1 Yung Sheng Road Singapore 618495</td>
-			<td>Pfizer- BioNTech/Comirnaty (5 to 11 years old)<br><br> Moderna/Spikevax (6 months to 4 years old)</td>
+			<td>Moderna/Spikevax (6 months to 4 years old)<br><br>Pfizer- BioNTech/Comirnaty Monovalent (5 to 11 years old)
+				 </td>
 			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last appointment 5.30pm)<br><br>Saturday: 9am-1pm, 2pm-7pm (Last appointment 5.30pm)<br><br>Eve of Public Holiday: 9am-1pm (Last appointment 11.30am)<br><br>Sun and gazetted Public Holidays: Close</td>

@@ -2,15 +2,14 @@
 title: Polyclinics
 permalink: /locations-polyclinics/
 ---
-The clinics and polyclinics are currently offering Monovalent Pfizer-BioNTech/Comirnaty. The bivalent Pfizer-BioNTech/Comirnaty vaccine for those aged 12 years and above will only be available from 12 December 2022.
-
-If you wish to receive the Bivalent Moderna vaccine, you may visit the nearest Joint Testing and Vaccination Centre (JTVC).
+**Bivalent vaccines**
+The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and above is available at all vaccination locations offering the vaccine, including Polyclinics. The Moderna/Spikevax bivalent vaccine for individuals aged 18 years and above is available only at Joint Testing and Vaccination Centres (JTVC). If you wish to receive the Moderna/Spikevax bivalent vaccine, you may visit the nearest JTVC.
 
 **For COVID-19 vaccination at the Polyclinics:**
 
-*   Walk-ins only accepted for persons aged 80 years and above.
-*   For all other age groups, polyclinics will only accept appointments made via the National Appointment System which can be accessed via the SMS invitation.
-*   Alternatively, individuals can visit the nearest Joint Testing & Vaccination Centre (JTVC) which has higher vaccination capacity.
+*   Walk-ins to polyclinics are only accepted for persons aged 80 years and above.
+*   For all other age groups, vaccination is by appointment which are made via the National Appointment System which can be accessed via the SMS invitation.
+*   Individuals may want to make appointments at JTVCs where more appointment slots may be available given the higher vaccination capacity.
 
 **Normal Operating Hours:**  
 8am – 4.30pm Monday – Friday,  
@@ -46,42 +45,42 @@ If you wish to receive the Bivalent Moderna vaccine, you may visit the nearest J
       <td>Outram Polyclinic</td>
       <td> 3 Second Hospital Avenue, #02-00 Health Promotion Board Building,
         Singapore 168937</td>
-			<td>Pfizer/Comirnaty (12 years old & above)</td>
+			<td>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
     </tr>	
     <tr>
       <td>Bukit Merah Polyclinic</td>
       <td>162 Bukit Merah Central Level 4, Singapore 150163</td>
-			<td> Pfizer/Comirnaty (12 years old & above)</td>
+			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
     </tr>		
     <tr>
       <td>Geylang Polyclinic</td>
       <td>21 Geylang East Central, Singapore 389707</td>
-			<td> Pfizer/Comirnaty (12 years old & above)</td>
+			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
     </tr>		
     <tr>
       <td>Toa Payoh Polyclinic</td>
       <td>2003 Lorong 8 Toa Payoh Singapore 319260</td>
-			<td> Pfizer/Comirnaty (12 years old & above)</td>
+			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
     </tr>
     <tr>
       <td>Marine Parade Polyclinic</td>
       <td>80 Marine Parade Central, Singapore 440080</td>
-			<td> Pfizer/Comirnaty (12 years old & above)</td>
+			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
     </tr>
 		<tr>
       <td>Kallang Polyclinic</td>
       <td>701 Serangoon Road, Singapore 328263</td>
-			<td> Moderna/Spikevax (6 months to 4 years)</td>
+			<td> Moderna/Spikevax (6 months to 4 years old)</td>
     </tr> 
 		<tr>
       <td>Queenstown Polyclinic</td>
       <td>580 Stirling Road, Singapore 148958</td>
-			<td> Pfizer/Comirnaty (12 years old & above)</td>
+			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
     </tr>
 		<tr>
       <td>Clementi Polyclinic</td>
       <td>451 Clementi Avenue 3, #02-307, Singapore 120451</td>
-			<td> Pfizer/Comirnaty (12 years old & above)</td>
+			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
     </tr>   
   </tbody>
 </table>
@@ -100,22 +99,22 @@ If you wish to receive the Bivalent Moderna vaccine, you may visit the nearest J
     <tr>
       <td>Tampines Polyclinic</td>
       <td>1 Tampines Street 41, Singapore 529203</td>
-			<td> Pfizer/Comirnaty (12 years old & above)</td>
+			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
     </tr>	 
     <tr>
       <td>Bedok Polyclinic</td>
       <td>11 Bedok North Street 1 Heartbeat@Bedok #02-01, #03-01, Singapore 469662</td>
-			<td> Pfizer/Comirnaty (12 years old & above)</td>
+			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
     </tr>		
     <tr>
       <td>Pasir Ris Polyclinic</td>
       <td>1 Pasir Ris Drive 4, Singapore 519457</td>
-			<td> Pfizer/Comirnaty (12 years old & above)</td>
+			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
     </tr>
 		<tr>
       <td>Eunos Polyclinic</td>
       <td>1 Chin Cheng Avenue, Singapore 429400</td>
-			<td>Moderna/Spikevax (6 months to 4 years)</td>
+			<td>Moderna/Spikevax (6 months to 4 years old)</td>
     </tr>
   </tbody>
 </table>
@@ -133,7 +132,7 @@ If you wish to receive the Bivalent Moderna vaccine, you may visit the nearest J
     <tr>
       <td>Woodlands Polyclinic</td>
       <td>10 Woodlands Street 31, Singapore 738579</td>
-			<td> Pfizer/Comirnaty (5-11 years old) (12 years
+			<td> Pfizer/Comirnaty Monovalent (5 to 11 years old) <br> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years
 old & above)</td>
     </tr>
     <tr>
@@ -157,23 +156,23 @@ old & above)</td>
     <tr>
       <td>Hougang Polyclinic</td>
       <td>89 Hougang Avenue 4, Singapore 538829</td>
-			<td> Pfizer/Comirnaty (12 years old & above)</td>
+			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
     </tr>		
     <tr>
       <td>Punggol Polyclinic</td>
       <td>681 Punggol Drive, Singapore 820681</td>
-			<td> Pfizer/Comirnaty (5 to 11 years old) (12
+			<td> Pfizer/Comirnaty Monovalent (5 to 11 years old) <br> Pfizer/Comirnaty Bivalent (BA.4/5) (12
 years old & above)</td>
 			 </tr>		
     <tr>
       <td>Ang Mo Kio Polyclinic</td>
       <td>21 Ang Mo Kio Central 2, Singapore 569666</td>
-			<td> Pfizer/Comirnaty (12 years old & above)</td>
+			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
     </tr>
 		 <tr>
       <td>Seng Kang Polyclinic</td>
       <td>2 Sengkang Square, #01-06, Singapore 545025</td>
-			<td> Pfizer/Comirnaty  (12 years old & above)</td>
+			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
     </tr> 
   </tbody>
 </table>
@@ -191,7 +190,7 @@ years old & above)</td>
     <tr>
       <td>Pioneer Polyclinic</td>
       <td>26 Jurong West Street 61, Singapore 648201</td>
-			<td> Pfizer/Comirnaty (5 to 11 years old) (12
+			<td> Pfizer/Comirnaty Monovalent (5 to 11 years old) <br>Pfizer/Comirnaty Bivalent (BA.4/5) (12
 years old & above)</td>
     </tr>	
     <tr>
@@ -202,20 +201,19 @@ years old & above)</td>
     <tr>
       <td>Bukit Batok Polyclinic</td>
       <td>50 Bukit Batok West Avenue 3, Singapore 659164</td>
-			<td>Pfizer/Comirnaty (12 years old & above)<br><br>
-From 25 October 2022: Moderna/Spikevax
-(6 months to 4 years)</td>
+			<td>Moderna/Spikevax
+(6 months to 4 years old)</td>
     </tr>		
     <tr>
       <td>Choa Chu Kang Polyclinic</td>
       <td>2 Teck Whye Crescent, Singapore 688846</td>
-			<td> Pfizer/Comirnaty (12 years old & above)</td>
+			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
     </tr>
 		<tr>
       <td>Bukit Panjang Polyclinic</td>
       <td>50 Woodlands Road, Singapore 677726</td>
-			<td>Pfizer/Comirnaty
-(Children aged 5 to 11 years)</td>
+			<td>Pfizer/Comirnaty Monovalent
+(5 to 11 years old)</td>
     </tr> 
   </tbody>
 </table>
