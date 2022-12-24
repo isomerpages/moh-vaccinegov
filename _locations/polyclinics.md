@@ -2,7 +2,7 @@
 title: Polyclinics
 permalink: /locations-polyclinics/
 ---
-Jurong and Yishun Polyclinics will stop offering the Novavax/Nuvaxovid COVID-19 vaccine after 24 December 2022. From 3 January 2023, Jurong Polyclinic will offer the bivalent Pfizer-BioNTech/Comirnaty vaccine, while Yishun Polyclinic will offer the Moderna/Spikevax vaccine for children aged 6 months to 4 years old.
+From 3 January 2023, Jurong Polyclinic will offer the bivalent Pfizer-BioNTech/Comirnaty vaccine, while Yishun Polyclinic will offer the Moderna/Spikevax vaccine for children aged 6 months to 4 years old.
 
 **Bivalent vaccines**
 The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and above is available at all vaccination locations offering the vaccine, including Polyclinics. The Moderna/Spikevax bivalent vaccine for individuals aged 18 years and above is available only at Joint Testing and Vaccination Centres (JTVC). If you wish to receive the Moderna/Spikevax bivalent vaccine, you may visit the nearest JTVC.
@@ -140,7 +140,7 @@ old & above)</td>
     <tr>
       <td>Yishun Polyclinic</td>
       <td>2 Yishun Avenue 9, Singapore 768898</td>
-			<td>Until 24 December 2022:<br>Novavax/Nuvaxovid (18 years old & above)<br><br>From 3 January 2023:<br>Moderna/Spikevax (6 months to 4 years old)</td>
+			<td>From 3 January 2023:<br>Moderna/Spikevax (6 months to 4 years old)</td>
     </tr>
   </tbody>
 </table>
@@ -198,7 +198,7 @@ years old & above)</td>
     <tr>
       <td>Jurong Polyclinic</td>
       <td>190 Jurong East Avenue 1, Singapore 609788</td>
-			<td>Until 24 December 2022:<br>Novavax/Nuvaxovid (18 years old & above)<br><br>From 3 January 2023:<br>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
+			<td>From 3 January 2023:<br>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
     </tr>	
     <tr>
       <td>Bukit Batok Polyclinic</td>
