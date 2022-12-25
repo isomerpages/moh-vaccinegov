@@ -203,8 +203,7 @@ years old & above)</td>
     <tr>
       <td>Bukit Batok Polyclinic</td>
       <td>50 Bukit Batok West Avenue 3, Singapore 659164</td>
-			<td>Moderna/Spikevax
-(6 months to 4 years old)</td>
+			<td>Moderna/Spikevax (6 months to 4 years old)<br>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
     </tr>		
     <tr>
       <td>Choa Chu Kang Polyclinic</td>
