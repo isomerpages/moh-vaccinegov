@@ -2,9 +2,7 @@
 title: Polyclinics
 permalink: /locations-polyclinics/
 ---
-From 3 January 2023, Jurong Polyclinic will offer the bivalent Pfizer-BioNTech/Comirnaty vaccine, while Yishun Polyclinic will offer the Moderna/Spikevax vaccine for children aged 6 months to 4 years old.
-
-**Bivalent vaccines**
+**Bivalent vaccines**<br>
 The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and above is available at all vaccination locations offering the vaccine, including Polyclinics. The Moderna/Spikevax bivalent vaccine for individuals aged 18 years and above is available only at Joint Testing and Vaccination Centres (JTVC). If you wish to receive the Moderna/Spikevax bivalent vaccine, you may visit the nearest JTVC.
 
 **For COVID-19 vaccination at the Polyclinics:**
@@ -25,7 +23,7 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
 11.30am Saturday
 
 **To book an appointment for paediatric vaccination:**<br>
-* Refer to polyclinics indicated with “Moderna/Spikevax (6 months to 4 years) or “Pfizer/Comirnaty (Adults & Children aged 5 to 11 years) vaccine type<br>
+* Refer to polyclinics indicated with “Moderna/Spikevax (6 months to 4 years)" or “Pfizer/Comirnaty Monovalent (5 to 11 years old)" vaccine type<br>
 * Polyclinics only accept appointments made via the National Appointment System (NAS) for now<br>
 * Parents/guardians who wish to vaccinate their child/ward at the selected polyclinics will have to register their child/ward at [child.vaccine.gov.sg](https://child.vaccine.gov.sg/) <br>
 * An SMS with a personalised booking link will be sent to the registered mobile number of the parent/guardian within three to five working days <br>
@@ -140,7 +138,7 @@ old & above)</td>
     <tr>
       <td>Yishun Polyclinic</td>
       <td>2 Yishun Avenue 9, Singapore 768898</td>
-			<td>From 3 January 2023:<br>Moderna/Spikevax (6 months to 4 years old)</td>
+			<td>Moderna/Spikevax (6 months to 4 years old)</td>
     </tr>
   </tbody>
 </table>
@@ -198,7 +196,7 @@ years old & above)</td>
     <tr>
       <td>Jurong Polyclinic</td>
       <td>190 Jurong East Avenue 1, Singapore 609788</td>
-			<td>From 3 January 2023:<br>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
+			<td>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
     </tr>	
     <tr>
       <td>Bukit Batok Polyclinic</td>
