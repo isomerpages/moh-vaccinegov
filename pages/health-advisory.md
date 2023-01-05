@@ -2,12 +2,12 @@
 title: Health Advisory
 permalink: /health-advisory/
 ---
-**To achieve minimum protection:**:
+**To achieve minimum protection:**
 
 - Children 6 months to 4 years should take 2 doses
 of **Moderna/Spikevax**, or 3 doses of **Pfizer-BioNTech/Comirnaty**
 - Persons 5 to 17 years should receive 3 doses of **Pfizer-BioNTech/Comirnaty**
-- Persons 18 years and older should receive 3 doses of **mRNA*** or **Novavax/Nuvaxovid** vaccines, or 4 doses of **Sinovac-CoronaVac** vaccine.
+- Persons 18 years and older should receive 3 doses of **mRNA** or **Novavax/Nuvaxovid** vaccines, or 4 doses of **Sinovac-CoronaVac** vaccine.
 
 You will be eligible for your booster dose 5 months after the last dose of your primary vaccination series. If you have taken Sinovac-CoronaVac or Sinopharm as your last dose, you are recommended to receive your booster dose 3 months after your last dose.
 
