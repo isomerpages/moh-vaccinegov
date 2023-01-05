@@ -37,7 +37,7 @@ minimum protection?</label>
 								<span>• Individuals <strong> aged 18 years and above </strong> may walk into any JTVC to receive either the bivalent Pfizer-BioNTech/Comirnaty vaccine or the bivalent Moderna/Spikevax vaccine before 6.30pm.</span><br>
 								<span>• Seniors <strong> aged 80 years old and above</strong>, you may walk into any Polyclinic.</span> <br><br>
 								Individuals aged 5 to 17 years will be required to bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="go.gov.sg/parcf">here</a>. Parents/guardians must accompany their child/ward if he/she is aged 12 years and below. Children aged 13 years and above need not be accompanied.<br><br>
-								Individuals who wish to receive their vaccination at participating PHPCs are strongly encouraged to make an appointment with the PHPC to avoid long waiting times.<br><br>
+								Individuals who wish to receive their vaccination at participating PHPCs are strongly encouraged to make an appointment with the PHPC to avoid long waiting times.
 									</p>
 							</div>
 					</div>				
