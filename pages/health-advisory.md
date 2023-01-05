@@ -2,20 +2,21 @@
 title: Health Advisory
 permalink: /health-advisory/
 ---
-**To achieve minimum protection:**:
+**To achieve minimum protection:**
 
 - Children 6 months to 4 years should take 2 doses
-of **Moderna/Spikevax**
-- Persons 5 years and older should receive 3 doses of **mRNA*** or **Novavax/Nuvaxovid** vaccines, or 4 doses of **Sinovac-CoronaVac**vaccine.
+of **Moderna/Spikevax**, or 3 doses of **Pfizer-BioNTech/Comirnaty**
+- Persons 5 to 17 years should receive 3 doses of **Pfizer-BioNTech/Comirnaty**
+- Persons 18 years and older should receive 3 doses of **mRNA** or **Novavax/Nuvaxovid** vaccines, or 4 doses of **Sinovac-CoronaVac** vaccine.
 
-*Currently, persons aged between 12 to 17 years can only receive the Pfizer- BioNTech/Comirnaty vaccine for their COVID-19 vaccination; and children aged between 5 to 11 years can only receive the **paediatric** Pfizer- BioNTech/Comirnaty vaccine for their COVID-19 vaccination. You will be eligible for your booster dose 5 months after the last dose of your primary vaccination series. If you have taken Sinovac-CoronaVac or Sinopharm as your last dose, you are recommended to receive your booster dose 3 months after your last dose.
+You will be eligible for your booster dose 5 months after the last dose of your primary vaccination series. If you have taken Sinovac-CoronaVac or Sinopharm as your last dose, you are recommended to receive your booster dose 3 months after your last dose.
 
 **Important reminders**:
 
 **On the day of vaccination**
 
 * Wear short sleeved or clothes where the sleeves can be rolled up
-* Bring your ID (NRIC/FIN/Student Pass/Birth Certificate and Health Booklet))
+* Bring your ID (NRIC/FIN/Student Pass/Birth Certificate and Health Booklet)
 * Drink plenty of water and eat something before going for your vaccination, and avoid strenuous exercise for two weeks after vaccination
 <br/>
 
@@ -29,7 +30,7 @@ As a precautionary measure, all individuals, especially adolescents and men belo
 You are encouraged to defer other vaccinations for 2 weeks or more, if possible.
 
 
-Persons who are moderately to severely immunocompromised are recommended to receive a third dose of the same mRNA vaccine or the Nuvaxovid vaccine, with the same dosage as the first two doses they had received. They should be referred to receive the third dose by their treating specialist, who would have the best understanding of their medical condition. For more information, please refer to the [FAQ](https://www.moh.gov.sg/covid-19/vaccination/faqs---enhanced-primary-series).
+Persons who are moderately to severely immunocompromised are recommended to receive a third dose of the same mRNA vaccine or the Nuvaxovid vaccine, with the same dosage as the first two doses they had received. They should be referred to receive the third dose by their treating specialist, who would have the best understanding of their medical condition. For more information, please refer to the [FAQ](https://www.moh.gov.sg/covid-19/vaccination/faqs-on-general-vaccine-recommendations).
  <br/>
  
  **COVID-19 Vaccination Related Documents**<br>

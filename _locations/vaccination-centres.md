@@ -2,7 +2,10 @@
 title: Vaccination Centres
 permalink: /locations-vcs/
 ---
-For added convenience, children aged 6 months to 11 years with siblings who have existing appointments on Mondays to Thursdays may walk in to the VCs by 5.30pm, to receive their vaccination at the same time, without a need for an appointment.
+**For children aged 6 months to 11 years:**
+* For children who have yet to receive any COVID-19 vaccine, parents/guardians should register their interest for their child/ward to receive the vaccination and make an appointment at [child.vaccine.gov.sg](https://child.vaccine.gov.sg).
+* From 4 January 2023, all eligible individuals, including children below the age of 12, may walk in to the VCs to receive their vaccination without a prior appointment.
+* On days where there is high demand for vaccination, individuals should expect a longer waiting period.
 
 ### **Central**
 <table>
@@ -25,7 +28,7 @@ months to 4 years old)<br><br>
 Pfizer-
 BioNTech/Comirnaty Monovalent
 (5 to 11 years old)</td>
-			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last appointment 5.30pm)<br><br>Saturday: 9am-1pm, 2pm-7pm (Last appointment 5.30pm)<br><br>Eve of Public Holiday: 9am-1pm (Last appointment 11.30am)<br><br>Sun and gazetted Public Holidays: Close</td>
+			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 5.30pm)<br><br>Saturday: 9am-1pm, 2pm-7pm (Walk ins after 2pm, Last walk-in 5.30pm)<br><br>Eve of Public Holiday: 9am-1pm (Last walk-in 11.30am)<br><br>Sun and gazetted Public Holidays: Close</td>
     </tr>		
 	</tbody>
 </table>
@@ -48,7 +51,7 @@ BioNTech/Comirnaty Monovalent
 			<td>Moderna/Spikevax (6
 months to 4 years old)<br><br>
 Pfizer-BioNTech/Comirnaty Monovalent (5 to 11 years old)</td>
-			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last appointment 5.30pm)<br><br>Saturday: 9am-1pm, 2pm-7pm (Last appointment 5.30pm)<br><br>Eve of Public Holiday: 9am-1pm (Last appointment 11.30am)<br><br>Sun and gazetted Public Holidays: Close</td>
+			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 5.30pm)<br><br>Saturday: 9am-1pm, 2pm-7pm (Walk ins after 2pm, Last walk-in 5.30pm)<br><br>Eve of Public Holiday: 9am-1pm (Last walk-in 11.30am)<br><br>Sun and gazetted Public Holidays: Close</td>
     </tr>
 	</tbody>
 </table>
@@ -71,7 +74,7 @@ Pfizer-BioNTech/Comirnaty Monovalent (5 to 11 years old)</td>
 			<td>Moderna/Spikevax (6
 months to 4 years old)<br><br>
 Pfizer-BioNTech/Comirnaty Monovalent (5 to 11 years old)</td>
-			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last appointment 5.30pm)<br><br>Saturday: 9am-1pm, 2pm-7pm (Last appointment 5.30pm)<br><br>Eve of Public Holiday: 9am-1pm (Last appointment 11.30am)<br><br>Sun and gazetted Public Holidays: Close</td>
+			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 5.30pm)<br><br>Saturday: 9am-1pm, 2pm-7pm (Walk ins after 2pm, Last walk-in 5.30pm)<br><br>Eve of Public Holiday: 9am-1pm (Last walk-in 11.30am)<br><br>Sun and gazetted Public Holidays: Close</td>
     </tr>
 	</tbody>
 </table>
@@ -93,7 +96,7 @@ Pfizer-BioNTech/Comirnaty Monovalent (5 to 11 years old)</td>
 Singapore 828629</td>
 			<td>Moderna/Spikevax (6 months to 4 years old)<br><br>
 Pfizer- BioNTech/Comirnaty Monovalent (5 to 11 years old)</td>
-<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last appointment 5.30pm)<br><br>Saturday: 9am-1pm, 2pm-7pm (Last appointment 5.30pm)<br><br>Eve of Public Holiday: 9am-1pm (Last appointment 11.30am)<br><br>Sun and gazetted Public Holidays: Close</td>			
+<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 5.30pm)<br><br>Saturday: 9am-1pm, 2pm-7pm (Walk ins after 2pm, Last walk-in 5.30pm)<br><br>Eve of Public Holiday: 9am-1pm (Last walk-in 11.30am)<br><br>Sun and gazetted Public Holidays: Close</td>		
    </tr>
 	</tbody>
 </table>
@@ -114,4 +117,7 @@ Pfizer- BioNTech/Comirnaty Monovalent (5 to 11 years old)</td>
       <td>1 Yung Sheng Road Singapore 618495</td>
 			<td>Moderna/Spikevax (6 months to 4 years old)<br><br>Pfizer- BioNTech/Comirnaty Monovalent (5 to 11 years old)
 				 </td>
-			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last appointment 5.30pm)<br><br>Saturday: 9am-1pm, 2pm-7pm (Last appointment 5.30pm)<br><br>Eve of Public Holiday: 9am-1pm (Last appointment 11.30am)<br><br>Sun and gazetted Public Holidays: Close</td>
+			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 5.30pm)<br><br>Saturday: 9am-1pm, 2pm-7pm (Walk ins after 2pm, Last walk-in 5.30pm)<br><br>Eve of Public Holiday: 9am-1pm (Last walk-in 11.30am)<br><br>Sun and gazetted Public Holidays: Close</td>
+				    </tr>
+	</tbody>
+</table>

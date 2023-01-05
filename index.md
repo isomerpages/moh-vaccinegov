@@ -38,8 +38,6 @@ sections:
       title: Beware of Scams
   - infopic:
       title: How to Sign Up
-      description: The COVID-19 vaccination programme is being progressively rolled
-        out to all Singaporeans and long term residents
       image: /images/vaccinate.png
       button: Learn More
       url: /how-to-sign-up
