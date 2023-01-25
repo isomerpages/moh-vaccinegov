@@ -5,6 +5,7 @@ permalink: /faq/
 <div class="accordion">
 			<div class="tabs">			
 					<h3>Registration and Appointments</h3>
+					<p>For more information on overseas vaccination records and travel, click <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs-on-overseas-vaccination-records-travel/">here</a>.</p>		
 					<div class="tab">
 						<input id="question-1-1" type="checkbox">
 						<label for="question-1-1" class="tab-label">Is the vaccine free?</label>
