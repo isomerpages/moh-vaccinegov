@@ -191,6 +191,7 @@ and children are different.
 						<input id="question-2-1" type="checkbox">
 						<label for="question-2-1" class="tab-label">Have I achieved Minimum Protection against COVID-19?</label>
 						<div class="tab-content">
+							<p>
 								To achieve minimum protection, persons aged 5 years and above should complete, as applicable:<br>
 									<span>• Three doses of Pfizer-BioNTech/Comirnaty, Moderna/Spikevax or Novavax/Nuvaxovid; or,</span><br>
 								<span>• Four doses of Sinovac-CoronaVac*</span><br>
