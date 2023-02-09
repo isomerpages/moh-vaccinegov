@@ -32,7 +32,7 @@ minimum protection?</label>
 								Persons aged 5 years and above who are eligible for their third booster dose will be invited from about five months after completing their second dose.<br><br>
 								Parents/guardians of individuals aged 5 to 17 years will receive an SMS notification when their child/ward is eligible, to provide consent and book their child/ward’s booster vaccination appointment.<br><br>
 								Eligible individuals aged 18 years and above will receive an SMS with a personalised link to book an appointment at <a href="https://appointment.vaccine.gov.sg">https://appointment.vaccine.gov.sg</a>.<br><br>
-								From 4 January 2023, all individuals aged who are eligible for their third dose of COVID-19 vaccination may walk in without prior appointment, everyday of the week.<br>
+								All individuals aged who are eligible for their third dose of COVID-19 vaccination may also walk in without prior appointment, everyday of the week to receive their vaccination:<br>
 								<span>• Children <strong> aged 5 to 11 years </strong> may walk in with their parents/guardians to any Vaccination Centre (VC) before 5.30pm, or any Joint Testing and Vaccination Centre (JTVC) offering the Pfizer-BioNTech/Comirnaty vaccine for children aged 5 to 11 years before 6.30pm.</span><br>
 								<span>• Individuals <strong> aged 12 to 17 years </strong> may walk in to any JTVC offering the bivalent Pfizer-BioNTech/Comirnaty vaccine before 6.30pm.</span><br>
 								<span>• Individuals <strong> aged 18 years and above </strong> may walk into any JTVC to receive either the bivalent Pfizer-BioNTech/Comirnaty vaccine or the bivalent Moderna/Spikevax vaccine before 6.30pm.</span><br>
@@ -48,10 +48,14 @@ minimum protection?</label>
 						<div class="tab-content">
 							<p>
 						Persons aged 5 years and above should complete three mRNA or Novavax/Nuvaxovid doses, or four Sinovac-CoronaVac doses to achieve minimum protection.<br><br>
-						After achieving minimum protection, persons aged 12 years and above should receive an additional booster dose between five months to one year from their last dose, to keep up-to-date with their COVID-19 vaccination. The updated bivalent vaccines are recommended for this. Both bivalent Pfizer-BioNTech/Comirnaty vaccine or the bivalent Moderna/Spikevax vaccine are available in Joint Testing and Vaccination Centres (JTVCs). The bivalent Pfizer-BioNTech/Comirnaty vaccine is also available in selected Polyclinics and participating Public Health Preparedness Clinics (PHPCs). Please refer to <a href="https://gowhere.gov.sg/vaccine">gowhere.gov.sg/vaccine</a> to locate vaccination sites that carry your preferered bivalent vaccine.<br><br>
-								Individuals will be considered up-to-date with their COVID-19 vaccination if they have received at least the minimum protection and their last vaccine dose was received within the past one year. <br><br>
-						All individuals aged 12 years and above will be invited to receive their bivalent vaccine dose when eligible. An SMS with a personalised booking link will be sent to the mobile number that you had registered for your previous COVID-19 vaccinations, and you may book an appointment at any of the vaccination sites offering the bivalent vaccines via the personalised booking link provided.<br><br>
-								Persons aged 12 years and above may walk in to any JTVC to receive their bivalent vaccine dose when eligible.
+								<b><u>Persons Aged 60 Years and above Medically Vulnerable, Residents of Aged Care Facilities</u></b><br>
+						After achieving minimum protection, medically vulnerable persons and individuals aged 60 years and above are recommended to receive an additional booster dose around one year from their last dose. The updated bivalent vaccines are recommended for this. Both bivalent Pfizer-BioNTech/Comirnaty vaccine or the bivalent Moderna/Spikevax vaccine are available in Joint Testing and Vaccination Centres (JTVCs). The bivalent Pfizer-BioNTech/Comirnaty vaccine is also available in selected Polyclinics and participating Public Health Preparedness Clinics (PHPCs). Please refer to <a href="https://gowhere.gov.sg/vaccine">gowhere.gov.sg/vaccine</a> to locate vaccination sites that carry your preferered bivalent vaccine.<br><br>
+						All eligible individuals aged 60 years and above will be invited to receive their bivalent vaccine dose around one year after their last dose. An SMS with a personalised booking link will be sent to the mobile number that you had registered for your previous COVID-19 vaccinations, and you may book an appointment at any of the vaccination sites offering the bivalent vaccines via the personalised booking link provided.<br><br>
+								<b><u>Persons Aged Between 12 to 59 Years</u></b><br>
+								Persons aged 12 to 59 years who are healthy have a lower risk of severe disease. Nevertheless, an additional booster dose around one year after their last dose will be offered to those who are eligible and keen to receive one more booster dose to enhance protection. They may walk in to any JTVC to receive their bivalent vaccine dose.<br><br>
+								<b><u>Persons Under 12 Years</u></b><br>
+								Persons aged 5 to 11 years are not recommended nor eligible to receive additional booster dose beyond what is required for Minimum Protection.<br><br>
+								Persons aged 6 months to 4 years are not recommended nor eligible for additional doses beyond 2 doses of Moderna/Spikevax or 3 doses of Pfizer-BioNTech/Comirnaty at this time.
 								</p>
 							</div>
 					</div>
@@ -60,17 +64,16 @@ minimum protection?</label>
 							<label for="question-1-5" class="tab-label">I have not received any COVID-19 vaccine. How can I register to receive the mRNA vaccination?</label>
 						<div class="tab-content">
 							<p>For children aged 6 months to 11 years who have yet to receive any COVID-19 vaccine, parents/guardians would need to register their child/ward at <a href="https://child.vaccine.gov.sg"> https://child.vaccine.gov.sg</a>. An SMS with a personalised booking link will be sent to the registered mobile number of the parent/guardian within three to five working days to book a vaccination appointment. <br><br>
-								From 4 January 2023, children aged 6 months to 11 years may also walk in with their parents/guardians to any Vaccination Centre (VC) without a prior appointment. (Note: The Pfizer-BioNTech/Comirnaty vaccine for children aged 6 months to 11 years will also be offered at two of our Joint Testing and Vaccination Centres (JTVCs) -- JTVC Ang Mo Kio and JTVC Bukit Merah from 16 January 2023.) On days where there is high demand for vaccination, individuals should expect a longer waiting period.<br><br>
+								Children aged 6 months to 11 years may also walk in with their parents/guardians to any Vaccination Centre (VC), Joint Testing and Vaccination Centre (JTVC) Ang Mo Kio, or JTVC Bukit Merah without a prior appointment. On days where there is high demand for vaccination, individuals should expect a longer waiting period.<br><br>
 Please visit <a href="https://gowhere.gov.sg/vaccine"> https://gowhere.gov.sg/vaccine</a> to locate the nearest vaccination site offering vaccines for children aged 6 months to 4 years, and 5 to 11 years.<br><br>
 						 Under the National Vaccination Programme, childrens/wards below 18 years must have the consent of their parents/guardians to receive their vaccination. Those between the age of 13 and 17 years must bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="go.gov.sg/parcf">here</a>. Those aged 12 and below must be accompanied by a parent/guardian. Parents/guardians should also bring along their child/ward's identification document (e.g. Birth Certificate and Health booklet/Passport/Student Identification Card/Singpass) for verification. <br><br>
 						 Individuals in other age groups may receive their vaccinations via the following means:<br>
-							<span> • Make an appointment at any JTVC, Polyclinic or participating Public Health Preparedness Clinic (PHPC) that offer the vaccine of choice using the link provided in the SMS invitation.</span><br>
+							<span> • Make an appointment at any JTVC, Polyclinic or participating Public Health Preparedness Clinic (PHPC) that offer the vaccine of choice using the link provided in the SMS invitation. Individuals who wish to receive their vaccination at participating PHPCs are strongly encouraged to make an appointment with the PHPC to avoid long waiting times.</span><br>
 						 <span>• Individuals <strong>aged 12 to 17 years</strong> may walk in to any JTVC offering the bivalentPfizer-BioNTech/Comirnaty vaccine.
 offering the Pfizer-BioNTech/Comirnaty vaccine.</span><br>
 						 <span>• Individuals <strong>aged 18 years and above</strong> may walk in to any JTVC to receive either the bivalent Pfizer-BioNTech/Comirnaty vaccine or the bivalent Moderna/Spikevax vaccine. All JTVCs carry both vaccines.</span><br>
-						 <span>• Seniors <strong>aged 80 years and above</strong> may walk in to any Polyclinic.</span><br><br>
- Individuals who wish to receive their vaccination at participating PHPCs are strongly encouraged to make an appointment with the PHPC to avoid long waiting times.<br><br>
-Holders of Training Employment Pass, Training Work Permit, Work Holiday Pass, Special Pass and Short Term Visit Pass with a pass validity period of at least 60 days may walk in to any JTVC to receive their vaccination. The pass holder should bring along identifying documents such as your passport or approval of extension for verification purposes. No prior booking or registration is required.					
+						 <span>• Seniors <strong>aged 80 years and above</strong> may walk in to any JTVC, Polyclinic or PHPC.</span><br><br>
+Holders of Training Employment Pass, Training Work Permit, Work Holiday Pass, Special Pass and Short Term Visit Pass with a pass validity period of at least 60 days may walk in to any JTVC to receive their vaccination. The pass holder should bring along identifying documents such as your passport or approval of extension of stay in Singapore for verification purposes. No prior booking or registration is required.					
 						</p>
 							</div>
 					</div>
@@ -138,9 +141,9 @@ vaccinated. What do I need to do?</label>
 							<p>
 						Parents/guardians of children aged 6 months to 4 years should register their interest for their child/ward to receive the vaccination at <a href="https://child.vaccine.gov.sg"> https://child.vaccine.gov.sg</a>. An SMS with a personalized booking link will be sent to the registered mobile number of the parent/guardian within three to five working days to book a
 vaccination appointment. <br><br>
-								Vaccination for this age band is currently only available at dedicated Vaccination Centres (VCs) and selected Polyclinics offering the paediatric Moderna/Spikevax vaccine dose. The Pfizer-BioNTech/Comirnaty COVID-19 vaccine for children aged 6 months to 4 years will be offered at selected Joint Testing and Vaccination Centres (JTVCs) -- JTVC Ang Mo Kio and JTVC Bukit Merah from 16 January 2023.<br><br>
-							To find a vaccination location near you that offers the paediatric vaccines, please visit <a href="https://gowhere.gov.sg/vaccine"> https://gowhere.gov.sg/vaccine</a>.<br><br>
-							From 4 January 2023, eligible children may also walk in with their parents/guardians to the VCs before 5.30pm, without a prior appointment. On days where there is high demand for vaccination, individuals should expect a longer waiting period.<br><br>
+								Vaccination for this age band is currently only available at dedicated Vaccination Centres (VCs), two of our Joint Testing and Vaccination Centres (JTVCs) -- JTVC Ang Mo Kio and JTVC Bukit Merah, and selected Polyclinics offering the paediatric Moderna/Spikevax vaccine dose.<br><br>
+							To find a vaccination location near you that offers your preferred paediatric vaccines, please visit <a href="https://gowhere.gov.sg/vaccine"> https://gowhere.gov.sg/vaccine</a>.<br><br>
+							Eligible children may also walk in with their parents/guardians to the VCs or JTVCs before 5.30pm and 6.30pm respectively, without a prior appointment. On days where there is high demand for vaccination, individuals should expect a longer waiting period.<br><br>
 							Parents/guardians must bring along their child/ward's identification document (e.g. Birth Certificate and Health booklet/Passport/Student Identification Card/Singpass) for verification purposes, as well as a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="go.gov.sg/parcf">here</a>.</p>
 							</div>
 					</div>				
@@ -150,10 +153,9 @@ vaccination appointment. <br><br>
 do?</label>
 						<div class="tab-content">
 							<p>For children aged 5 to 11 years who have yet to receive any COVID-19 vaccine, parents/guardians who prefer to make an appointment for the vaccination should register their child/ward at <a href="https://child.vaccine.gov.sg">child.vaccine.gov.sg</a>. An SMS with a personalised booking link will be sent to the registered mobile number of the parent/guardian within three to five working days to book a vaccination appointment at dedicated vaccination sites offering the paediatric Pfizer-BioNTech/Comirnaty vaccine.<br><br>
-								From 4 January 2023, eligible children may also walk in with their parents/guardians to the Vaccination Centres (VCs) before 5.30pm, without a prior appointment. The Pfizer-BioNTech/Comirnaty COVID-19 vaccine for children aged 5 to 11 years will also be offered at selected Joint Testing and Vaccination Centres (JTVCs) -- JTVC Ang Mo Kio and JTVC Bukit Merah from 16 January 2023. On days where there is high demand for vaccination, individuals should expect a longer waiting period.<br><br>
+								Eligible children may also walk in with their parents/guardians to the Vaccination Centres (VCs) before 5.30pm, without a prior appointment. They may also walk in to our Joint Testing and Vaccination Centre (JTVC) Ang Mo Kio or JTVC Bukit Merah before 6.30pm. On days where there is high demand for vaccination, individuals should expect a longer waiting period.<br><br>
 								Parents/guardians must bring along their child/ward's identification document (e.g. Birth Certificate and Health Booklet/Passport/Student Identification Card/Singpass) for verification purposes, as well as a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="go.gov.sg/parcf">here</a>. Parents/guardians are also required to accompany their child/ward when they receive their vaccination.<br><br>
-								Children aged 5 years and above who completed their second dose more than five months ago are recommended to take a third dose (also known as booster dose). Parents/guardians will
-receive an SMS at the mobile number that you had registered with for your child/ward’s previous COVID-19 vaccination appointment, and they may book an appointment via the personalised booking link provided.<br><br>
+								Children who completed their second dose more than five months ago are recommended to take a third dose (also known as booster dose). Parents/guardians will receive an SMS at the mobile number that was registered for your child/ward’s previous COVID-19 vaccination appointment, and they may book an appointment via the personalised booking link provided. Walk-ins are also allowed for this age group receiving their third dose.<br><br>
 							To find a vaccination location near you that offers the paediatric vaccines, please visit <a href="https://gowhere.gov.sg/vaccine"> https://gowhere.gov.sg/vaccine</a>.
 						</p>
 							</div>
@@ -163,8 +165,8 @@ receive an SMS at the mobile number that you had registered with for your child/
 						<label for="question-1-15" class="tab-label">I want to get my child/ward (12 to 17 years old) vaccinated. What do I need to do?</label>
 						<div class="tab-content">
 							<p>
-								You will receive an SMS inviting your child/ward to take their third dose (also known as booster dose) when eligible, at the mobile number that you had registered with for your child/ward’s previous COVID-19 vaccinations. If your child/ward is 12 to 17 years old, he/she will require your consent to receive his/her vaccinations. Individuals aged 12 to 17 years old can also walk in to any Joint Testing and Vaccination Centre (JTVC) offering the Pfizer-BioNTech/Comirnaty vaccine to receive their three doses for minimum protection, without the need for prior appointment, when they are eligible to do so.<br><br>
-								You will also receive an SMS about five months after your child/ward has achieved minimum protection, to invite them to receive their additional booster dose to keep up-to-date with their COVID-19 vaccination. The updated bivalent Pfizer-BioNTech/Comirnaty vaccine is recommended for this. Walk-ins will be allowed for this age group receiving their additional boosters.<br><br>
+								You will receive an SMS inviting your child/ward to take their third dose (also known as booster dose) when eligible, at the mobile number that you had registered with for your child/ward’s previous COVID-19 vaccinations. Individuals aged 12 to 17 years old can also walk in to any Joint Testing and Vaccination Centre (JTVC) offering the Pfizer-BioNTech/Comirnaty vaccine to receive their three doses for minimum protection, without the need for prior appointment, when they are eligible to do so. If your child/ward is 12 to 17 years old, he/she will require your consent to receive his/her vaccinations.<br><br>
+								Children aged 12 to 17 who are healthy have a lower risk of severe disease. Nevertheless, an additional booster one year after their last booster dose can still enhance protection, and they can receive this additional booster if they choose to do so. The may walk in to any JTVC to receive their bivalent Pfizer-BioNTech/Comirnaty vaccine dose.<br><br>
 								Individuals must bring along their identification document (e.g. Birth Certificate/Passport/Student Identification Card/Singpass) for verification purposes, as well as a duly completed and signed
 hard or electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a>.<br><br>
 								You do not need accompany your child/ward if he/she is aged 13 years and above. However, if he/she is 12 years old or a student in a Special Education (SPED) school you will need to
@@ -187,20 +189,18 @@ and children are different.
 				<h3>Vaccination Day</h3>			
 					<div class="tab">
 						<input id="question-2-1" type="checkbox">
-						<label for="question-2-1" class="tab-label">What should I do to keep up-to-date with COVID-19 vaccinations?</label>
+						<label for="question-2-1" class="tab-label">Have I achieved Minimum Protection against COVID-19?</label>
 						<div class="tab-content">
-							<p>You should keep up-to-date with COVID-19 vaccinations to be well-protected from COVID-19.<br><br>
+							<p>
 								To achieve minimum protection, persons aged 5 years and above should complete, as applicable:<br>
 									<span>• Three doses of Pfizer-BioNTech/Comirnaty, Moderna/Spikevax or Novavax/Nuvaxovid; or,</span><br>
 								<span>• Four doses of Sinovac-CoronaVac*</span><br>
 								These would be doses that were previously referred to as the primary vaccination series and the first booster.<br><br>
-								The following persons who have achieved minimum protection should receive an additional booster dose between five months to one year from their last vaccine dose to keep up-to-date
-with their COVID-19 vaccination:<br>
-									<span>• Persons aged 12 years and above</span><br>
+								After achieving minimum protection, the following persons are recommended to receive an additional booster dose around one year from their last dose. The updated bivalent vaccines are recommended for this:<br>
+									<span>• Persons aged 60 years and above</span><br>
 								<span>• Persons who live in aged care facilities</span><br>
 								<span>• Persons who are medically vulnerable and at higher risk of severe disease</span><br><br>
-								The updated bivalent vaccine is recommended for this. A person is considered up-to-date with their COVID-19 vaccination if they have received at least the minimum protection and their last
-vaccine dose was received within the past one year.<br><br>
+								Persons aged 12 to 59 years who are healthy have a lower risk of severe disease. They may receive an additional booster one year after their last booster dose for enhanced protection if they choose to do so. The updated bivalent vaccine is recommended for this.<br><br>
 								*To achieve minimum protection, persons who had received the first dose of the mRNA or Novavax/Nuvaxovid vaccines, but are medically ineligible to continue with the vaccines, should receive 3 doses of the Sinovac-CoronaVac vaccine.
 							</p>
 						</div>
@@ -325,10 +325,8 @@ or removed easily<br><br>
     				<label for="question-3-4" class="tab-label">I have recovered from a COVID-19 infection and have an official record of the infection. Can I take my COVID-19 vaccine now?
     				</label>
     				<div class="tab-content">
-    					<p>If you had a documented infection before receiving any COVID-19 vaccines, you are considered to have minimum protection if you have received two mRNA or Novavax/Nuvaxovid vaccine doses
-after your infection (i.e. infection-vaccination-vaccination = minimum protection). Otherwise, please complete a total of three mRNA or Novavax/Nuvaxovid vaccine doses to achieve minimum
-protection.<br><br>
-Beyond minimum protection, infection is not considered as a substitute for a shot to keep up-to-date with your vaccination.
+    					<p>For minimum protection, you are recommended to receive three doses of mRNA or Novavax/Nuvaxovid vaccines, or four doses of Sinovac-CoronaVac regardless of any past infections.<br><br>
+								For better effectiveness, you are recommended to receive your next vaccine dose three months after the infection or the recommended interval for your next dose, whichever is later.
 								</p>
     				</div>
     			</div>	

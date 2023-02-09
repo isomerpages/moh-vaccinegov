@@ -5,15 +5,14 @@ description: ""
 ---
 ### **JTVC Locations (Vaccination Wing)**
 **Bivalent vaccines**<br>
-The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and above is available at all Joint Testing and Vaccination Centres (JTVCs), and selected Polyclinics and participating Public Health Preparedness Clinics (PHPCs). However, the Moderna/Spikevax bivalent vaccine for individuals aged 18 years and above is available only at JTVCs. If you wish to receive the Moderna/Spikevax bivalent vaccine, you may visit the nearest JTVC. 
+The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and above is available at all Joint Testing and Vaccination Centres (JTVCs), and selected Polyclinics and participating Public Health Preparedness Clinics (PHPCs). The Moderna/Spikevax bivalent vaccine for individuals aged 18 years and above is only available at JTVCs. 
 
-**For children aged 6 months to 11 years:**
-* The Pfizer-BioNTech/Comirnaty vaccines for children aged 6 months to 4 years, and 5 to 11 years will be available at selected JTVCs from 16 January 2023.
-* For children who have yet to receive any COVID-19 vaccine, parents/guardians should register their interest for their child/ward to receive the vaccination and make an appointment at [child.vaccine.gov.sg](https://child.vaccine.gov.sg).
+**For children aged 6 months to 11 years:**<br>
+For children who have yet to receive any COVID-19 vaccine, parents/guardians should register their interest for their child/ward to receive the vaccination and make an appointment at [child.vaccine.gov.sg](https://child.vaccine.gov.sg).
 
 **Walk-ins for all age groups:**
 
-*   From 4 January 2023, all eligible individuals, including children below the age of 12, may walk in to the JTVCs to receive their vaccination without a prior appointment.
+*   All eligible individuals, including children below the age of 12, may walk in to the JTVCs to receive their vaccination without a prior appointment.
 *   On days where there is high demand for vaccination, individuals should expect a longer waiting period.
 
 <table>
@@ -55,13 +54,13 @@ School)</td>
 		<tr>
       <td>JTVC Ang Mo Kio (former AMK ITE)</td>
       <td>4300 Ang Mo Kio Avenue 5 Singapore 569869</td>
-			<td>Moderna/Spikevax Bivalent (BA.1) (18 years old & above),<br><br> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)<br><br><b>[NEW] From 16 January 2023:</b><br>Pfizer/Comirnaty (6 months to 4 years) & (5 to 11 years)</td>
+			<td>Moderna/Spikevax Bivalent (BA.1) (18 years old & above),<br><br> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)<br><br>Pfizer/Comirnaty (6 months to 4 years) & (5 to 11 years)</td>
 			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm & 6.30pm)<br><br>Saturday: 9am-1pm, 2pm-7pm (Walk ins after 2pm, last walk-in 6.30pm)<br><br>Eve of Public Holiday: 9am-1pm (Last walk-in 12.30pm)<br><br>Sun and gazetted Public Holidays: Closed</td>
     </tr>
 		<tr>
       <td>JTVC Bukit Merah (former SEAB Centre)</td>
       <td>8 Lower Delta Road Singapore 169198</td>
-			<td>Moderna/Spikevax Bivalent (BA.1) (18 years old & above),<br><br> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)<br><br><b>[NEW] From 16 January 2023:</b><br>Pfizer/Comirnaty (6 months to 4 years) & (5 to 11 years)</td>
+			<td>Moderna/Spikevax Bivalent (BA.1) (18 years old & above),<br><br> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)<br><br>Pfizer/Comirnaty (6 months to 4 years) & (5 to 11 years)</td>
 			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm & 6.30pm)<br><br>Saturday: 9am-1pm, 2pm-7pm (Walk ins after 2pm, last walk-in 6.30pm)<br><br>Eve of Public Holiday: 9am-1pm (Last walk-in 12.30pm)<br><br>Sun and gazetted Public Holidays: Closed</td>
     </tr>
 		<tr>
