@@ -2,9 +2,9 @@
 title: Vaccination Centres
 permalink: /locations-vcs/
 ---
-**For children aged 6 months to 11 years:**
+**Children aged 6 months to 11 years:**
 * For children who have yet to receive any COVID-19 vaccine, parents/guardians should register their interest for their child/ward to receive the vaccination and make an appointment at [child.vaccine.gov.sg](https://child.vaccine.gov.sg).
-* From 4 January 2023, all eligible individuals, including children below the age of 12, may walk in to the VCs to receive their vaccination without a prior appointment.
+* Alternatively, they may also walk in to the VCs to receive their vaccination without a prior appointment.
 * On days where there is high demand for vaccination, individuals should expect a longer waiting period.
 
 ### **Central**
