@@ -29,7 +29,7 @@ When and how can register for my vaccine doses to achieve
 minimum protection?</label>
 						<div class="tab-content">
 							<p>
-								Persons aged 5 years and above who are eligible for their third booster dose will be invited from about five months after completing their second dose.<br><br>
+								Persons aged 5 years and above who are eligible for their third dose will be invited from about five months after completing their second dose, to achieve minimum protection.<br><br>
 								Parents/guardians of individuals aged 5 to 17 years will receive an SMS notification when their child/ward is eligible, to provide consent and book their child/ward’s booster vaccination appointment.<br><br>
 								Eligible individuals aged 18 years and above will receive an SMS with a personalised link to book an appointment at <a href="https://appointment.vaccine.gov.sg">https://appointment.vaccine.gov.sg</a>.<br><br>
 								All individuals aged who are eligible for their third dose of COVID-19 vaccination may also walk in without prior appointment, everyday of the week to receive their vaccination:<br>
