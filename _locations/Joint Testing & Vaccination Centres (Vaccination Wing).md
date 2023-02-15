@@ -13,6 +13,7 @@ For children who have yet to receive any COVID-19 vaccine, parents/guardians sho
 **Walk-ins for all age groups:**
 
 *   All eligible individuals, including children below the age of 12, may walk in to the JTVCs to receive their vaccination without a prior appointment.
+*   From 4 March 2023, JTVCs will operate until 1pm (instead of 7pm) on Saturdays. Last walk-in will be at 12.30pm.
 *   On days where there is high demand for vaccination, individuals should expect a longer waiting period.
 
 <table>
