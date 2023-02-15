@@ -5,6 +5,7 @@ permalink: /locations-vcs/
 **Children aged 6 months to 11 years:**
 * For children who have yet to receive any COVID-19 vaccine, parents/guardians should register their interest for their child/ward to receive the vaccination and make an appointment at [child.vaccine.gov.sg](https://child.vaccine.gov.sg).
 * Alternatively, they may also walk in to the VCs to receive their vaccination without a prior appointment.
+* From 4 March 2023, VCs will operate until 1pm (instead of 7pm) on Saturdays. Last walk-in will be at 12.30pm.
 * On days where there is high demand for vaccination, individuals should expect a longer waiting period.
 
 ### **Central**
