@@ -54,3 +54,26 @@ Wai Shiu Hospital Block A #01-06, Singapore
 			<td>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years
 old & above)</td>
     </tr>
+			<tr>
+      <td>Sliver Cross Medical</td>
+      <td>3 Cheong Chin Nam Road, Singapore 599728</td>
+			<td>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years
+old & above)</td>
+    </tr>
+		<tr>
+      <td>Healthway Medical (Millenia Walk)</td>
+      <td>9 Raffles Boulevard, Millenia Walk #02-22, Singapore 039596</td>
+			<td>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years
+old & above)</td>
+    </tr>
+	<tr>
+      <td>Healthway Medical (Downtown Gallery)</td>
+      <td>6A Shenton Way, Downtown Gallery #02-15, Singapore 068815</td>
+			<td>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years
+old & above)</td>
+    </tr>
+		<tr>
+      <td>Meridian Medical Centre</td>
+      <td>108 Depot Road, Depot Heights Shopping Centre #01-10, Singapore 100108</td>
+			<td>Moderna/Spikevax Bivalent (BA.1) (18 years old & above)</td>
+    </tr>
