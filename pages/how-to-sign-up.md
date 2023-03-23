@@ -17,4 +17,3 @@ Individuals in other age groups may receive their vaccinations via the following
 • Individuals aged 18 years and above may walk in to any JTVC to receive either the bivalent Pfizer-BioNTech/Comirnaty vaccine or the bivalent Moderna/Spikevax vaccine. All JTVCs carry both vaccines.<br>
 • Seniors aged 80 years and above may walk in to any JTVC, Polyclinic or PHPC.
 
-[sino](https://go.gov.sg/sinotest)
