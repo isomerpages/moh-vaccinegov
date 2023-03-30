@@ -38,6 +38,7 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
       <th>Name</th>
       <th>Address</th>
 			<th>Vaccine Type</th>
+			<th>Operating Hours</th>
     </tr>
   </thead>
   <tbody>
@@ -46,41 +47,49 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
       <td> 3 Second Hospital Avenue, #02-00 Health Promotion Board Building,
         Singapore 168937</td>
 			<td>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
+			<td>XX</td>
     </tr>	
     <tr>
       <td>Bukit Merah Polyclinic</td>
       <td>162 Bukit Merah Central Level 4, Singapore 150163</td>
 			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
+			<td>XX</td>
     </tr>		
     <tr>
       <td>Geylang Polyclinic</td>
       <td>21 Geylang East Central, Singapore 389707</td>
 			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
+			<td>XX</td>
     </tr>		
     <tr>
       <td>Toa Payoh Polyclinic</td>
       <td>2003 Lorong 8 Toa Payoh Singapore 319260</td>
 			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
+			<td>XX</td>
     </tr>
     <tr>
       <td>Marine Parade Polyclinic</td>
       <td>80 Marine Parade Central, Singapore 440080</td>
 			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
+			<td>XX</td>
     </tr>
 		<tr>
       <td>Kallang Polyclinic</td>
       <td>701 Serangoon Road, Singapore 328263</td>
 			<td> Moderna/Spikevax (6 months to 4 years old)</td>
+			<td>XX</td>
     </tr> 
 		<tr>
       <td>Queenstown Polyclinic</td>
       <td>580 Stirling Road, Singapore 148958</td>
 			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
+			<td>XX</td>
     </tr>
 		<tr>
       <td>Clementi Polyclinic</td>
       <td>451 Clementi Avenue 3, #02-307, Singapore 120451</td>
 			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
+			<td>XX</td>
     </tr>   
   </tbody>
 </table>
@@ -93,6 +102,7 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
       <th>Name</th>
       <th>Address</th>
 			<th>Vaccine Type</th>
+			<th>Operating Hours</th>
     </tr>
   </thead>
   <tbody>
@@ -100,21 +110,25 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
       <td>Tampines Polyclinic</td>
       <td>1 Tampines Street 41, Singapore 529203</td>
 			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
+			<td>XX</td>
     </tr>	 
     <tr>
       <td>Bedok Polyclinic</td>
       <td>11 Bedok North Street 1 Heartbeat@Bedok #02-01, #03-01, Singapore 469662</td>
 			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
+			<td>XX</td>
     </tr>		
     <tr>
       <td>Pasir Ris Polyclinic</td>
       <td>1 Pasir Ris Drive 4, Singapore 519457</td>
 			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
+			<td>XX</td>
     </tr>
 		<tr>
       <td>Eunos Polyclinic</td>
       <td>1 Chin Cheng Avenue, Singapore 429400</td>
 			<td>Moderna/Spikevax (6 months to 4 years old)</td>
+			<td>XX</td>
     </tr>
   </tbody>
 </table>
@@ -126,6 +140,7 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
       <th>Name</th>
       <th>Address</th>
 			<th>Vaccine Type</th>
+			<th>Operating Hours</th>
     </tr>
   </thead>
   <tbody>
@@ -134,11 +149,13 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
       <td>10 Woodlands Street 31, Singapore 738579</td>
 			<td> Pfizer/Comirnaty Monovalent (5 to 11 years old) <br> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years
 old & above)</td>
+			<td>XX</td>
     </tr>
     <tr>
       <td>Yishun Polyclinic</td>
       <td>2 Yishun Avenue 9, Singapore 768898</td>
 			<td>Moderna/Spikevax (6 months to 4 years old)</td>
+			<td>XX</td>
     </tr>
   </tbody>
 </table>
@@ -150,6 +167,7 @@ old & above)</td>
       <th>Name</th>
       <th>Address</th>
 			<th>Vaccine Type</th>
+			<th>Operating Hours</th>
     </tr>
   </thead>
   <tbody>
@@ -157,12 +175,14 @@ old & above)</td>
       <td>Hougang Polyclinic</td>
       <td>89 Hougang Avenue 4, Singapore 538829</td>
 			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
+			<td>XX</td>
     </tr>		
     <tr>
       <td>Punggol Polyclinic</td>
       <td>681 Punggol Drive, Singapore 820681</td>
 			<td> Pfizer/Comirnaty Monovalent (5 to 11 years old) <br> Pfizer/Comirnaty Bivalent (BA.4/5) (12
 years old & above)</td>
+			<td>XX</td>
 			 </tr>		
     <tr>
       <td>Ang Mo Kio Polyclinic</td>
@@ -173,6 +193,7 @@ years old & above)</td>
       <td>Seng Kang Polyclinic</td>
       <td>2 Sengkang Square, #01-06, Singapore 545025</td>
 			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
+			 <td>XX</td>
     </tr> 
   </tbody>
 </table>
@@ -184,6 +205,7 @@ years old & above)</td>
       <th>Name</th>
       <th>Address</th>
 			<th>Vaccine Type</th>
+			<th>Operating Hours</th>
     </tr>
   </thead>
   <tbody>
@@ -192,27 +214,32 @@ years old & above)</td>
       <td>26 Jurong West Street 61, Singapore 648201</td>
 			<td> Pfizer/Comirnaty Monovalent (5 to 11 years old) <br>Pfizer/Comirnaty Bivalent (BA.4/5) (12
 years old & above)</td>
+			<td>XX</td>
     </tr>	
     <tr>
       <td>Jurong Polyclinic</td>
       <td>190 Jurong East Avenue 1, Singapore 609788</td>
 			<td>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
+			<td>XX</td>
     </tr>	
     <tr>
       <td>Bukit Batok Polyclinic</td>
       <td>50 Bukit Batok West Avenue 3, Singapore 659164</td>
 			<td>Moderna/Spikevax (6 months to 4 years old)<br>Pfizer-BioNTech/Comirnaty Bivalent (BA. 4/5) (12 yrs old & above)</td>
+			<td>XX</td>
     </tr>		
     <tr>
       <td>Choa Chu Kang Polyclinic</td>
       <td>2 Teck Whye Crescent, Singapore 688846</td>
 			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
+			<td>XX</td>
     </tr>
 		<tr>
       <td>Bukit Panjang Polyclinic</td>
       <td>50 Woodlands Road, Singapore 677726</td>
 			<td>Pfizer/Comirnaty Monovalent
 (5 to 11 years old)</td>
+			<td>XX</td>
     </tr> 
   </tbody>
 </table>
