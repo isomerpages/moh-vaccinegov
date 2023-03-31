@@ -6,7 +6,7 @@ permalink: /locations-polyclinics/
 The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and above is available at all vaccination locations offering the vaccine, including Polyclinics. The Moderna/Spikevax bivalent vaccine for individuals aged 18 years and above is available only at Joint Testing and Vaccination Centres (JTVC). If you wish to receive the Moderna/Spikevax bivalent vaccine, you may visit the nearest JTVC.
 
 **For COVID-19 vaccination at the Polyclinics:**
-*   Walk-ins to polyclinics are only accepted for persons aged 80 years and above.
+*   Walk-ins to polyclinics are only accepted for persons aged 80 years and above, during the vaccinating hours.
 *   For all other age groups, vaccination is by appointment which are made via the National Appointment System (NAS) which can be accessed via the SMS invitation.
 *   Individuals may want to make appointments at JTVCs where more appointment slots may be available given the higher vaccination capacity.
 
@@ -26,7 +26,7 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
       <th>Name</th>
       <th>Address</th>
 			<th>Vaccine Type</th>
-			<th>Operating Hours</th>
+			<th>Vaccination Hours</th>
     </tr>
   </thead>
   <tbody>
@@ -130,7 +130,7 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
       <th>Name</th>
       <th>Address</th>
 			<th>Vaccine Type</th>
-			<th>Operating Hours</th>
+			<th>Vaccination Hours</th>
     </tr>
   </thead>
   <tbody>
@@ -188,7 +188,7 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
       <th>Name</th>
       <th>Address</th>
 			<th>Vaccine Type</th>
-			<th>Operating Hours</th>
+			<th>Vaccination Hours</th>
     </tr>
   </thead>
   <tbody>
@@ -229,7 +229,7 @@ old &amp; above)</td>
       <th>Name</th>
       <th>Address</th>
 			<th>Vaccine Type</th>
-			<th>Operating Hours</th>
+			<th>Vaccination Hours</th>
     </tr>
   </thead>
   <tbody>
@@ -288,7 +288,7 @@ years old &amp; above)</td>
       <th>Name</th>
       <th>Address</th>
 			<th>Vaccine Type</th>
-			<th>Operating Hours</th>
+			<th>Vaccination Hours</th>
     </tr>
   </thead>
   <tbody>
