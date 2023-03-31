@@ -37,7 +37,7 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
 			<td>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
 			<td>Saturdays:
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Weekends:<br>
+			Saturdays:<br>
 			8am-12.30pm (last walk-in: 11.30am)<br><br>
 			Sundays and Public Holidays:<br>
 			Closed</td>
