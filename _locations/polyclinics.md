@@ -6,7 +6,7 @@ permalink: /locations-polyclinics/
 The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and above is available at all vaccination locations offering the vaccine, including Polyclinics. The Moderna/Spikevax bivalent vaccine for individuals aged 18 years and above is available only at Joint Testing and Vaccination Centres (JTVC). If you wish to receive the Moderna/Spikevax bivalent vaccine, you may visit the nearest JTVC.
 
 **For COVID-19 vaccination at the Polyclinics:**
-*   Walk-ins to polyclinics are only accepted for persons aged 80 years and above, during the vaccinating hours.
+*   Walk-ins to polyclinics are only accepted for persons aged 80 years and above.
 *   For all other age groups, vaccination is by appointment which are made via the National Appointment System (NAS) which can be accessed via the SMS invitation.
 *   Individuals may want to make appointments at JTVCs where more appointment slots may be available given the higher vaccination capacity.
 
@@ -26,7 +26,7 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
       <th>Name</th>
       <th>Address</th>
 			<th>Vaccine Type</th>
-			<th>Vaccinating Hours</th>
+			<th>Vaccination Operating Hours</th>
     </tr>
   </thead>
   <tbody>
@@ -35,7 +35,7 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
       <td> 3 Second Hospital Avenue, #02-00 Health Promotion Board Building,
         Singapore 168937</td>
 			<td>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
-			<td>Weekdays:
+			<td>Saturdays:
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
 			Weekends:<br>
 			8am-12.30pm (last walk-in: 11.30am)<br><br>
@@ -48,7 +48,7 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
 			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
 			<td>Weekdays:
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Weekends:<br>
+			Saturdays:<br>
 			8am-12.30pm (last walk-in: 11.30am)<br><br>
 			Sundays and Public Holidays:<br>
 			Closed</td>
@@ -59,7 +59,7 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
 			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
 			<td>Weekdays:
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Weekends:<br>
+			Saturdays:<br>
 			8am-12.30pm (last walk-in: 11.30am)<br><br>
 			Sundays and Public Holidays:<br>
 			Closed</td>
@@ -70,7 +70,7 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
 			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
 			<td>Weekdays:
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Weekends:<br>
+			Saturdays:<br>
 			8am-12.30pm (last walk-in: 11.30am)<br><br>
 			Sundays and Public Holidays:<br>
 			Closed</td>
@@ -81,7 +81,7 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
 			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
 			<td>Weekdays:
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Weekends:<br>
+			Saturdays:<br>
 			8am-12.30pm (last walk-in: 11.30am)<br><br>
 			Sundays and Public Holidays:<br>
 			Closed</td>
@@ -91,9 +91,9 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
       <td>701 Serangoon Road, Singapore 328263</td>
 			<td> Moderna/Spikevax (6 months to 4 years old)</td>
 			<td>Weekdays:
-			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Weekends:<br>
-			8am-12.30pm (last walk-in: 11.30am)<br><br>
+			8am-1pm; 2-4.30pm<br><br>
+			Saturdays:<br>
+			8am-12.30pm<br><br>
 			Sundays and Public Holidays:<br>
 			Closed</td>
     </tr> 
@@ -103,7 +103,7 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
 			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
 			<td>Weekdays:
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Weekends:<br>
+			Saturdays:<br>
 			8am-12.30pm (last walk-in: 11.30am)<br><br>
 			Sundays and Public Holidays:<br>
 			Closed</td>
@@ -114,7 +114,7 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
 			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
 			<td>Weekdays:
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Weekends:<br>
+			Saturdays:<br>
 			8am-12.30pm (last walk-in: 11.30am)<br><br>
 			Sundays and Public Holidays:<br>
 			Closed</td>
@@ -130,7 +130,7 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
       <th>Name</th>
       <th>Address</th>
 			<th>Vaccine Type</th>
-			<th>Vaccinating Hours</th>
+			<th>Vaccination Operating Hours</th>
     </tr>
   </thead>
   <tbody>
@@ -140,7 +140,7 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
 			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
 			<td>Weekdays:
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Weekends:<br>
+			Saturdays:<br>
 			8am-12.30pm (last walk-in: 11.30am)<br><br>
 			Sundays and Public Holidays:<br>
 			Closed</td>
@@ -151,7 +151,7 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
 			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
 			<td>Weekdays:
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Weekends:<br>
+			Saturdays:<br>
 			8am-12.30pm (last walk-in: 11.30am)<br><br>
 			Sundays and Public Holidays:<br>
 			Closed</td>
@@ -162,7 +162,7 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
 			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
 			<td>Weekdays:
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Weekends:<br>
+			Saturdays:<br>
 			8am-12.30pm (last walk-in: 11.30am)<br><br>
 			Sundays and Public Holidays:<br>
 			Closed</td>
@@ -172,9 +172,9 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
       <td>1 Chin Cheng Avenue, Singapore 429400</td>
 			<td>Moderna/Spikevax (6 months to 4 years old)</td>
 			<td>Weekdays:
-			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Weekends:<br>
-			8am-12.30pm (last walk-in: 11.30am)<br><br>
+			8am-1pm; 2-4.30pm<br><br>
+			Saturdays:<br>
+			8am-12.30pm<br><br>
 			Sundays and Public Holidays:<br>
 			Closed</td>
     </tr>
@@ -188,7 +188,7 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
       <th>Name</th>
       <th>Address</th>
 			<th>Vaccine Type</th>
-			<th>Vaccinating Hours</th>
+			<th>Vaccination Operating Hours</th>
     </tr>
   </thead>
   <tbody>
@@ -203,7 +203,7 @@ old &amp; above)</td>
 				<b>Pfizer/Comirnaty Bivalent (BA.4/5):</b><br>
 				Weekdays:
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Weekends:<br>
+			Saturdays:<br>
 			8am-12.30pm (last walk-in: 11.30am)<br><br>
 			Sundays and Public Holidays:<br>
 			Closed</td>
@@ -213,9 +213,9 @@ old &amp; above)</td>
       <td>2 Yishun Avenue 9, Singapore 768898</td>
 			<td>Moderna/Spikevax (6 months to 4 years old)</td>
 			<td>Weekdays:
-			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Weekends:<br>
-			8am-12.30pm (last walk-in: 11.30am)<br><br>
+			8am-1pm; 2-4.30pm<br><br>
+			Saturdays:<br>
+			8am-12.30pm<br><br>
 			Sundays and Public Holidays:<br>
 			Closed</td>
     </tr>
@@ -229,7 +229,7 @@ old &amp; above)</td>
       <th>Name</th>
       <th>Address</th>
 			<th>Vaccine Type</th>
-			<th>Vaccinating Hours</th>
+			<th>Vaccination Operating Hours</th>
     </tr>
   </thead>
   <tbody>
@@ -239,7 +239,7 @@ old &amp; above)</td>
 			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
 			<td>Weekdays:
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Weekends:<br>
+			Saturdays:<br>
 			8am-12.30pm (last walk-in: 11.30am)<br><br>
 			Sundays and Public Holidays:<br>
 			Closed</td>
@@ -251,7 +251,7 @@ old &amp; above)</td>
 years old &amp; above)</td>
 			<td>Weekdays:
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Weekends:<br>
+			Saturdays:<br>
 			8am-12.30pm (last walk-in: 11.30am)<br><br>
 			Sundays and Public Holidays:<br>
 			Closed</td>
@@ -262,7 +262,7 @@ years old &amp; above)</td>
 			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
 						<td>Weekdays:
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Weekends:<br>
+			Saturdays:<br>
 			8am-12.30pm (last walk-in: 11.30am)<br><br>
 			Sundays and Public Holidays:<br>
 			Closed</td>
@@ -273,7 +273,7 @@ years old &amp; above)</td>
 			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
 			<td>Weekdays:
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Weekends:<br>
+			Saturdays:<br>
 			8am-12.30pm (last walk-in: 11.30am)<br><br>
 			Sundays and Public Holidays:<br>
 			Closed</td>
@@ -288,7 +288,7 @@ years old &amp; above)</td>
       <th>Name</th>
       <th>Address</th>
 			<th>Vaccine Type</th>
-			<th>Vaccinating Hours</th>
+			<th>Vaccination Operating Hours</th>
     </tr>
   </thead>
   <tbody>
@@ -299,7 +299,7 @@ years old &amp; above)</td>
 years old &amp; above)</td>
 			<td>Weekdays:
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Weekends:<br>
+			Saturdays:<br>
 			8am-12.30pm (last walk-in: 11.30am)<br><br>
 			Sundays and Public Holidays:<br>
 			Closed</td>
@@ -310,7 +310,7 @@ years old &amp; above)</td>
 			<td>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
 			<td>Weekdays:
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Weekends:<br>
+			Saturdays:<br>
 			8am-12.30pm (last walk-in: 11.30am)<br><br>
 			Sundays and Public Holidays:<br>
 			Closed</td>
@@ -321,7 +321,7 @@ years old &amp; above)</td>
 			<td>Moderna/Spikevax (6 months to 4 years old)<br>Pfizer-BioNTech/Comirnaty Bivalent (BA. 4/5) (12 yrs old &amp; above)</td>
 			<td>Weekdays:
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Weekends:<br>
+			Saturdays:<br>
 			8am-12.30pm (last walk-in: 11.30am)<br><br>
 			Sundays and Public Holidays:<br>
 			Closed</td>
@@ -332,7 +332,7 @@ years old &amp; above)</td>
 			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
 			<td>Weekdays:
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Weekends:<br>
+			Saturdays:<br>
 			8am-12.30pm (last walk-in: 11.30am)<br><br>
 			Sundays and Public Holidays:<br>
 			Closed</td>
@@ -343,9 +343,9 @@ years old &amp; above)</td>
 			<td>Pfizer/Comirnaty Monovalent
 (5 to 11 years old)</td>
 			<td>Weekdays:
-			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Weekends:<br>
-			8am-12.30pm (last walk-in: 11.30am)<br><br>
+			8am-1pm; 2-4.30pm<br><br>
+			Saturdays:<br>
+			8am-12.30pm<br><br>
 			Sundays and Public Holidays:<br>
 			Closed</td>
     </tr> 
