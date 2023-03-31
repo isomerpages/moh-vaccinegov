@@ -26,7 +26,7 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
       <th>Name</th>
       <th>Address</th>
 			<th>Vaccine Type</th>
-			<th>Vaccination Hours</th>
+			<th>Vaccinating Hours</th>
     </tr>
   </thead>
   <tbody>
@@ -130,7 +130,7 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
       <th>Name</th>
       <th>Address</th>
 			<th>Vaccine Type</th>
-			<th>Vaccination Hours</th>
+			<th>Vaccinating Hours</th>
     </tr>
   </thead>
   <tbody>
@@ -188,7 +188,7 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
       <th>Name</th>
       <th>Address</th>
 			<th>Vaccine Type</th>
-			<th>Vaccination Hours</th>
+			<th>Vaccinating Hours</th>
     </tr>
   </thead>
   <tbody>
@@ -229,7 +229,7 @@ old &amp; above)</td>
       <th>Name</th>
       <th>Address</th>
 			<th>Vaccine Type</th>
-			<th>Vaccination Hours</th>
+			<th>Vaccinating Hours</th>
     </tr>
   </thead>
   <tbody>
@@ -288,7 +288,7 @@ years old &amp; above)</td>
       <th>Name</th>
       <th>Address</th>
 			<th>Vaccine Type</th>
-			<th>Vaccination Hours</th>
+			<th>Vaccinating Hours</th>
     </tr>
   </thead>
   <tbody>
