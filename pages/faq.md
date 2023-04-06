@@ -25,20 +25,21 @@ permalink: /faq/
 				<div class="tab">
 						<input id="question-1-3" type="checkbox">
 						<label for="question-1-3" class="tab-label">	
-When and how can I register for my vaccine doses to achieve
+When and how can I register for my booster doses to achieve
 minimum protection?</label>
 						<div class="tab-content">
 							<p>
 								Persons aged 5 years and above who are eligible for their third dose will be invited from about five months after completing their second dose, to achieve minimum protection.<br><br>
 								Parents/guardians of individuals aged 5 to 17 years will receive an SMS notification when their child/ward is eligible, to provide consent and book their child/ward’s booster vaccination appointment.<br><br>
-								Eligible individuals aged 18 years and above will receive an SMS with a personalised link to book an appointment at <a href="https://appointment.vaccine.gov.sg">https://appointment.vaccine.gov.sg</a>.<br><br>
-								All individuals aged who are eligible for their third dose of COVID-19 vaccination may also walk in without prior appointment, everyday of the week to receive their vaccination:<br>
-								<span>• Children <strong> aged 5 to 11 years </strong> may walk in with their parents/guardians to any Vaccination Centre (VC), or any Joint Testing and Vaccination Centre (JTVC) offering the Pfizer-BioNTech/Comirnaty vaccine for children aged 5 to 11 years before 6.30pm on Mondays to Fridays, and before 12.30pm on Saturdays.</span><br>
-								<span>• Individuals <strong> aged 12 to 17 years </strong> may walk in to any JTVC offering the bivalent Pfizer-BioNTech/Comirnaty vaccine before 6.30pm on Mondays to Fridays, and before 12.30pm on Saturdays.</span><br>
-								<span>• Individuals <strong> aged 18 years and above </strong> may walk into any JTVC to receive either the bivalent Pfizer-BioNTech/Comirnaty vaccine or the bivalent Moderna/Spikevax vaccine before 6.30pm on Mondays to Fridays, and before 12.30pm on Saturdays.</span><br>
-								<span>• Seniors <strong> aged 80 years old and above</strong>, you may walk into any Polyclinic.</span><br><br>
+								Eligible individuals aged 18 years and above will receive an SMS with a personalised link to book an appointment.<br><br>
+								All individuals aged who are eligible for their third dose of COVID-19 vaccination may also walk in without prior appointment to receive their vaccination:<br>
+								<span>• Children <strong> aged 5 to 11 years </strong> may walk in with their parents/guardians to any Vaccination Centre (VC)*, or any Joint Testing and Vaccination Centre (JTVC) offering the Pfizer-BioNTech/Comirnaty vaccine for children aged 5 to 11 years before 6.30pm on Mondays to Fridays, and before 12.30pm on Saturdays.</span><br>
+								<span>• Individuals <strong> aged 12 to 17 years </strong> may walk in to any JTVC before 6.30pm on Mondays to Fridays, and before 12.30pm on Saturdays.</span><br>
+								<span>• Individuals <strong> aged 18 years and above </strong> may walk into any JTVC before 6.30pm on Mondays to Fridays, and before 12.30pm on Saturdays.</span><br>
+								<span>• Seniors <strong> aged 80 years old and above</strong> may walk into any JTVC, Polyclinic or participating Public Health Preparedness Clinic (PHPC).</span><br><br>
 								Individuals aged 5 to 17 years will be required to bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="go.gov.sg/parcf">here</a>. Parents/guardians must accompany their child/ward if he/she is aged 12 years and below. Children aged 13 years and above need not be accompanied.<br><br>
-								Individuals who wish to receive their vaccination at participating PHPCs are strongly encouraged to make an appointment with the PHPC to avoid long waiting times.
+								Individuals who wish to receive their vaccination at the polyclinics or PHPCs are strongly encouraged to make an appointment with the PHPC to avoid long waiting times.<br><br>
+								*From 15 April 2023, the five VCs offering the vaccines for children will be closed. Vaccines for children aged 5 to 11 years will be offered at the nearby JTVCs from 17 April 2023. Please visit <a href="gowhere.gov.sg/vaccine">https://www.gowhere.gov.sg/vaccine</a> to locate the nearest vaccination site offering vaccines for children aged 5 to 11 years.
 									</p>
 							</div>
 					</div>				
@@ -365,4 +366,4 @@ months to 4 years if he/she turns 5 years old on the day of the first appointmen
 Those who received the Moderna/Spikevax vaccine when they were below 5 years will continue to receive the same vaccine and dosage their second dose, even if they have turned 5 years between the first and second vaccine doses.
 							</p>
     				</div>
-    			</div>
+    			</div></div></div>
