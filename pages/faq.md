@@ -34,8 +34,7 @@ minimum protection?</label>
 								Eligible individuals aged 18 years and above will receive an SMS with a personalised link to book an appointment.<br><br>
 								All individuals aged who are eligible for their third dose of COVID-19 vaccination may also walk in without prior appointment to receive their vaccination:<br>
 								<span>• Children <strong> aged 5 to 11 years </strong> may walk in with their parents/guardians to any Vaccination Centre (VC)*, or any Joint Testing and Vaccination Centre (JTVC) offering the Pfizer-BioNTech/Comirnaty vaccine for children aged 5 to 11 years before 6.30pm on Mondays to Fridays, and before 12.30pm on Saturdays.</span><br>
-								<span>• Individuals <strong> aged 12 to 17 years </strong> may walk in to any JTVC before 6.30pm on Mondays to Fridays, and before 12.30pm on Saturdays.</span><br>
-								<span>• Individuals <strong> aged 18 years and above </strong> may walk into any JTVC before 6.30pm on Mondays to Fridays, and before 12.30pm on Saturdays.</span><br>
+								<span>• Individuals <strong> aged 12 years and above </strong> may walk into any JTVC before 6.30pm on Mondays to Fridays, and before 12.30pm on Saturdays.</span><br>
 								<span>• Seniors <strong> aged 80 years old and above</strong> may walk into any JTVC, Polyclinic or participating Public Health Preparedness Clinic (PHPC).</span><br><br>
 								Individuals aged 5 to 17 years will be required to bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="go.gov.sg/parcf">here</a>. Parents/guardians must accompany their child/ward if he/she is aged 12 years and below. Children aged 13 years and above need not be accompanied.<br><br>
 								Individuals who wish to receive their vaccination at the polyclinics or PHPCs are strongly encouraged to make an appointment with the PHPC to avoid long waiting times.<br><br>
