@@ -2,11 +2,7 @@
 title: Vaccination Centres
 permalink: /locations-vcs/
 ---
-**Children aged 6 months to 11 years:**
-* For children who have yet to receive any COVID-19 vaccine, parents/guardians should register their interest for their child/ward to receive the vaccination and make an appointment at [child.vaccine.gov.sg](https://child.vaccine.gov.sg).
-* Alternatively, they may also walk in to the VCs to receive their vaccination without a prior appointment.
-* From 4 March 2023, VCs will operate until 1pm (instead of 7pm) on Saturdays. Last walk-in will be at 12.30pm.
-* On days where there is high demand for vaccination, individuals should expect a longer waiting period.
+From 17 April 2023, the Vaccination Centres listed below will be closed and transitioned into the nearby Joint Testing and Vaccination Centres (JTVCs). Please visit the JTVC page for more information.
 
 ### **Central**
 <table>
@@ -20,7 +16,7 @@ permalink: /locations-vcs/
   </thead>
   <tbody>	
     <tr>
-      <td>Queenstown
+      <td><b>[CLOSED after 15 April 2023]</b><br>Queenstown
 Community Centre </td>
       <td>365 Commonwealth Avenue, Singapore
 149732</td>
@@ -46,8 +42,8 @@ BioNTech/Comirnaty Monovalent
   </thead>
   <tbody>	
     <tr>
-      <td>Our Tampines Hub</td>
-      <td>1 Tampines Walk, #03-03 & 03-04
+      <td><b>[CLOSED after 15 April 2023]</b><br>Our Tampines Hub</td>
+      <td>1 Tampines Walk, #03-03 &amp; 03-04
 (Lobby B), Singapore 528523</td>
 			<td>Moderna/Spikevax (6
 months to 4 years old)<br><br>
@@ -69,7 +65,7 @@ Pfizer-BioNTech/Comirnaty Monovalent (5 to 11 years old)</td>
   </thead>
   <tbody>	
     <tr>
-      <td>Sembawang Community Club</td>
+      <td><b>[CLOSED after 15 April 2023]</b><br>Sembawang Community Club</td>
       <td>2125 Sembawang Road, Singapore
 758528</td>
 			<td>Moderna/Spikevax (6
@@ -92,7 +88,7 @@ Pfizer-BioNTech/Comirnaty Monovalent (5 to 11 years old)</td>
   </thead>
   <tbody>	
     <tr>
-      <td>One Punggol</td>
+      <td><b>[CLOSED after 15 April 2023]</b><br>One Punggol</td>
       <td>1 Punggol Drive, Level 3 Futsal Court,
 Singapore 828629</td>
 			<td>Moderna/Spikevax (6 months to 4 years old)<br><br>
@@ -114,7 +110,7 @@ Pfizer- BioNTech/Comirnaty Monovalent (5 to 11 years old)</td>
   </thead>
   <tbody>	
 			 <tr>
-      <td>Taman Jurong Community Centre</td>
+      <td><b>[CLOSED after 15 April 2023]</b><br>Taman Jurong Community Centre</td>
       <td>1 Yung Sheng Road Singapore 618495</td>
 			<td>Moderna/Spikevax (6 months to 4 years old)<br><br>Pfizer- BioNTech/Comirnaty Monovalent (5 to 11 years old)
 				 </td>
