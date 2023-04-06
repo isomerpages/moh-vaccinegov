@@ -130,34 +130,19 @@ above.
 					</div>
 					<div class="tab">
 						<input id="question-1-13" type="checkbox">
-						<label for="question-1-13" class="tab-label">I want to get my child/ward who is between 6 months and 4 years old
+						<label for="question-1-13" class="tab-label">I want to get my child/ward who is between 6 months and 11 years old
 vaccinated. What do I need to do?</label>
 						<div class="tab-content">
-							<p>
-						Parents/guardians of children aged 6 months to 4 years should register their interest for their child/ward to receive the vaccination at <a href="https://child.vaccine.gov.sg"> https://child.vaccine.gov.sg</a>. An SMS with a personalized booking link will be sent to the registered mobile number of the parent/guardian within three to five working days to book a
-vaccination appointment. <br><br>
-								Vaccination for this age band is currently only available at dedicated Vaccination Centres (VCs), two of our Joint Testing and Vaccination Centres (JTVCs) -- JTVC Ang Mo Kio and JTVC Bukit Merah, and selected Polyclinics offering the paediatric Moderna/Spikevax vaccine dose.<br><br>
-							To find a vaccination location near you that offers your preferred paediatric vaccines, please visit <a href="https://gowhere.gov.sg/vaccine"> https://gowhere.gov.sg/vaccine</a>.<br><br>
-							Eligible children may also walk in with their parents/guardians to the VCs or JTVCs before 6.30pm on Mondays to Fridays, and 12.30pm on Saturdays, without a prior appointment. On days where there is high demand for vaccination, individuals should expect a longer waiting period.<br><br>
+							<p>Eligible children may also walk in with their parents/guardians to the Vaccination Centres (VCs)* or Joint Testing and Vaccination Centres (JTVCs) offering the vaccines recommended for the different age groups before 6.30pm on Mondays to Fridays, and 12.30pm on Saturdays, without a prior appointment. On days where there is high demand for vaccination, individuals should expect a longer waiting period.<br><br>
+						Alternatively, for children aged 6 months to 11 years who have yet to receive any COVID-19 vaccine, parents/guardians should register their child/ward to receive the vaccination at <a href="https://child.vaccine.gov.sg"> https://child.vaccine.gov.sg</a>. An SMS with a personalized booking link will be sent to the registered mobile number of the parent/guardian within three to five working days to book an appointment at a preferred location.<br><br>
+								Children <strong> aged 5 to 11 </strong> who completed their second dose more than five months ago are recommended to take a third dose (also known as booster dose). Parents/guardians will receive an SMS at the mobile number that was registered for your child/ward’s previous COVID-19 vaccination appointment, and they may book an appointment via the personalised booking link provided. Walk-ins are also allowed for this age group receiving their third dose.<br><br>
+							*From 15 April 2023, the five VCs offering the vaccines for children will be closed. Vaccines for children aged 6 months to 11 years will be offered at the nearby JTVCs from 17 April 2023. Please visit <a href="https://gowhere.gov.sg/vaccine"> https://gowhere.gov.sg/vaccine</a> to locate the nearest vaccination site offering vaccines for children aged 6 months to 11 years..<br><br>
 							Parents/guardians must bring along their child/ward's identification document (e.g. Birth Certificate and Health booklet/Passport/Student Identification Card/Singpass) for verification purposes, as well as a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="go.gov.sg/parcf">here</a>.</p>
 							</div>
-					</div>				
+					</div>								
 					<div class="tab">
 						<input id="question-1-14" type="checkbox">
-						<label for="question-1-14" class="tab-label">I want to get my child/ward who is between 5 and 11 years old vaccinated. What do I need to
-do?</label>
-						<div class="tab-content">
-							<p>For children aged 5 to 11 years who have yet to receive any COVID-19 vaccine, parents/guardians who prefer to make an appointment for the vaccination should register their child/ward at <a href="https://child.vaccine.gov.sg">child.vaccine.gov.sg</a>. An SMS with a personalised booking link will be sent to the registered mobile number of the parent/guardian within three to five working days to book a vaccination appointment at dedicated vaccination sites offering the paediatric Pfizer-BioNTech/Comirnaty vaccine.<br><br>
-								Eligible children may also walk in with their parents/guardians to the Vaccination Centres (VCs), or to our Joint Testing and Vaccination Centre (JTVC) Ang Mo Kio or JTVC Bukit Merah. Individuals are reminded to walk in before 6.30pm on Mondays to Fridays, and before 12.30pm on Saturdays. On days where there is high demand for vaccination, individuals should expect a longer waiting period.<br><br>
-								Parents/guardians must bring along their child/ward's identification document (e.g. Birth Certificate and Health Booklet/Passport/Student Identification Card/Singpass) for verification purposes, as well as a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="go.gov.sg/parcf">here</a>. Parents/guardians are also required to accompany their child/ward when they receive their vaccination.<br><br>
-								Children who completed their second dose more than five months ago are recommended to take a third dose (also known as booster dose). Parents/guardians will receive an SMS at the mobile number that was registered for your child/ward’s previous COVID-19 vaccination appointment, and they may book an appointment via the personalised booking link provided. Walk-ins are also allowed for this age group receiving their third dose.<br><br>
-							To find a vaccination location near you that offers the paediatric vaccines, please visit <a href="https://gowhere.gov.sg/vaccine"> https://gowhere.gov.sg/vaccine</a>.
-						</p>
-							</div>
-					</div>				
-					<div class="tab">
-						<input id="question-1-15" type="checkbox">
-						<label for="question-1-15" class="tab-label">I want to get my child/ward (12 to 17 years old) vaccinated. What do I need to do?</label>
+						<label for="question-1-14" class="tab-label">I want to get my child/ward (12 to 17 years old) vaccinated. What do I need to do?</label>
 						<div class="tab-content">
 							<p>
 								You will receive an SMS inviting your child/ward to take their third dose (also known as booster dose) when eligible, at the mobile number that you had registered with for your child/ward’s previous COVID-19 vaccinations. Individuals aged 12 to 17 years old can also walk in to any Joint Testing and Vaccination Centre (JTVC) offering the Pfizer-BioNTech/Comirnaty vaccine to receive their three doses for minimum protection, without the need for prior appointment, when they are eligible to do so. If your child/ward is 12 to 17 years old, he/she will require your consent to receive his/her vaccinations.<br><br>
@@ -170,8 +155,8 @@ accompany him/her, as per the arrangements for the previous COVID-19 vaccination
 							</div>
 					</div>				
 					<div class="tab">
-						<input id="question-1-16" type="checkbox">
-						<label for="question-1-16" class="tab-label">Will it be possible for parents/guardians to be vaccinated together with their child/ward?</label>
+						<input id="question-1-15" type="checkbox">
+						<label for="question-1-15" class="tab-label">Will it be possible for parents/guardians to be vaccinated together with their child/ward?</label>
 						<div class="tab-content">
 							<p>
 						Parents/guardians who accompany their child/wards aged 12 years and under for vaccination will not be able to receive their vaccination together with their child/ward as the dosage for adults
