@@ -15,7 +15,7 @@ The&nbsp;Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 year
 **For children aged 6 months to 11 years:**<br>
 * For children who have yet to receive any COVID-19 vaccine, parents/guardians may also register their interest for their child/ward to receive the vaccination and make an appointment at [child.vaccine.gov.sg](https://child.vaccine.gov.sg).
 * From 17 April 2023, four more JTVCs will start offering the vaccines for children aged 6 months to 11 years.
-* Please note thtat JTVC Bukit Merah will stop offering the Pfizer-BioNTech/Comirnaty vaccine for 6 months to 4 years after 15 April 2023. The vaccine will still be offered to those who currently have second dose appointment bookings past 15 April 2023.
+* Please note that JTVC Bukit Merah will stop offering the Pfizer-BioNTech/Comirnaty vaccine for 6 months to 4 years after 15 April 2023. The vaccine will still be offered to those who currently have second dose appointment bookings past 15 April 2023.
 
 <table>
   <thead>
