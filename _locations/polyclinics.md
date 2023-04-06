@@ -8,7 +8,7 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
 **For COVID-19 vaccination at the Polyclinics:**
 *   Walk-ins to polyclinics are only accepted for persons aged 80 years and above.
 *   For all other age groups, vaccination is by appointment which are made via the National Appointment System (NAS) which can be accessed via the SMS invitation.
-*   Individuals may want to make appointments at JTVCs where more appointment slots may be available given the higher vaccination capacity.
+*   Individuals may want to walk in to or make appointments at JTVCs where more appointment slots may be available given the higher vaccination capacity.
 
 **To book an appointment for paediatric vaccination:**<br>
 * Refer to polyclinics indicated with “Moderna/Spikevax (6 months to 4 years)" or “Pfizer/Comirnaty Monovalent (5 to 11 years old)" vaccine type.<br>
