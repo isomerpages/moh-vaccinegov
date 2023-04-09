@@ -101,7 +101,7 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
       <td>Queenstown Polyclinic</td>
       <td>580 Stirling Road, Singapore 148958</td>
 			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
-			<td>Weekdays:
+			<td>Fridays:
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
 			Saturdays:<br>
 			8am-12.30pm (last walk-in: 11.30am)<br><br>
@@ -112,11 +112,9 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
       <td>Clementi Polyclinic</td>
       <td>451 Clementi Avenue 3, #02-307, Singapore 120451</td>
 			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
-			<td>Weekdays:
+			<td>Wednesdays and Thursdays:
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Saturdays:<br>
-			8am-12.30pm (last walk-in: 11.30am)<br><br>
-			Sundays and Public Holidays:<br>
+			Weekends and Public Holidays:<br>
 			Closed</td>
     </tr>   
   </tbody>
@@ -195,7 +193,7 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
     <tr>
       <td>Woodlands Polyclinic</td>
       <td>10 Woodlands Street 31, Singapore 738579</td>
-			<td> Pfizer/Comirnaty Monovalent (5 to 11 years old) <br> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years
+			<td> Pfizer/Comirnaty Monovalent (5 to 11 years old) <br><br>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years
 old &amp; above)</td>
 			<td><b>Pfizer/Comirnaty Monovalent (5 to 11 years old):</b><br>
 			Fridays:<br>
@@ -247,7 +245,7 @@ old &amp; above)</td>
     <tr>
       <td>Punggol Polyclinic</td>
       <td>681 Punggol Drive, Singapore 820681</td>
-			<td> Pfizer/Comirnaty Monovalent (5 to 11 years old) <br> Pfizer/Comirnaty Bivalent (BA.4/5) (12
+			<td> Pfizer/Comirnaty Monovalent (5 to 11 years old) <br><br>Pfizer/Comirnaty Bivalent (BA.4/5) (12
 years old &amp; above)</td>
 			<td>Weekdays:
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
@@ -295,10 +293,13 @@ years old &amp; above)</td>
     <tr>
       <td>Pioneer Polyclinic</td>
       <td>26 Jurong West Street 61, Singapore 648201</td>
-			<td> Pfizer/Comirnaty Monovalent (5 to 11 years old) <br>Pfizer/Comirnaty Bivalent (BA.4/5) (12
+			<td> Pfizer/Comirnaty Monovalent (5 to 11 years old) <br><br>Pfizer/Comirnaty Bivalent (BA.4/5) (12
 years old &amp; above)</td>
-			<td>Weekdays:
-			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
+			<td><b>Pfizer/Comirnaty Monovalent (5 to 11 years old):</b><br>
+				Mondays and Tuesdays:
+			8am-1pm; 2-4.30pm<br><br>
+				<b>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above):</b><br>
+				Thursdays and Fridays:<br>8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
 			Saturdays:<br>
 			8am-12.30pm (last walk-in: 11.30am)<br><br>
 			Sundays and Public Holidays:<br>
@@ -308,18 +309,19 @@ years old &amp; above)</td>
       <td>Jurong Polyclinic</td>
       <td>190 Jurong East Avenue 1, Singapore 609788</td>
 			<td>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
-			<td>Weekdays:
+			<td>Mondays and Tuesdays:
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Saturdays:<br>
-			8am-12.30pm (last walk-in: 11.30am)<br><br>
-			Sundays and Public Holidays:<br>
+			Weekends and Public Holidays:<br>
 			Closed</td>
     </tr>	
     <tr>
       <td>Bukit Batok Polyclinic</td>
       <td>50 Bukit Batok West Avenue 3, Singapore 659164</td>
-			<td>Moderna/Spikevax (6 months to 4 years old)<br>Pfizer-BioNTech/Comirnaty Bivalent (BA. 4/5) (12 yrs old &amp; above)</td>
-			<td>Weekdays:
+			<td>Moderna/Spikevax (6 months to 4 years old)<br><br>Pfizer/Comirnaty Bivalent (BA. 4/5) (12 yrs old &amp; above)</td>
+			<td><b>Moderna/Spikevax (6 months to 4 years old):</b><br>
+				Thursdays and Fridays:
+			8am-1pm; 2-4.30pm<br><br>
+				<b>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above):</b><br>Mondays and Tuesdays:
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
 			Saturdays:<br>
 			8am-12.30pm (last walk-in: 11.30am)<br><br>
@@ -341,12 +343,15 @@ years old &amp; above)</td>
       <td>Bukit Panjang Polyclinic</td>
       <td>50 Woodlands Road, Singapore 677726</td>
 			<td>Pfizer/Comirnaty Monovalent
-(5 to 11 years old)</td>
-			<td>Weekdays:
+(5 to 11 years old)<br><br>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
+			<td><b>Pfizer/Comirnaty Monovalent (5 to 11 years old):</b><br>
+				Thursdays and Fridays:
 			8am-1pm; 2-4.30pm<br><br>
-			Saturdays:<br>
+				Saturdays:<br>
 			8am-12.30pm<br><br>
-			Sundays and Public Holidays:<br>
+				<b>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above):</b><br>Mondays and Tuesdays:<br>
+			8am-1pm; 2-4.30pm<br><br>
+			Weekends and Public Holidays:<br>
 			Closed</td>
     </tr> 
   </tbody>
