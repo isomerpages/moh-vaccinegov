@@ -1,5 +1,5 @@
 ---
-title: Joint Testing &amp; Vaccination Centres (Vaccination Wing)
+title: Joint Testing & Vaccination Centres (Vaccination Wing)
 permalink: /locations/jtvc/
 description: ""
 ---
@@ -12,10 +12,7 @@ The&nbsp;Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 year
 *   All eligible individuals, including children below the age of 12, may walk in to the JTVCs to receive their vaccination without a prior appointment.
 *   On days where there is high demand for vaccination, individuals should expect a longer waiting period.
 
-**For children aged 6 months to 11 years:**<br>
-* For children who have yet to receive any COVID-19 vaccine, parents/guardians may also register their interest for their child/ward to receive the vaccination and make an appointment at [child.vaccine.gov.sg](https://child.vaccine.gov.sg).
-* From 17 April 2023, four more JTVCs will start offering the vaccines for children aged 6 months to 11 years.
-* Please note that JTVC Bukit Merah will stop offering the Pfizer-BioNTech/Comirnaty vaccine for 6 months to 4 years after 15 April 2023. The vaccine will still be offered to those who currently have second dose appointment bookings past 15 April 2023.
+**For children aged 6 months to 11 years** who have yet to receive any COVID-19 vaccine, parents/guardians may also register their interest for their child/ward to receive the vaccination and make an appointment at [child.vaccine.gov.sg](https://child.vaccine.gov.sg).
 
 <table>
   <thead>
@@ -33,7 +30,6 @@ The&nbsp;Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 year
       <td>450 Jurong East Street 21 Singapore 609604</td>
 			<td><b>[Adults]:</b><br>
 				Moderna/Spikevax Bivalent (BA.1) (18 years old &amp; above),<br><br> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)<br><br>
-				<b>NEW from 17 April 2023:</b><br>
 				<b>[Children]:</b><br>
 			Moderna/Spikevax (6 months to 4 years)<br><br>
 			Pfizer/Comirnaty (5 to 11 years)</td>
@@ -52,7 +48,6 @@ School)</td>
       <td>20 Jalan Damai Singapore 419612</td>
 			<td><b>[Adults]:</b><br>
 				Moderna/Spikevax Bivalent (BA.1) (18 years old &amp; above),<br><br> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)<br><br>
-			<b>NEW from 17 April 2023:</b><br>
 				<b>[Children]:</b><br>
 			Moderna/Spikevax (6 months to 4 years)<br><br>
 			Pfizer/Comirnaty (5 to 11 years)</td>
@@ -69,20 +64,19 @@ School)</td>
       <td>JTVC Ang Mo Kio (former AMK ITE)</td>
       <td>4300 Ang Mo Kio Avenue 5 Singapore 569869</td>
 			<td><b>[Adults]:</b><br>
-				Moderna/Spikevax Bivalent (BA.1) (18 years old &amp; above),<br><br> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)<br><br><b>[Children]:</b><br>Pfizer/Comirnaty (6 months to 4 years) &amp; (5 to 11 years)<br><br><b>NEW from 17 April 2023:</b><br>Moderna/Spikevax (6 months to 4 years)</td>
+				Moderna/Spikevax Bivalent (BA.1) (18 years old &amp; above),<br><br> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)<br><br><b>[Children]:</b><br>Pfizer/Comirnaty (6 months to 4 years) &amp; (5 to 11 years)<br><br>Moderna/Spikevax (6 months to 4 years)</td>
 			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm &amp; 6.30pm)<br><br>Saturday and Eve of Public Holiday: 9am-1pm (Last walk-in 12.30pm)<br><br>Sun and gazetted Public Holidays: Closed</td>
     </tr>
 		<tr>
       <td>JTVC Bukit Merah (former SEAB Centre)</td>
       <td>8 Lower Delta Road Singapore 169198</td>
-			<td><b>[Adults]:</b><br>Moderna/Spikevax Bivalent (BA.1) (18 years old &amp; above),<br><br> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)<br><br><b>[Children]:</b><br>Pfizer/Comirnaty (6 months to 4 years) &amp; (5 to 11 years)<br><br><b>NEW from 17 April 2023:</b><br>Moderna/Spikevax (6 months to 4 years)<br><br><b>DISCONTINUED after 15 April 2023:</b><br>Pfizer/Comirnaty (6 months to 4 years)</td>
+			<td><b>[Adults]:</b><br>Moderna/Spikevax Bivalent (BA.1) (18 years old &amp; above),<br><br> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)<br><br><b>[Children]:</b><br>Moderna/Spikevax (6 months to 4 years)</td>
 			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm &amp; 6.30pm)<br><br>Saturday and Eve of Public Holiday: 9am-1pm (Last walk-in 12.30pm)<br><br>Sun and gazetted Public Holidays: Closed</td>
     </tr>
 		<tr>
       <td>JTVC Yishun (former Yishun Bus Interchange)</td>
       <td>20A Yishun Central 1 Singapore 768830</td>
 			<td><b>[Adults]:</b><br>Moderna/Spikevax Bivalent (BA.1) (18 years old &amp; above),<br><br> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)<br><br>
-				<b>NEW from 17 April 2023:</b><br>
 				<b>[Children]:</b><br>
 			Moderna/Spikevax (6 months to 4 years)<br><br>
 			Pfizer/Comirnaty (5 to 11 years)</td>
@@ -98,7 +92,6 @@ School)</td>
       <td>JTVC Sengkang</td>
 			<td><b>Until 29 April 2023:</b><br>60 Sengkang East Way Singapore 548596<br><br><b>From 2 May 2023:</b><br>19A Sengkang Square, Singapore 546911</td>
 			<td><b>[Adults]:</b><br>Moderna/Spikevax Bivalent (BA.1) (18 years old &amp; above),<br><br> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)<br><br>
-				<b>NEW from 17 April 2023:</b><br>
 				<b>[Children]:</b><br>
 			Moderna/Spikevax (6 months to 4 years)<br><br>
 			Pfizer/Comirnaty (5 to 11 years)</td>
