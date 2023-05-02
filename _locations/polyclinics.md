@@ -90,8 +90,8 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
       <td>Kallang Polyclinic</td>
       <td>701 Serangoon Road, Singapore 328263</td>
 			<td> Moderna/Spikevax (6 months to 4 years old)</td>
-			<td>Weekdays:
-			8am-1pm; 2-4.30pm<br><br>
+			<td>Tuesdays and Wednesdays:<br>
+			8am-12.30pm<br><br>
 			Saturdays:<br>
 			8am-12.30pm<br><br>
 			Sundays and Public Holidays:<br>
@@ -210,8 +210,8 @@ old &amp; above)</td>
       <td>Yishun Polyclinic</td>
       <td>2 Yishun Avenue 9, Singapore 768898</td>
 			<td>Moderna/Spikevax (6 months to 4 years old)</td>
-			<td>Weekdays:
-			8am-1pm; 2-4.30pm<br><br>
+			<td>Tuesdays and Wednesdays:<br>
+			8am-12.30pm<br><br>
 			Saturdays:<br>
 			8am-12.30pm<br><br>
 			Sundays and Public Holidays:<br>
