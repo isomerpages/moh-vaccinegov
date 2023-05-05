@@ -54,16 +54,14 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
       <td>21 Geylang East Central, Singapore 389707</td>
 			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
 			<td>Tuesdays to Thursdays:<br>
-		  2-4.30pm (last walk-in: 3.30pm)<br><br>
-			Saturdays:<br>
-			8am-12.30pm (last walk-in: 11.30am)</td>
+		  2-4.30pm (last walk-in: 3.30pm)</td>
     </tr>		
     <tr>
       <td>Toa Payoh Polyclinic</td>
       <td>2003 Lorong 8 Toa Payoh Singapore 319260</td>
 			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
 			<td>Thursdays and Fridays:<br>
-			8am-12pm (last walk-in: 11.30am)<br><br>
+			9am-12pm (last walk-in: 11.30am)<br><br>
 			Saturdays:<br>
 			8am-12pm (last walk-in: 11.30am)</td>
     </tr>
@@ -227,9 +225,7 @@ years old &amp; above)</td>
       <td>21 Ang Mo Kio Central 2, Singapore 569666</td>
 			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
 						<td>Tuesdays to Thursdays:<br>
-			10am-1pm (last walk-in: 11.30am)<br><br>
-			Saturdays:<br>
-			8am-12.30pm (last walk-in: 11.30am)</td>
+			10am-1pm (last walk-in: 11.30am)</td>
     </tr>
 		 <tr>
       <td>Seng Kang Polyclinic</td>
