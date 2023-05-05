@@ -63,7 +63,7 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
 			<td>Thursdays and Fridays:<br>
 			9am-12pm (last walk-in: 11.30am)<br><br>
 			Saturdays:<br>
-			8am-12pm (last walk-in: 11.30am)</td>
+			9am-12pm (last walk-in: 11.30am)</td>
     </tr>
     <tr>
       <td>Marine Parade Polyclinic</td>
