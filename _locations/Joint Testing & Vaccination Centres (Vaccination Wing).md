@@ -53,13 +53,6 @@ School)</td>
 			Pfizer/Comirnaty (5 to 11 years)</td>
 			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm &amp; 6.30pm)<br><br>Saturday and Eve of Public Holiday: 9am-1pm (Last walk-in 12.30pm)<br><br>Sun and gazetted Public Holidays: Closed</td>
     </tr>	
-    <tr>
-			<td><b>[CLOSED after 29 April 2023]</b><br>
-				JTVC Commonwealth (Former MOE Heritage Centre)</td>
-      <td>402 Commonwealth Drive Singapore 149599</td>
-			<td>Moderna/Spikevax Bivalent (BA.1) (18 years old &amp; above),<br><br> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
-			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm &amp; 6.30pm)<br><br>Saturday and Eve of Public Holiday: 9am-1pm (Last walk-in 12.30pm)<br><br>Sun and gazetted Public Holidays: Closed</td>
-    </tr>
 		<tr>
       <td>JTVC Ang Mo Kio (former AMK ITE)</td>
       <td>4300 Ang Mo Kio Avenue 5 Singapore 569869</td>
@@ -70,7 +63,7 @@ School)</td>
 		<tr>
       <td>JTVC Bukit Merah (former SEAB Centre)</td>
       <td>8 Lower Delta Road Singapore 169198</td>
-			<td><b>[Adults]:</b><br>Moderna/Spikevax Bivalent (BA.1) (18 years old &amp; above),<br><br> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)<br><br><b>[Children]:</b><br>Moderna/Spikevax (6 months to 4 years)</td>
+			<td><b>[Adults]:</b><br>Moderna/Spikevax Bivalent (BA.1) (18 years old &amp; above),<br><br> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)<br><br><b>[Children]:</b><br>Pfizer/Comirnaty (5 to 11 years)<br><br>Moderna/Spikevax (6 months to 4 years)</td>
 			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm &amp; 6.30pm)<br><br>Saturday and Eve of Public Holiday: 9am-1pm (Last walk-in 12.30pm)<br><br>Sun and gazetted Public Holidays: Closed</td>
     </tr>
 		<tr>
@@ -90,7 +83,7 @@ School)</td>
     </tr>
 		<tr>
       <td>JTVC Sengkang</td>
-			<td><b>Until 29 April 2023:</b><br>60 Sengkang East Way Singapore 548596<br><br><b>From 2 May 2023:</b><br>19A Sengkang Square, Singapore 546911</td>
+			<td>19A Sengkang Square, Singapore 546911</td>
 			<td><b>[Adults]:</b><br>Moderna/Spikevax Bivalent (BA.1) (18 years old &amp; above),<br><br> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)<br><br>
 				<b>[Children]:</b><br>
 			Moderna/Spikevax (6 months to 4 years)<br><br>

@@ -38,9 +38,7 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
 			<td>Weekdays:
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
 			Saturdays:<br>
-			8am-12.30pm (last walk-in: 11.30am)<br><br>
-			Sundays and Public Holidays:<br>
-			Closed</td>
+			8am-12.30pm (last walk-in: 11.30am)</td>
     </tr>	
     <tr>
       <td>Bukit Merah Polyclinic</td>
@@ -49,31 +47,23 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
 			<td>Weekdays:
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
 			Saturdays:<br>
-			8am-12.30pm (last walk-in: 11.30am)<br><br>
-			Sundays and Public Holidays:<br>
-			Closed</td>
+			8am-12.30pm (last walk-in: 11.30am)</td>
     </tr>		
     <tr>
       <td>Geylang Polyclinic</td>
       <td>21 Geylang East Central, Singapore 389707</td>
 			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
-			<td>Weekdays:
-			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Saturdays:<br>
-			8am-12.30pm (last walk-in: 11.30am)<br><br>
-			Sundays and Public Holidays:<br>
-			Closed</td>
+			<td>Tuesdays to Thursdays:<br>
+		  2-4.30pm (last walk-in: 3.30pm)</td>
     </tr>		
     <tr>
       <td>Toa Payoh Polyclinic</td>
       <td>2003 Lorong 8 Toa Payoh Singapore 319260</td>
 			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
-			<td>Weekdays:
-			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
+			<td>Thursdays and Fridays:<br>
+			9am-12pm (last walk-in: 11.30am)<br><br>
 			Saturdays:<br>
-			8am-12.30pm (last walk-in: 11.30am)<br><br>
-			Sundays and Public Holidays:<br>
-			Closed</td>
+			9am-12pm (last walk-in: 11.30am)</td>
     </tr>
     <tr>
       <td>Marine Parade Polyclinic</td>
@@ -82,20 +72,16 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
 			<td>Weekdays:
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
 			Saturdays:<br>
-			8am-12.30pm (last walk-in: 11.30am)<br><br>
-			Sundays and Public Holidays:<br>
-			Closed</td>
+			8am-12.30pm (last walk-in: 11.30am)</td>
     </tr>
 		<tr>
       <td>Kallang Polyclinic</td>
       <td>701 Serangoon Road, Singapore 328263</td>
 			<td> Moderna/Spikevax (6 months to 4 years old)</td>
 			<td>Tuesdays and Wednesdays:<br>
-			8am-12.30pm<br><br>
+			9am-12pm<br><br>
 			Saturdays:<br>
-			8am-12.30pm<br><br>
-			Sundays and Public Holidays:<br>
-			Closed</td>
+			8am-12.30pm</td>
     </tr> 
 		<tr>
       <td>Queenstown Polyclinic</td>
@@ -104,18 +90,14 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
 			<td>Fridays:
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
 			Saturdays:<br>
-			8am-12.30pm (last walk-in: 11.30am)<br><br>
-			Sundays and Public Holidays:<br>
-			Closed</td>
+			8am-12.30pm (last walk-in: 11.30am)</td>
     </tr>
 		<tr>
       <td>Clementi Polyclinic</td>
       <td>451 Clementi Avenue 3, #02-307, Singapore 120451</td>
 			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
 			<td>Wednesdays and Thursdays:
-			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Weekends and Public Holidays:<br>
-			Closed</td>
+			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)</td>
     </tr>   
   </tbody>
 </table>
@@ -139,9 +121,7 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
 			<td>Weekdays:
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
 			Saturdays:<br>
-			8am-12.30pm (last walk-in: 11.30am)<br><br>
-			Sundays and Public Holidays:<br>
-			Closed</td>
+			8am-12.30pm (last walk-in: 11.30am)</td>
     </tr>	 
     <tr>
       <td>Bedok Polyclinic</td>
@@ -150,9 +130,7 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
 			<td>Weekdays:
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
 			Saturdays:<br>
-			8am-12.30pm (last walk-in: 11.30am)<br><br>
-			Sundays and Public Holidays:<br>
-			Closed</td>
+			8am-12.30pm (last walk-in: 11.30am)</td>
     </tr>		
     <tr>
       <td>Pasir Ris Polyclinic</td>
@@ -161,9 +139,7 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
 			<td>Weekdays:
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
 			Saturdays:<br>
-			8am-12.30pm (last walk-in: 11.30am)<br><br>
-			Sundays and Public Holidays:<br>
-			Closed</td>
+			8am-12.30pm (last walk-in: 11.30am)</td>
     </tr>
 		<tr>
       <td>Eunos Polyclinic</td>
@@ -172,9 +148,7 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
 			<td>Weekdays:
 			8am-1pm; 2-4.30pm<br><br>
 			Saturdays:<br>
-			8am-12.30pm<br><br>
-			Sundays and Public Holidays:<br>
-			Closed</td>
+			8am-12.30pm</td>
     </tr>
   </tbody>
 </table>
@@ -197,25 +171,23 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
 old &amp; above)</td>
 			<td><b>Pfizer/Comirnaty Monovalent (5 to 11 years old):</b><br>
 			Fridays:<br>
-			8am-1pm, 2-4.30pm<br><br>
+		  2-4.30pm<br><br>
+				Saturdays:<br>
+				10.30am-12.30pm<br><br>
 				<b>Pfizer/Comirnaty Bivalent (BA.4/5):</b><br>
-				Weekdays:
-			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
+				Wednesdays and Thursdays:<br>
+			2-4.30pm (last walk-in: 3.30pm)<br><br>
 			Saturdays:<br>
-			8am-12.30pm (last walk-in: 11.30am)<br><br>
-			Sundays and Public Holidays:<br>
-			Closed</td>
+			8am-10.30am (last walk-in: 10am)</td>
     </tr>
     <tr>
       <td>Yishun Polyclinic</td>
       <td>2 Yishun Avenue 9, Singapore 768898</td>
 			<td>Moderna/Spikevax (6 months to 4 years old)</td>
 			<td>Tuesdays and Wednesdays:<br>
-			8am-12.30pm<br><br>
+			8am-11am<br><br>
 			Saturdays:<br>
-			8am-12.30pm<br><br>
-			Sundays and Public Holidays:<br>
-			Closed</td>
+			9am-12pm</td>
     </tr>
   </tbody>
 </table>
@@ -235,12 +207,8 @@ old &amp; above)</td>
       <td>Hougang Polyclinic</td>
       <td>89 Hougang Avenue 4, Singapore 538829</td>
 			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
-			<td>Weekdays:
-			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Saturdays:<br>
-			8am-12.30pm (last walk-in: 11.30am)<br><br>
-			Sundays and Public Holidays:<br>
-			Closed</td>
+			<td>Tuesdays to Thursdays:<br>
+			2-4.30pm (last walk-in: 3.30pm)</td>
     </tr>		
     <tr>
       <td>Punggol Polyclinic</td>
@@ -250,20 +218,14 @@ years old &amp; above)</td>
 			<td>Weekdays:
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
 			Saturdays:<br>
-			8am-12.30pm (last walk-in: 11.30am)<br><br>
-			Sundays and Public Holidays:<br>
-			Closed</td>
+			8am-12.30pm (last walk-in: 11.30am)</td>
 			 </tr>		
     <tr>
       <td>Ang Mo Kio Polyclinic</td>
       <td>21 Ang Mo Kio Central 2, Singapore 569666</td>
 			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
-						<td>Weekdays:
-			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Saturdays:<br>
-			8am-12.30pm (last walk-in: 11.30am)<br><br>
-			Sundays and Public Holidays:<br>
-			Closed</td>
+						<td>Tuesdays to Thursdays:<br>
+			10am-1pm (last walk-in: 11.30am)</td>
     </tr>
 		 <tr>
       <td>Seng Kang Polyclinic</td>
@@ -272,9 +234,7 @@ years old &amp; above)</td>
 			<td>Weekdays:
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
 			Saturdays:<br>
-			8am-12.30pm (last walk-in: 11.30am)<br><br>
-			Sundays and Public Holidays:<br>
-			Closed</td>
+			8am-12.30pm (last walk-in: 11.30am)</td>
     </tr> 
   </tbody>
 </table>
@@ -301,18 +261,14 @@ years old &amp; above)</td>
 				<b>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above):</b><br>
 				Thursdays and Fridays:<br>8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
 			Saturdays:<br>
-			8am-12.30pm (last walk-in: 11.30am)<br><br>
-			Sundays and Public Holidays:<br>
-			Closed</td>
+			8am-12.30pm (last walk-in: 11.30am)</td>
     </tr>	
     <tr>
       <td>Jurong Polyclinic</td>
       <td>190 Jurong East Avenue 1, Singapore 609788</td>
 			<td>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
 			<td>Mondays and Tuesdays:
-			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Weekends and Public Holidays:<br>
-			Closed</td>
+			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)</td>
     </tr>	
     <tr>
       <td>Bukit Batok Polyclinic</td>
@@ -324,9 +280,7 @@ years old &amp; above)</td>
 				<b>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above):</b><br>Mondays and Tuesdays:
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
 			Saturdays:<br>
-			8am-12.30pm (last walk-in: 11.30am)<br><br>
-			Sundays and Public Holidays:<br>
-			Closed</td>
+			8am-12.30pm (last walk-in: 11.30am)</td>
     </tr>		
     <tr>
       <td>Choa Chu Kang Polyclinic</td>
@@ -335,9 +289,7 @@ years old &amp; above)</td>
 			<td>Weekdays:
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
 			Saturdays:<br>
-			8am-12.30pm (last walk-in: 11.30am)<br><br>
-			Sundays and Public Holidays:<br>
-			Closed</td>
+			8am-12.30pm (last walk-in: 11.30am)</td>
     </tr>
 		<tr>
       <td>Bukit Panjang Polyclinic</td>
@@ -350,9 +302,7 @@ years old &amp; above)</td>
 				Saturdays:<br>
 			8am-12.30pm<br><br>
 				<b>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above):</b><br>Mondays and Tuesdays:<br>
-			8am-1pm; 2-4.30pm<br><br>
-			Weekends and Public Holidays:<br>
-			Closed</td>
+			8am-1pm; 2-4.30pm</td>
     </tr> 
   </tbody>
 </table>
