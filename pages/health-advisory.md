@@ -5,7 +5,7 @@ permalink: /health-advisory/
 **To achieve minimum protection:**
 
 - Children 6 months to 4 years should take 2 doses
-of **Moderna/Spikevax**, or 3 doses of **Pfizer-BioNTech/Comirnaty**
+of&nbsp;**Moderna/Spikevax**, or 3 doses of **Pfizer-BioNTech/Comirnaty**
 - Persons 5 to 17 years should receive 3 doses of **Pfizer-BioNTech/Comirnaty**
 - Persons 18 years and older should receive 3 doses of **mRNA** or **Novavax/Nuvaxovid** vaccines, or 4 doses of **Sinovac-CoronaVac** vaccine.
 
@@ -18,12 +18,12 @@ You will be eligible for your booster dose 5 months after the last dose of your 
 * Wear short sleeved or clothes where the sleeves can be rolled up
 * Bring your ID (NRIC/FIN/Student Pass/Birth Certificate and Health Booklet)
 * Drink plenty of water and eat something before going for your vaccination, and avoid strenuous exercise for two weeks after vaccination
-<br/>
+<br>
 
 **After vaccination**
 
 As a precautionary measure, all individuals, especially adolescents and men below 30 years of age, who have received any dose of the COVID-19 vaccine, are advised to avoid strenuous physical activities such as running, weightlifting, competitive sports, or playing ball games for two weeks after the vaccination.
- <br/>
+ <br>
 
 **Postpone your appointment if you are unwell or had a fever in the last 24 hours**
 
@@ -31,7 +31,7 @@ You are encouraged to defer other vaccinations for 2 weeks or more, if possible.
 
 
 Persons who are moderately to severely immunocompromised are recommended to receive a third dose of the same mRNA vaccine or the Nuvaxovid vaccine, with the same dosage as the first two doses they had received. They should be referred to receive the third dose by their treating specialist, who would have the best understanding of their medical condition. For more information, please refer to the [FAQ](https://www.moh.gov.sg/covid-19/vaccination/faqs-on-general-vaccine-recommendations).
- <br/>
+ <br>
  
  **COVID-19 Vaccination Related Documents**<br>
  [Parental Consent Form](https://go.gov.sg/parcf) <br>
@@ -44,6 +44,6 @@ Persons who are moderately to severely immunocompromised are recommended to rece
  
  [Screening Form and Vaccination Information Sheet – Sinovac*](https://go.gov.sg/viss)<br>
  
- [Parental Consent Form for Paeds SAM (By Invite Only)](https://go.gov.sg/sampcf)<br><br>
+ [Parental Consent Form for Paeds SAM (By Invite Only)](https://go.gov.sg/sampcfv2)<br><br>
  
   *These forms will be provided and filled up at the vaccination site
