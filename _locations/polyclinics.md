@@ -286,10 +286,10 @@ years old &amp; above)</td>
       <td>Choa Chu Kang Polyclinic</td>
       <td>2 Teck Whye Crescent, Singapore 688846</td>
 			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
-			<td>Weekdays:
+			<td>Thursday and Friday:
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
 			Saturdays:<br>
-			8am-12.30pm (last walk-in: 11.30am)</td>
+			Closed</td>
     </tr>
 		<tr>
       <td>Bukit Panjang Polyclinic</td>
