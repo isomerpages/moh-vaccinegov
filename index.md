@@ -31,6 +31,13 @@ sections:
       button: find out more
       url: https://www.moh.gov.sg/covid-19/vaccination/child
   - infobar:
+      title: Seniors and Medically Vulnerable Persons
+      description: You are encouraged to receive one booster dose around one year
+        after your last dose. You can start to receive it from five months after
+        your last dose.
+      button: Find out how
+      url: https://www.vaccine.gov.sg/how-to-sign-up/
+  - infobar:
       description: We are aware of websites, emails, SMS text messages and phone calls
         falsely claiming to offer registration for COVID-19 vaccination
       button: Learn more
