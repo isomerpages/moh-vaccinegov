@@ -22,6 +22,13 @@ sections:
           description: Submit with supporting docs
           url: /appeal
   - infobar:
+      title: Seniors and Medically Vulnerable Persons
+      description: You are encouraged to receive one booster dose around one year
+        after your last dose. You can start to receive it from five months after
+        your last dose.
+      button: Find out how
+      url: https://www.vaccine.gov.sg/how-to-sign-up/
+  - infobar:
       title: Primary & Booster Doses
       button: CLICK Here for locations
       url: https://www.vaccine.gov.sg/locations/jtvc/
