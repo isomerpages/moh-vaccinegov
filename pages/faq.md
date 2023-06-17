@@ -86,8 +86,7 @@ If you are medically ineligible for the mRNA and Novavax/Nuvaxovid vaccines, and
 						<input id="question-1-7" type="checkbox">
 							<label for="question-1-7" class="tab-label">How can I receive the Novavax/Nuvaxovid COVID-19 vaccine?</label>
 						<div class="tab-content">
-							<p>You may book an appointment using the link from your existing SMS invite, to receive your vaccination at any of the selected participating Public Health Preparedness Clinics (PHPCs).<br><br>Please note that the Novavax/Nuvaxovid vaccine is only approved for use in persons aged 12 and
-above.
+							<p>You may contact any of Public Health Preparedness Clinics (PHPCs) that offer Novavax/Nuvaxovid COVID-19 vaccine to book an appointment.<br><br>Please note that the Novavax/Nuvaxovid vaccine is only approved for use in persons aged 12 years and above.
 	</p> 
     				</div>
     			</div>   			
