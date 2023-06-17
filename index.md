@@ -47,7 +47,7 @@ sections:
       title: Get Vaccinated
       image: /images/vaccinate.png
       button: Learn More
-      url: /get-vaccinated
+      url: /get-vaccinated/
       alt: How to Sign Up
   - infobar:
       title: Clinical Trial
