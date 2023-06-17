@@ -126,13 +126,13 @@ vaccinated. What do I need to do?</label>
 					</div>								
 					<div class="tab">
 						<input id="question-1-13" type="checkbox">
-						<label for="question-1-13" class="tab-label">I want to get my child/ward (12 to 17 years old) vaccinated. What do I need to do?</label>
+						<label for="question-1-13" class="tab-label">How can my child/ward (12 to 17 years old) receive his/her vaccine doses?</label>
 						<div class="tab-content">
 							<p>
-								Individuals can walk in to any Joint Testing and Vaccination Centre (JTVC) offering the Pfizer-BioNTech/Comirnaty vaccine to receive their three doses for minimum protection, without the need for prior appointment. Your child/ward will require your consent to receive his/her vaccinations.<br><br>
+								Individuals can walk in to any of the Joint Testing and Vaccination Centres (JTVCs) or polyclinics offering the Pfizer-BioNTech/Comirnaty vaccine to receive their three doses for minimum protection. Your child/ward will require your consent to receive his/her vaccinations.<br><br>
 								For individuals who wish to receive the Novavax/Nuvaxovid vaccine, parents/guardians may book an appointment for your child/ward to receive the vaccine at any of the 19 participating Public Health Preparedness Clinics (PHPCs) offering the vaccine. The list of PHPCs can be found <a href="https://www.vaccine.gov.sg/locations/clinic?query=novavax">here</a>.<br><br>
-								You will receive an SMS inviting your child/ward to take their third dose (also known as booster dose) when eligible, at the mobile number that you had registered with for your child/ward's previous COVID-19 vaccinations. If you do not receive an SMS notification around five months from the second dose, you may walk in to any JTVC offering the vaccine recommended for your child/ward's age group. Alternatively, you may call the MOH COVID-19 vaccination hotline at 6995 9199.<br><br>
-								Children aged 12 to 17 who are healthy have a lower risk of severe disease. Nevertheless, an additional booster one year after their last booster dose can still enhance protection, and they can receive this additional booster if they choose to do so. They may walk in to any JTVC to receive their bivalent Pfizer-BioNTech/Comirnaty vaccine dose.<br><br>
+								When your child/ward is eligible for their additional dose (also known as booster dose) at around five months after their last dose, they may walk in to any of the JTVCs or Ppolyclinics to receive it.<br><br>
+								Children aged 12 to 17 years who are healthy have a lower risk of severe disease. Nevertheless, an additional booster one year after their last booster dose can still enhance protection, and they can receive this additional booster if they choose to do so. They may walk in to any of the JTVCs to receive their bivalent vaccine booster dose.<br><br>
 								Individuals must bring along their identification document (e.g. Birth Certificate/Passport/Student Identification Card/Singpass) for verification purposes, as well as a duly completed and signed
 hard or electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a>.<br><br>
 								You do not need accompany your child/ward if he/she is aged 13 years and above. However, if he/she is 12 years old or a student in a Special Education (SPED) school you will need to
