@@ -331,12 +331,15 @@ aged 12 years and above.
     			</div>	
     			<div class="tab">
     				<input id="question-3-7" type="checkbox">
-    				<label for="question-3-7" class="tab-label">Will my child/ward still receive the reduced Moderna/Spikevax dosage meant for 6
-months to 4 years if he/she turns 5 years old on the day of the first appointment? 
+    				<label for="question-3-7" class="tab-label">Will my child/ward still receive the Pfizer-BioNTech/Comirnaty or  Moderna/Spikevax vaccine if he/she turns 5 years old on the day of the first appointment? 
     				</label>
     				<div class="tab-content">
-    					<p>Children who turn 5 years on the day of their first appointment will receive the Pfizer-BioNTech/Comirnaty vaccine for children aged between 5 to 11 years.<br><br>
-Those who received the Moderna/Spikevax vaccine when they were below 5 years will continue to receive the same vaccine and dosage their second dose, even if they have turned 5 years between the first and second vaccine doses.
+    					<p>Children who turn 5 years on the day of their first dose will receive the Pfizer-BioNTech/Comirnaty vaccine for children aged between 5 to 11 years.<br><br>
+Those who received the Moderna/Spikevax vaccine when they were below 5 years will continue to receive the same vaccine and dosage their second dose, even if they have turned 5 years between the first and second vaccine doses.<br><br>
+								Those who received the Pfizer-BioNTech/Comirnaty vaccine when they were below 5 years will continue to receive the same vaccine and dosage for their subsequent doses, even if they have turned 5 years between any of the vaccine doses.
+								
+								
+								
 							</p>
     				</div>
     			</div></div></div>
