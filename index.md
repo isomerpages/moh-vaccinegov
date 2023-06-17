@@ -44,10 +44,10 @@ sections:
       url: /scam/
       title: Beware of Scams
   - infopic:
-      title: How to Sign Up
+      title: Get Vaccinated
       image: /images/vaccinate.png
       button: Learn More
-      url: /how-to-sign-up
+      url: /get-vaccinated
       alt: How to Sign Up
   - infobar:
       title: Clinical Trial
