@@ -13,8 +13,8 @@ sections:
       background: /images/vaccinegov-hero-withlogo-higher.png
       key_highlights:
         - title: Get Vaccinated
-          description: ""
-          url: https://appointment.vaccine.gov.sg
+          description: For more information
+          url: /get-vaccinated/
         - title: Health Advisory
           description: 健康指示/ Nasihat Kesihatan/ சுகாதார ஆலோசனை
           url: /health-advisory
