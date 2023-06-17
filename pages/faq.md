@@ -25,7 +25,7 @@ permalink: /faq/
 				<div class="tab">
 						<input id="question-1-3" type="checkbox">
 						<label for="question-1-3" class="tab-label">	
-When and how can I register for my booster doses to achieve
+When and how can I receive for my booster doses to achieve
 minimum protection?</label>
 						<div class="tab-content">
 							<p>
