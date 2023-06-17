@@ -43,12 +43,6 @@ sections:
       button: Learn more
       url: /scam/
       title: Beware of Scams
-  - infopic:
-      title: Get Vaccinated
-      image: /images/vaccinate.png
-      button: Learn More
-      url: /get-vaccinated/
-      alt: How to Sign Up
   - infobar:
       title: Clinical Trial
       description: NCID is conducting a clinical trial of different booster vaccines (
