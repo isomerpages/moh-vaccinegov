@@ -3,20 +3,12 @@ title: Polyclinics
 permalink: /locations-polyclinics/
 ---
 **Bivalent vaccines**<br>
-The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and above is available at all vaccination locations offering the vaccine, including Polyclinics. The Moderna/Spikevax bivalent vaccine for individuals aged 18 years and above is available only at Joint Testing and Vaccination Centres (JTVC). If you wish to receive the Moderna/Spikevax bivalent vaccine, you may visit the nearest JTVC.
+The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and above is available at all vaccination locations offering the vaccine, including Joint Testing and Vaccination Centres (JTVCs), Polyclinics and participating Public Health Preparedness Clinics (PHPCs). The Moderna/Spikevax bivalent vaccine for individuals aged 18 years and above is available only at JTVCs. If you wish to receive the Moderna/Spikevax bivalent vaccine, you may visit the nearest JTVC.
 
-**For COVID-19 vaccination at the Polyclinics:**
-*   Walk-ins to polyclinics are only accepted for persons aged 80 years and above.
-*   For all other age groups, vaccination is by appointment which are made via the National Appointment System (NAS) which can be accessed via the SMS invitation.
-*   Individuals may want to walk in to or make appointments at JTVCs where more appointment slots may be available given the higher vaccination capacity.
-
-**To book an appointment for paediatric vaccination:**<br>
-* Refer to polyclinics indicated with “Moderna/Spikevax (6 months to 4 years)" or “Pfizer/Comirnaty Monovalent (5 to 11 years old)" vaccine type.<br>
-* Polyclinics only accept appointments made via the NAS for now.<br>
-* Parents/guardians who wish to vaccinate their child/ward at the selected polyclinics will have to register their child/ward at [child.vaccine.gov.sg](https://child.vaccine.gov.sg/). <br>
-* An SMS with a personalised booking link will be sent to the registered mobile number of the parent/guardian within three to five working days. <br>
-
-
+**Walk-ins for all age groups:**
+•	Individuals may want to walk in to the JTVCs given the higher vaccination capacity.
+•	All eligible individuals, including children below the age of 12 years, may walk in to the Polyclinics to receive their vaccination.
+•	On days where there is high demand for vaccination, individuals should expect a longer waiting period.
 
 
 ###  **Central**
