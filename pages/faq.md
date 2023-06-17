@@ -109,7 +109,7 @@ above.
     				<input id="question-1-10" type="checkbox">
     				<label for="question-1-10" class="tab-label">How will I know that the SMS is authentic and not a scam? </label>
     				<div class="tab-content">
-    					<p>The Covid-19 vaccination is free for all Singaporeans and long-term residents in Singapore and no one should ask you for a payment to register for appointments. The link that is provided in the SMS should go to <strong>"vaccine.gov.sg"</strong>. Only government officials can register for a <strong>gov.sg</strong> domain. Do not trust any other URLs that are not from a <strong>.gov.sg</strong> domain. </p><p>When in doubt, you should check with the agency who sent you the message to confirm the authenticity before responding to the message.</p>
+    					<p>The COVID-19 vaccination is free for all Singaporeans and long-term residents in Singapore and no one should ask you for a payment. The link that is provided in the SMS should go to <strong>"vaccine.gov.sg"</strong>. Only government officials can register for a <strong>gov.sg</strong> domain. Do not trust any other URLs that are not from a <strong>.gov.sg</strong> domain. </p><p>When in doubt, you should check with the agency who sent you the message to confirm the authenticity before responding to the message.</p>
 							</div>
 					</div>
 					<div class="tab">
@@ -195,9 +195,9 @@ and children are different.
 					<input id="question-2-3" type="checkbox">
 					<label for="question-2-3" class="tab-label">I’m not feeling well, what should I do?</label>
 					<div class="tab-content">
-						<p>Please do not go for the appointment. You should only take the vaccination when you are well. </p>
+						<p>You should only take the vaccination when you are well. </p>
 						<p>
-							If you have not taken your 1st dose, cancel and rebook both appointments using the same booking link issued by SMS. If you have taken your 1st dose and wish to reschedule your 2nd dose, please call the MOH COVID-19 vaccination hotline at 6995 9199.
+							For appointments made at Public Health Preparedness Clinics or Polyclinics, please call the clinic to reschedule your appointment.
 						</p>
 					</div>
 				</div>		
