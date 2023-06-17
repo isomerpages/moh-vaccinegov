@@ -36,7 +36,7 @@ sections:
         after your last dose. You can start to receive it from five months after
         your last dose.
       button: Find out how
-      url: https://www.vaccine.gov.sg/how-to-sign-up/
+      url: /get-vaccinated/
   - infobar:
       description: We are aware of websites, emails, SMS text messages and phone calls
         falsely claiming to offer registration for COVID-19 vaccination
