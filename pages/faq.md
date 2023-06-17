@@ -44,7 +44,7 @@ minimum protection?</label>
 					</div>				
 					<div class="tab">
 						<input id="question-1-4" type="checkbox">
-						<label for="question-1-4" class="tab-label">When and how can I register for my additional booster dose?</label>
+						<label for="question-1-4" class="tab-label">When and how can I receive for my additional booster dose?</label>
 						<div class="tab-content">
 							<p>
 						Persons aged 5 years and above should complete three mRNA or Novavax/Nuvaxovid doses, or four Sinovac-CoronaVac doses to achieve minimum protection.<br><br>
@@ -61,7 +61,7 @@ minimum protection?</label>
 					</div>
 				   <div class="tab">
 						<input id="question-1-5" type="checkbox">
-							<label for="question-1-5" class="tab-label">I have not received any COVID-19 vaccine. How can I register to receive the mRNA vaccination?</label>
+							<label for="question-1-5" class="tab-label">I have not received any COVID-19 vaccine. How can I receive the mRNA vaccination?</label>
 						<div class="tab-content">
 							<p>Children/wards aged 6 months to 11 years may walk in with their parents/guardians to any Joint Testing and Vaccination Centre (JTVC) offering the vaccines recommended for the different age groups before 6.30pm on Mondays to Fridays, and 12.30pm on Saturdays. On days where there is high demand for vaccination, you should expect a longer waiting period.<br><br>Alternatively, parents/guardians can also register their child/ward at <a href="https://child.vaccine.gov.sg"> https://child.vaccine.gov.sg</a>. An SMS with a personalised booking link will be sent to the registered mobile number of the parent/guardian within three to five working days to book a vaccination appointment. <br><br>
 						 Children/wards below 18 years must have the consent of their parents/guardians to receive their vaccination. Those between the age of 13 and 17 years must bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="go.gov.sg/parcf">here</a>. Those aged 12 and below must be accompanied by a parent/guardian. Parents/guardians should also bring along their child/ward's identification document (e.g. Birth Certificate and Health booklet/Passport/Student Identification Card/Singpass) for verification. <br><br>
@@ -73,7 +73,7 @@ Holders of Training Employment Pass, Training Work Permit, Work Holiday Pass, Sp
 					</div>
 				   <div class="tab">
 						<input id="question-1-6" type="checkbox">
-							<label for="question-1-6" class="tab-label">How do I register to receive Sinovac-CoronaVac?</label>
+							<label for="question-1-6" class="tab-label">How do I receive Sinovac-CoronaVac?</label>
 						<div class="tab-content">
 							<p>We strongly recommend that you receive the mRNA or Novavax/Nuvaxovid vaccines for your COVID-19 vaccinations in view of the lower efficacy of the Sinovac-CoronaVac vaccine.<br><br>
 								Should you choose to receive the Sinovac-CoronaVac vaccine instead, you may do so at selected participating Public Health Preparedness Clinics (PHPCs) offering the vaccine. Please call the clinic beforehand to make an appointment. Please visit <a href="https://gowhere.gov.sg/vaccine"> https://gowhere.gov.sg/vaccine</a> for a list of the PHPCs offering the vaccine.<br><br>
@@ -84,7 +84,7 @@ If you are medically ineligible for the mRNA and Novavax/Nuvaxovid vaccines, and
 					</div>
 				   <div class="tab">
 						<input id="question-1-7" type="checkbox">
-							<label for="question-1-7" class="tab-label">How can I register to receive the Novavax/Nuvaxovid COVID-19 vaccine?</label>
+							<label for="question-1-7" class="tab-label">How can I receive the Novavax/Nuvaxovid COVID-19 vaccine?</label>
 						<div class="tab-content">
 							<p>You may book an appointment using the link from your existing SMS invite, to receive your vaccination at any of the selected participating Public Health Preparedness Clinics (PHPCs).<br><br>Please note that the Novavax/Nuvaxovid vaccine is only approved for use in persons aged 12 and
 above.
