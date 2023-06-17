@@ -89,47 +89,40 @@ If you are medically ineligible for the mRNA and Novavax/Nuvaxovid vaccines, and
 							<p>You may book an appointment using the link from your existing SMS invite, to receive your vaccination at any of the selected participating Public Health Preparedness Clinics (PHPCs).<br><br>Please note that the Novavax/Nuvaxovid vaccine is only approved for use in persons aged 12 and
 above.
 	</p> 
-							</div>
-					</div>				
-    			<div class="tab">
-    				<input id="question-1-8" type="checkbox">
-    				<label for="question-1-8" class="tab-label">I lost my SMS/booking code. How can I retrieve the link?</label>
-    				<div class="tab-content">
-    					<p>Please call the MOH COVID-19 vaccination hotline at 6995 9199 for assistance.</p>
     				</div>
     			</div>   			
     			<div class="tab">
-    				<input id="question-1-9" type="checkbox">
-    				<label for="question-1-9" class="tab-label">Can I change my contact information? </label>
+    				<input id="question-1-8" type="checkbox">
+    				<label for="question-1-8" class="tab-label">Can I change my contact information? </label>
     				<div class="tab-content">
     					<p>If you have changed your mobile number or email address, please call MOH COVID-19 vaccination hotline at 6995 9199 for assistance.</p>
     				</div>
     			</div>			
     			<div class="tab">
-    				<input id="question-1-10" type="checkbox">
-    				<label for="question-1-10" class="tab-label">How do I reschedule my appointment? </label>
+    				<input id="question-1-9" type="checkbox">
+    				<label for="question-1-9" class="tab-label">How do I reschedule my appointment? </label>
     				<div class="tab-content">
     					<p> You may reschedule your appointments using the same booking link in the original SMS.<br>For enquiries, please call the MOH COVID-19 vaccination hotline at 6995 9199.</p>
     				</div>
     			</div>	
     			<div class="tab">
-    				<input id="question-1-11" type="checkbox">
-    				<label for="question-1-11" class="tab-label">How will I know that the SMS is authentic and not a scam? </label>
+    				<input id="question-1-10" type="checkbox">
+    				<label for="question-1-10" class="tab-label">How will I know that the SMS is authentic and not a scam? </label>
     				<div class="tab-content">
     					<p>The Covid-19 vaccination is free for all Singaporeans and long-term residents in Singapore and no one should ask you for a payment to register for appointments. The link that is provided in the SMS should go to <strong>"vaccine.gov.sg"</strong>. Only government officials can register for a <strong>gov.sg</strong> domain. Do not trust any other URLs that are not from a <strong>.gov.sg</strong> domain. </p><p>When in doubt, you should check with the agency who sent you the message to confirm the authenticity before responding to the message.</p>
 							</div>
 					</div>
 					<div class="tab">
-						<input id="question-1-12" type="checkbox">
-						<label for="question-1-12" class="tab-label">When can I get my child/ward vaccinated?</label>
+						<input id="question-1-11" type="checkbox">
+						<label for="question-1-11" class="tab-label">When can I get my child/ward vaccinated?</label>
 						<div class="tab-content">
 							<p>
 						Children must cross the age of 6 months to be eligible for vaccination.</p>
 							</div>
 					</div>
 					<div class="tab">
-						<input id="question-1-13" type="checkbox">
-						<label for="question-1-13" class="tab-label">I want to get my child/ward who is between 6 months and 11 years old
+						<input id="question-1-12" type="checkbox">
+						<label for="question-1-12" class="tab-label">I want to get my child/ward who is between 6 months and 11 years old
 vaccinated. What do I need to do?</label>
 						<div class="tab-content">
 							<p>Eligible children may also walk in with their parents/guardians to the Joint Testing and Vaccination Centres (JTVCs) offering the vaccines recommended for the different age groups before 6.30pm on Mondays to Fridays, and 12.30pm on Saturdays, without a prior appointment. On days where there is high demand for vaccination, individuals should expect a longer waiting period.<br><br>
@@ -140,8 +133,8 @@ vaccinated. What do I need to do?</label>
 							</div>
 					</div>								
 					<div class="tab">
-						<input id="question-1-14" type="checkbox">
-						<label for="question-1-14" class="tab-label">I want to get my child/ward (12 to 17 years old) vaccinated. What do I need to do?</label>
+						<input id="question-1-13" type="checkbox">
+						<label for="question-1-13" class="tab-label">I want to get my child/ward (12 to 17 years old) vaccinated. What do I need to do?</label>
 						<div class="tab-content">
 							<p>
 								Individuals can walk in to any Joint Testing and Vaccination Centre (JTVC) offering the Pfizer-BioNTech/Comirnaty vaccine to receive their three doses for minimum protection, without the need for prior appointment. Your child/ward will require your consent to receive his/her vaccinations.<br><br>
@@ -156,8 +149,8 @@ accompany him/her, as per the arrangements for the previous COVID-19 vaccination
 							</div>
 					</div>				
 					<div class="tab">
-						<input id="question-1-15" type="checkbox">
-						<label for="question-1-15" class="tab-label">Will it be possible for parents/guardians to be vaccinated together with their child/ward?</label>
+						<input id="question-1-14" type="checkbox">
+						<label for="question-1-14" class="tab-label">Will it be possible for parents/guardians to be vaccinated together with their child/ward?</label>
 						<div class="tab-content">
 							<p>
 						Parents/guardians who accompany their child/wards aged 12 years and under for vaccination will not be able to receive their vaccination together with their child/ward as the dosage for adults
