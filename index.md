@@ -12,8 +12,8 @@ sections:
         தடுப்பூசிக்கான பதிவு
       background: /images/vaccinegov-hero-withlogo-higher.png
       key_highlights:
-        - title: Book appointment
-          description: Already have the code?
+        - title: Get Vaccinated
+          description: ""
           url: https://appointment.vaccine.gov.sg
         - title: Health Advisory
           description: 健康指示/ Nasihat Kesihatan/ சுகாதார ஆலோசனை
