@@ -29,15 +29,10 @@ When and how can I receive for my booster doses to achieve
 minimum protection?</label>
 						<div class="tab-content">
 							<p>
-								Persons aged 5 years and above who are eligible for their third dose will be invited from about five months after completing their second dose, to achieve minimum protection.<br><br>
-								Parents/guardians of individuals aged 5 to 17 years will receive an SMS notification when their child/ward is eligible, to provide consent and book their child/ward’s booster vaccination appointment.<br><br>
-								Eligible individuals aged 18 years and above will receive an SMS with a personalised link to book an appointment.<br><br>
-								All individuals aged who are eligible for their third dose of COVID-19 vaccination may also walk in without prior appointment to receive their vaccination:<br>
-								<span>• Children <strong> aged 5 to 11 years </strong> may walk in with their parents/guardians to any Joint Testing and Vaccination Centre (JTVC) offering the Pfizer-BioNTech/Comirnaty vaccine for children aged 5 to 11 years before 6.30pm on Mondays to Fridays, and before 12.30pm on Saturdays.</span><br>
-								<span>• Individuals <strong> aged 12 years and above </strong> may walk into any JTVC before 6.30pm on Mondays to Fridays, and before 12.30pm on Saturdays.</span><br>
-								<span>• Seniors <strong> aged 80 years old and above</strong> may walk into any JTVC, Polyclinic or participating Public Health Preparedness Clinic (PHPC).</span><br><br>
+								Persons aged 5 years and above who are eligible for their booster dose can receive it from about five months after completing their primary vaccination series. These primary vaccinations could have been received before the age of 5.<br><br>
+							
+								All individuals aged who are eligible for their booster COVID-19 vaccination may walk in to any of the Joint Testing and Vaccination Centres (JTVCs) or Ppolyclinics offering the vaccine type for the appropriate age group. Alternatively, you may contact any participating Public Health Preparedness Clinic (PHPC) to book an appointment to receive your vaccination<br><br>
 								Individuals aged 5 to 17 years will be required to bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="go.gov.sg/parcf">here</a>. Parents/guardians must accompany their child/ward if he/she is aged 12 years and below. Children aged 13 years and above need not be accompanied.<br><br>
-								Individuals who wish to receive their vaccination at the polyclinics or PHPCs are strongly encouraged to make an appointment with the PHPC to avoid long waiting times.<br><br>
 								Please visit <a href="gowhere.gov.sg/vaccine">https://www.gowhere.gov.sg/vaccine</a> to locate the nearest vaccination site.
 									</p>
 							</div>
@@ -180,13 +175,13 @@ and children are different.
 					</div>				
 					<div class="tab">
 						<input id="question-2-2" type="checkbox">
-						<label for="question-2-2" class="tab-label">What should I take note of?</label>
+						<label for="question-2-2" class="tab-label">What should I take note on vaccination day?</label>
 						<div class="tab-content">
 							<p>				
-								<span>• Bring your ID (NRIC/FIN/Student Pass/Birth Certificate and Health Booklet) for both appointments</span><br>
+								<span>• Bring your ID (NRIC/FIN/Student Pass/Birth Certificate and Health Booklet)</span><br>
 								<span>• Please turn up on time</span><br>
 								<span>• Please wear short sleeved attire, or sleeves loose enough to be rolled up</span><br>
-								<span>• If you are unwell or had fever in the past 24 hours, stay home and postpone your appointments</span><br>
+								<span>• If you are unwell or had fever in the past 24 hours, please do not proceed for your vaccination. You may receive your vaccination after you have recovered.</span><br>
 							</p>
 						</div>
 					</div>		
