@@ -9,10 +9,8 @@ The&nbsp;Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 year
 
 **Walk-ins for all age groups:**
 
-*   All eligible individuals, including children below the age of 12, may walk in to the JTVCs to receive their vaccination without a prior appointment.
+*   All eligible individuals, including children below the age of 12 years, may walk in to the JTVCs to receive their vaccination.
 *   On days where there is high demand for vaccination, individuals should expect a longer waiting period.
-
-**For children aged 6 months to 11 years** who have yet to receive any COVID-19 vaccine, parents/guardians may also register their interest for their child/ward to receive the vaccination and make an appointment at [child.vaccine.gov.sg](https://child.vaccine.gov.sg).
 
 <table>
   <thead>

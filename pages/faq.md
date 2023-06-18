@@ -25,34 +25,28 @@ permalink: /faq/
 				<div class="tab">
 						<input id="question-1-3" type="checkbox">
 						<label for="question-1-3" class="tab-label">	
-When and how can I register for my booster doses to achieve
+When and how can I receive for my booster doses to achieve
 minimum protection?</label>
 						<div class="tab-content">
 							<p>
-								Persons aged 5 years and above who are eligible for their third dose will be invited from about five months after completing their second dose, to achieve minimum protection.<br><br>
-								Parents/guardians of individuals aged 5 to 17 years will receive an SMS notification when their child/ward is eligible, to provide consent and book their child/ward’s booster vaccination appointment.<br><br>
-								Eligible individuals aged 18 years and above will receive an SMS with a personalised link to book an appointment.<br><br>
-								All individuals aged who are eligible for their third dose of COVID-19 vaccination may also walk in without prior appointment to receive their vaccination:<br>
-								<span>• Children <strong> aged 5 to 11 years </strong> may walk in with their parents/guardians to any Joint Testing and Vaccination Centre (JTVC) offering the Pfizer-BioNTech/Comirnaty vaccine for children aged 5 to 11 years before 6.30pm on Mondays to Fridays, and before 12.30pm on Saturdays.</span><br>
-								<span>• Individuals <strong> aged 12 years and above </strong> may walk into any JTVC before 6.30pm on Mondays to Fridays, and before 12.30pm on Saturdays.</span><br>
-								<span>• Seniors <strong> aged 80 years old and above</strong> may walk into any JTVC, Polyclinic or participating Public Health Preparedness Clinic (PHPC).</span><br><br>
+								Persons aged 5 years and above who are eligible for their booster dose can receive it from about five months after completing their primary vaccination series. These primary vaccinations could have been received before the age of 5.<br><br>
+							
+								All individuals aged who are eligible for their booster COVID-19 vaccination may walk in to any of the Joint Testing and Vaccination Centres (JTVCs) or Ppolyclinics offering the vaccine type for the appropriate age group. Alternatively, you may contact any participating Public Health Preparedness Clinic (PHPC) to book an appointment to receive your vaccination<br><br>
 								Individuals aged 5 to 17 years will be required to bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="go.gov.sg/parcf">here</a>. Parents/guardians must accompany their child/ward if he/she is aged 12 years and below. Children aged 13 years and above need not be accompanied.<br><br>
-								Individuals who wish to receive their vaccination at the polyclinics or PHPCs are strongly encouraged to make an appointment with the PHPC to avoid long waiting times.<br><br>
 								Please visit <a href="gowhere.gov.sg/vaccine">https://www.gowhere.gov.sg/vaccine</a> to locate the nearest vaccination site.
 									</p>
 							</div>
 					</div>				
 					<div class="tab">
 						<input id="question-1-4" type="checkbox">
-						<label for="question-1-4" class="tab-label">When and how can I register for my additional booster dose?</label>
+						<label for="question-1-4" class="tab-label">When and how can I receive for my additional booster dose?</label>
 						<div class="tab-content">
 							<p>
 						Persons aged 5 years and above should complete three mRNA or Novavax/Nuvaxovid doses, or four Sinovac-CoronaVac doses to achieve minimum protection.<br><br>
 								<b><u>Persons Aged 60 Years and above Medically Vulnerable, Residents of Aged Care Facilities</u></b><br>
 						After achieving minimum protection, medically vulnerable persons and individuals aged 60 years and above are recommended to receive an additional booster dose around one year from their last dose. They can start to receive it from five months after their last booster dose. The updated bivalent vaccines are recommended for this. Both bivalent Pfizer-BioNTech/Comirnaty vaccine or the bivalent Moderna/Spikevax vaccine are available in Joint Testing and Vaccination Centres (JTVCs). The bivalent Pfizer-BioNTech/Comirnaty vaccine is also available in selected Polyclinics and participating Public Health Preparedness Clinics (PHPCs). Please refer to <a href="https://gowhere.gov.sg/vaccine">gowhere.gov.sg/vaccine</a> to locate vaccination sites that carry your preferered bivalent vaccine.<br><br>
-						All eligible individuals aged 60 years and above will be invited to receive their bivalent vaccine dose around five months after their last dose. An SMS with a personalised booking link will be sent to the mobile number that you had registered for your previous COVID-19 vaccinations, and you may book an appointment at any of the vaccination sites offering the bivalent vaccines via the personalised booking link provided.<br><br>
 								<b><u>Persons Aged Between 12 to 59 Years</u></b><br>
-								Persons aged 12 to 59 years who are healthy have a lower risk of severe disease. Nevertheless, an additional booster dose around one year after their last dose will be offered to those who are eligible and keen to receive one more booster dose to enhance protection. They may walk in to any JTVC to receive their bivalent vaccine dose.<br><br>
+								Persons aged 12 to 59 years who are healthy have a lower risk of severe disease. Nevertheless, an additional booster dose around one year after their last dose will be offered to those who are eligible and keen to receive one more booster dose to enhance protection. They may walk in to any of the JTVCs to receive their bivalent vaccine dose.<br><br>
 								<b><u>Persons Under 12 Years</u></b><br>
 								Persons aged 5 to 11 years are not recommended nor eligible to receive additional booster dose beyond what is required for Minimum Protection.<br><br>
 								Persons aged 6 months to 4 years are not recommended nor eligible for additional doses beyond 2 doses of Moderna/Spikevax or 3 doses of Pfizer-BioNTech/Comirnaty at this time.
@@ -61,19 +55,19 @@ minimum protection?</label>
 					</div>
 				   <div class="tab">
 						<input id="question-1-5" type="checkbox">
-							<label for="question-1-5" class="tab-label">I have not received any COVID-19 vaccine. How can I register to receive the mRNA vaccination?</label>
+							<label for="question-1-5" class="tab-label">I have not received any COVID-19 vaccine. How can I receive the mRNA vaccination?</label>
 						<div class="tab-content">
-							<p>Children/wards aged 6 months to 11 years may walk in with their parents/guardians to any Joint Testing and Vaccination Centre (JTVC) offering the vaccines recommended for the different age groups before 6.30pm on Mondays to Fridays, and 12.30pm on Saturdays. On days where there is high demand for vaccination, you should expect a longer waiting period.<br><br>Alternatively, parents/guardians can also register their child/ward at <a href="https://child.vaccine.gov.sg"> https://child.vaccine.gov.sg</a>. An SMS with a personalised booking link will be sent to the registered mobile number of the parent/guardian within three to five working days to book a vaccination appointment. <br><br>
-						 Children/wards below 18 years must have the consent of their parents/guardians to receive their vaccination. Those between the age of 13 and 17 years must bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="go.gov.sg/parcf">here</a>. Those aged 12 and below must be accompanied by a parent/guardian. Parents/guardians should also bring along their child/ward's identification document (e.g. Birth Certificate and Health booklet/Passport/Student Identification Card/Singpass) for verification. <br><br>
-						 Individuals <strong>aged 12 years and above</strong> may walk in to any JTVC before 6.30pm on Mondays to Fridays, and 12.30pm on Saturdays. Seniors <strong>aged 80 years and above</strong> may walk in to any JTVC, Polyclinic or participating Public Health Preparedness Clinic (PHPC).<br><br>
-Holders of Training Employment Pass, Training Work Permit, Work Holiday Pass, Special Pass and Short Term Visit Pass with a pass validity period of at least 60 days may walk in to any JTVC to receive their vaccination. The pass holder should bring along identifying documents such as your passport or approval of extension of stay in Singapore for verification purposes. No prior booking or registration is required.<br><br>
+							<p>Persons aged 6 months and above may walk in to any Joint Testing and Vaccination Centres (JTVCs) or polyclinics offering the vaccines recommended for the different age groups. On days where there is high demand for vaccination, a longer waiting period should be expected. Alternatively, individuals may contact any Public Health Preparedness Clinic (PHPC) to book an appointment to receive their vaccination<br><br>
+						 Those aged 12 years and below must be accompanied by a parent/guardian. Parents/guardians should also bring along their child/ward’s identification document (e.g. Birth Certificate and Health booklet/Passport/Student Identification Card/Singpass) for verification. Children/wards below 18 years must have the consent of their parents/guardians to receive their vaccination. Those between the age of 13 and 17 years must bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="go.gov.sg/parcf">here</a>. <br><br>
+		
+Holders of Training Employment Pass, Training Work Permit, Work Holiday Pass, Special Pass and Short Term Visit Pass with a pass validity period of at least 60 days may walk in to any of the JTVCs to receive their vaccination. The pass holder should bring along identifying documents such as your passport or approval of extension of stay in Singapore for verification purposes.<br><br>
 								Please visit <a href="https://gowhere.gov.sg/vaccine"> https://gowhere.gov.sg/vaccine</a> to locate the nearest vaccination site.
 						</p>
 							</div>
 					</div>
 				   <div class="tab">
 						<input id="question-1-6" type="checkbox">
-							<label for="question-1-6" class="tab-label">How do I register to receive Sinovac-CoronaVac?</label>
+							<label for="question-1-6" class="tab-label">How do I receive Sinovac-CoronaVac?</label>
 						<div class="tab-content">
 							<p>We strongly recommend that you receive the mRNA or Novavax/Nuvaxovid vaccines for your COVID-19 vaccinations in view of the lower efficacy of the Sinovac-CoronaVac vaccine.<br><br>
 								Should you choose to receive the Sinovac-CoronaVac vaccine instead, you may do so at selected participating Public Health Preparedness Clinics (PHPCs) offering the vaccine. Please call the clinic beforehand to make an appointment. Please visit <a href="https://gowhere.gov.sg/vaccine"> https://gowhere.gov.sg/vaccine</a> for a list of the PHPCs offering the vaccine.<br><br>
@@ -84,70 +78,61 @@ If you are medically ineligible for the mRNA and Novavax/Nuvaxovid vaccines, and
 					</div>
 				   <div class="tab">
 						<input id="question-1-7" type="checkbox">
-							<label for="question-1-7" class="tab-label">How can I register to receive the Novavax/Nuvaxovid COVID-19 vaccine?</label>
+							<label for="question-1-7" class="tab-label">How can I receive the Novavax/Nuvaxovid COVID-19 vaccine?</label>
 						<div class="tab-content">
-							<p>You may book an appointment using the link from your existing SMS invite, to receive your vaccination at any of the selected participating Public Health Preparedness Clinics (PHPCs).<br><br>Please note that the Novavax/Nuvaxovid vaccine is only approved for use in persons aged 12 and
-above.
+							<p>You may contact any of Public Health Preparedness Clinics (PHPCs) that offer Novavax/Nuvaxovid COVID-19 vaccine to book an appointment.<br><br>Please note that the Novavax/Nuvaxovid vaccine is only approved for use in persons aged 12 years and above.
 	</p> 
-							</div>
-					</div>				
-    			<div class="tab">
-    				<input id="question-1-8" type="checkbox">
-    				<label for="question-1-8" class="tab-label">I lost my SMS/booking code. How can I retrieve the link?</label>
-    				<div class="tab-content">
-    					<p>Please call the MOH COVID-19 vaccination hotline at 6995 9199 for assistance.</p>
     				</div>
     			</div>   			
     			<div class="tab">
-    				<input id="question-1-9" type="checkbox">
-    				<label for="question-1-9" class="tab-label">Can I change my contact information? </label>
+    				<input id="question-1-8" type="checkbox">
+    				<label for="question-1-8" class="tab-label">Can I change my contact information? </label>
     				<div class="tab-content">
     					<p>If you have changed your mobile number or email address, please call MOH COVID-19 vaccination hotline at 6995 9199 for assistance.</p>
     				</div>
     			</div>			
     			<div class="tab">
-    				<input id="question-1-10" type="checkbox">
-    				<label for="question-1-10" class="tab-label">How do I reschedule my appointment? </label>
+    				<input id="question-1-9" type="checkbox">
+    				<label for="question-1-9" class="tab-label">How do I reschedule my appointment? </label>
     				<div class="tab-content">
-    					<p> You may reschedule your appointments using the same booking link in the original SMS.<br>For enquiries, please call the MOH COVID-19 vaccination hotline at 6995 9199.</p>
+    					<p> For appointments made at Public Health Preparedness Clinics or Polyclinics, please call the clinic to reschedule your appointment</p>
     				</div>
     			</div>	
     			<div class="tab">
-    				<input id="question-1-11" type="checkbox">
-    				<label for="question-1-11" class="tab-label">How will I know that the SMS is authentic and not a scam? </label>
+    				<input id="question-1-10" type="checkbox">
+    				<label for="question-1-10" class="tab-label">How will I know that the SMS is authentic and not a scam? </label>
     				<div class="tab-content">
-    					<p>The Covid-19 vaccination is free for all Singaporeans and long-term residents in Singapore and no one should ask you for a payment to register for appointments. The link that is provided in the SMS should go to <strong>"vaccine.gov.sg"</strong>. Only government officials can register for a <strong>gov.sg</strong> domain. Do not trust any other URLs that are not from a <strong>.gov.sg</strong> domain. </p><p>When in doubt, you should check with the agency who sent you the message to confirm the authenticity before responding to the message.</p>
+    					<p>The COVID-19 vaccination is free for all Singaporeans and long-term residents in Singapore and no one should ask you for a payment. The link that is provided in the SMS should go to <strong>"vaccine.gov.sg"</strong>. Only government officials can register for a <strong>gov.sg</strong> domain. Do not trust any other URLs that are not from a <strong>.gov.sg</strong> domain. </p><p>When in doubt, you should check with the agency who sent you the message to confirm the authenticity before responding to the message.</p>
 							</div>
 					</div>
 					<div class="tab">
-						<input id="question-1-12" type="checkbox">
-						<label for="question-1-12" class="tab-label">When can I get my child/ward vaccinated?</label>
+						<input id="question-1-11" type="checkbox">
+						<label for="question-1-11" class="tab-label">When can I get my child/ward vaccinated?</label>
 						<div class="tab-content">
 							<p>
 						Children must cross the age of 6 months to be eligible for vaccination.</p>
 							</div>
 					</div>
 					<div class="tab">
-						<input id="question-1-13" type="checkbox">
-						<label for="question-1-13" class="tab-label">I want to get my child/ward who is between 6 months and 11 years old
+						<input id="question-1-12" type="checkbox">
+						<label for="question-1-12" class="tab-label">I want to get my child/ward who is between 6 months and 11 years old
 vaccinated. What do I need to do?</label>
 						<div class="tab-content">
-							<p>Eligible children may also walk in with their parents/guardians to the Joint Testing and Vaccination Centres (JTVCs) offering the vaccines recommended for the different age groups before 6.30pm on Mondays to Fridays, and 12.30pm on Saturdays, without a prior appointment. On days where there is high demand for vaccination, individuals should expect a longer waiting period.<br><br>
-						Alternatively, for children aged 6 months to 11 years who have yet to receive any COVID-19 vaccine, parents/guardians should register their child/ward to receive the vaccination at <a href="https://child.vaccine.gov.sg"> https://child.vaccine.gov.sg</a>. An SMS with a personalized booking link will be sent to the registered mobile number of the parent/guardian within three to five working days to book an appointment at a preferred location.<br><br>
-								Children <strong> aged 5 to 11 </strong> who completed their second dose more than five months ago are recommended to take a third dose (also known as booster dose). Parents/guardians will receive an SMS at the mobile number that was registered for your child/ward’s previous COVID-19 vaccination appointment, and they may book an appointment via the personalised booking link provided. Walk-ins are also allowed for this age group receiving their third dose.<br><br>
+							<p>Eligible children may also walk in with their parents/guardians to any of the Joint Testing and Vaccination Centres (JTVCs) or polyclinics offering the vaccines recommended for the different age groups. On days where there is high demand for vaccination, longer waiting period should be expected.<br><br>
+								Children <strong> aged 5 to 11 </strong> who completed their second dose* more than five months ago are recommended to take a third dose (also known as booster dose) to achieve minimum protection.<br><br>
 							Please visit <a href="https://gowhere.gov.sg/vaccine"> https://gowhere.gov.sg/vaccine</a> to locate the nearest vaccination site offering vaccines for children aged 6 months to 11 years.<br><br>
 							Parents/guardians must bring along their child/ward's identification document (e.g. Birth Certificate and Health booklet/Passport/Student Identification Card/Singpass) for verification purposes, as well as a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="go.gov.sg/parcf">here</a>.</p>
 							</div>
 					</div>								
 					<div class="tab">
-						<input id="question-1-14" type="checkbox">
-						<label for="question-1-14" class="tab-label">I want to get my child/ward (12 to 17 years old) vaccinated. What do I need to do?</label>
+						<input id="question-1-13" type="checkbox">
+						<label for="question-1-13" class="tab-label">How can my child/ward (12 to 17 years old) receive his/her vaccine doses?</label>
 						<div class="tab-content">
 							<p>
-								Individuals can walk in to any Joint Testing and Vaccination Centre (JTVC) offering the Pfizer-BioNTech/Comirnaty vaccine to receive their three doses for minimum protection, without the need for prior appointment. Your child/ward will require your consent to receive his/her vaccinations.<br><br>
+								Individuals can walk in to any of the Joint Testing and Vaccination Centres (JTVCs) or polyclinics offering the Pfizer-BioNTech/Comirnaty vaccine to receive their three doses for minimum protection. Your child/ward will require your consent to receive his/her vaccinations.<br><br>
 								For individuals who wish to receive the Novavax/Nuvaxovid vaccine, parents/guardians may book an appointment for your child/ward to receive the vaccine at any of the 19 participating Public Health Preparedness Clinics (PHPCs) offering the vaccine. The list of PHPCs can be found <a href="https://www.vaccine.gov.sg/locations/clinic?query=novavax">here</a>.<br><br>
-								You will receive an SMS inviting your child/ward to take their third dose (also known as booster dose) when eligible, at the mobile number that you had registered with for your child/ward's previous COVID-19 vaccinations. If you do not receive an SMS notification around five months from the second dose, you may walk in to any JTVC offering the vaccine recommended for your child/ward's age group. Alternatively, you may call the MOH COVID-19 vaccination hotline at 6995 9199.<br><br>
-								Children aged 12 to 17 who are healthy have a lower risk of severe disease. Nevertheless, an additional booster one year after their last booster dose can still enhance protection, and they can receive this additional booster if they choose to do so. They may walk in to any JTVC to receive their bivalent Pfizer-BioNTech/Comirnaty vaccine dose.<br><br>
+								When your child/ward is eligible for their additional dose (also known as booster dose) at around five months after their last dose, they may walk in to any of the JTVCs or Ppolyclinics to receive it.<br><br>
+								Children aged 12 to 17 years who are healthy have a lower risk of severe disease. Nevertheless, an additional booster one year after their last booster dose can still enhance protection, and they can receive this additional booster if they choose to do so. They may walk in to any of the JTVCs to receive their bivalent vaccine booster dose.<br><br>
 								Individuals must bring along their identification document (e.g. Birth Certificate/Passport/Student Identification Card/Singpass) for verification purposes, as well as a duly completed and signed
 hard or electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a>.<br><br>
 								You do not need accompany your child/ward if he/she is aged 13 years and above. However, if he/she is 12 years old or a student in a Special Education (SPED) school you will need to
@@ -156,8 +141,8 @@ accompany him/her, as per the arrangements for the previous COVID-19 vaccination
 							</div>
 					</div>				
 					<div class="tab">
-						<input id="question-1-15" type="checkbox">
-						<label for="question-1-15" class="tab-label">Will it be possible for parents/guardians to be vaccinated together with their child/ward?</label>
+						<input id="question-1-14" type="checkbox">
+						<label for="question-1-14" class="tab-label">Will it be possible for parents/guardians to be vaccinated together with their child/ward?</label>
 						<div class="tab-content">
 							<p>
 						Parents/guardians who accompany their child/wards aged 12 years and under for vaccination will not be able to receive their vaccination together with their child/ward as the dosage for adults
@@ -188,13 +173,13 @@ and children are different.
 					</div>				
 					<div class="tab">
 						<input id="question-2-2" type="checkbox">
-						<label for="question-2-2" class="tab-label">What should I take note of?</label>
+						<label for="question-2-2" class="tab-label">What should I take note on vaccination day?</label>
 						<div class="tab-content">
 							<p>				
-								<span>• Bring your ID (NRIC/FIN/Student Pass/Birth Certificate and Health Booklet) for both appointments</span><br>
+								<span>• Bring your ID (NRIC/FIN/Student Pass/Birth Certificate and Health Booklet)</span><br>
 								<span>• Please turn up on time</span><br>
 								<span>• Please wear short sleeved attire, or sleeves loose enough to be rolled up</span><br>
-								<span>• If you are unwell or had fever in the past 24 hours, stay home and postpone your appointments</span><br>
+								<span>• If you are unwell or had fever in the past 24 hours, please do not proceed for your vaccination. You may receive your vaccination after you have recovered.</span><br>
 							</p>
 						</div>
 					</div>		
@@ -202,9 +187,9 @@ and children are different.
 					<input id="question-2-3" type="checkbox">
 					<label for="question-2-3" class="tab-label">I’m not feeling well, what should I do?</label>
 					<div class="tab-content">
-						<p>Please do not go for the appointment. You should only take the vaccination when you are well. </p>
+						<p>You should only take the vaccination when you are well. </p>
 						<p>
-							If you have not taken your 1st dose, cancel and rebook both appointments using the same booking link issued by SMS. If you have taken your 1st dose and wish to reschedule your 2nd dose, please call the MOH COVID-19 vaccination hotline at 6995 9199.
+							For appointments made at Public Health Preparedness Clinics or Polyclinics, please call the clinic to reschedule your appointment.
 						</p>
 					</div>
 				</div>		
@@ -338,12 +323,15 @@ aged 12 years and above.
     			</div>	
     			<div class="tab">
     				<input id="question-3-7" type="checkbox">
-    				<label for="question-3-7" class="tab-label">Will my child/ward still receive the reduced Moderna/Spikevax dosage meant for 6
-months to 4 years if he/she turns 5 years old on the day of the first appointment? 
+    				<label for="question-3-7" class="tab-label">Will my child/ward still receive the Pfizer-BioNTech/Comirnaty or  Moderna/Spikevax vaccine if he/she turns 5 years old on the day of the first appointment? 
     				</label>
     				<div class="tab-content">
-    					<p>Children who turn 5 years on the day of their first appointment will receive the Pfizer-BioNTech/Comirnaty vaccine for children aged between 5 to 11 years.<br><br>
-Those who received the Moderna/Spikevax vaccine when they were below 5 years will continue to receive the same vaccine and dosage their second dose, even if they have turned 5 years between the first and second vaccine doses.
+    					<p>Children who turn 5 years on the day of their first dose will receive the Pfizer-BioNTech/Comirnaty vaccine for children aged between 5 to 11 years.<br><br>
+Those who received the Moderna/Spikevax vaccine when they were below 5 years will continue to receive the same vaccine and dosage their second dose, even if they have turned 5 years between the first and second vaccine doses.<br><br>
+								Those who received the Pfizer-BioNTech/Comirnaty vaccine when they were below 5 years will continue to receive the same vaccine and dosage for their subsequent doses, even if they have turned 5 years between any of the vaccine doses.
+								
+								
+								
 							</p>
     				</div>
     			</div></div></div>

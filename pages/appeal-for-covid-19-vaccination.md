@@ -10,8 +10,8 @@ The eligible individuals are:
 
 | Category | Vaccination Instructions | 
 | -------- | -------- | 
-| **Singaporeans, Permanent Residents &amp; Long-Term Pass holders**, including:<br>* Employment Pass<br>* S-Pass<br>* Work Permit (including Confinement Nannies) <br>* Student Pass<br>* Dependent Pass<br>* Long Term Visit Pass| As part of our continued efforts to make it more convenient for vaccinations, from 18 August 2021, all Singaporeans, Permanent Residents, and Long-Term Pass holders, aged 5 years old and above, may receive their vaccination doses at any vaccination site, including Polyclinics or participating Public Health Preparedness Clinics (PHPCs). | 
-| **Short-Term Work Pass Holder**<br>* Training Employment Passes (TEPs)<br>* Training Work Permits (TWP)<br>* Work Holiday Passes (WHP)<br>* Special Passes<br>* Short Term Visit Pass holders (with pass validity period of at least 60 days)|Short-Term Pass holders aged 12 and above may walk in to&nbsp;any JTVC with supporting immigration documents to receive their vaccination. They will **not** be able to walk into polyclinics or participating PHPCs.| 
+| **Singaporeans, Permanent Residents &amp; Long-Term Pass holders**, including:<br>* Employment Pass<br>* S-Pass<br>* Work Permit (including Confinement Nannies) <br>* Student Pass<br>* Dependent Pass<br>* Long Term Visit Pass|All Singaporeans, Permanent Residents, and Long-Term Pass holders, aged 5 years old and above, may receive their vaccination doses at any vaccination site, including Polyclinics or participating Public Health Preparedness Clinics (PHPCs). | 
+| **Short-Term Work Pass Holder**<br>* Training Employment Passes (TEPs)<br>* Training Work Permits (TWP)<br>* Work Holiday Passes (WHP)<br>* Special Passes<br>* Short Term Visit Pass holders (with pass validity period of at least 60 days)|Short-Term Pass holders may walk in to any Joint Testing  and Vaccination Centres with supporting immigration documents to receive their vaccination. They will **not** be able to walk into polyclinics or participating PHPCs.| 
 
 
 

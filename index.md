@@ -12,9 +12,9 @@ sections:
         தடுப்பூசிக்கான பதிவு
       background: /images/vaccinegov-hero-withlogo-higher.png
       key_highlights:
-        - title: Book appointment
-          description: Already have the code?
-          url: https://appointment.vaccine.gov.sg
+        - title: Get Vaccinated
+          description: For more information
+          url: /get-vaccinated/
         - title: Health Advisory
           description: 健康指示/ Nasihat Kesihatan/ சுகாதார ஆலோசனை
           url: /health-advisory
@@ -36,19 +36,13 @@ sections:
         after your last dose. You can start to receive it from five months after
         your last dose.
       button: Find out how
-      url: https://www.vaccine.gov.sg/how-to-sign-up/
+      url: /get-vaccinated/
   - infobar:
       description: We are aware of websites, emails, SMS text messages and phone calls
         falsely claiming to offer registration for COVID-19 vaccination
       button: Learn more
       url: /scam/
       title: Beware of Scams
-  - infopic:
-      title: How to Sign Up
-      image: /images/vaccinate.png
-      button: Learn More
-      url: /how-to-sign-up
-      alt: How to Sign Up
   - infobar:
       title: Clinical Trial
       description: NCID is conducting a clinical trial of different booster vaccines (
