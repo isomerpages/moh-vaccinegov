@@ -181,9 +181,9 @@ old &amp; above)</td>
       <td>2 Yishun Avenue 9, Singapore 768898</td>
 			<td>Moderna/Spikevax (6 months to 4 years old)</td>
 			<td>Tuesdays and Wednesdays:<br>
-			8am-11am<br><br>
+			8am-11am (last walk-in: 10.30am)<br><br>
 			Saturdays:<br>
-			9am-12pm</td>
+			9am-12pm (last walk-in: 11.30am)</td>
     </tr>
   </tbody>
 </table>
