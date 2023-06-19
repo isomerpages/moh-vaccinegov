@@ -253,7 +253,7 @@ years old &amp; above)</td>
 years old &amp; above)</td>
 			<td><b>Pfizer/Comirnaty Monovalent (5 to 11 years old):</b><br>
 				Mondays and Tuesdays:
-			8am-1pm; 2-4.30pm<br><br>
+			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
 				<b>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above):</b><br>
 				Thursdays and Fridays:<br>8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
 			Saturdays:<br>
@@ -272,7 +272,7 @@ years old &amp; above)</td>
 			<td>Moderna/Spikevax (6 months to 4 years old)<br><br>Pfizer/Comirnaty Bivalent (BA. 4/5) (12 yrs old &amp; above)</td>
 			<td><b>Moderna/Spikevax (6 months to 4 years old):</b><br>
 				Thursdays and Fridays:
-			8am-1pm; 2-4.30pm<br><br>
+			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
 				<b>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above):</b><br>Mondays and Tuesdays:
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
 			Saturdays:<br>
@@ -292,11 +292,11 @@ years old &amp; above)</td>
 (5 to 11 years old)<br><br>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
 			<td><b>Pfizer/Comirnaty Monovalent (5 to 11 years old):</b><br>
 				Thursdays and Fridays:
-			8am-1pm; 2-4.30pm<br><br>
+			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
 				Saturdays:<br>
 			8am-12.30pm<br><br>
 				<b>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above):</b><br>Mondays and Tuesdays:<br>
-			8am-1pm; 2-4.30pm</td>
+			8am-1pm; 2-4.30pm (last walk-in: 11.30am)</td>
     </tr> 
   </tbody>
 </table>
