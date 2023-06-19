@@ -167,9 +167,9 @@ For COVID-19 vaccinations at the polyclinics:
 old &amp; above)</td>
 			<td><b>Pfizer/Comirnaty Monovalent (5 to 11 years old):</b><br>
 			Fridays:<br>
-		  2-4.30pm<br><br>
+		  2-4.30pm (last walk-in: 3.30pm)<br><br>
 				Saturdays:<br>
-				10.30am-12.30pm<br><br>
+				10.30am-12.30pm (last walk-in: 11.30am)<br><br>
 				<b>Pfizer/Comirnaty Bivalent (BA.4/5):</b><br>
 				Wednesdays and Thursdays:<br>
 			2-4.30pm (last walk-in: 3.30pm)<br><br>
