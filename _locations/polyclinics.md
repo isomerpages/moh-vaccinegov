@@ -5,10 +5,12 @@ permalink: /locations-polyclinics/
 **Bivalent vaccines**<br>
 The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and above is available at all vaccination locations offering the vaccine, including Joint Testing and Vaccination Centres (JTVCs), Polyclinics and participating Public Health Preparedness Clinics (PHPCs). The Moderna/Spikevax bivalent vaccine for individuals aged 18 years and above is available only at JTVCs. If you wish to receive the Moderna/Spikevax bivalent vaccine, you may visit the nearest JTVC.
 
-**Walk-ins for all age groups:**
-•	Individuals may want to walk in to the JTVCs given the higher vaccination capacity.
-•	All eligible individuals, including children below the age of 12 years, may walk in to the Polyclinics to receive their vaccination.
-•	On days where there is high demand for vaccination, individuals should expect a longer waiting period.
+For COVID-19 vaccinations at the polyclinics:
+
+* From 1 Jul 2023, COVID-19 vaccinations will only be provided at eight polyclinics. Eligible individuals may walk in to the 8 polyclinics to receive their COVID-19 vaccination.
+* Please refer to the details of each polyclinic for the vaccines offered and specific operating hours.
+* Individuals may choose to walk in to JTVCs given the higher vaccination capacity.
+* On days where there is high demand for vaccination, individuals should expect a longer waiting period.
 
 
 ###  **Central**
@@ -73,9 +75,9 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
 			<td> Moderna/Spikevax (6 months to 4 years old)<br><br><b>[NEW] From 1 July 2023:</b><br>
 				Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
 			<td>Tuesdays and Wednesdays:<br>
-			9am-12pm<br><br>
+			9am-12pm (last walk-in: 11am)<br><br>
 			Saturdays:<br>
-			8am-12.30pm</td>
+			8am-12.30pm (last walk-in: 11.30am)</td>
     </tr> 
 		<tr>
       <td>Queenstown Polyclinic<br><br><b>[CLOSED after 30 June 2023]</b></td>
@@ -140,10 +142,9 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
       <td>Eunos Polyclinic<br><br><b>[CLOSED after 30 June 2023]</b></td>
       <td>1 Chin Cheng Avenue, Singapore 429400</td>
 			<td>Moderna/Spikevax (6 months to 4 years old)</td>
-			<td>Weekdays:
-			8am-1pm; 2-4.30pm<br><br>
+			<td>Weekdays; 8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
 			Saturdays:<br>
-			8am-12.30pm</td>
+			8am-12.30pm (last walk-in: 11.30am)</td>
     </tr>
   </tbody>
 </table>
