@@ -5,7 +5,7 @@ permalink: /locations-polyclinics/
 **Bivalent vaccines**<br>
 The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and above is available at all vaccination locations offering the vaccine, including Joint Testing and Vaccination Centres (JTVCs), Polyclinics and participating Public Health Preparedness Clinics (PHPCs). The Moderna/Spikevax bivalent vaccine for individuals aged 18 years and above is available only at JTVCs. If you wish to receive the Moderna/Spikevax bivalent vaccine, you may visit the nearest JTVC.
 
-For COVID-19 vaccinations at the polyclinics:
+**For COVID-19 vaccinations at the polyclinics:**
 
 * From 1 Jul 2023, COVID-19 vaccinations will only be provided at eight polyclinics. Eligible individuals may walk in to the 8 polyclinics to receive their COVID-19 vaccination.
 * Please refer to the details of each polyclinic for the vaccines offered and specific operating hours.
@@ -139,9 +139,9 @@ For COVID-19 vaccinations at the polyclinics:
 			8am-12.30pm (last walk-in: 11.30am)</td>
     </tr>
 		<tr>
-      <td>Eunos Polyclinic<br><br><b>[CLOSED after 30 June 2023]</b></td>
+      <td>Eunos Polyclinic</td>
       <td>1 Chin Cheng Avenue, Singapore 429400</td>
-			<td>Moderna/Spikevax (6 months to 4 years old)</td>
+			<td>Moderna/Spikevax (6 months to 4 years old)<br><br><b>[NEW] From 1 July 2023:</b><br>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
 			<td>Weekdays; 8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
 			Saturdays:<br>
 			8am-12.30pm (last walk-in: 11.30am)</td>
