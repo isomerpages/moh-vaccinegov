@@ -25,49 +25,12 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
   </thead>
   <tbody>
     <tr>
-      <td>Outram Polyclinic<br><br><b>[CLOSED after 30 June 2023]</b></td>
-      <td> 3 Second Hospital Avenue, #02-00 Health Promotion Board Building,
-        Singapore 168937</td>
-			<td>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
-			<td>Weekdays:
-			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Saturdays:<br>
-			8am-12.30pm (last walk-in: 11.30am)</td>
-    </tr>	
-    <tr>
-      <td>Bukit Merah Polyclinic<br><br><b>[CLOSED after 30 June 2023]</b></td>
-      <td>162 Bukit Merah Central Level 4, Singapore 150163</td>
-			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
-			<td>Weekdays:
-			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Saturdays:<br>
-			8am-12.30pm (last walk-in: 11.30am)</td>
-    </tr>		
-    <tr>
       <td>Geylang Polyclinic</td>
       <td>21 Geylang East Central, Singapore 389707</td>
 			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)<br><br><b>[NEW] From 1 July 2023:</b><br>
 				Pfizer/Comirnaty Monovalent (5 to 11 years old)</td>
 			<td>Tuesdays to Thursdays:<br>
 		  2-4.30pm (last walk-in: 3.30pm)</td>
-    </tr>		
-    <tr>
-      <td>Toa Payoh Polyclinic<br><br><b>[CLOSED after 30 June 2023]</b></td>
-      <td>2003 Lorong 8 Toa Payoh Singapore 319260</td>
-			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
-			<td>Thursdays and Fridays:<br>
-			9am-12pm (last walk-in: 11.30am)<br><br>
-			Saturdays:<br>
-			9am-12pm (last walk-in: 11.30am)</td>
-    </tr>
-    <tr>
-      <td>Marine Parade Polyclinic<br><br><b>[CLOSED after 30 June 2023]</b></td>
-      <td>80 Marine Parade Central, Singapore 440080</td>
-			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
-			<td>Weekdays:
-			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Saturdays:<br>
-			8am-12.30pm (last walk-in: 11.30am)</td>
     </tr>
 		<tr>
       <td>Kallang Polyclinic</td>
@@ -78,23 +41,7 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
 			9am-12pm (last walk-in: 11am)<br><br>
 			Saturdays:<br>
 			8am-12.30pm (last walk-in: 11.30am)</td>
-    </tr> 
-		<tr>
-      <td>Queenstown Polyclinic<br><br><b>[CLOSED after 30 June 2023]</b></td>
-      <td>580 Stirling Road, Singapore 148958</td>
-			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
-			<td>Fridays:
-			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Saturdays:<br>
-			8am-12.30pm (last walk-in: 11.30am)</td>
     </tr>
-		<tr>
-      <td>Clementi Polyclinic<br><br><b>[CLOSED after 30 June 2023]</b></td>
-      <td>451 Clementi Avenue 3, #02-307, Singapore 120451</td>
-			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
-			<td>Wednesdays and Thursdays:
-			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)</td>
-    </tr>   
   </tbody>
 </table>
 
@@ -115,24 +62,6 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
       <td>1 Tampines Street 41, Singapore 529203</td>
 			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)<br><br><b>[NEW] From 1 July 2023:</b><br>
 				Pfizer/Comirnaty Monovalent (5 to 11 years old)</td>
-			<td>Weekdays:
-			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Saturdays:<br>
-			8am-12.30pm (last walk-in: 11.30am)</td>
-    </tr>	 
-    <tr>
-      <td>Bedok Polyclinic<br><br><b>[CLOSED after 30 June 2023]</b></td>
-      <td>11 Bedok North Street 1 Heartbeat@Bedok #02-01, #03-01, Singapore 469662</td>
-			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
-			<td>Weekdays:
-			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Saturdays:<br>
-			8am-12.30pm (last walk-in: 11.30am)</td>
-    </tr>		
-    <tr>
-      <td>Pasir Ris Polyclinic<br><br><b>[CLOSED after 30 June 2023]</b></td>
-      <td>1 Pasir Ris Drive 4, Singapore 519457</td>
-			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
 			<td>Weekdays:
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
 			Saturdays:<br>
@@ -176,15 +105,6 @@ old &amp; above)</td>
 			Saturdays:<br>
 			8am-10.30am (last walk-in: 10am)</td>
     </tr>
-    <tr>
-      <td>Yishun Polyclinic<br><br><b>[CLOSED after 30 June 2023]</b></td>
-      <td>2 Yishun Avenue 9, Singapore 768898</td>
-			<td>Moderna/Spikevax (6 months to 4 years old)</td>
-			<td>Tuesdays and Wednesdays:<br>
-			8am-11am (last walk-in: 10.30am)<br><br>
-			Saturdays:<br>
-			9am-12pm (last walk-in: 11.30am)</td>
-    </tr>
   </tbody>
 </table>
 
@@ -200,13 +120,6 @@ old &amp; above)</td>
   </thead>
   <tbody>
     <tr>
-      <td>Hougang Polyclinic<br><br><b>[CLOSED after 30 June 2023]</b></td>
-      <td>89 Hougang Avenue 4, Singapore 538829</td>
-			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
-			<td>Tuesdays to Thursdays:<br>
-			2-4.30pm (last walk-in: 3.30pm)</td>
-    </tr>		
-    <tr>
       <td>Punggol Polyclinic</td>
       <td>681 Punggol Drive, Singapore 820681</td>
 			<td> Pfizer/Comirnaty Monovalent (5 to 11 years old) <br><br>Pfizer/Comirnaty Bivalent (BA.4/5) (12
@@ -215,23 +128,7 @@ years old &amp; above)</td>
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
 			Saturdays:<br>
 			8am-12.30pm (last walk-in: 11.30am)</td>
-			 </tr>		
-    <tr>
-      <td>Ang Mo Kio Polyclinic<br><br><b>[CLOSED after 30 June 2023]</b></td>
-      <td>21 Ang Mo Kio Central 2, Singapore 569666</td>
-			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
-						<td>Tuesdays to Thursdays:<br>
-			10am-1pm (last walk-in: 11.30am)</td>
-    </tr>
-		 <tr>
-      <td>Sengkang Polyclinic<br><br><b>[CLOSED after 30 June 2023]</b></td>
-      <td>2 Sengkang Square, #01-06, Singapore 545025</td>
-			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
-			<td>Weekdays:
-			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Saturdays:<br>
-			8am-12.30pm (last walk-in: 11.30am)</td>
-    </tr> 
+			 </tr>	
   </tbody>
 </table>
 
@@ -258,14 +155,7 @@ years old &amp; above)</td>
 				Thursdays and Fridays:<br>8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
 			Saturdays:<br>
 			8am-12.30pm (last walk-in: 11.30am)</td>
-    </tr>	
-    <tr>
-      <td>Jurong Polyclinic<br><br><b>[CLOSED after 30 June 2023]</b></td>
-      <td>190 Jurong East Avenue 1, Singapore 609788</td>
-			<td>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
-			<td>Mondays and Tuesdays:
-			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)</td>
-    </tr>	
+    </tr>
     <tr>
       <td>Bukit Batok Polyclinic</td>
       <td>50 Bukit Batok West Avenue 3, Singapore 659164</td>
@@ -277,26 +167,6 @@ years old &amp; above)</td>
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
 			Saturdays:<br>
 			8am-12.30pm (last walk-in: 11.30am)</td>
-    </tr>		
-    <tr>
-      <td>Choa Chu Kang Polyclinic<br><br><b>[CLOSED after 30 June 2023]</b></td>
-      <td>2 Teck Whye Crescent, Singapore 688846</td>
-			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
-			<td>Thursdays and Fridays:<br>
-			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)</td>
     </tr>
-		<tr>
-      <td>Bukit Panjang Polyclinic<br><br><b>[CLOSED after 30 June 2023]</b></td>
-      <td>50 Woodlands Road, Singapore 677726</td>
-			<td>Pfizer/Comirnaty Monovalent
-(5 to 11 years old)<br><br>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
-			<td><b>Pfizer/Comirnaty Monovalent (5 to 11 years old):</b><br>
-				Thursdays and Fridays:
-			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-				Saturdays:<br>
-			8am-12.30pm<br><br>
-				<b>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above):</b><br>Mondays and Tuesdays:<br>
-			8am-1pm; 2-4.30pm (last walk-in: 11.30am)</td>
-    </tr> 
   </tbody>
 </table>
