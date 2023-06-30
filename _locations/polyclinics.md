@@ -27,15 +27,15 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
     <tr>
       <td>Geylang Polyclinic</td>
       <td>21 Geylang East Central, Singapore 389707</td>
-			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)<br><br><b>[NEW] From 1 July 2023:</b><br>
-				Pfizer/Comirnaty Monovalent (5 to 11 years old)</td>
+			<td> Pfizer/Comirnaty Monovalent (5 to 11 years old)<br><br>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)
+				</td>
 			<td>Tuesdays to Thursdays:<br>
 		  2-4.30pm (last walk-in: 3.30pm)</td>
     </tr>
 		<tr>
       <td>Kallang Polyclinic</td>
       <td>701 Serangoon Road, Singapore 328263</td>
-			<td> Moderna/Spikevax (6 months to 4 years old)<br><br><b>[NEW] From 1 July 2023:</b><br>
+			<td> Moderna/Spikevax (6 months to 4 years old)<br><br>
 				Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
 			<td>Tuesdays and Wednesdays:<br>
 			9am-12pm (last walk-in: 11am)<br><br>
@@ -60,8 +60,8 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
     <tr>
       <td>Tampines Polyclinic</td>
       <td>1 Tampines Street 41, Singapore 529203</td>
-			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)<br><br><b>[NEW] From 1 July 2023:</b><br>
-				Pfizer/Comirnaty Monovalent (5 to 11 years old)</td>
+			<td> Pfizer/Comirnaty Monovalent (5 to 11 years old)<br><br>
+				Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
 			<td>Weekdays:
 			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
 			Saturdays:<br>
@@ -70,7 +70,7 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
 		<tr>
       <td>Eunos Polyclinic</td>
       <td>1 Chin Cheng Avenue, Singapore 429400</td>
-			<td>Moderna/Spikevax (6 months to 4 years old)<br><br><b>[NEW] From 1 July 2023:</b><br>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
+			<td>Moderna/Spikevax (6 months to 4 years old)<br><br>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
 			<td>Weekdays; 8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
 			Saturdays:<br>
 			8am-12.30pm (last walk-in: 11.30am)</td>
