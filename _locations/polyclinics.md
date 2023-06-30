@@ -107,7 +107,7 @@ old &amp; above)</td>
 		  2-4.30pm (last walk-in: 3.30pm)<br><br>
 				Saturdays:<br>
 				10.30am-12.30pm (last walk-in: 11.30am)<br><br>
-				<b>Pfizer/Comirnaty Bivalent (BA.4/5):</b><br>
+				<b>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above):</b><br>
 				Wednesdays and Thursdays:<br>
 			2-4.30pm (last walk-in: 3.30pm)<br><br>
 			Saturdays:<br>
@@ -132,10 +132,11 @@ old &amp; above)</td>
       <td>681 Punggol Drive, Singapore 820681</td>
 			<td> Pfizer/Comirnaty Monovalent (5 to 11 years old) <br><br>Pfizer/Comirnaty Bivalent (BA.4/5) (12
 years old &amp; above)</td>
-			<td>Weekdays:
-			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Saturdays:<br>
-			8am-12.30pm (last walk-in: 11.30am)</td>
+			<td><b>Pfizer/Comirnaty Monovalent (5 to 11 years old):</b><br>
+				Fridays:<br>8am-12pm, 2-4.30pm (last walk in: 11.30am, 3.30pm)<br><br>
+				Saturdays: 8am-12pm (last walk-in: 11.30am)<br><br>
+				<b>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above):</b><br>Mondays to Thursdays:<br>
+			8am-12pm, 2-4.30pm (last walk in: 11.30am, 3.30pm)</td>
 			 </tr>	
   </tbody>
 </table>
@@ -157,24 +158,20 @@ years old &amp; above)</td>
 			<td> Pfizer/Comirnaty Monovalent (5 to 11 years old) <br><br>Pfizer/Comirnaty Bivalent (BA.4/5) (12
 years old &amp; above)</td>
 			<td><b>Pfizer/Comirnaty Monovalent (5 to 11 years old):</b><br>
-				Mondays and Tuesdays:
-			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
+				Mondays to Saturdays:
+			8am-12.30pm (last walk-in: 11.30am)<br><br>
 				<b>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above):</b><br>
-				Thursdays and Fridays:<br>8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Saturdays:<br>
-			8am-12.30pm (last walk-in: 11.30am)</td>
+				Weekdays:<br>2-4.30pm (last walk-in: 3.30pm)</td>
     </tr>
     <tr>
       <td>Bukit Batok Polyclinic</td>
       <td>50 Bukit Batok West Avenue 3, Singapore 659164</td>
 			<td>Moderna/Spikevax (6 months to 4 years old)<br><br>Pfizer/Comirnaty Bivalent (BA. 4/5) (12 yrs old &amp; above)</td>
 			<td><b>Moderna/Spikevax (6 months to 4 years old):</b><br>
-				Thursdays and Fridays:
-			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-				<b>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above):</b><br>Mondays and Tuesdays:
-			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Saturdays:<br>
-			8am-12.30pm (last walk-in: 11.30am)</td>
+				Mondays to Saturdays:
+			8am-12.30pm (last walk-in: 11.30am)<br><br>
+				<b>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above):</b><br>Weekdays:
+			2-4.30pm (last walk-in: 3.30pm)</td>
     </tr>
   </tbody>
 </table>
