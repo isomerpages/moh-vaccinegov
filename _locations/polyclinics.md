@@ -29,18 +29,24 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
       <td>21 Geylang East Central, Singapore 389707</td>
 			<td> Pfizer/Comirnaty Monovalent (5 to 11 years old)<br><br>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)
 				</td>
-			<td>Tuesdays to Thursdays:<br>
-		  2-4.30pm (last walk-in: 3.30pm)</td>
+			<td><b>Pfizer/Comirnaty Monovalent (5 to 11 years old):</b><br>
+				Thursdays:<br>
+		  2-4.30pm (last walk-in: 3.30pm)<br><br>
+				<b>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above):</b><br>
+				Tuesdays and Wednesdays:<br>
+				2-4.30pm (last walk in: 3.30pm)
+				</td>
     </tr>
 		<tr>
       <td>Kallang Polyclinic</td>
       <td>701 Serangoon Road, Singapore 328263</td>
 			<td> Moderna/Spikevax (6 months to 4 years old)<br><br>
 				Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
-			<td>Tuesdays and Wednesdays:<br>
-			9am-12pm (last walk-in: 11am)<br><br>
-			Saturdays:<br>
-			8am-12.30pm (last walk-in: 11.30am)</td>
+			<td><b>Moderna/Spikevax (6 months to 4 years old):</b><br>
+				Wednesdays:<br>9-11am (last walk in: 10.30am)<br><br>
+				Saturdays: 8am-12.30pm (last walk-in: 11.30am)<br><br>
+				<b>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above):</b><br>Tuesdays:<br>
+			9am-12pm (last walk-in: 10.30am)</td>
     </tr>
   </tbody>
 </table>
@@ -62,8 +68,8 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
       <td>1 Tampines Street 41, Singapore 529203</td>
 			<td> Pfizer/Comirnaty Monovalent (5 to 11 years old)<br><br>
 				Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
-			<td>Weekdays:
-			8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
+			<td><b>Moderna/Spikevax (6 months to 4 years old):</b><br>
+				Fridays:<br>9am-12pm, 2-4.30pm (last walk-in: 11.30am, 3.30pm)<br><br><b>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above):</b><br>Mondays to Thursdays:<br>8am-12pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
 			Saturdays:<br>
 			8am-12.30pm (last walk-in: 11.30am)</td>
     </tr>
@@ -71,9 +77,11 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
       <td>Eunos Polyclinic</td>
       <td>1 Chin Cheng Avenue, Singapore 429400</td>
 			<td>Moderna/Spikevax (6 months to 4 years old)<br><br>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
-			<td>Weekdays; 8am-1pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
-			Saturdays:<br>
-			8am-12.30pm (last walk-in: 11.30am)</td>
+			<td><b>Moderna/Spikevax (6 months to 4 years old):</b><br>
+				Fridays:<br>8am-12pm, 2-4.30pm (last walk in: 11.30am, 3.30pm)<br><br>
+				Saturdays: 8am-12.30pm (last walk-in: 11.30am)<br><br>
+				<b>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above):</b><br>Mondays to Thursdays:<br>
+			8am-12pm, 2-4.30pm (last walk in: 11.30am, 3.30pm)</td>
     </tr>
   </tbody>
 </table>
