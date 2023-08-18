@@ -5,12 +5,14 @@ description: ""
 ---
 ### **JTVC Locations (Vaccination Wing)**
 **Bivalent vaccines**<br>
-The&nbsp;Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and above is available at all Joint Testing and Vaccination Centres (JTVCs), and selected Polyclinics and participating Public Health Preparedness Clinics (PHPCs). The Moderna/Spikevax bivalent&nbsp;vaccine for individuals aged 18 years and above is&nbsp;only available at&nbsp;JTVCs. 
+The&nbsp;Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and above is available at all Joint Testing and Vaccination Centres (JTVCs), selected Polyclinics and participating Public Health Preparedness Clinics (PHPCs). The Moderna/Spikevax bivalent&nbsp;vaccine for individuals aged 18 years and above is&nbsp;only available at&nbsp;JTVCs. 
 
 **Walk-ins for all age groups:**
 
-*   All eligible individuals, including children below the age of 12 years, may walk in to the JTVCs to receive their vaccination.
-*   On days where there is high demand for vaccination, individuals should expect a longer waiting period.
+*   All eligible individuals may walk in to the JTVCs to receive their vaccination.
+*   On days where there is high demand for vaccination, a longer waiting period is expected.
+
+Alternatively, individuals may book an appointment at a JTVC using this [link](https://book.health.gov.sg/).
 
 <table>
   <thead>
