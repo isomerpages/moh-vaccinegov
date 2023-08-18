@@ -12,7 +12,7 @@ The&nbsp;Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 year
 *   All eligible individuals may walk in to the JTVCs to receive their vaccination.
 *   On days where there is high demand for vaccination, a longer waiting period is expected.
 
-Alternatively, individuals may book an appointment at a JTVC using this [link](https://book.health.gov.sg/).
+Alternatively, individuals may book an appointment at a JTVC using this [link](https://book.health.gov.sg/covid).
 
 <table>
   <thead>
