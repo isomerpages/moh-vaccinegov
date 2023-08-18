@@ -3,14 +3,14 @@ title: Polyclinics
 permalink: /locations-polyclinics/
 ---
 **Bivalent vaccines**<br>
-The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and above is available at all vaccination locations offering the vaccine, including Joint Testing and Vaccination Centres (JTVCs), Polyclinics and participating Public Health Preparedness Clinics (PHPCs). The Moderna/Spikevax bivalent vaccine for individuals aged 18 years and above is available only at JTVCs. If you wish to receive the Moderna/Spikevax bivalent vaccine, you may visit the nearest JTVC.
+The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and above is available at all Joint Testing and Vaccination Centres (JTVCs), polyclinics and participating Public Health Preparedness Clinics (PHPCs) offering the vaccine. The Moderna/Spikevax bivalent vaccine for individuals aged 18 years and above is available only at JTVCs. If you wish to receive the Moderna/Spikevax bivalent vaccine, you may visit the nearest JTVC.
 
 **For COVID-19 vaccinations at the polyclinics:**
 
-* From 1 Jul 2023, COVID-19 vaccinations will only be provided at eight polyclinics. Eligible individuals may walk in to the 8 polyclinics to receive their COVID-19 vaccination.
+* Eligible individuals may walk in to any polyclinic in the list below to receive their COVID-19 vaccination.
 * Please refer to the details of each polyclinic for the vaccines offered and specific operating hours.
 * Individuals may choose to walk in to JTVCs given the higher vaccination capacity.
-* On days where there is high demand for vaccination, individuals should expect a longer waiting period.
+* On days where there is high demand for vaccination a longer waiting period is expected.
 
 
 ###  **Central**
