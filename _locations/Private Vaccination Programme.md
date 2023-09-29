@@ -73,10 +73,6 @@ old &amp; above)</td>
 old &amp; above)</td>
     </tr>
 		<tr>
-      <td>Meridian Medical Centre</td>
-      <td>108 Depot Road, Depot Heights Shopping Centre #01-10, Singapore 100108</td>
-			<td>Moderna/Spikevax Bivalent (BA.1) (18 years old &amp; above)</td>
-			</tr><tr>
       <td>Primary Care Asia</td>
       <td>290 Orchard Road, Paragon Shopping Centre #15-11/12 Singapore 238859</td>
 			<td>Moderna/Spikevax Bivalent (BA.1) (18 years old &amp; above)</td>
