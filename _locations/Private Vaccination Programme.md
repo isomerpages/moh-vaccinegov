@@ -7,8 +7,7 @@ All individuals aged 12 years*&nbsp;and above (including long-term residents and
 *Individuals aged 12-17 years are recommended to receive Pfizer-BioNTech/Comirnaty vaccine, while individuals aged 18 years and older are recommended to receive either the Pfizer-BioNTech/Comirnaty vaccine or the Moderna/Spikevax vaccine.<br><br>
 To book an appointment or for any enquiries, please directly contact the clinics in the list below.
 
-
-		&lt;<table>
+<table>
   <thead>
     <tr>
       <th>Name</th>
@@ -72,7 +71,8 @@ old &amp; above)</td>
       <td>6A Shenton Way, Downtown Gallery #02-15, Singapore 068815</td>
 			<td>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years
 old &amp; above)</td>
-    </tr><tr>
+    </tr>
+		<tr>
       <td>Primary Care Asia</td>
       <td>290 Orchard Road, Paragon Shopping Centre #15-11/12 Singapore 238859</td>
 			<td>Moderna/Spikevax Bivalent (BA.1) (18 years old &amp; above)</td>
