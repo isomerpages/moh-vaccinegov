@@ -1,6 +1,6 @@
 ---
 title: English
-permalink: /how-to-sign-up-new
+permalink: /how-to-sign-up-new/
 ---
 
 # **How to Sign Up**

@@ -1,6 +1,6 @@
 ---
 title: Private Vaccination Programme
-permalink: /locations/PVP/
+permalink: /locations/pvp/
 description: ""
 ---
 All individuals aged 12 years*&nbsp;and above (including long-term residents and short-term visitors) may receive vaccinations and boosters under the Private Vaccination Programme (PVP). This will allow individuals who wish to take additional vaccine doses, but who do not qualify under the National Vaccination Programme, to do so based on a doctor’s assessment. As this is a private arrangement, the vaccinations will be at the individual’s own cost.<br><br>

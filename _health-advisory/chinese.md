@@ -1,6 +1,6 @@
 ---
 title: 华语
-permalink: /health-advisory-zh
+permalink: /health-advisory-zh/
 ---
 
 # **健康指示**

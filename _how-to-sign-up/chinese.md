@@ -1,6 +1,6 @@
 ---
 title: 华语
-permalink: /how-to-sign-up-zh
+permalink: /how-to-sign-up-zh/
 ---
 
 # **How to Sign Up**
