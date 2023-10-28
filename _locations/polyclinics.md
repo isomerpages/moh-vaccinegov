@@ -27,12 +27,12 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
     <tr>
       <td>Geylang Polyclinic</td>
       <td>21 Geylang East Central, Singapore 389707</td>
-			<td> Pfizer/Comirnaty Monovalent (5 to 11 years old)<br><br>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)
+			<td> Pfizer/Comirnaty Monovalent (XBB. 1.5) (5 to 11 years old)<br><br>Pfizer/Comirnaty Monovalent (XBB. 1.5) (12 years old &amp; above)
 				</td>
-			<td><b>Pfizer/Comirnaty Monovalent (5 to 11 years old):</b><br>
+			<td><b>Pfizer/Comirnaty Monovalent (XBB. 1.5) (5 to 11 years old):</b><br>
 				Thursdays:<br>
 		  2-4.30pm (last walk-in: 3.30pm)<br><br>
-				<b>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above):</b><br>
+				<b>Pfizer/Comirnaty Monovalent (XBB. 1.5) (12 years old &amp; above):</b><br>
 				Tuesdays and Wednesdays:<br>
 				2-4.30pm (last walk in: 3.30pm)
 				</td>
@@ -41,11 +41,11 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
       <td>Kallang Polyclinic</td>
       <td>701 Serangoon Road, Singapore 328263</td>
 			<td> Moderna/Spikevax (6 months to 4 years old)<br><br>
-				Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
+			Pfizer/Comirnaty Monovalent (XBB. 1.5) (12 years old &amp; above)</td>
 			<td><b>Moderna/Spikevax (6 months to 4 years old):</b><br>
 				Wednesdays:<br>9-11am (last walk in: 10.30am)<br><br>
 				Saturdays: 8am-12.30pm (last walk-in: 11.30am)<br><br>
-				<b>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above):</b><br>Tuesdays:<br>
+				<b>Pfizer/Comirnaty Monovalent (XBB. 1.5) (12 years old &amp; above):</b><br>Tuesdays:<br>
 			9am-11am (last walk-in: 10.30am)</td>
     </tr>
   </tbody>
@@ -66,21 +66,21 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
     <tr>
       <td>Tampines Polyclinic</td>
       <td>1 Tampines Street 41, Singapore 529203</td>
-			<td> Pfizer/Comirnaty Monovalent (5 to 11 years old)<br><br>
-				Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
-			<td><b>Pfizer/Comirnaty Monovalent (5 to 11 years old):</b><br>
-				Fridays:<br>9am-12pm, 2-4.30pm (last walk-in: 11.30am, 3.30pm)<br><br><b>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above):</b><br>Mondays to Thursdays:<br>8am-12pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
+			<td> Pfizer/Comirnaty Monovalent (XBB. 1.5) (5 to 11 years old)<br><br>
+				Pfizer/Comirnaty Monovalent (XBB. 1.5) (12 years old &amp; above)</td>
+			<td><b>Pfizer/Comirnaty Monovalent (XBB. 1.5) (5 to 11 years old):</b><br>
+				Fridays:<br>9am-12pm, 2-4.30pm (last walk-in: 11.30am, 3.30pm)<br><br><b>Pfizer/Comirnaty Monovalent (XBB. 1.5) (12 years old &amp; above):</b><br>Mondays to Thursdays:<br>8am-12pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
 			Saturdays:<br>
 			8am-12pm (last walk-in: 11.30am)</td>
     </tr>
 		<tr>
       <td>Eunos Polyclinic</td>
       <td>1 Chin Cheng Avenue, Singapore 429400</td>
-			<td>Moderna/Spikevax (6 months to 4 years old)<br><br>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
+			<td>Moderna/Spikevax (6 months to 4 years old)<br><br>Pfizer/Comirnaty Monovalent (XBB. 1.5) (12 years old &amp; above)</td>
 			<td><b>Moderna/Spikevax (6 months to 4 years old):</b><br>
 				Fridays:<br>8am-12pm, 2-4.30pm (last walk in: 11.30am, 3.30pm)<br><br>
 				Saturdays: 8am-12pm (last walk-in: 11.30am)<br><br>
-				<b>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above):</b><br>Mondays to Thursdays:<br>
+				<b>Pfizer/Comirnaty Monovalent (XBB. 1.5) (12 years old &amp; above):</b><br>Mondays to Thursdays:<br>
 			8am-12pm, 2-4.30pm (last walk in: 11.30am, 3.30pm)</td>
     </tr>
   </tbody>
@@ -100,14 +100,14 @@ The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and
     <tr>
       <td>Woodlands Polyclinic</td>
       <td>10 Woodlands Street 31, Singapore 738579</td>
-			<td> Pfizer/Comirnaty Monovalent (5 to 11 years old) <br><br>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years
+			<td> Pfizer/Comirnaty Monovalent (XBB. 1.5) (5 to 11 years old) <br><br>Pfizer/Comirnaty Monovalent (XBB. 1.5) (12 years
 old &amp; above)</td>
-			<td><b>Pfizer/Comirnaty Monovalent (5 to 11 years old):</b><br>
+			<td><b>Pfizer/Comirnaty Monovalent (XBB. 1.5) (5 to 11 years old):</b><br>
 			Fridays:<br>
 		  2-4.30pm (last walk-in: 3.30pm)<br><br>
 				Saturdays:<br>
 				10.30am-12.30pm (last walk-in: 11.30am)<br><br>
-				<b>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above):</b><br>
+				<b>Pfizer/Comirnaty Monovalent (XBB. 1.5) (12 years old &amp; above):</b><br>
 				Wednesdays and Thursdays:<br>
 			2-4.30pm (last walk-in: 3.30pm)<br><br>
 			Saturdays:<br>
@@ -130,12 +130,12 @@ old &amp; above)</td>
     <tr>
       <td>Punggol Polyclinic</td>
       <td>681 Punggol Drive, Singapore 820681</td>
-			<td> Pfizer/Comirnaty Monovalent (5 to 11 years old) <br><br>Pfizer/Comirnaty Bivalent (BA.4/5) (12
+			<td> Pfizer/Comirnaty Monovalent (XBB. 1.5) (5 to 11 years old) <br><br>Pfizer/Comirnaty Monovalent (XBB. 1.5) (12
 years old &amp; above)</td>
 			<td><b>Pfizer/Comirnaty Monovalent (5 to 11 years old):</b><br>
 				Fridays:<br>8am-12pm, 2-4.30pm (last walk in: 11.30am, 3.30pm)<br><br>
 				Saturdays: 8am-12pm (last walk-in: 11.30am)<br><br>
-				<b>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above):</b><br>Mondays to Thursdays:<br>
+				<b>Pfizer/Comirnaty Monovalent (XBB. 1.5) (12 years old &amp; above):</b><br>Mondays to Thursdays:<br>
 			8am-12pm, 2-4.30pm (last walk in: 11.30am, 3.30pm)</td>
 			 </tr>	
   </tbody>
@@ -155,22 +155,22 @@ years old &amp; above)</td>
     <tr>
       <td>Pioneer Polyclinic</td>
       <td>26 Jurong West Street 61, Singapore 648201</td>
-			<td> Pfizer/Comirnaty Monovalent (5 to 11 years old) <br><br>Pfizer/Comirnaty Bivalent (BA.4/5) (12
+			<td> Pfizer/Comirnaty Monovalent (XBB. 1.5)(5 to 11 years old) <br><br>Pfizer/Comirnaty Monovalent (XBB. 1.5) (12
 years old &amp; above)</td>
 			<td><b>Pfizer/Comirnaty Monovalent (5 to 11 years old):</b><br>
 				Mondays to Saturdays:
 			8am-12.30pm (last walk-in: 11.30am)<br><br>
-				<b>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above):</b><br>
+				<b>Pfizer/Comirnaty Monovalent (XBB. 1.5)(12 years old &amp; above):</b><br>
 				Weekdays:<br>2-4.30pm (last walk-in: 3.30pm)</td>
     </tr>
     <tr>
       <td>Bukit Batok Polyclinic</td>
       <td>50 Bukit Batok West Avenue 3, Singapore 659164</td>
-			<td>Moderna/Spikevax (6 months to 4 years old)<br><br>Pfizer/Comirnaty Bivalent (BA. 4/5) (12 yrs old &amp; above)</td>
+			<td>Moderna/Spikevax (6 months to 4 years old)<br><br>Pfizer/Comirnaty Monovalent (XBB. 1.5) (12 yrs old &amp; above)</td>
 			<td><b>Moderna/Spikevax (6 months to 4 years old):</b><br>
 				Mondays to Saturdays:
 			8am-12.30pm (last walk-in: 11.30am)<br><br>
-				<b>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above):</b><br>Weekdays:
+				<b>Pfizer/Comirnaty Monovalent (XBB. 1.5) (12 years old &amp; above):</b><br>Weekdays:
 			2-4.30pm (last walk-in: 3.30pm)</td>
     </tr>
   </tbody>
