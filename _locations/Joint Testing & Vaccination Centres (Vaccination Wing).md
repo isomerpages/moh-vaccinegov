@@ -78,7 +78,7 @@ School)</td>
 		<tr>
       <td>JTVC Woodlands (Woodlands Temporary Bus Interchange)</td>
       <td>3A Woodlands Square Singapore 737735</td>
-			<td><b>[Adults]:</b><br>Moderna/Spikevax Bivalent (BA.1) (18 years old &amp; above),<br><br> Pfizer/Comirnaty Monovalent (XBB. 1.5) (BA.4/5) (12 years old &amp; above)</td>
+			<td><b>[Adults]:</b><br>Moderna/Spikevax Bivalent (BA.1) (18 years old &amp; above),<br><br> Pfizer/Comirnaty Monovalent (XBB. 1.5)(12 years old &amp; above)</td>
 			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm &amp; 6.30pm)<br><br>Saturday and Eve of Public Holiday: 9am-1pm (Last walk-in 12.30pm)<br><br>Sun and gazetted Public Holidays: Closed</td>
     </tr>
 		<tr>
