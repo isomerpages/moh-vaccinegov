@@ -25,11 +25,11 @@ permalink: /faq/
 				<div class="tab">
 						<input id="question-1-3" type="checkbox">
 						<label for="question-1-3" class="tab-label">	
-When and how can I receive for my booster doses to achieve
+When and how can I receive for my additional doses to achieve
 minimum protection?</label>
 						<div class="tab-content">
 							<p>
-								Persons aged 5 years and above who are eligible for their booster dose can receive it from about five months after completing their primary vaccination series. These primary vaccinations could have been received before the age of 5.<br><br>
+								Persons aged 5 years and above who are eligible for their additional dose can receive it from about five months after completing their primary vaccination series. These primary vaccinations could have been received before the age of 5.<br><br>
 								All individuals aged who are eligible for their booster COVID-19 vaccination may walk in to any of the Joint Testing and Vaccination Centres (JTVCs) or polyclinics offering the vaccine type for the appropriate age group.<br><br>
 								Alternatively, you may book an appointment at a JTVC or participating Public Health Preparedness Clinic (PHPC) to receive your vaccination using this <a href="https://book.health.gov.sg/covid">link</a>.<br><br>
 								Individuals aged 5 to 17 years will be required to bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="go.gov.sg/parcf">here</a>. Parents/guardians must accompany their child/ward if he/she is aged 12 years and below. Children aged 13 years and above need not be accompanied.<br><br>
