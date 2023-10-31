@@ -61,7 +61,7 @@ School)</td>
       <td>JTVC Ang Mo Kio (former AMK ITE)</td>
       <td>4300 Ang Mo Kio Avenue 5 Singapore 569869</td>
 			<td><b>[Adults]:</b><br>
-				Moderna/Spikevax Bivalent (BA.1) (18 years old &amp; above),<br><br> Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)<br><br><b>[Children]:</b><br>Pfizer/Comirnaty (6 months to 4 years) &amp; Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years)<br><br>Moderna/Spikevax (6 months to 4 years)</td>
+				Moderna/Spikevax Bivalent (BA.1) (18 years old &amp; above),<br><br> Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)<br><br><b>[Children]:</b><br>Pfizer-BioNTech/Comirnaty (6 months to 4 years) &amp; Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years)<br><br>Moderna/Spikevax (6 months to 4 years)</td>
 			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm &amp; 6.30pm)<br><br>Saturday and Eve of Public Holiday: 9am-1pm (Last walk-in 12.30pm)<br><br>Sun and gazetted Public Holidays: Closed</td>
     </tr>
 		<tr>
