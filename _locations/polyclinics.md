@@ -2,8 +2,9 @@
 title: Polyclinics
 permalink: /locations-polyclinics/
 ---
-**Bivalent vaccines**<br>
-The Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and above is available at all Joint Testing and Vaccination Centres (JTVCs), polyclinics and participating Public Health Preparedness Clinics (PHPCs) offering the vaccine. The Moderna/Spikevax bivalent vaccine for individuals aged 18 years and above is available only at JTVCs. If you wish to receive the Moderna/Spikevax bivalent vaccine, you may visit the nearest JTVC.
+**Please note that:**<br>
+* Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 vaccine for those aged 5 years and above will be available from 30 October 2023.
+* Moderna/Spikevax XBB.1.5 vaccine for those aged 6 months and above will be available from 14 November 2023.
 
 **For COVID-19 vaccinations at the polyclinics:**
 
