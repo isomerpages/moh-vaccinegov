@@ -22,7 +22,7 @@ sections:
           description: Submit with supporting docs
           url: /appeal
   - infobar:
-      title: Primary & Booster Doses
+      title: Primary & Additional Doses
       button: CLICK Here for locations
       url: https://www.vaccine.gov.sg/locations/jtvc/
   - infobar:
@@ -32,7 +32,7 @@ sections:
       url: https://www.moh.gov.sg/covid-19/vaccination/child
   - infobar:
       title: Seniors and Medically Vulnerable Persons
-      description: You are encouraged to receive one booster dose around one year
+      description: You are encouraged to receive one additional dose around one year
         after your last dose. You can start to receive it from five months after
         your last dose.
       button: Find out how
