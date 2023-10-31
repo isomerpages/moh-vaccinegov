@@ -6,6 +6,11 @@ description: ""
 ### **JTVC Locations (Vaccination Wing)**
 In anticipation of the higher demand for the updated vaccines, from 4 November 2023 to 2 December 2023, MOH will extend the operation hours of all Joint Testing and Vaccination Centres (JTVCs) on Saturdays from 9am to 7pm, instead of the usual operating hours from 9am to 1pm. A longer waiting period should be expected on Fridays and Saturdays.
 
+**Omicron XBB.1.5 Vaccines**
+* Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 vaccine for those aged 5 years and above will be available from 30 October 2023.
+* Moderna/Spikevax Omicron XBB.1.5 vaccine for those aged 6 months and above will be available from 14 November 2023.
+* Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 vaccine for those aged 6 months to 4 years will be available from 20 November 2023.
+
 **Walk-ins for all age groups:**
 
 *   All eligible individuals may walk in to the JTVCs to receive their vaccination.
