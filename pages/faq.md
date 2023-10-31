@@ -29,9 +29,9 @@ When and how can I receive for my additional doses to achieve
 minimum protection?</label>
 						<div class="tab-content">
 							<p>
-								Persons aged 5 years and above who are eligible for their additional dose can receive it from about five months after completing their primary vaccination series. These primary vaccinations could have been received before the age of 5.<br><br>
-								All individuals aged who are eligible for their booster COVID-19 vaccination may walk in to any of the Joint Testing and Vaccination Centres (JTVCs) or polyclinics offering the vaccine type for the appropriate age group.<br><br>
-								Alternatively, you may book an appointment at a JTVC or participating Public Health Preparedness Clinic (PHPC) to receive your vaccination using this <a href="https://book.health.gov.sg/covid">link</a>.<br><br>
+								Persons aged 5 years and above who are eligible for their additional dose to achieve minimum protection can receive it from about five months after completing their primary vaccination series. These primary vaccinations could have been received before the age of 5.<br><br>
+								All individuals aged who are eligible for their additional COVID-19 vaccination may walk in to any of the Joint Testing and Vaccination Centres (JTVCs), Public Health Preparedness Clinics (PHPCs) or polyclinics offering the vaccine type for the appropriate age group.<br><br>
+								Alternatively, you may book an appointment at a JTVC or participating PHPC to receive your vaccination using this <a href="https://book.health.gov.sg/covid">link</a>.<br><br>
 								Individuals aged 5 to 17 years will be required to bring a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="go.gov.sg/parcf">here</a>. Parents/guardians must accompany their child/ward if he/she is aged 12 years and below. Children aged 13 years and above need not be accompanied.<br><br>
 								Please visit <a href="gowhere.gov.sg/vaccine">https://www.gowhere.gov.sg/vaccine</a> to locate the nearest vaccination site.
 									</p>
@@ -39,18 +39,16 @@ minimum protection?</label>
 					</div>				
 					<div class="tab">
 						<input id="question-1-4" type="checkbox">
-						<label for="question-1-4" class="tab-label">When and how can I receive for my additional booster dose?</label>
+						<label for="question-1-4" class="tab-label">When and how can I receive for my additional dose?</label>
 						<div class="tab-content">
 							<p>
 						Persons aged 5 years and above should complete three mRNA or Novavax/Nuvaxovid doses, or four Sinovac-CoronaVac doses to achieve minimum protection.<br><br>
 								<b><u>Persons Aged 60 Years and above Medically Vulnerable, Residents of Aged Care Facilities</u></b><br>
-						After achieving minimum protection, medically vulnerable persons and individuals aged 60 years and above are recommended to receive an additional booster dose around one year from their last dose. They can start to receive it from five months after their last booster dose. The updated bivalent vaccines are recommended for this.<br><br>
-								Individuals may walk in to any Joint Testing and Vaccination Centre (JTVC) or polylinic to receive their vaccination. Alternatvely, they may book an appointment at a JTVC or participating Public Health Preparedness Clinic (PHPC) using this <a href="https://book.health.gov.sg/covid">link</a>.<br><br>
-								Please refer to <a href="https://gowhere.gov.sg/vaccine">gowhere.gov.sg/vaccine</a> to locate vaccination sites that carry your preferered bivalent vaccine.<br><br>
-								<b><u>Persons Aged Between 12 to 59 Years</u></b><br>
-								Persons aged 12 to 59 years who are healthy have a lower risk of severe disease. Nevertheless, an additional booster dose around one year after their last dose will be offered to those who are eligible and keen to receive one more booster dose to enhance protection. They may walk in to any of the JTVCs or polyclinics to receive their bivalent vaccine dose. Alternatively, they may book an appointment at a JTVC or PHPC using this <a href="https://book.health.gov.sg/covid">link</a>.<br><br>
-								Persons aged 5 to 11 years are not recommended nor eligible to receive additional booster dose beyond what is required for minimum protection.<br><br>
-								Persons aged 6 months to 4 years are not recommended nor eligible for additional doses beyond two doses of Moderna/Spikevax or three doses of Pfizer-BioNTech/Comirnaty at this time.
+						After achieving minimum protection, medically vulnerable persons and individuals aged 60 years and above are recommended to receive an additional dose of the updated vaccine around one year from their last dose. They can start to receive it from five months after their last dose.<br><br>
+								Individuals may walk in to any Joint Testing and Vaccination Centre (JTVC), participating Public Health Preparedness Clinic (PHPC) or polylinic to receive their vaccination. Alternatvely, they may book an appointment at a JTVC or participating PHPC using this <a href="https://book.health.gov.sg/covid">link</a>.<br><br>
+								Please refer to <a href="https://gowhere.gov.sg/vaccine">gowhere.gov.sg/vaccine</a> to locate vaccination sites that carry your preferred vaccine.<br><br>
+								<b><u>Persons Aged Between 6 months to 59 Years</u></b><br>
+									Persons aged 6 months to 59 years who are healthy have a lower risk of severe disease. Nevertheless, eligible persons in this age group, in particular, healthcare workers, as well as household members and caregivers of medically vulnerable individuals, are encouraged to receive an additional dose around one year after their last dose to enhance protection. They may walk in to any of the JTVCs, PHPCs or polyclinics to receive their vaccine dose. The nearest vaccination site and the type of vaccine offered at each site are listed at <a href="https://gowhere.gov.sg/vaccine">https://gowhere.gov.sg/vaccine</a>. Alternatively, they may book an appointment at a JTVC or PHPC using this <a href="https://book.health.gov.sg/covid">link</a>.
 								</p>
 							</div>
 					</div>
