@@ -4,8 +4,7 @@ permalink: /locations/jtvc/
 description: ""
 ---
 ### **JTVC Locations (Vaccination Wing)**
-**Bivalent vaccines**<br>
-The&nbsp;Pfizer-BioNTech/Comirnaty bivalent vaccine for individuals aged 12 years and above is available at all Joint Testing and Vaccination Centres (JTVCs), selected Polyclinics and participating Public Health Preparedness Clinics (PHPCs). The Moderna/Spikevax bivalent&nbsp;vaccine for individuals aged 18 years and above is&nbsp;only available at&nbsp;JTVCs. 
+In anticipation of the higher demand for the updated vaccines, from 4 November 2023 to 2 December 2023, MOH will extend the operation hours of all Joint Testing and Vaccination Centres (JTVCs) on Saturdays from 9am to 7pm, instead of the usual operating hours from 9am to 1pm. A longer waiting period should be expected on Fridays and Saturdays.
 
 **Walk-ins for all age groups:**
 
