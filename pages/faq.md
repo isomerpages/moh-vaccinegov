@@ -25,7 +25,7 @@ permalink: /faq/
 				<div class="tab">
 						<input id="question-1-3" type="checkbox">
 						<label for="question-1-3" class="tab-label">	
-When and how can I receive for my additional doses to achieve
+When and how can I receive my additional doses to achieve
 minimum protection?</label>
 						<div class="tab-content">
 							<p>
@@ -39,7 +39,7 @@ minimum protection?</label>
 					</div>				
 					<div class="tab">
 						<input id="question-1-4" type="checkbox">
-						<label for="question-1-4" class="tab-label">When and how can I receive for my additional dose?</label>
+						<label for="question-1-4" class="tab-label">When and how can I receive my additional dose?</label>
 						<div class="tab-content">
 							<p>
 						Persons aged 5 years and above should complete three mRNA or Novavax/Nuvaxovid doses, or four Sinovac-CoronaVac doses to achieve minimum protection.<br><br>
@@ -71,7 +71,9 @@ Holders of Training Employment Pass, Training Work Permit, Work Holiday Pass, Sp
 							<p>We strongly recommend that you receive the mRNA or Novavax/Nuvaxovid vaccines for your COVID-19 vaccinations in view of the lower efficacy of the Sinovac-CoronaVac vaccine.<br><br>
 								Should you choose to receive the Sinovac-CoronaVac vaccine instead, you may do so at selected participating Public Health Preparedness Clinics (PHPCs) offering the vaccine. Please call the clinic beforehand to make an appointment. Please visit <a href="https://gowhere.gov.sg/vaccine"> https://gowhere.gov.sg/vaccine</a> for a list of the PHPCs offering the vaccine.<br><br>
 								You should receive four doses of the Sinovac-CoronaVac vaccine to achieve minimum protection.<br><br>
-If you are medically ineligible for the mRNA and Novavax/Nuvaxovid vaccines, and were previously invited to receive the Sinovac-CoronaVac vaccine under a special public health programme, please follow the instructions in your SMS invitation to continue with the regime.<br><br>			
+If you are medically ineligible for the mRNA and Novavax/Nuvaxovid vaccines, and were previously invited to receive the Sinovac-CoronaVac vaccine under a special public health programme, please follow the instructions in your SMS invitation to continue with the regime.<br><br>
+								For now, Sinovac-CoronaVac continues to be included under the National Vaccination Programme (NVP)*. Pfizer-BioNTech and Moderna have successfully obtained full registration. However, if there is no application for Sinovac-CoronaVac to be fully registered, NVP will lapse for Sinovac-CoronaVac, by 30 September 2024. Nevertheless, Sinovac-CoronaVac will continue to be available at private clinics which have applied to use it under the Special Access Route (SAR).<br><br>
+								Under the National Vaccination Programme, vaccination is free for all Singaporean Citizens, Permanent Residents, Long Term Pass holders and certain Short Term Pass holders.<br><br>
 	</p> 
 							</div>
 					</div>
@@ -119,19 +121,20 @@ If you are medically ineligible for the mRNA and Novavax/Nuvaxovid vaccines, and
 vaccinated. What do I need to do?</label>
 						<div class="tab-content">
 							<p>Eligible children may also walk in with their parents/guardians to any of the Joint Testing and Vaccination Centres (JTVCs) or polyclinics offering the vaccines recommended for the different age groups. Alternatively, parents/guardians may book an appointment at a JTVC or Public Health Preparedness Clinic (PHPC) for their child/ward to receive his/her vaccination using this <a href="https://book.health.gov.sg/covid">link</a>.<br><br>
-								Children <strong> aged 5 to 11 </strong> who completed their second dose* more than five months ago are recommended to take a third dose (also known as booster dose) to achieve minimum protection.<br><br>
+								Children <strong> aged 5 to 11 </strong> who completed their second dose* more than five months ago are recommended to take a third dose to achieve minimum protection.<br><br>
 							Please visit <a href="https://gowhere.gov.sg/vaccine"> https://gowhere.gov.sg/vaccine</a> to locate the nearest vaccination site offering vaccines for children aged 6 months to 11 years.<br><br>
 							Parents/guardians must bring along their child/ward's identification document (e.g. Birth Certificate and Health booklet/Passport/Student Identification Card/Singpass) for verification purposes, as well as a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="go.gov.sg/parcf">here</a>.</p>
 							</div>
 					</div>								
 					<div class="tab">
 						<input id="question-1-13" type="checkbox">
-						<label for="question-1-13" class="tab-label">How can my child/ward (12 to 17 years old) receive his/her vaccine doses?</label>
+						<label for="question-1-13" class="tab-label">How can my child/ward receive his/her vaccine doses?</label>
 						<div class="tab-content">
 							<p>
-								Individuals can walk in to any of the Joint Testing and Vaccination Centres (JTVCs) or polyclinics offering the Pfizer-BioNTech/Comirnaty vaccine to receive their three doses for minimum protection. Alternatively, parents/guardians may book an appointment for their child/ward at a JTVC of Public Health Preparedness Clinic (PHPC) offering the Pfizer-BioNTech/Comirnaty or Novavax/Nuvaxovid vaccine using this <a href="https://book.health.gov.sg/covid">link</a>. Your child/ward will require your consent to receive his/her vaccinations.<br><br>
-								When your child/ward is eligible for their additional dose (also known as booster dose) at around five months after their last dose, they may walk in to any of the JTVCs or polyclinics to receive it.<br><br>
-								Children aged 12 to 17 years who are healthy have a lower risk of severe disease. Nevertheless, an additional booster one year after their last booster dose can still enhance protection, and they can receive this additional booster if they choose to do so. They may walk in to any of the JTVCs to receive their bivalent vaccine booster dose.<br><br>
+								Individuals can walk in to any of the Joint Testing and Vaccination Centres (JTVCs), participating Public Health Preparedness Clinics (PHPCs) or polyclinics offering the Moderna/Spikevax or Pfizer-BioNTech/Comirnaty vaccine to receive their vaccine dose. The nearest vaccination site and the types of vaccines offered at each site are listed at <a href="https://gowhere.gov.sg/vaccine">https://gowhere.gov.sg/vaccine</a>. Your child/ward will require your consent to receive his/her vaccinations.<br><br>
+								For individuals who wish to receive the Novavax/Nuvaxovid vaccine (only available for ages 12 years and above), parents/guardians may book an appointment for your child to receive the vaccine at any of the 19 participating PHPCs offering the vaccine. The list of PHPCs can be found <a href="https://www.vaccine.gov.sg/locations/clinic?query=novavax">here</a>.<br><br>
+								Children aged 6 months to 17 years who are healthy have a lower risk of severe disease. Nevertheless, they are encouraged to receive an additional dose of the updated vaccine around one year (and no earlier than 5 months) after their last  dose.<br><br>
+								When your child/ward is eligible for their additional dose around one year (and no earlier than 5 months) after their last dose, they may walk in to any of JTVCs, PHPCs or polyclinics to receive it.<br><br>
 								Individuals must bring along their identification document (e.g. Birth Certificate/Passport/Student Identification Card/Singpass) for verification purposes, as well as a duly completed and signed
 hard or electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a>.<br><br>
 								You do not need accompany your child/ward if he/she is aged 13 years and above. However, if he/she is 12 years old or a student in a Special Education (SPED) school you will need to accompany him/her, as per the arrangements for the previous COVID-19 vaccinations.
