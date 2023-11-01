@@ -160,15 +160,16 @@ and children are different.
 						<div class="tab-content">
 							<p>
 								To achieve minimum protection, persons aged 5 years and above should complete, as applicable:<br>
-									<span>• Three doses of Pfizer-BioNTech/Comirnaty, Moderna/Spikevax or Novavax/Nuvaxovid; or,</span><br>
-								<span>• Four doses of Sinovac-CoronaVac*</span><br>
-								These would be doses that were previously referred to as the primary vaccination series and the first booster.<br><br>
+									<span>• Three doses of Pfizer-BioNTech/Comirnaty*, Moderna/Spikevax or Novavax/Nuvaxovid; or,</span><br>
+								<span>• Four doses of Sinovac-CoronaVac^</span><br>
+								These would be doses that were previously referred to as the primary vaccination series and the first additional dose.<br><br>
 								After achieving minimum protection, the following persons are recommended to receive an additional booster dose around one year from their last dose. They can start to receive it from five months after their last booster dose. The updated bivalent vaccines are recommended for this:<br>
 									<span>• Persons aged 60 years and above</span><br>
 								<span>• Persons who live in aged care facilities</span><br>
 								<span>• Persons who are medically vulnerable and at higher risk of severe disease</span><br><br>
-								Persons aged 12 to 59 years who are healthy have a lower risk of severe disease. They may receive an additional booster one year after their last booster dose for enhanced protection if they choose to do so. The updated bivalent vaccine is recommended for this.<br><br>
-								*To achieve minimum protection, persons who had received the first dose of the mRNA or Novavax/Nuvaxovid vaccines, but are medically ineligible to continue with the vaccines, should receive 3 doses of the Sinovac-CoronaVac vaccine.
+								Persons aged 6 months to 59 years who are healthy have a lower risk of severe disease. Nevertheless, eligible persons in this age group, in particular, healthcare workers, as well as household members and caregivers of medically vulnerable individuals, are encouraged to receive an additional dose around one year after their last dose to enhance protection.<br><br>
+								* Children aged 6 months to 4 years who had previously received three doses of Pfizer-BioNTech/Comirnaty should still receive an additional dose after they have crossed their fifth birthday. The interval between the additional dose and the last dose should be 5 months or more.<br><br>
+								^To achieve minimum protection, persons who had received the first dose of the mRNA or Novavax/Nuvaxovid vaccines, but are medically ineligible to continue with the vaccines, should receive 3 doses of the Sinovac-CoronaVac vaccine.
 							</p>
 						</div>
 					</div>				
@@ -330,10 +331,6 @@ aged 12 years and above.
     				<div class="tab-content">
     					<p>Children who turn 5 years on the day of their first dose will receive the Pfizer-BioNTech/Comirnaty vaccine for children aged between 5 to 11 years.<br><br>
 Those who received the Moderna/Spikevax vaccine when they were below 5 years will continue to receive the same vaccine and dosage their second dose, even if they have turned 5 years between the first and second vaccine doses.<br><br>
-								Those who received the Pfizer-BioNTech/Comirnaty vaccine when they were below 5 years will continue to receive the same vaccine and dosage for their subsequent doses, even if they have turned 5 years between any of the vaccine doses.
-								
-								
-								
-							</p>
+								Those who received the Pfizer-BioNTech/Comirnaty vaccine when they were below 5 years will continue to receive the same vaccine and dosage for their subsequent doses, even if they have turned 5 years between any of the vaccine doses.</p>
     				</div>
     			</div></div></div>
