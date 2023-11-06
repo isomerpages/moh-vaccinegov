@@ -21,8 +21,8 @@ sections:
         - title: Appeal For COVID-19 Vaccination
           description: Submit with supporting docs
           url: /appeal
-      button: Book vaccine
-      url: https://book.health.gov.sg
+      button: Book Appointment
+      url: https://book.health.gov.sg/covid
   - infobar:
       title: Primary & Additional Doses
       button: CLICK Here for locations
