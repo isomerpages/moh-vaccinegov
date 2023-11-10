@@ -2,6 +2,7 @@
 title: Private Vaccination Programme
 permalink: /locations/PVP/
 description: ""
+variant: markdown
 ---
 All individuals aged 12 years*&nbsp;and above (including long-term residents and short-term visitors) may receive vaccinations and additional doses under the Private Vaccination Programme (PVP). This will allow individuals who wish to take additional vaccine doses, but who do not qualify under the National Vaccination Programme, to do so based on a doctor’s assessment. As this is a private arrangement, the vaccinations will be at the individual’s own cost.<br><br>
 *Individuals aged 12 years and older are recommended to receive either the Pfizer-BioNTech/Comirnaty vaccine or the Moderna/Spikevax vaccine.<br><br>
@@ -41,36 +42,32 @@ Wai Shiu Hospital Block A #01-06, Singapore
 		<tr>
       <td>Healthway Medical (Sembawang Drive)</td>
       <td>406 Sembawang Drive #01-820, Singapore 750406</td>
-			<td>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
+			<td>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)</td>
     </tr>
 		<tr>
       <td>Medico Clinic &amp; Surgery</td>
       <td>249 Jurong East Street 24 #01-88, Singapore 600249</td>
-			<td>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old &amp; above)</td>
+			<td>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)</td>
     </tr>
 		<tr>
       <td>Healthway Medical (Towner Road)</td>
       <td>101 Towner Road #01-236, Singapore 322101</td>
-			<td>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years
-old &amp; above)</td>
+			<td>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)</td>
     </tr>
 			<tr>
       <td>Sliver Cross Medical</td>
       <td>3 Cheong Chin Nam Road, Singapore 599728</td>
-			<td>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years
-old &amp; above)</td>
+			<td>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)</td>
     </tr>
 		<tr>
       <td>Healthway Medical (Millenia Walk)</td>
       <td>9 Raffles Boulevard, Millenia Walk #02-22, Singapore 039596</td>
-			<td>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years
-old &amp; above)</td>
+			<td>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)</td>
     </tr>
 	<tr>
       <td>Healthway Medical (Downtown Gallery)</td>
       <td>6A Shenton Way, Downtown Gallery #02-15, Singapore 068815</td>
-			<td>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years
-old &amp; above)</td>
+			<td>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)</td>
     </tr>
 		<tr>
       <td>Primary Care Asia</td>
