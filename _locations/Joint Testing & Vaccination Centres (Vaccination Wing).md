@@ -34,9 +34,9 @@ Alternatively, individuals may book an appointment at a JTVC using this [link](h
  </td>
       <td>450 Jurong East Street 21 Singapore 609604</td>
 			<td><b>[Adults]:</b><br>
-				Moderna/Spikevax Bivalent (BA.1) (18 years old &amp; above),<br><br> Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)<br><br>
+				Moderna/Spikevax Omicron XBB.1.5 (12 years old &amp; above),<br><br> Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)<br><br>
 				<b>[Children]:</b><br>
-			Moderna/Spikevax (6 months to 4 years)<br><br>
+			Moderna/Spikevax Omicron XBB.1.5 (6 months to 5 years) &amp; Moderna/Spikevax (6 to 11 years)<br><br>
 			Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years)</td>
 			<td>Monday - Saturday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm &amp; 6.30pm)<br><br>Eve of Public Holiday: 9am-1pm (Last walk-in 12.30pm)<br><br>Sun and gazetted Public Holidays: Closed</td>
     </tr>
@@ -44,7 +44,7 @@ Alternatively, individuals may book an appointment at a JTVC using this [link](h
       <td>JTVC Pasir Ris (Former Siglap Secondary School)</td>
       <td>10 Pasir Ris Drive 10 Singapore 519385</td>
 			<td><b>[Adults]:</b><br>
-				Moderna/Spikevax Bivalent (BA.1) (18 years old &amp; above),<br><br> Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)</td>
+				Moderna/Spikevax Omicron XBB.1.5 (12 years old &amp; above),<br><br> Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)</td>
 			<td>Monday - Saturday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm &amp; 6.30pm)<br><br>Eve of Public Holiday: 9am-1pm (Last walk-in 12.30pm)<br><br>Sun and gazetted Public Holidays: Closed</td>
     </tr>
     <tr>
@@ -52,9 +52,9 @@ Alternatively, individuals may book an appointment at a JTVC using this [link](h
 School)</td>
       <td>20 Jalan Damai Singapore 419612</td>
 			<td><b>[Adults]:</b><br>
-				Moderna/Spikevax Bivalent (BA.1) (18 years old &amp; above),<br><br> Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)<br><br>
+				Moderna/Spikevax Omicron XBB.1.5 (12 years old &amp; above),<br><br> Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)<br><br>
 				<b>[Children]:</b><br>
-			Moderna/Spikevax (6 months to 4 years)<br><br>
+			Moderna/Spikevax Omicron XBB.1.5 (6 months to 5 years) &amp; Moderna/Spikevax Omicron XBB.1.5 (6 to 11 years)<br><br>
 			Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years)</td>
 			<td>Monday - Saturday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm &amp; 6.30pm)<br><br>Eve of Public Holiday: 9am-1pm (Last walk-in 12.30pm)<br><br>Sun and gazetted Public Holidays: Closed</td>
     </tr>	
@@ -62,7 +62,7 @@ School)</td>
       <td>JTVC Ang Mo Kio (former AMK ITE)</td>
       <td>4300 Ang Mo Kio Avenue 5 Singapore 569869</td>
 			<td><b>[Adults]:</b><br>
-				Moderna/Spikevax Bivalent (BA.1) (18 years old &amp; above),<br><br> Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)<br><br><b>[Children]:</b><br>Pfizer-BioNTech/Comirnaty (6 months to 4 years) &amp; Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years)<br><br>Moderna/Spikevax (6 months to 4 years)</td>
+				Moderna/Spikevax Omicron XBB.1.5 (12 years old &amp; above),<br><br> Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)<br><br><b>[Children]:</b><br>Pfizer-BioNTech/Comirnaty (6 months to 4 years) &amp; Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years)<br><br>Moderna/Spikevax Omicron XBB.1.5 (6 months to 4 years)</td>
 			<td>Monday - Saturday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm &amp; 6.30pm)<br><br>Eve of Public Holiday: 9am-1pm (Last walk-in 12.30pm)<br><br>Sun and gazetted Public Holidays: Closed</td>
     </tr>
 		<tr>
