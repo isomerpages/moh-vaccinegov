@@ -1,6 +1,7 @@
 ---
 title: Polyclinics
 permalink: /locations-polyclinics/
+variant: markdown
 ---
 **Please note that:**<br>
 * Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 vaccine for those aged 5 years and above will be available from 30 October 2023.
@@ -41,9 +42,9 @@ permalink: /locations-polyclinics/
 		<tr>
       <td>Kallang Polyclinic</td>
       <td>701 Serangoon Road, Singapore 328263</td>
-			<td> Moderna/Spikevax (6 months to 4 years old)<br><br>
+			<td> Moderna/Spikevax XBB.1.5 (6 months to 5 years old)<br><br>
 			Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)</td>
-			<td><b>Moderna/Spikevax (6 months to 4 years old):</b><br>
+			<td><b>Moderna/Spikevax XBB.1.5 (6 months to 5 years old):</b><br>
 				Wednesdays:<br>9-11am (last walk in: 10.30am)<br><br>
 				Saturdays: 8am-12.30pm (last walk-in: 11.30am)<br><br>
 				<b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above):</b><br>Tuesdays:<br>
@@ -77,8 +78,8 @@ permalink: /locations-polyclinics/
 		<tr>
       <td>Eunos Polyclinic</td>
       <td>1 Chin Cheng Avenue, Singapore 429400</td>
-			<td>Moderna/Spikevax (6 months to 4 years old)<br><br>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)</td>
-			<td><b>Moderna/Spikevax (6 months to 4 years old):</b><br>
+			<td>Moderna/Spikevax  XBB.1.5 (6 months to 5 years old)<br><br>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)</td>
+			<td><b>Moderna/Spikevax XBB.1.5 (6 months to 5 years old):</b><br>
 				Fridays:<br>8am-12pm, 2-4.30pm (last walk in: 11.30am, 3.30pm)<br><br>
 				Saturdays: 8am-12pm (last walk-in: 11.30am)<br><br>
 				<b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above):</b><br>Mondays to Thursdays:<br>
@@ -167,8 +168,8 @@ years old &amp; above)</td>
     <tr>
       <td>Bukit Batok Polyclinic</td>
       <td>50 Bukit Batok West Avenue 3, Singapore 659164</td>
-			<td>Moderna/Spikevax (6 months to 4 years old)<br><br>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 yrs old &amp; above)</td>
-			<td><b>Moderna/Spikevax (6 months to 4 years old):</b><br>
+			<td>Moderna/Spikevax XBB.1.5 (6 months to 5 years old)<br><br>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 yrs old &amp; above)</td>
+			<td><b>Moderna/Spikevax XBB.1.5 (6 months to 5 years old):</b><br>
 				Mondays to Saturdays:
 			8am-12.30pm (last walk-in: 11.30am)<br><br>
 				<b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above):</b><br>Weekdays:
