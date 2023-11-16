@@ -2,6 +2,7 @@
 title: Joint Testing & Vaccination Centres (Vaccination Wing)
 permalink: /locations/jtvc/
 description: ""
+variant: markdown
 ---
 ### **JTVC Locations (Vaccination Wing)**
 In anticipation of the higher demand for the updated vaccines, from 4 November 2023 to 2 December 2023, MOH will extend the operation hours of all Joint Testing and Vaccination Centres (JTVCs) on Saturdays from 9am to 7pm, instead of the usual operating hours from 9am to 1pm. A longer waiting period should be expected on Fridays and Saturdays.
