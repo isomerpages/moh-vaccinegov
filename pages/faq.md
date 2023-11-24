@@ -1,6 +1,7 @@
 ---
 title: Frequently Asked Questions
 permalink: /faq/
+variant: markdown
 ---
 <div class="accordion">
 			<div class="tabs">			
@@ -163,7 +164,7 @@ and children are different.
 									<span>• Three doses of Pfizer-BioNTech/Comirnaty*, Moderna/Spikevax or Novavax/Nuvaxovid; or,</span><br>
 								<span>• Four doses of Sinovac-CoronaVac^</span><br>
 								These would be doses that were previously referred to as the primary vaccination series and the first additional dose.<br><br>
-								After achieving minimum protection, the following persons are recommended to receive an additional booster dose around one year from their last dose. They can start to receive it from five months after their last booster dose. The updated bivalent vaccines are recommended for this:<br>
+								After achieving minimum protection, the following persons are recommended to receive an additional dose around one year from their last dose. They can start to receive it from five months after their last additional dose.<br>
 									<span>• Persons aged 60 years and above</span><br>
 								<span>• Persons who live in aged care facilities</span><br>
 								<span>• Persons who are medically vulnerable and at higher risk of severe disease</span><br><br>
