@@ -27,7 +27,7 @@ Wai Shiu Hospital Block A #01-06, Singapore
 		<tr>
       <td>Raffles Executive Medical Centre</td>
       <td>585 North Bridge Road, Raffles Hospital Level 12, Singapore 188770 (Interested parties, please email to remc@rafflesmedical.com)</td>
-			<td>Moderna/Spikevax XBB.1.5 (18 years old &amp; above)</td>
+			<td>Moderna/Spikevax XBB.1.5 (12 years old &amp; above)</td>
     </tr>
 		<tr>
       <td>The Clinic@One George Street</td>
