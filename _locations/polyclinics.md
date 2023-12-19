@@ -78,7 +78,7 @@ variant: markdown
       <td>1 Chin Cheng Avenue, Singapore 429400</td>
 			<td>Moderna/Spikevax  XBB.1.5 (6 months to 5 years old)<br><br>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)</td>
 			<td><b>Moderna/Spikevax XBB.1.5 (6 months to 5 years old):</b><br>
-				Fridays:<br>8am-12pm, 2-4.30pm (last walk in: 11.30am, 3.30pm)<br><br>
+				Fridays:<br>9am-12pm, 2-4.30pm (last walk in: 11.30am, 3.30pm)<br><br>
 				Saturdays: 8am-12pm (last walk-in: 11.30am)<br><br>
 				<b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above):</b><br>Mondays to Thursdays:<br>
 			8am-12pm, 2-4.30pm (last walk in: 11.30am, 3.30pm)</td>
@@ -133,7 +133,7 @@ old &amp; above)</td>
 			<td> Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years old) <br><br>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12
 years old &amp; above)</td>
 			<td><b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years old):</b><br>
-				Fridays:<br>8am-12pm, 2-4.30pm (last walk in: 11.30am, 3.30pm)<br><br>
+				Fridays:<br>9am-12pm, 2-4.30pm (last walk in: 11.30am, 3.30pm)<br><br>
 				Saturdays: 8am-12pm (last walk-in: 11.30am)<br><br>
 				<b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above):</b><br>Mondays to Thursdays:<br>
 			8am-12pm, 2-4.30pm (last walk in: 11.30am, 3.30pm)</td>
