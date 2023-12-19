@@ -2,9 +2,4 @@ contact_us: /contact-us/
 show_reach: false
 feedback: https://www.moh.gov.sg/feedback
 faq: /faq
-social_media:
-  ? facebook
-  ? twitter
-  ? youtube
-  ? instagram
-  ? linkedin
+social_media: {}

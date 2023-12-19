@@ -1,24 +1,24 @@
 title: MOH COVID-19 Vaccination Registration
-url: 'https://www.vaccine.gov.sg'
+url: https://www.vaccine.gov.sg
 favicon: /images/favicon.ico
 colors:
-  primary-color: '#338989'
-  secondary-color: '#291B99'
+  primary-color: "#338989"
+  secondary-color: "#291B99"
   media-colors:
     - title: media-color-one
-      color: '#CCF5DF'
+      color: "#CCF5DF"
     - title: media-color-two
-      color: '#97D3D3'
+      color: "#97D3D3"
     - title: media-color-three
-      color: '#EAF1F1'
+      color: "#EAF1F1"
     - title: media-color-four
-      color: '#12115A'
+      color: "#12115A"
     - title: media-color-five
-      color: '#8292A6'
+      color: "#8292A6"
 resources_name: News
 description: COVID-19 Vaccination Registration
 permalink: none
-baseurl: ''
+baseurl: ""
 exclude:
   - travis-script.js
   - .travis.yml
@@ -36,7 +36,7 @@ include:
   - _redirects
 defaults:
   - scope:
-      path: ''
+      path: ""
     values:
       layout: page
 custom_css_path: /misc/custom.css
@@ -54,3 +54,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
+facebook-pixel: ""
+shareicon: /images/isomer-logo.svg
+google_analytics_ga4: G-R45GLYGJRS
+linkedin-insights: ""
