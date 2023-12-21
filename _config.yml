@@ -1,0 +1,60 @@
+title: MOH COVID-19 Vaccination Registration
+url: https://www.vaccine.gov.sg
+favicon: /images/favicon.ico
+colors:
+  primary-color: "#338989"
+  secondary-color: "#291B99"
+  media-colors:
+    - title: media-color-one
+      color: "#CCF5DF"
+    - title: media-color-two
+      color: "#97D3D3"
+    - title: media-color-three
+      color: "#EAF1F1"
+    - title: media-color-four
+      color: "#12115A"
+    - title: media-color-five
+      color: "#8292A6"
+resources_name: News
+description: COVID-19 Vaccination Registration
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+is_government: true
+google_analytics: UA-191846183-3
+staging: https://staging.d3l69eftt4zpcl.amplifyapp.com/
+prod: https://master.d3l69eftt4zpcl.amplifyapp.com/
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+facebook-pixel: ""
+shareicon: /images/isomer-logo.svg
+google_analytics_ga4: G-R45GLYGJRS
+linkedin-insights: ""

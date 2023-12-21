@@ -1,0 +1,8 @@
+collections:
+  how-to-sign-up:
+    output: true
+    order:
+      - english.md
+      - chinese.md
+      - bahasa-melayu.md
+      - tamil.md

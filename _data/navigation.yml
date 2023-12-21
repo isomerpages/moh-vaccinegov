@@ -1,0 +1,12 @@
+logo: /images/moh-logo-horizontal-official.png
+links:
+  - title: Get Vaccinated
+    url: /get-vaccinated/
+  - title: Health Advisory
+    url: /health-advisory/
+  - title: Locations
+    collection: locations
+  - title: FAQ
+    url: /faq
+  - title: Contact Us
+    url: /contact-us/

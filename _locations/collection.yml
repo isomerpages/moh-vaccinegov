@@ -1,0 +1,9 @@
+collections:
+  locations:
+    output: true
+    order:
+      - Joint Testing & Vaccination Centres (Vaccination Wing).md
+      - Clinics.md
+      - polyclinics.md
+      - mobile-vaccination-team.md
+      - Private Vaccination Programme.md
