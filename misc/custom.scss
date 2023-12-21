@@ -98,15 +98,6 @@ $desktop: 960px + (2 * $gap) !default;
 	& span {
 		border-bottom: 2px solid $secondary !important;
 	}
-	&:hover {
-		& span {
-	    	border-bottom: 2px solid $secondary-hover !important;
-	    	color: $secondary-hover !important;
-	  	}
-	  	& i {
-	    	color: $secondary-hover !important;
-	  	}
-	}
 }
 
 // Bottom navigation bar
