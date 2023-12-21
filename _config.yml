@@ -46,8 +46,8 @@ remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 is_government: true
 google_analytics: UA-191846183-3
-staging: https://moh-vaccinegov-staging.netlify.app
-prod: https://moh-vaccinegov-prod.netlify.app
+staging: https://staging.d3l69eftt4zpcl.amplifyapp.com/
+prod: https://master.d3l69eftt4zpcl.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets
