@@ -1,6 +1,6 @@
 ---
 title: Bahasa Melayu
-permalink: /health-advisory-ms
+permalink: /health-advisory-ms/
 ---
 
 # **Nasihat Kesihatan**

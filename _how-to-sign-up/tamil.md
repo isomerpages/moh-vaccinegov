@@ -1,6 +1,6 @@
 ---
 title: தமிழ்
-permalink: /how-to-sign-up-ta
+permalink: /how-to-sign-up-ta/
 ---
 
 # **How to Sign Up**

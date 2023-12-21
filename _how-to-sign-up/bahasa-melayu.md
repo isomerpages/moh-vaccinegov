@@ -1,6 +1,6 @@
 ---
 title: Bahasa Melayu
-permalink: /how-to-sign-up-ms
+permalink: /how-to-sign-up-ms/
 ---
 
 # **How to Sign Up**

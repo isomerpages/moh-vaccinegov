@@ -1,6 +1,6 @@
 ---
 title: Private Vaccination Programme
-permalink: /locations/PVP/
+permalink: /locations/pvp/
 description: ""
 variant: markdown
 ---
