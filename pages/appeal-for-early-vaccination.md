@@ -1,6 +1,6 @@
 ---
 title: Appeal for early vaccination
-permalink: /appealtravel
+permalink: /appealtravel/
 ---
 
 ### Appeal for Early COVID-19 Vaccination

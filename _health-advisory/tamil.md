@@ -1,6 +1,6 @@
 ---
 title: தமிழ்
-permalink: /health-advisory-ta
+permalink: /health-advisory-ta/
 ---
 
 # **சுகாதார ஆலோசனை**
