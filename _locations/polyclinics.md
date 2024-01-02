@@ -9,9 +9,10 @@ variant: markdown
 
 **For COVID-19 vaccinations at the polyclinics:**
 
-* Eligible individuals may walk in to any polyclinic in the list below to receive their COVID-19 vaccination. On days where there is high demand, individuals should expect a longer waiting period, be advised to return another day or directed to JTVCs.
 * Please refer to the details of each polyclinic for the vaccines offered and specific operating hours.
-* Individuals may choose to walk in to JTVCs given the higher vaccination capacity.
+* For some polyclinics, appointments can be made in advance; you may check HealthHub for availability.
+* Eligible individuals may also walk in to any polyclinic in the list below to receive their COVID-19 vaccination. However, please note that on days where there is high demand, individuals should expect a longer waiting period, and may be advised to return another day or directed to JTVCs.
+* We would encourage individuals to go to JTVCs; given the higher vaccination capacity they would be better able to accommodate walk-ins. 
 
 ###  **Central**
 <table>
