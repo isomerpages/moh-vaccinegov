@@ -43,7 +43,7 @@ minimum protection?</label>
 						<label for="question-1-4" class="tab-label">When and how can I receive my additional dose?</label>
 						<div class="tab-content">
 							<p>
-						Persons aged 5 years and above should complete three mRNA or Novavax/Nuvaxovid doses, or four Sinovac-CoronaVac doses to achieve minimum protection.<br><br>
+						Persons aged 5 years and above should complete three mRNA or Novavax/Nuvaxovid doses*, or four Sinovac-CoronaVac doses to achieve minimum protection.<br>*The Novavax/Nuvaxovid vaccine is currently unavailable under the National Vaccination Programme. Novavax is in the process of filing for regulatory approval for its updated COVID-19 XBB.1.5 vaccine formulation.<br><br>
 								<b><u>Persons Aged 60 Years and above Medically Vulnerable, Residents of Aged Care Facilities</u></b><br>
 						After achieving minimum protection, medically vulnerable persons and individuals aged 60 years and above are recommended to receive an additional dose of the updated vaccine around one year from their last dose. They can start to receive it from five months after their last dose.<br><br>
 								Individuals may walk in to any Joint Testing and Vaccination Centre (JTVC), participating Public Health Preparedness Clinic (PHPC) or polylinic to receive their vaccination. Alternatvely, they may book an appointment at a JTVC or participating PHPC using this <a href="https://book.health.gov.sg/covid">link</a>.<br><br>
@@ -82,7 +82,7 @@ If you are medically ineligible for the mRNA and Novavax/Nuvaxovid vaccines, and
 						<input id="question-1-7" type="checkbox">
 							<label for="question-1-7" class="tab-label">How can I receive the Novavax/Nuvaxovid COVID-19 vaccine?</label>
 						<div class="tab-content">
-							<p>You may contact any of the Public Health Preparedness Clinics (PHPCs) that offer Novavax/Nuvaxovid COVID-19 vaccine to book an appointment<br><br>Please note that the Novavax/Nuvaxovid vaccine is only approved for use in persons aged 12 years and above.<br><br>From 1 January 2024, the Novavax/Nuvaxovid vaccine will no longer be available under the National Vaccination Programme (NVP)*. The existing formulation of the Novavax/Nuvaxovid vaccine, which is based on the original COVID-19 strain, is no longer supplied by the manufacturer.<br><br>Eligible individuals who wish to receive their first dose of the Novavax/Nuvaxovid vaccine have to do so by 1 December 2023. This is to allow sufficient time for them to complete their primary vaccination series before 31 December 2023. No further Novavax/Nuvaxovid vaccine will be offered to individuals seeking the first dose of the Novavax/Nuvaxovid vaccine after 1 December 2023.<br><br>Eligible individuals who are in the midst of completing Novavax primary vaccination series are advised to receive the second dose before 31 December 2023.<br><br>Eligible individuals who have completed their primary vaccination series and wish to receive the Novavax/Nuvaxovid vaccine to achieve minimum protection or as an additional dose, should also do so by 31 December 2023, with a minimum interval of five months after their last dose. Individuals receiving their vaccination after 31 December 2023 may receive the Moderna/Spikevax or Pfizer-BioNTech/Comirnaty vaccines to achieve minimum protection or as an additional dose. Alternatively, the Sinovac-CoronaVac vaccine remains available under the NVP for now.<br><br>*Under the NVP, vaccination is free for all Singaporean Citizens, Permanent Resident, Long Term Pass Holders and certain Short Term Pass holders. 
+							<p>The Novavax/Nuvaxovid vaccine is currently unavailable under the National Vaccination Programme (NVP). The previous formulation of the Novavax/Nuvaxovid vaccine, which was based on the original COVID-19 strain, is no longer supplied by the manufacturer. Novavax is in the process of filing for regulatory approval for its updated COVID-19 XBB.1.5 vaccine formulation.<br><br>Individuals receiving their vaccination may receive the Moderna/Spikevax or Pfizer-BioNTech/Comirnaty vaccines to achieve minimum protection or as an additional dose. Alternatively, the Sinovac-CoronaVac vaccine remains available under the NVP for now. 
 	</p> 
     				</div>
     			</div>   			
@@ -133,12 +133,11 @@ vaccinated. What do I need to do?</label>
 						<div class="tab-content">
 							<p>
 								Individuals can walk in to any of the Joint Testing and Vaccination Centres (JTVCs), participating Public Health Preparedness Clinics (PHPCs) or polyclinics offering the Moderna/Spikevax or Pfizer-BioNTech/Comirnaty vaccine to receive their vaccine dose. The nearest vaccination site and the types of vaccines offered at each site are listed at <a href="https://gowhere.gov.sg/vaccine">https://gowhere.gov.sg/vaccine</a>. Your child/ward will require your consent to receive his/her vaccinations.<br><br>
-								For individuals who wish to receive the Novavax/Nuvaxovid vaccine* (only available for ages 12 years and above), parents/guardians may book an appointment for your child to receive the vaccine at any of the 19 participating PHPCs offering the vaccine. The list of PHPCs can be found <a href="https://www.vaccine.gov.sg/locations/clinic?query=novavax">here</a>.<br><br>
 								Children aged 6 months to 17 years who are healthy have a lower risk of severe disease. Nevertheless, they are encouraged to receive an additional dose of the updated vaccine around one year (and no earlier than 5 months) after their last  dose.<br><br>
 								When your child/ward is eligible for their additional dose around one year (and no earlier than 5 months) after their last dose, they may walk in to any of JTVCs, PHPCs or polyclinics to receive it.<br><br>
 								Individuals must bring along their identification document (e.g. Birth Certificate/Passport/Student Identification Card/Singpass) for verification purposes, as well as a duly completed and signed
 hard or electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a>.<br><br>
-								You do not need accompany your child/ward if he/she is aged 13 years and above. However, if he/she is 12 years old or a student in a Special Education (SPED) school you will need to accompany him/her, as per the arrangements for the previous COVID-19 vaccinations.<br><br>*From 1 January 2024, the Novavax/Nuvaxovid vaccine will no longer be available under the National Vaccination Programme (NVP). Under the NVP, vaccination is free for all Singaporean Citizens, Permanent Resident, Long Term Pass holders and certain Short Term Pass holders.
+								You do not need accompany your child/ward if he/she is aged 13 years and above. However, if he/she is 12 years old or a student in a Special Education (SPED) school you will need to accompany him/her, as per the arrangements for the previous COVID-19 vaccinations.
 								</p>
 							</div>
 					</div>				
@@ -161,7 +160,7 @@ and children are different.
 						<div class="tab-content">
 							<p>
 								To achieve minimum protection, persons aged 5 years and above should complete, as applicable:<br>
-									<span>• Three doses of Pfizer-BioNTech/Comirnaty*, Moderna/Spikevax or Novavax/Nuvaxovid; or,</span><br>
+									<span>• Three doses of Pfizer-BioNTech/Comirnaty*, Moderna/Spikevax or Novavax/Nuvaxovid<sup>#</sup>; or,</span><br>
 								<span>• Four doses of Sinovac-CoronaVac^</span><br>
 								These would be doses that were previously referred to as the primary vaccination series and the first additional dose.<br><br>
 								After achieving minimum protection, the following persons are recommended to receive an additional dose around one year from their last dose. They can start to receive it from five months after their last additional dose.<br>
@@ -170,6 +169,7 @@ and children are different.
 								<span>• Persons who are medically vulnerable and at higher risk of severe disease</span><br><br>
 								Persons aged 6 months to 59 years who are healthy have a lower risk of severe disease. Nevertheless, eligible persons in this age group, in particular, healthcare workers, as well as household members and caregivers of medically vulnerable individuals, are encouraged to receive an additional dose around one year after their last dose to enhance protection.<br><br>
 								* Children aged 6 months to 4 years who had previously received three doses of Pfizer-BioNTech/Comirnaty should still receive an additional dose after they have crossed their fifth birthday. The interval between the additional dose and the last dose should be 5 months or more.<br><br>
+								<sup>#</sup>The Novavax/Nuvaxovid vaccine is currently unavailable under the National Vaccination Programme. Novavax is in the process of filing for regulatory approval for its updated COVID-19 XBB.1.5 vaccine formulation.<br><br>
 								^To achieve minimum protection, persons who had received the first dose of the mRNA or Novavax/Nuvaxovid vaccines, but are medically ineligible to continue with the vaccines, should receive 3 doses of the Sinovac-CoronaVac vaccine.
 							</p>
 						</div>
@@ -305,12 +305,13 @@ or removed easily<br><br>
     				<label for="question-3-5" class="tab-label">I had completed three doses of the Sinovac-CoronaVac vaccine. Do I need to receive a fourth dose of Sinovac-CoronaVac?
     				</label>
     				<div class="tab-content">
-    					<p>Persons who have received three doses of COVID-19 vaccines, of which two or more doses of comprise Sinovac-CoronaVac*, are recommended to receive a fourth dose of either the Pfizer- BioNTech/Comirnaty, Moderna/Spikevax or Novavax/Nuvaxovid vaccine to achieve minimum protection, unless medically ineligible for the abovementioned vaccines. However, they can receive Sinovac-CoronaVac as their fourth dose if they choose to.<br><br>
+    					<p>Persons who have received three doses of COVID-19 vaccines, of which two or more doses of comprise Sinovac-CoronaVac*, are recommended to receive a fourth dose of either the Pfizer- BioNTech/Comirnaty, Moderna/Spikevax or Novavax/Nuvaxovid<sup>#</sup> vaccine to achieve minimum protection, unless medically ineligible for the abovementioned vaccines. However, they can receive Sinovac-CoronaVac as their fourth dose if they choose to.<br><br>
 Those who received an mRNA or the Novavax/Nuvaxovid vaccine as their third dose should receive the fourth dose about five months thereafter.<br><br>
 Those who received the Sinovac-CoronaVac vaccine as their third vaccine dose should receive the fourth dose at three months thereafter, due to lower antibody levels generated by the third
 vaccine dose.<br><br>
 								For now, Sinovac-CoronaVac continues to be included under the National Vaccination Programme (NVP)^. Pfizer-BioNTech and Moderna have successfully obtained full registration. However, if there is no application for Sinovac-CoronaVac to be fully registered, NVP will lapse for Sinovac-CoronaVac, by 30 September 2024. Nevertheless, Sinovac-CoronaVac will continue to be available at private clinics which have applied to use it under the Special Access Route (SAR).<br><br>
 								*Recommendations for Sinovac-CoronaVac should similarly apply to Sinopharm<br><br>
+								<sup>#</sup>The Novavax/Nuvaxovid vaccine is currently unavailable under the NVP. Novavax is in the process of filing for regulatory approval for its updated COVID-19 XBB.1.5 vaccine formulation.<br><br>
 								^Under the NVP, vaccination is free for all Singaporean Citizens, Permanent Residents, Long Term Pass Holders and certain Short Term Pass Holders.</p>
 							</div>
     			</div>	
