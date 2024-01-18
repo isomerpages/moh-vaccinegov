@@ -159,8 +159,8 @@ years old &amp; above)</td>
 			<td> Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years old) <br><br>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12
 years old &amp; above)</td>
 			<td><b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years old):</b><br>
-				Mondays to Saturdays:
-			8am-12.30pm (last walk-in: 11.30am)<br><br>
+				Fridays and Saturdays:
+			8.30am-12.30pm (last walk-in: 11.30am)<br><br>
 				<b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above):</b><br>
 				Weekdays:<br>2-4.30pm (last walk-in: 3.30pm)</td>
     </tr>
@@ -172,7 +172,7 @@ years old &amp; above)</td>
 				Mondays to Saturdays:
 			8am-12.30pm (last walk-in: 11.30am)<br><br>
 				<b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above):</b><br>Weekdays:
-			2-4.30pm (last walk-in: 3.30pm)</td>
+			9am-12.30pm, 2-4.30pm (last walk-in: 11.30am, 3.30pm)</td>
     </tr>
   </tbody>
 </table>
