@@ -3,15 +3,11 @@ title: Polyclinics
 permalink: /locations-polyclinics/
 variant: markdown
 ---
-**Please note that:**<br>
-* Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 vaccine for those aged 5 years and above will be available from 30 October 2023.
-* Moderna/Spikevax XBB.1.5 vaccine for those aged 6 months and above will be available from 14 November 2023.
 
 **For COVID-19 vaccinations at the polyclinics:**
 
 * Please refer to the details of each polyclinic for the vaccines offered and specific operating hours.
-* For some polyclinics, appointments can be made in advance; you may check HealthHub for availability.
-* Eligible individuals may also walk in to any polyclinic in the list below to receive their COVID-19 vaccination. However, please note that on days where there is high demand, individuals should expect a longer waiting period, and may be advised to return another day or directed to JTVCs.
+* Individuals who wish to receive their vaccination may book an appointment at selected polyclinics through the HealthHub booking system.
 * We would encourage individuals to go to JTVCs; given the higher vaccination capacity they would be better able to accommodate walk-ins. 
 
 ###  **Central**
