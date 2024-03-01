@@ -35,7 +35,7 @@ variant: markdown
 		  2-4.30pm (last walk-in: 3.30pm)<br><br>
 				<b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above):</b><br>
 				Tuesdays and Wednesdays:<br>
-				2-4.30pm (last walk in: 3.30pm)
+				8.15-11.45am; 2-4pm (last walk in: 11.15am, 3.30pm)
 				</td>
     </tr>
 		<tr>
