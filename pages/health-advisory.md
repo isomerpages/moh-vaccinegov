@@ -7,9 +7,7 @@ variant: markdown
 <li> Unvaccinated persons should receive two initial vaccine doses at an interval of eight weeks apart. </li>
 <li> An additional dose of an updated vaccine for 2024 continues to be recommended, and it should be administered around 1 year (and no earlier than 5 months) after the last dose received. The additional dose is: </li> 	
 <ul><li>Recommended for all persons aged 60 years and above, medically vulnerable individuals and residents of aged care facilities; 
-	</li><li>Encouraged for all individuals aged 6 months and above, in particular, healthcare workers, as well as household members and caregivers of medically vulnerable individuals </li>
-	
-<br>
+	</li><li>Encouraged for all individuals aged 6 months and above, in particular, healthcare workers, as well as household members and caregivers of medically vulnerable individuals </li> <br>
 
 **Important reminders**:
 
