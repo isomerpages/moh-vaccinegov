@@ -7,11 +7,11 @@ variant: markdown
 <li> Unvaccinated persons should receive two initial vaccine doses at an interval of eight weeks apart. </li>
 <li> An additional dose of an updated vaccine for 2024 continues to be recommended, and it should be administered around 1 year (and no earlier than 5 months) after the last dose received. The additional dose is: </li> 	
 <ul><li>Recommended for all persons aged 60 years and above, medically vulnerable individuals and residents of aged care facilities; 
-	</li><li>Encouraged for all individuals aged 6 months and above, in particular, healthcare workers, as well as household members and caregivers of medically vulnerable individuals </li> <br></ul>
+	</li><li>Encouraged for all individuals aged 6 months and above, in particular, healthcare workers, as well as household members and caregivers of medically vulnerable individuals </li><br></ul>
 
-**Important reminders**:
+**Important reminders**:<br>
 
-**On the day of vaccination**
+**On the day of vaccination**<br>
 
 * Wear short sleeved or clothes where the sleeves can be rolled up
 * Bring your ID (NRIC/FIN/Student Pass/Birth Certificate and Health Booklet)
@@ -19,7 +19,7 @@ variant: markdown
 * Postpone your appointment if you are unwell or had a fever in the last 24 hours
 <br>
 
-**After vaccination**
+**After vaccination**<br>
 
 Male vaccinees aged 12-29 years who are receiving any dose of Moderna/Spikevax, Pfizer-BioNTech/Comirnaty or Novavax/Nuvaxovid COVID-19 vaccines are advised to refrain from participating in strenuous physical activities for one week after vaccination. During this period, vaccinees should promptly seek medical attention if they experience chest pain, shortness of breath, or abnormal heartbeats.
  <br>
