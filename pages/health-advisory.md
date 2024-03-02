@@ -17,7 +17,7 @@ variant: markdown
 * Bring your ID (NRIC/FIN/Student Pass/Birth Certificate and Health Booklet)
 * Drink plenty of water and eat something before going for your vaccination
 * Postpone your appointment if you are unwell or had a fever in the last 24 hours
-<br>
+	<br>
 
 **After vaccination**<br>
 
