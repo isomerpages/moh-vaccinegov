@@ -9,9 +9,9 @@ variant: markdown
 <ul><li>Recommended for all persons aged 60 years and above, medically vulnerable individuals and residents of aged care facilities; 
 	</li><li>Encouraged for all individuals aged 6 months and above, in particular, healthcare workers, as well as household members and caregivers of medically vulnerable individuals </li><br></ul>
 
-**Important reminders**:<br>
+**Important reminders**:<br><br>
 
-**On the day of vaccination**<br>
+**On the day of vaccination**<br><br>
 
 * Wear short sleeved or clothes where the sleeves can be rolled up
 * Bring your ID (NRIC/FIN/Student Pass/Birth Certificate and Health Booklet)
