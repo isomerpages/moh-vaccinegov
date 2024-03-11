@@ -3,7 +3,6 @@ title: Polyclinics
 permalink: /locations-polyclinics/
 variant: markdown
 ---
-
 **For COVID-19 vaccinations at the polyclinics:**
 
 * Please refer to the details of each polyclinic for the vaccines offered and specific operating hours.
@@ -28,10 +27,10 @@ variant: markdown
 				</td>
 			<td><b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years old):</b><br>
 				Thursdays:<br>
-		  2-4.30pm (last walk-in: 3.30pm)<br><br>
+		  2-4.30pm<br><br>
 				<b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above):</b><br>
 				Tuesdays and Wednesdays:<br>
-				8.15-11.45am; 2-4pm (last walk in: 11.15am, 3.30pm)
+				8.15-11.45am; 2-4pm 
 				</td>
     </tr>
 		<tr>
@@ -40,10 +39,10 @@ variant: markdown
 			<td> Moderna/Spikevax XBB.1.5 (6 months to 5 years old)<br><br>
 			Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)</td>
 			<td><b>Moderna/Spikevax XBB.1.5 (6 months to 5 years old):</b><br>
-				Wednesdays:<br>9-11am (last walk in: 10.30am)<br><br>
-				Saturdays: 8am-12.30pm (last walk-in: 11.30am)<br><br>
+				Wednesdays:<br>9-11am<br><br>
+				Saturdays:<br> 8am-12.30pm<br><br>
 				<b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above):</b><br>Tuesdays:<br>
-			9am-11am (last walk-in: 10.30am)</td>
+			9am-11am</td>
     </tr>
   </tbody>
 </table>
@@ -66,19 +65,19 @@ variant: markdown
 			<td> Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years old)<br><br>
 				Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)</td>
 			<td><b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years old):</b><br>
-				Fridays:<br>9am-12pm, 2-4.30pm (last walk-in: 11.30am, 3.30pm)<br><br><b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above):</b><br>Mondays to Thursdays:<br>8am-12pm; 2-4.30pm (last walk-in: 11.30am and 3.30pm)<br><br>
+				Fridays:<br>9am-12pm, 2-4.30pm<br><br><b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above):</b><br>Mondays to Thursdays:<br>8am-12pm; 2-4.30pm<br><br>
 			Saturdays:<br>
-			8am-12pm (last walk-in: 11.30am)</td>
+			8am-12pm</td>
     </tr>
 		<tr>
       <td>Eunos Polyclinic</td>
       <td>1 Chin Cheng Avenue, Singapore 429400</td>
 			<td>Moderna/Spikevax  XBB.1.5 (6 months to 5 years old)<br><br>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)</td>
 			<td><b>Moderna/Spikevax XBB.1.5 (6 months to 5 years old):</b><br>
-				Fridays:<br>9am-12pm, 2-4.30pm (last walk in: 11.30am, 3.30pm)<br><br>
-				Saturdays: 8am-12pm (last walk-in: 11.30am)<br><br>
+				Fridays:<br>9am-12pm, 2-4.30pm<br><br>
+				Saturdays:<br> 8am-12pm<br><br>
 				<b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above):</b><br>Mondays to Thursdays:<br>
-			8am-12pm, 2-4.30pm (last walk in: 11.30am, 3.30pm)</td>
+			8am-12pm, 2-4.30pm</td>
     </tr>
   </tbody>
 </table>
@@ -101,14 +100,14 @@ variant: markdown
 old &amp; above)</td>
 			<td><b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years old):</b><br>
 			Fridays:<br>
-		  2-4.30pm (last walk-in: 3.30pm)<br><br>
+		  2-4.30pm<br><br>
 				Saturdays:<br>
-				10.30am-12.30pm (last walk-in: 11.30am)<br><br>
+				10.30am-12.30pm<br><br>
 				<b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above):</b><br>
 				Wednesdays and Thursdays:<br>
-			2-4.30pm (last walk-in: 3.30pm)<br><br>
+			2-4.30pm<br><br>
 			Saturdays:<br>
-			8am-10.30am (last walk-in: 10am)</td>
+			8am-10.30am</td>
     </tr>
   </tbody>
 </table>
@@ -130,10 +129,10 @@ old &amp; above)</td>
 			<td> Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years old) <br><br>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12
 years old &amp; above)</td>
 			<td><b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years old):</b><br>
-				Fridays:<br>9am-12pm, 2-4.30pm (last walk in: 11.30am, 3.30pm)<br><br>
-				Saturdays: 8am-12pm (last walk-in: 11.30am)<br><br>
+				Fridays:<br> 9am-12pm, 2-4.30pm<br><br>
+				Saturdays:<br> 8am-12pm<br><br>
 				<b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above):</b><br>Mondays to Thursdays:<br>
-			8am-12pm, 2-4.30pm (last walk in: 11.30am, 3.30pm)</td>
+			8am-12pm, 2-4.30pm</td>
 			 </tr>	
   </tbody>
 </table>
@@ -155,20 +154,20 @@ years old &amp; above)</td>
 			<td> Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years old) <br><br>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12
 years old &amp; above)</td>
 			<td><b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years old):</b><br>
-				Fridays and Saturdays:
-			8.30am-12.30pm (last walk-in: 11.30am)<br><br>
+				Fridays:<br> 2-3.30pm<br><br>
+				Saturdays:<br> 9-11.30am<br><br>
 				<b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above):</b><br>
-				Weekdays:<br>2-4.30pm (last walk-in: 3.30pm)</td>
+				Tuesdays to Thursdays:<br>2-3.30pm </td>
     </tr>
     <tr>
       <td>Bukit Batok Polyclinic</td>
       <td>50 Bukit Batok West Avenue 3, Singapore 659164</td>
 			<td>Moderna/Spikevax XBB.1.5 (6 months to 5 years old)<br><br>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 yrs old &amp; above)</td>
 			<td><b>Moderna/Spikevax XBB.1.5 (6 months to 5 years old):</b><br>
-				Mondays to Saturdays:
-			8am-12.30pm (last walk-in: 11.30am)<br><br>
+				Fridays: <br>2-3.30pm<br><br>
+				Saturdays: <br> 9-11.30am<br><br>
 				<b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above):</b><br>Weekdays:
-			9am-12.30pm, 2-4.30pm (last walk-in: 11.30am, 3.30pm)</td>
+			9am-11.30am, 2-3.30pm</td>
     </tr>
   </tbody>
 </table>
