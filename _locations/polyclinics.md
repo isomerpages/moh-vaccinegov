@@ -7,7 +7,7 @@ variant: markdown
 
 * Please refer to the details of each polyclinic for the vaccines offered and specific operating hours.
 * Individuals who wish to receive their vaccination may book an appointment at selected polyclinics through the HealthHub booking system.
-* We would encourage individuals to go to JTVCs; given the higher vaccination capacity they would be better able to accommodate walk-ins. 
+* Individuals can alternatively visit JTVCs or participating PHPCs; given the higher vaccination capacity at JTVCs, waiting times should be shorter. 
 
 ###  **Central**
 <table>
