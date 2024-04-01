@@ -27,10 +27,10 @@ variant: markdown
 				</td>
 			<td><b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years old):</b><br>
 				Thursdays:<br>
-		  2-4.30pm<br><br>
+		  2-4pm<br><br>
 				<b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above):</b><br>
 				Tuesdays and Wednesdays:<br>
-				8.15-11.45am; 2-4pm 
+				9am-12pm; 2-4pm 
 				</td>
     </tr>
 		<tr>
@@ -39,10 +39,10 @@ variant: markdown
 			<td> Moderna/Spikevax XBB.1.5 (6 months to 5 years old)<br><br>
 			Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)</td>
 			<td><b>Moderna/Spikevax XBB.1.5 (6 months to 5 years old):</b><br>
-				Wednesdays:<br>9-11am<br><br>
-				Saturdays:<br> 8am-12.30pm<br><br>
-				<b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above):</b><br>Tuesdays:<br>
-			9am-11am</td>
+				Wednesdays:<br>9-12pm<br><br>
+				Saturdays:<br> 9-11.30am<br><br>
+				<b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above):</b><br>Tuesdays and Wednesdays:<br>
+			9am-12pm; 2-4pm</td>
     </tr>
   </tbody>
 </table>
@@ -65,9 +65,9 @@ variant: markdown
 			<td> Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years old)<br><br>
 				Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)</td>
 			<td><b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years old):</b><br>
-				Fridays:<br>9am-12pm, 2-4.30pm<br><br><b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above):</b><br>Mondays to Thursdays:<br>8am-12pm; 2-4.30pm<br><br>
+				Fridays:<br>9am-12pm, 2-4.30pm<br><br><b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above):</b><br>Mondays to Thursdays:<br>9am-12pm; 2-4.30pm<br><br>
 			Saturdays:<br>
-			8am-12pm</td>
+			9am-12pm</td>
     </tr>
 		<tr>
       <td>Eunos Polyclinic</td>
@@ -75,9 +75,9 @@ variant: markdown
 			<td>Moderna/Spikevax  XBB.1.5 (6 months to 5 years old)<br><br>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)</td>
 			<td><b>Moderna/Spikevax XBB.1.5 (6 months to 5 years old):</b><br>
 				Fridays:<br>9am-12pm, 2-4.30pm<br><br>
-				Saturdays:<br> 8am-12pm<br><br>
+				Saturdays:<br> 9am-12pm<br><br>
 				<b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above):</b><br>Mondays to Thursdays:<br>
-			8am-12pm, 2-4.30pm</td>
+			9am-12pm, 2-4.30pm</td>
     </tr>
   </tbody>
 </table>
@@ -100,16 +100,22 @@ variant: markdown
 old &amp; above)</td>
 			<td><b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years old):</b><br>
 			Fridays:<br>
-		  2-4.30pm<br><br>
+		  2-4pm<br><br>
 				Saturdays:<br>
-				10.30am-12.30pm<br><br>
+				9-11.30am<br><br>
 				<b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above):</b><br>
 				Wednesdays and Thursdays:<br>
-			2-4.30pm<br><br>
+			2-4pm<br><br>
 			Saturdays:<br>
-			8am-10.30am</td>
+			9-11.30am</td>
     </tr>
-  </tbody>
+		<tr>
+			<td>Sembawang Polyclinic</td>
+			<td>21 Canberra Link, #01-03, Singapore 756973</td>
+			<td><b>[From 4 Apr 24]</b><br>Moderna/Spikevax XBB.1.5 (6 months to 5 years)<br><br><b>[From 2 Apr 24]</b><br>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)</td>
+			<td><b>[From 4 Apr 24]<br>Moderna/Spikevax XBB.1.5 (6 months to 5 years old):</b><br>Thursdays:<br>9am-12pm<br><br>
+		<b>[From 2 Apr 24] Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp;above)</b><br>Tuesdays: 9am-12pm, 2-4pm
+  </td></tr></tbody>
 </table>
 
 ### **North East**
@@ -130,9 +136,9 @@ old &amp; above)</td>
 years old &amp; above)</td>
 			<td><b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years old):</b><br>
 				Fridays:<br> 9am-12pm, 2-4.30pm<br><br>
-				Saturdays:<br> 8am-12pm<br><br>
+				Saturdays:<br> 9am-12pm<br><br>
 				<b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above):</b><br>Mondays to Thursdays:<br>
-			8am-12pm, 2-4.30pm</td>
+			9am-12pm, 2-4.30pm</td>
 			 </tr>	
   </tbody>
 </table>
@@ -169,5 +175,12 @@ years old &amp; above)</td>
 				<b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above):</b><br>Weekdays:
 			9am-11.30am, 2-3.30pm</td>
     </tr>
+		<tr>
+			<td>Bukit Panjang</td>
+			<td>50 Woodlands Road, #03-02, Singapore 677726</td>
+			<td><b>[From 5 Apr 24]</b><br>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years old)<br><br><b>[From 3 Apr 24]</b><br>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)</td>
+			<td><b>[From 5 Apr 24] Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years old):</b><br>Fridays:<br>2-3.30pm<br><br>Saturdays: 9-11.30am<br><br>
+				<b>[From 3 Apr 24] Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp;above):</b><br>Wednesdays and Thursdays: 2-3.30pm</td>
+		</tr>
   </tbody>
 </table>
