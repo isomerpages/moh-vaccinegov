@@ -6,8 +6,8 @@ variant: markdown
 ---
 ### **JTVC Locations (Vaccination Wing)**
 
-* From 1 April 2024, JTVCs Ang Mo Kio, Jurong West, Pasir Ris and Yishun will no longer be in service. The last date of operations will be 30 March 2024.
-* COVID-19 vaccinations will continue to be available at JTVCs Bukit Merah, Jurong East, Kaki Bukit, Sengkang and Woodlands. 
+* COVID-19 vaccinations is available at JTVCs Bukit Merah, Jurong East, Kaki Bukit, Sengkang and Woodlands.
+* From 21 May to 29 June 2024, the operating hours of all JTVCs on Saturdays and eve of Public Holidays will be extended from 9am to 7pm, instead of the usual operating hours from 9am to 1pm. 
 
 **Walk-ins for all age groups:**
 
@@ -36,7 +36,7 @@ Alternatively, individuals may book an appointment at a JTVC using this [link](h
 			Moderna/Spikevax XBB.1.5 (6 months  11 years)<br><br>
 			Pfizer-BioNTech/Comirnaty XBB.1.5 (6 months to 11 years)  
 			</td>
-			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm &amp; 6.30pm)<br><br>Saturday and Eve of Public Holiday: 9am-1pm (Last walk-in 12.30pm)<br><br>Sun and gazetted Public Holidays: Closed</td>
+			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm &amp; 6.30pm)<br><br>Saturday and Eve of Public Holiday: 9am-7pm (Last walk-in 6.30pm)<br><br>Sun and gazetted Public Holidays: Closed</td>
     </tr>
     <tr>
       <td>JTVC Kaki Bukit (Former Bedok North Secondary
@@ -48,20 +48,20 @@ School)</td>
 			Moderna/Spikevax XBB.1.5 (6 months to 11 years)<br><br>
 				Pfizer-BioNTech/Comirnaty XBB.1.5 (6 months to 11 years)
 			</td>
-			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm &amp; 6.30pm)<br><br>Saturday and Eve of Public Holiday: 9am-1pm (Last walk-in 12.30pm)<br><br>Sun and gazetted Public Holidays: Closed</td>
+			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm &amp; 6.30pm)<br><br>Saturday and Eve of Public Holiday: 9am-7pm (Last walk-in 6.30pm)<br><br>Sun and gazetted Public Holidays: Closed</td>
     </tr>	
 		<tr>
       <td>JTVC Bukit Merah (former SEAB Centre)</td>
       <td>8 Lower Delta Road Singapore 169198</td>
 			<td><b>[Adults]:</b><br>Moderna/Spikevax XBB.1.5 (12 years old &amp; above),<br><br> Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)<br><br><b>[Children]:</b><br>Pfizer-BioNTech/Comirnaty XBB.1.5 (6 months to 11 years)<br><br>Moderna/Spikevax XBB.1.5 (6 months to 11 years)
 			</td>
-			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm &amp; 6.30pm)<br><br>Saturday and Eve of Public Holiday: 9am-1pm (Last walk-in 12.30pm)<br><br>Sun and gazetted Public Holidays: Closed</td>
+			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm &amp; 6.30pm)<br><br>Saturday and Eve of Public Holiday: 9am-7pm (Last walk-in 6.30pm)<br><br>Sun and gazetted Public Holidays: Closed</td>
     </tr>
 		<tr>
       <td>JTVC Woodlands (Woodlands Temporary Bus Interchange)</td>
       <td>3A Woodlands Square Singapore 737735</td>
 			<td><b>[Adults]:</b><br>Moderna/Spikevax XBB.1.5 (12 years old &amp; above),<br><br> Pfizer-BioNTech/Comirnaty XBB.1.5 (12 years old &amp; above)<br><br><b>[Children]:</b><br>Pfizer-BioNTech/Comirnaty XBB.1.5 (6 months to 11 years)<br><br>Moderna/Spikevax XBB.1.5 (6 months to 11 years)</td>
-			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm &amp; 6.30pm)<br><br>Saturday and Eve of Public Holiday: 9am-1pm (Last walk-in 12.30pm)<br><br>Sun and gazetted Public Holidays: Closed</td>
+			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm &amp; 6.30pm)<br><br>Saturday and Eve of Public Holiday: 9am-7pm (Last walk-in 6.30pm)<br><br>Sun and gazetted Public Holidays: Closed</td>
     </tr>
 		<tr>
       <td>JTVC Sengkang</td>
@@ -71,7 +71,7 @@ School)</td>
 			Moderna/Spikevax XBB.1.5 (6 months to 11 years)<br><br>
 				Pfizer-BioNTech/Comirnaty XBB.1.5 (6 months to 11 years)
 			</td>
-			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm &amp; 6.30pm)<br><br>Saturday and Eve of Public Holiday: 9am-1pm (Last walk-in 12.30pm)<br><br>Sun and gazetted Public Holidays: Closed</td>
+			<td>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm &amp; 6.30pm)<br><br>Saturday and Eve of Public Holiday: 9am-7pm (Last walk-in 6.30pm)<br><br>Sun and gazetted Public Holidays: Closed</td>
     </tr>
 	</tbody>
 </table>
