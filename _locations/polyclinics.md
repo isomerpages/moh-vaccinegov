@@ -7,7 +7,7 @@ variant: markdown
 
 * Please refer to the details of each polyclinic for the vaccines offered and specific operating hours.
 * Individuals who wish to receive their vaccination may book an appointment at selected polyclinics through the HealthHub booking system.
-* Individuals can alternatively visit JTVCs or participating PHPCs; given the higher vaccination capacity at JTVCs, waiting times should be shorter. 
+* Individuals can alternatively visit JTVCs or participating General Practitioner (GP) clinics; given the higher vaccination capacity at JTVCs, waiting times should be shorter. 
 
 ###  **Central**
 <table>
@@ -112,9 +112,9 @@ old &amp; above)</td>
 		<tr>
 			<td>Sembawang Polyclinic</td>
 			<td>21 Canberra Link, #01-03, Singapore 756973</td>
-			<td><b>[From 4 Apr 24]</b><br>Moderna/Spikevax XBB.1.5 (6 months to 5 years)<br><br><b>[From 2 Apr 24]</b><br>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)</td>
-			<td><b>[From 4 Apr 24]<br>Moderna/Spikevax XBB.1.5 (6 months to 5 years old):</b><br>Thursdays:<br>9am-12pm<br><br>
-		<b>[From 2 Apr 24] Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp;above)</b><br>Tuesdays: 9am-12pm, 2-4pm
+			<td>Moderna/Spikevax XBB.1.5 (6 months to 5 years)<br><br>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)</td>
+			<td><b>Moderna/Spikevax XBB.1.5 (6 months to 5 years old):</b><br>Thursdays:<br>9am-12pm<br><br>
+		<b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp;above)</b><br>Tuesdays: 9am-12pm, 2-4pm
   </td></tr></tbody>
 </table>
 
@@ -178,9 +178,9 @@ years old &amp; above)</td>
 		<tr>
 			<td>Bukit Panjang</td>
 			<td>50 Woodlands Road, #03-02, Singapore 677726</td>
-			<td><b>[From 5 Apr 24]</b><br>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years old)<br><br><b>[From 3 Apr 24]</b><br>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)</td>
-			<td><b>[From 5 Apr 24] Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years old):</b><br>Fridays:<br>2-3.30pm<br><br>Saturdays: 9-11.30am<br><br>
-				<b>[From 3 Apr 24] Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp;above):</b><br>Wednesdays and Thursdays: 2-3.30pm</td>
+			<td>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years old)<br><br>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)</td>
+			<td><b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years old):</b><br>Fridays:<br>2-3.30pm<br><br>Saturdays: 9-11.30am<br><br>
+				<b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp;above):</b><br>Wednesdays and Thursdays: 2-3.30pm</td>
 		</tr>
   </tbody>
 </table>
