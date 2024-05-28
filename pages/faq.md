@@ -64,7 +64,7 @@ Holders of Training Employment Pass, Training Work Permit, Work Holiday Pass, Sp
 						<input id="question-1-7" type="checkbox">
 							<label for="question-1-7" class="tab-label">How can I receive the Novavax/Nuvaxovid COVID-19 vaccine?</label>
 						<div class="tab-content">
-							<p>The Novavax/Nuvaxovid vaccine is currently unavailable under the National Vaccination Programme (NVP). The previous formulation of the Novavax/Nuvaxovid vaccine, which was based on the original COVID-19 strain, is no longer supplied by the manufacturer. Novavax is in the process of filing for regulatory approval for its updated COVID-19 XBB.1.5 vaccine formulation.<br><br>Individuals receiving their vaccination may receive the Moderna/Spikevax or Pfizer-BioNTech/Comirnaty vaccines. Alternatively, the Sinovac-CoronaVac vaccine remains available under the NVP for now. 
+							<p>You may book an appointment at any participating General Practitioner (GP) clinics that offer the Novavax/Nuvaxovid COVID-19 vaccine using this <a href="https://book.health.gov.sg/covid">link</a>.<br><br>Please note that the Novavax/Nuvaxovid vaccine is only approved for use in persons aged 12 years and above.
 	</p> 
     				</div>
     			</div>   			
