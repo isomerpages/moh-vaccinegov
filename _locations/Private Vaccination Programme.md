@@ -25,11 +25,6 @@ Wai Shiu Hospital Block A #01-06, Singapore
 			<td>Moderna/Spikevax XBB.1.5 (18 years old &amp; above)</td>
     </tr>
 		<tr>
-      <td>Raffles Executive Medical Centre</td>
-      <td>585 North Bridge Road, Raffles Hospital Level 12, Singapore 188770 (Interested parties, please email to remc@rafflesmedical.com)</td>
-			<td>Moderna/Spikevax XBB.1.5 (12 years old &amp; above)</td>
-    </tr>
-		<tr>
       <td>The Clinic@One George Street</td>
       <td>1 George Street, One George Street, #05-05 (Lobby C), Singapore 049145 (Please make an appointment via this <a href="https://booking.healthwaymedical.com/pov?service=9BFD434F25">link</a> or&nbsp;6438 5322. Hotline is operational Monday to Friday 8.30am – 1.00p,2.00pm – 5.00pm)</td>
 			<td>Moderna/Spikevax XBB.1.5 (18 years old &amp; above)</td>
