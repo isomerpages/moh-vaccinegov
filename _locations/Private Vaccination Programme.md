@@ -39,8 +39,4 @@ Wai Shiu Hospital Block A #01-06, Singapore
       <td>9 Raffles Boulevard, Millenia Walk #02-22, Singapore 039596</td>
 			<td>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)</td>
     </tr>
-		<tr>
-      <td>Primary Care Asia</td>
-      <td>290 Orchard Road, Paragon Shopping Centre #15-11/12 Singapore 238859</td>
-			<td>Moderna/Spikevax XBB.1.5 (18 years old &amp; above)</td>
-    </tr></tbody></table>
+    </tbody></table>
