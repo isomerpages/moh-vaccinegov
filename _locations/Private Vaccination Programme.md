@@ -35,33 +35,8 @@ Wai Shiu Hospital Block A #01-06, Singapore
 			<td>Moderna/Spikevax XBB.1.5 (18 years old &amp; above)</td>
     </tr>
 		<tr>
-      <td>Healthway Medical (Sembawang Drive)</td>
-      <td>406 Sembawang Drive #01-820, Singapore 750406</td>
-			<td>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)</td>
-    </tr>
-		<tr>
-      <td>Medico Clinic &amp; Surgery</td>
-      <td>249 Jurong East Street 24 #01-88, Singapore 600249</td>
-			<td>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)</td>
-    </tr>
-		<tr>
-      <td>Healthway Medical (Towner Road)</td>
-      <td>101 Towner Road #01-236, Singapore 322101</td>
-			<td>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)</td>
-    </tr>
-			<tr>
-      <td>Sliver Cross Medical</td>
-      <td>3 Cheong Chin Nam Road, Singapore 599728</td>
-			<td>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)</td>
-    </tr>
-		<tr>
       <td>Healthway Medical (Millenia Walk)</td>
       <td>9 Raffles Boulevard, Millenia Walk #02-22, Singapore 039596</td>
-			<td>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)</td>
-    </tr>
-	<tr>
-      <td>Healthway Medical (Downtown Gallery)</td>
-      <td>6A Shenton Way, Downtown Gallery #02-15, Singapore 068815</td>
 			<td>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)</td>
     </tr>
 		<tr>
