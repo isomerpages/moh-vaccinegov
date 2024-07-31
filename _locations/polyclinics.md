@@ -179,8 +179,8 @@ years old &amp; above)</td>
 			<td>Bukit Panjang</td>
 			<td>50 Woodlands Road, #03-02, Singapore 677726</td>
 			<td>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years old)<br><br>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)</td>
-			<td><b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years old):</b><br>Fridays:<br>2-3.30pm<br><br>Saturdays: 9-11.30am<br><br>
-				<b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp;above):</b><br>Wednesdays and Thursdays: 2-3.30pm</td>
+			<td><b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years old):</b><br>Saturdays: 9-11.30am<br><br>
+				<b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp;above):</b><br>Wednesdays to Fridays: 2-3.30pm</td>
 		</tr>
   </tbody>
 </table>
