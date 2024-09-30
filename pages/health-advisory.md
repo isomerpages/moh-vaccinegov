@@ -30,8 +30,7 @@ Male vaccinees aged 12-29 years who are receiving any dose of Moderna/Spikevax, 
 
  [Screening Form and Vaccination Information Sheet - Moderna / Spikevax*](https://go.gov.sg/vism)<br>
  
- [Screening Form and Vaccination Information Sheet - Nuvaxovid*](https://go.gov.sg/visn)<br>
- 
- [Screening Form and Vaccination Information Sheet – Sinovac*](https://go.gov.sg/viss)<br><br>
+ [Screening Form and Vaccination Information Sheet - Nuvaxovid*](https://go.gov.sg/visn)<br><br>
+
 
   *These forms will be provided and filled up at the vaccination site
