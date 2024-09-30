@@ -50,18 +50,6 @@ Holders of Training Employment Pass, Training Work Permit, Work Holiday Pass, Sp
 							</div>
 					</div>
 				   <div class="tab">
-						<input id="question-1-6" type="checkbox">
-							<label for="question-1-6" class="tab-label">How can I receive Sinovac-CoronaVac?</label>
-						<div class="tab-content">
-							<p>Sinovac-CoronaVac will cease to be offered under the National Vaccination Programme (NVP)* after 30 September 2024, as no application was made to HSA for the vaccine to be fully registered.<br><br>
-								As production has stopped, the supply of the Sinovac-CoronaVac COVID-19 vaccine is currently not commericially available in Singapore, private clinics are also unable to provde it under the Special Access Route.<br><br>
-								We strongly recommend that you receive the mRNA vaccines for your COVID-19 vaccinations in view of the lower efficacy of the Sinovac-CoronaVac vaccine.<br><br>
-								Should you choose to receive the Sinovac-CoronaVac vaccine instead, you may do so at selected participating General Practitioner (GP) clinics offering the vaccine by 30 September 2024. Please call the clinic beforehand to make an appointment. Please visit <a href="https://gowhere.gov.sg/vaccine"> https://gowhere.gov.sg/vaccine</a> for a list of the GP clinics offering the vaccine.<br><br>
-								*Under the NVP, vaccination is free for all Singaporean Citizens, Permanent Residents, Long Term Pass holders and certain Short Term Pass holders.
-	</p> 
-							</div>
-					</div>
-				   <div class="tab">
 						<input id="question-1-7" type="checkbox">
 							<label for="question-1-7" class="tab-label">How can I receive the Novavax/Nuvaxovid COVID-19 vaccine?</label>
 						<div class="tab-content">
