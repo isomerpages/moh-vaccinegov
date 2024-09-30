@@ -3,7 +3,6 @@ title: Health Advisory
 permalink: /health-advisory/
 variant: markdown
 ---
-
 <li> Unvaccinated persons should receive two initial vaccine doses at an interval of eight weeks apart. </li>
 <li> An additional dose of an updated vaccine for 2024 continues to be recommended, and it should be administered around 1 year (and no earlier than 5 months) after the last dose received. The additional dose is: </li> 	
 <ul><li>Recommended for all persons aged 60 years and above, medically vulnerable individuals and residents of aged care facilities; 
@@ -33,8 +32,6 @@ Male vaccinees aged 12-29 years who are receiving any dose of Moderna/Spikevax, 
  
  [Screening Form and Vaccination Information Sheet - Nuvaxovid*](https://go.gov.sg/visn)<br>
  
- [Screening Form and Vaccination Information Sheet – Sinovac*](https://go.gov.sg/viss)<br>
- 
- [Parental Consent Form for Paeds SAM (By Invite Only)](https://go.gov.sg/sampcfv2)<br><br>
- 
+ [Screening Form and Vaccination Information Sheet – Sinovac*](https://go.gov.sg/viss)<br><br>
+
   *These forms will be provided and filled up at the vaccination site
