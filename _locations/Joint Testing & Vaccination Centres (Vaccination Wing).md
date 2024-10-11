@@ -7,7 +7,6 @@ variant: markdown
 ### **JTVC Locations (Vaccination Wing)**
 
 * COVID-19 vaccinations are available at JTVCs Bukit Merah, Jurong East, Kaki Bukit, Sengkang and Woodlands.
-* hello
 * Walk-ins to JTVCs are allowed for all eligible individuals. Alternatively, you may also schedule an [appointment](https://book.health.gov.sg/covid). 
 * JTVCs operating hours are from 9am-1pm, 2pm-7pm on Monday to Friday; and 9am-1pm on Saturdays and Eve of Public Holiday. JTVCs are closed on Sundays and gazetted Public Holidays.
 * Individuals are reminded to arrive at the JTVCs at least 30 minutes prior to the lunch and closing time. 
