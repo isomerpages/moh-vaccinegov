@@ -2,7 +2,7 @@
 title: Joint Testing & Vaccination Centres (Vaccination Wing)
 permalink: /locations/jtvc/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 ### **JTVC Locations (Vaccination Wing)**
 
