@@ -12,7 +12,7 @@ Healthcare workers and persons living or working with medically vulnerable indiv
  
 Unvaccinated individuals who are receiving COVID-19 vaccination in 2024/2025 should receive:
 
-* Ages 6 months to 4 years: Two vaccine doses, eight weeks apart; and facilities; 
+* Ages 6 months to 4 years: Two vaccine doses, eight weeks apart; and
 * Ages 5 years and older: One vaccine dose. 
 	
 Vaccinated individuals aged 6 months and above who are receiving an additional dose of COVID-19 vaccination in 2024/2025, should receive it at an interval of around one year (and at least five months) from the last vaccine dose.
@@ -27,4 +27,3 @@ Vaccinated individuals aged 6 months and above who are receiving an additional d
 **After vaccination**<br>
 Male vaccinees aged 12-29 years who are receiving any dose of Moderna/Spikevax, Pfizer-BioNTech/Comirnaty or Novavax/Nuvaxovid COVID-19 vaccines are advised to refrain from participating in strenuous physical activities for one week after vaccination. During this period, vaccinees should promptly seek medical attention if they experience chest pain, shortness of breath, or abnormal heartbeats.
  <br>
- 
