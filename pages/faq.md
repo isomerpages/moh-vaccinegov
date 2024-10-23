@@ -23,6 +23,11 @@ variant: markdown
 								Holders of Training Employment Pass, Training Work Permit, Work Holiday Pass, Special Pass and Short Term Visit Pass with a pass validity period of at least 60 days may call a Healthier SG General Practitioner (GP) clinic to book an [appointment](https://vaccine.gov.sg/covid). The pass holder should bring along identifying documents such as a passport or approval of extension of stay in Singapore for verification purposes.
 								</p>
 						</div>
+					<input id="question-1-3" type="checkbox">
+						<label for="question-1-3" class="tab-label">How can my child/ward receive his/her vaccine doses?</label>
+						<div class="tab-content">
+							<p>Under the National Vaccination Programme (NVP), vaccination is free for all eligible Singapore Citizens, Permanent Resident, Long Term Pass Holders and certain Short Term Pass holders.</p>
+						</div>
 					
 
 
