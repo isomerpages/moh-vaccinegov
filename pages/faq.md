@@ -85,8 +85,7 @@ Please note that the Novavax/Nuvaxovid vaccine is only approved for use in perso
     					<p>								<span>• Bring your ID (NRIC/FIN/Student Pass/Birth Certificate and Health Booklet)</span><br>
 								<span>• Please turn up on time</span><br>
 								<span>• Please wear short sleeved attire, or sleeves loose enough to be rolled up</span><br></p>
-    				</div>
-    			</div>				
+    				</div></div>				
 	
 <div class="tabs">	
 				<h3>Health and Safety</h3>
