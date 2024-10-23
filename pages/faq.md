@@ -11,7 +11,7 @@ variant: markdown
 						<input id="question-1-1" type="checkbox">
 						<label for="question-1-1" class="tab-label">Is the vaccine free?</label>
 						<div class="tab-content">
-							<p>The vaccine is free for all Singaporeans and long-term residents in Singapore, which includes Singapore Permanent Residents, and Employment Pass holders.</p>
+							<p>Under the National Vaccination Programme (NVP), vaccination is free for all eligible Singapore Citizens, Permanent Resident, Long Term Pass Holders and certain Short Term Pass holders.</p>
 						</div>
 					</div>				
 					<div class="tab">
