@@ -21,7 +21,7 @@ variant: markdown
 								Unvaccinated individuals who are receiving COVID-19 vaccination in 2024/2025 should receive: <br>
 a)	Ages 6 months to 4 years: Two vaccine doses, eight weeks apart; and <br>
 b)	Ages 5 years and older: One vaccine dose.<br>
-	
+<br>
 Vaccinated individuals aged 6 months and above who are receiving an additional dose of COVID-19 vaccination in 2024/2025, should receive it at an interval of around one year (and at least five months) from the last vaccine dose.<br>
 	
 You may book an appointment at a Healthier SG General Practitioner (GP) clinic through <a href="https://vaccine.gov.sg/covid/">appointment</a>, or at selected polyclinics through the HealthHub booking system. Alternatively, individuals may walk in to any Joint Testing and Vaccination Centre (JTVC)* without an appointment.<br>
@@ -37,9 +37,9 @@ Holders of Training Employment Pass, Training Work Permit, Work Holiday Pass, Sp
 						<input id="question-1-3" type="checkbox">
 							<label for="question-1-3" class="tab-label">How can my child/ward receive his/her vaccine doses?</label>
 						<div class="tab-content">
-							<p>Eligible children may book an appointment at a Healthier SG General Practitioner (GP) clinic through <a href="https://vaccine.gov.sg/covid/">appointment</a>, or at selected polyclinics through the HealthHub booking system. Alternatively, they may walk in with their parents/guardians to any Joint Testing and Vaccination Centre (JTVC)* without an appointment.
+							<p>Eligible children may book an appointment at a Healthier SG General Practitioner (GP) clinic through <a href="https://vaccine.gov.sg/covid/">appointment</a>, or at selected polyclinics through the HealthHub booking system. Alternatively, they may walk in with their parents/guardians to any Joint Testing and Vaccination Centre (JTVC)* without an appointment.<br>
 
-**The five JTVCs at Bukit Merah, Jurong East, Kaki Bukit, Sengkang and Woodlands will cease operations from 1 December 2024. Individuals who wish to receive their COVID-19 vaccinations at a JTVC should do so by 30 November 2024.*
+**The five JTVCs at Bukit Merah, Jurong East, Kaki Bukit, Sengkang and Woodlands will cease operations from 1 December 2024. Individuals who wish to receive their COVID-19 vaccinations at a JTVC should do so by 30 November 2024.*<br>
 
 You must accompany your child/ward if he/she is aged 12 years and below. Children/wards below 18 years will require the consent of their parents/guardians to get vaccinated. Identification document must be brought along on day of vaccination for verification purpose.</p>
 							</div>
@@ -48,7 +48,7 @@ You must accompany your child/ward if he/she is aged 12 years and below. Childre
 						<input id="question-1-4" type="checkbox">
 							<label for="question-1-4" class="tab-label">How can I receive the Novavax/Nuvaxovid COVID-19 vaccine?</label>
 						<div class="tab-content">
-							<p>You may book an appointment at a Healthier SG General Practitioner (GP) clinic that offer the Novavax/Nuvaxovid COVID-19 vaccine through <a href="https://vaccine.gov.sg/covid/">appointment</a>.
+							<p>You may book an appointment at a Healthier SG General Practitioner (GP) clinic that offer the Novavax/Nuvaxovid COVID-19 vaccine through <a href="https://vaccine.gov.sg/covid/">appointment</a>.<br>
 Please note that the Novavax/Nuvaxovid vaccine is only approved for use in persons aged 12 years and above.</p> 
     				</div>
     			</div>   			
