@@ -76,8 +76,8 @@ sections:
       url: /appeal
   - infobar:
       title: Have more questions?
+      id: infobar
       description: Check out the Frequently Asked Questions.
       button: Read FAQ
       url: /faq
-      alt: Read FAQ
 ---
