@@ -73,8 +73,7 @@ Please note that the Novavax/Nuvaxovid vaccine is only approved for use in perso
     				<label for="question-1-7" class="tab-label">How will I know that the SMS is authentic and not a scam? </label>
     				<div class="tab-content">
     					<p>The COVID-19 vaccination is free for all Singaporeans and long-term residents in Singapore and no one should ask you for a payment. The link that is provided in the SMS should go to <strong>"vaccine.gov.sg"</strong>. Only government officials can register for a <strong>gov.sg</strong> domain. Do not trust any other URLs that are not from a <strong>.gov.sg</strong> domain. </p><p>When in doubt, you should check with the agency who sent you the message to confirm the authenticity before responding to the message.</p>
-							</div>
-					</div>					
+							</div></div>					
     		</div>		
 <div class="tabs">	
 				<h3>Health and Safety</h3>
