@@ -75,60 +75,23 @@ Please note that the Novavax/Nuvaxovid vaccine is only approved for use in perso
 					</div>
 							</div>
 					</div>					
-    						
-				<div class="tabs">
-				<h3>Vaccination Day</h3>							
-					<div class="tab">
-						<input id="question-2-2" type="checkbox">
-						<label for="question-2-2" class="tab-label">What should I take note on vaccination day?</label>
-						<div class="tab-content">
-							<p>				
-								<span>• Bring your ID (NRIC/FIN/Student Pass/Birth Certificate and Health Booklet)</span><br>
-								<span>• Please turn up on time</span><br>
-								<span>• Please wear short sleeved attire, or sleeves loose enough to be rolled up</span><br>
-								<span>• If you are unwell or had fever in the past 24 hours, please do not proceed for your vaccination. You may receive your vaccination after you have recovered.</span><br>
-							</p>
-						</div>
-					</div>		
-				<div class="tab">
-					<input id="question-2-3" type="checkbox">
-					<label for="question-2-3" class="tab-label">I’m not feeling well, what should I do?</label>
-					<div class="tab-content">
-						<p>You should only take the vaccination when you are well. </p>
-						<p>
-							For appointments made at Joint Testing and Vaccination Centres (JTVCs) and participating General Practitioner (GP) clinics through the Health Appointment System (HAS), you may use the link embedded in your appointment confirmation SMS to reschedule your appointment.<br><br>
-							For appointments made with the GP clinics directly, please call the clinic to reschedule your appointment.
-						</p>
-					</div>
-				</div>		
-				<div class="tab">
-					<input id="question-2-4" type="checkbox">
-					<label for="question-2-4" class="tab-label">How will the vaccine be administered?</label>
-					<div class="tab-content">
-						<p>
-							For children aged 6 months to 4 years, the vaccine will be injected into the muscle of the thigh. To make this easier, children are advised to be dressed in loose-fitting clothes which can be rolled up
-or removed easily<br><br>
-							For persons aged 5 years and older, the vaccine will be injected into your upper arm. To make this easier, you are advised to wear short sleeves, or sleeves loose enough to be rolled up.</p>
-					</div>
-				</div>
-				<div class="tab">
-					<input id="question-2-5" type="checkbox">
-					<label for="question-2-5" class="tab-label">Must I bring a hardcopy consent form to be shown at the Vaccination Site?</label>
-					<div class="tab-content">
-						<p>
-							Parents/guardians are reminded to ensure that their child/ward brings along documentary proof of their consent to the vaccination site for verification. The letter of consent required can be found <a href="https://www.go.gov.sg/parcf">here</a>. A completed electronic copy of the consent form will be accepted as well.
-						</p>
-						</div>
-				</div>
-				<div class="tab">
-					<input id="question-2-6" type="checkbox">
-					<label for="question-2-6" class="tab-label">Will parents/guardians be allowed to accompany their child/ward to the vaccination location?</label>
-					<div class="tab-content">
-						<p>
-							Yes, if your child/ward is 12 years and below.</p>
-					</div>
-				</div>
-			</div>
+					
+<div class="tabs">
+    <h3>Vaccination Day</h3>							
+    <div class="tab">
+        <input id="question-2-1" type="checkbox">
+        <label for="question-2-1" class="tab-label">What should I take note on vaccination day?</label>
+        <div class="tab-content">
+            <p>				
+                <span>• Bring your ID (NRIC/FIN/Student Pass/Birth Certificate and Health Booklet)</span><br>
+                <span>• Please turn up on time</span><br>
+                <span>• Please wear short-sleeved attire, or sleeves loose enough to be rolled up</span><br>
+            </p>
+        </div>
+    </div>
+</div>
+
+
 <div class="tabs">	
 				<h3>Health and Safety</h3>
 				<p>For more information, visit <a href="https://www.moh.gov.sg/covid-19/vaccination">MOH's website</a>.</p>		
