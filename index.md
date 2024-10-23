@@ -32,7 +32,7 @@ sections:
       description: COVID-19 vaccination is free under the National Vaccination
         Programme (NVP) for all Singapore Citizens, Permanent Residents and Long
         Term Pass Holders.
-      button: Read FAQ
+      button: Find out more
       url: https://www.moh.gov.sg/covid-19/vaccination
   - infobar:
       description: We are aware of websites, emails, SMS text messages and phone calls
