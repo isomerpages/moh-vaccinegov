@@ -4,7 +4,6 @@ permalink: /locations-polyclinics/
 variant: markdown
 ---
 **For COVID-19 vaccinations at the polyclinics:**
-
 * Please refer to the details of each polyclinic for the vaccines offered and specific operating hours.
 * Individuals who wish to receive their vaccination may book an appointment at selected polyclinics through the HealthHub booking system.
 
