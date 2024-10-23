@@ -3,7 +3,7 @@ title: Mobile Vaccination Team
 permalink: /locations/mvt/
 variant: markdown
 ---
-The mobile vaccination teams will be deployed for a few days at each location before moving to other locations.<br>
+Mobile Vaccination Teams (MVTs) will continue to be deployed to selected heartland locations to make it even more convenient for seniors to get vaccinated.<br>
 
 The operating hours for the mobile vaccination teams are:<br>
 
