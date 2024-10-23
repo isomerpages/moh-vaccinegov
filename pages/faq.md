@@ -149,36 +149,9 @@ Please note that the Novavax/Nuvaxovid vaccine is only approved for use in perso
 							</p>
     				</div>
     			</div>	
-    			<div class="tab">
-    				<input id="question-3-4" type="checkbox">
-    				<label for="question-3-4" class="tab-label">I have recovered from a COVID-19 infection and have an official record of the infection. Can I take my COVID-19 vaccine now?
-    				</label>
-    				<div class="tab-content">
-							<p><b>Recovered persons who were unvaccinated, or partially vaccinated before their</b> infection can proceed to complete their two initial vaccine doses. You are recommended to receive remaining vaccine doses from 3 months or more after the date of infection to reduce your risk of reinfection.<br><br>
-								<b>Recovered persons who are recommended to receive an additional COVID-19 vaccine dose after your last vaccine dose</b> should do so at the recommended interval thereafter, and at least 28 days after the infection although an interval of three months from the infection is recommended for better effectiveness.
-								</p>
-    				</div>
-    			</div>	
-    			<div class="tab">
-    				<input id="question-3-6" type="checkbox">
-    				<label for="question-3-6" class="tab-label">The Pfizer-
-BioNTech/Comirnaty’s dosage for persons aged 12 years and above is higher than the dosage for persons aged 5 to 11 years. What dosage will my child/ward receive if he turns 12 years between his vaccine doses?
-    				</label>
-    				<div class="tab-content">
-    					<p>Those who received the dosage for persons aged 5 to 11 years for their first dose can continue to receive the same dosage for their second dose, even if they have turned 12 years between the first and second vaccine doses. Alternatively, the child can also receive a dosage corresponding to his/her age when the vaccine dose is received.
-							</p>
-							</div>
-    			</div>	
-    			<div class="tab">
-    				<input id="question-3-7" type="checkbox">
-    				<label for="question-3-7" class="tab-label">Will my child/ward still receive the Pfizer-BioNTech/Comirnaty or  Moderna/Spikevax vaccine if he/she turns 5 years old on the day of the first appointment? 
-    				</label>
-    				<div class="tab-content">
-    					<p>Children who turn 5 years on the day of their first dose will receive the Pfizer-BioNTech/Comirnaty vaccine for children aged between 5 to 11 years or the Moderna/Spikevax vaccine for children aged between 6 months to 5 years.<br><br>
-								Those who received the Pfizer-BioNTech/Comirnaty vaccine when they were below 5 years will continue to receive the same vaccine and dosage for their subsequent doses, even if they have turned 5 years between any of the vaccine doses.</p>
-    				</div>
-    			</div></div>
-
+	</div></div>
+	
+For more information on additional doses, visit MOH's <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs-on-getting-vaccinated">website</a>.
 				
 -=-=-=-=-=-=-=
 
@@ -497,4 +470,4 @@ Please note that the Novavax/Nuvaxovid vaccine is only approved for use in perso
 Please note that the Novavax/Nuvaxovid vaccine is only approved for use in persons aged 12 years and above.
 <p></p></div>
 
-</div></div></div></div>
+</div></div></div>
