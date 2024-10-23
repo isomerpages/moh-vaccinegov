@@ -16,7 +16,7 @@ variant: markdown
 					</div>				
 					<div class="tab">
 						<input id="question-1-2" type="checkbox">
-						<label for="question-1-2" class="tab-label">When and how can I receive my additional dose?</label>
+						<label for="question-1-2" class="tab-label">How can I receive my COVID-19 vaccination, and what are the requirements?</label>
 						<div class="tab-content">
 							<p>
 								<b><u>Persons Aged 60 Years and above,   Medically Vulnerable, Residents of Aged Care Facilities</u></b><br>
