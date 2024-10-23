@@ -53,18 +53,17 @@ Please note that the Novavax/Nuvaxovid vaccine is only approved for use in perso
     				</div>
     			</div>   			
     			<div class="tab">
-    				<input id="question-1-8" type="checkbox">
-    				<label for="question-1-8" class="tab-label">Can I change my contact information? </label>
+    				<input id="question-1-5" type="checkbox">
+    				<label for="question-1-5" class="tab-label">How do I reschedule my appointment?</label>
     				<div class="tab-content">
-    					<p>If you have changed your mobile number or email address, please call MOH COVID-19 vaccination hotline at 6995 9199 for assistance.</p>
+    					<p>You may reschedule your appointments using the same booking link in the original SMS or through HealthHub for Polyclinics.</p>
     				</div>
     			</div>			
     			<div class="tab">
-    				<input id="question-1-9" type="checkbox">
-    				<label for="question-1-9" class="tab-label">How do I reschedule my appointment? </label>
+    				<input id="question-1-6" type="checkbox">
+    				<label for="question-1-6" class="tab-label">Can I change my contact information?</label>
     				<div class="tab-content">
-    					<p> You may reschedule your appointments using the same booking link in the original SMS.<br><br>
-							For enquiries, please call the MOH COVID-19 vaccination hotline at 6995 9199.</p>
+    					<p>If you have changed your mobile number or email address, please call MOH COVID-19 vaccination hotline at 6995 9199 for assistance.</p>
     				</div>
     			</div>	
     			<div class="tab">
