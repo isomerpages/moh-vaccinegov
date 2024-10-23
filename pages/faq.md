@@ -91,7 +91,7 @@ Please note that the Novavax/Nuvaxovid vaccine is only approved for use in perso
     			</div>				
 				<div class="tab">
 					<input id="question-3-2" type="checkbox">
-					<label for="question-3-2" class="tab-label">What are the possible side effects?
+					<label for="question-3-2" class="tab-label">What are the side effects of COVID-19 vaccination? What should I do if I suffer from any side effects?
 					</label>
 					<div class="tab-content">
 						<p>The vaccine has been assessed to be safe for use. However, you may experience common side effects, similar to other vaccines. Most side effects are mild or moderate, and usually get better within a few days. The table below lists some common side effects that have been reported with this vaccine, and how to manage them.
@@ -103,7 +103,10 @@ Please note that the Novavax/Nuvaxovid vaccine is only approved for use in perso
 							</tr>
 							<tr>
 								<td>Pain, redness, swelling at the injection site</td>
-								<td rowspan="3">Paracetamol 1 to 2 tablets every 6 hours as needed</td>
+								<td rowspan="3">Those with fever are advised to self-isolate at home until the fever subsides.<br>
+
+Paracetamol 1 to 2 tablets for the other side effects every 6 hours for adults or dosed accordingly to the child's weight as needed.
+</td>
 							</tr>
 							<tr>
 								<td>Fever, chills</td>
@@ -117,7 +120,7 @@ Please note that the Novavax/Nuvaxovid vaccine is only approved for use in perso
 							</tr>
 							<tr>
 									<td>Lymph node swelling at neck or arms</td>
-									<td>Usually gets better by itself in a week or so</td>
+									<td>Usually gets better by itself in a week or so.</td>
 							</tr>
 						</tbody></table>
 						<p>
