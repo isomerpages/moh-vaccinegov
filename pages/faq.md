@@ -24,7 +24,7 @@ a)	Ages 6 months to 4 years: Two vaccine doses, eight weeks apart; and <br>
 b)	Ages 5 years and older: One vaccine dose.<br>
 <br>
 Vaccinated individuals aged 6 months and above who are receiving an additional dose of COVID-19 vaccination in 2024/2025, should receive it at an interval of around one year (and at least five months) from the last vaccine dose.<br><br>
-You may book an appointment at a Healthier SG General Practitioner (GP) clinic through <a href="https://vaccine.gov.sg/covid/">appointment</a>, or at selected polyclinics through the HealthHub booking system. Alternatively, individuals may walk in to any Joint Testing and Vaccination Centre (JTVC)* without an appointment.<br>
+You may book an appointment at a Healthier SG General Practitioner (GP) clinic through <a href="https://vaccine.gov.sg/covid/">vaccine.gov.sg/covid</a>, or at selected polyclinics through the HealthHub booking system. Alternatively, individuals may walk in to any Joint Testing and Vaccination Centre (JTVC)* without an appointment.<br>
 <br>
 <i>*The five JTVCs at Bukit Merah, Jurong East, Kaki Bukit, Sengkang and Woodlands will cease operations from 1 December 2024. Individuals who wish to receive their COVID-19 vaccinations at a JTVC should do so by 30 November 2024.</i><br>
 <br>
