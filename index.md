@@ -12,15 +12,12 @@ sections:
         தடுப்பூசிக்கான பதிவு
       background: /images/vaccinegov-hero-withlogo-higher.png
       key_highlights:
-        - title: Get Vaccinated
-          description: For more information
-          url: /get-vaccinated/
         - title: Health Advisory
           description: 健康指示/ Nasihat Kesihatan/ சுகாதார ஆலோசனை
           url: /health-advisory
-        - title: Appeal For COVID-19 Vaccination
-          description: Submit with supporting docs
-          url: /appeal
+        - title: Get Vaccinated
+          description: For more information
+          url: /get-vaccinated/
       button: Book Appointment
       url: https://book.health.gov.sg/covid
   - infobar:
