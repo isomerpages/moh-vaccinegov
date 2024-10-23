@@ -131,12 +131,11 @@ variant: markdown
     <tr>
       <td>Punggol Polyclinic</td>
       <td>681 Punggol Drive, Singapore 820681</td>
-			<td> Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years old) <br><br>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12
-years old &amp; above)</td>
-			<td><b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years old):</b><br>
+			<td> <b>[Children]</b>: Pfizer-BioNTech/Comirnaty JN.1 (5 to 11 years) <br><br><b>[Adults]</b>: Pfizer-BioNTech/Comirnaty JN.1 (12 years old &amp; above)</td>
+			<td><b>[Children]</b>: Pfizer-BioNTech/Comirnaty JN.1 (5 to 11 years):<br>
 				Fridays:<br> 9am-12pm, 2-4.30pm<br><br>
 				Saturdays:<br> 9am-12pm<br><br>
-				<b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above):</b><br>Mondays to Thursdays:<br>
+				<b>[Adults]</b>: Pfizer-BioNTech/Comirnaty JN.1 (12 years old &amp; above):<br>Mondays to Thursdays:<br>
 			9am-12pm, 2-4.30pm</td>
 			 </tr>	
   </tbody>
