@@ -136,15 +136,7 @@ Paracetamol 1 to 2 tablets for the other side effects every 6 hours for adults o
     						In very rare cases, this vaccine can cause a severe allergic reaction. Signs of a severe allergic reaction include: difficulty breathing, swelling of your face, throat, eyes or lips, a fast heartbeat, dizziness and weakness, a bad rash all over your body.  If you experience a severe allergic reaction, seek medical attention immediately. Call 995 or go to the nearest A&amp;E immediately.
     					</p>
     				</div>
-    			</div>		
-    			<div class="tab">
-    				<input id="question-3-2" type="checkbox">
-    				<label for="question-3-2" class="tab-label">What should I do if I’m experiencing side effects?
-    				</label>
-    				<div class="tab-content">
-    					<p>If you experience a severe allergic reaction, seek medical attention immediately. Call 995 or go to the nearest A&amp;E immediately.</p>
-    				</div>
-    			</div>					
+    			</div>			
     			<div class="tab">
     				<input id="question-3-3" type="checkbox">
     				<label for="question-3-3" class="tab-label">Are the COVID-19 vaccines halal?
