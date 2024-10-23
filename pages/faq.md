@@ -74,7 +74,6 @@ Please note that the Novavax/Nuvaxovid vaccine is only approved for use in perso
     				<div class="tab-content">
     					<p>The COVID-19 vaccination is free for all Singaporeans and long-term residents in Singapore and no one should ask you for a payment. The link that is provided in the SMS should go to <strong>"vaccine.gov.sg"</strong>. Only government officials can register for a <strong>gov.sg</strong> domain. Do not trust any other URLs that are not from a <strong>.gov.sg</strong> domain. </p><p>When in doubt, you should check with the agency who sent you the message to confirm the authenticity before responding to the message.</p>
 							</div></div>					
-    		</div>		
 <div class="tabs">	
 				<h3>Vaccination Day</h3>
     			<div class="tab">
@@ -155,4 +154,4 @@ Paracetamol 1 to 2 tablets for the other side effects every 6 hours for adults o
 							</p>
     				</div>
     			</div></div></div>
-For more information on additional doses, visit MOH's <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs-on-getting-vaccinated">website</a>.</div>
+For more information on additional doses, visit MOH's <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs-on-getting-vaccinated">website</a>.</div></div>
