@@ -155,30 +155,30 @@ variant: markdown
     <tr>
       <td>Pioneer Polyclinic</td>
       <td>26 Jurong West Street 61, Singapore 648201</td>
-			<td> Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years old) <br><br>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12
-years old &amp; above)</td>
-			<td><b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years old):</b><br>
+			<td> <b>[Children]</b>: Pfizer-BioNTech/Comirnaty JN.1 (5 to 11 years)<br><br><b>[Adults]</b>: Pfizer-BioNTech/Comirnaty JN.1 (12 years old &amp; above)</td>
+			<td><b>[Children]</b>: Pfizer-BioNTech/Comirnaty JN.1 (5 to 11 years):<br>
 				Fridays:<br> 2-3.30pm<br><br>
 				Saturdays:<br> 9-11.30am<br><br>
-				<b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above):</b><br>
+				<b>[Adults]</b>: Pfizer-BioNTech/Comirnaty JN.1 (12 years old &amp; above):<br>
 				Tuesdays to Thursdays:<br>2-3.30pm </td>
     </tr>
     <tr>
       <td>Bukit Batok Polyclinic</td>
       <td>50 Bukit Batok West Avenue 3, Singapore 659164</td>
-			<td>Moderna/Spikevax XBB.1.5 (6 months to 5 years old)<br><br>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 yrs old &amp; above)</td>
-			<td><b>Moderna/Spikevax XBB.1.5 (6 months to 5 years old):</b><br>
+			<td><b>[Children]</b>: Moderna/Spikevax JN.1 (6 months to 5 years old)<br><br><b>[Adults]</b>: Pfizer-BioNTech/Comirnaty JN.1 (12 years old &amp; above)</td>
+			<td><b>[Children]</b>: Moderna/Spikevax JN.1 (6 months to 5 years old):<br>
 				Fridays: <br>2-3.30pm<br><br>
 				Saturdays: <br> 9-11.30am<br><br>
-				<b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above):</b><br>Weekdays:
+				<b>[Adults]</b>: Pfizer-BioNTech/Comirnaty JN.1 (12 years old &amp; above):<br>Weekdays:
 			9am-11.30am, 2-3.30pm</td>
     </tr>
 		<tr>
 			<td>Bukit Panjang</td>
 			<td>50 Woodlands Road, #03-02, Singapore 677726</td>
-			<td>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years old)<br><br>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)</td>
-			<td><b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years old):</b><br>Saturdays: 9-11.30am<br><br>
-				<b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp;above):</b><br>Wednesdays to Fridays: 2-3.30pm</td>
+			<td><b>[Children]</b>: Pfizer-BioNTech/Comirnaty JN.1 (5 to 11 years)<br><br>
+<b>[Adults]</b>: Pfizer-BioNTech/Comirnaty JN.1 (12 years old &amp; above)</td>
+			<td><b>[Children]</b>: Pfizer-BioNTech/Comirnaty JN.1 (5 to 11 years):<br>Saturdays: 9-11.30am<br><br>
+<b>[Adults]</b>: Pfizer-BioNTech/Comirnaty JN.1 (12 years old &amp; above):<br>Wednesdays to Fridays: 2-3.30pm</td>
 		</tr>
   </tbody>
 </table>
