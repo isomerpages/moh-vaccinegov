@@ -15,15 +15,6 @@ variant: markdown
 						</div>
 					</div>				
 					<div class="tab">
-						<input id="question-1-2" type="checkbox">
-						<label for="question-1-2" class="tab-label">Who is eligible for the vaccine?</label>
-						<div class="tab-content">
-							<p>
-						Singapore Citizens, Permanent Residents, and Long-Term Pass Holders aged 6 months and above are eligible to receive the COVID-19 vaccines under the National Vaccination Programme.
-								</p>
-							</div>
-					</div>				
-					<div class="tab">
 						<input id="question-1-4" type="checkbox">
 						<label for="question-1-4" class="tab-label">When and how can I receive my additional dose?</label>
 						<div class="tab-content">
