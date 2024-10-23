@@ -30,7 +30,7 @@ You may book an appointment at a Healthier SG General Practitioner (GP) clinic t
 <br>
 Children/wards below 18 years will require the consent of their parents/guardians to get vaccinated. Those aged 12 years and below must be accompanied by a parent/guardian. Identification document must be brought along on day of vaccination for verification purpose. <br>
 <br>
-Holders of Training Employment Pass, Training Work Permit, Work Holiday Pass, Special Pass and Short Term Visit Pass with a pass validity period of at least 60 days may call a Healthier SG General Practitioner (GP) clinic to book an <a href="https://vaccine.gov.sg/covid/">vaccine.gov.sg/covid</a>. The pass holder should bring along identifying documents such as a passport or approval of extension of stay in Singapore for verification purposes.
+Holders of Training Employment Pass, Training Work Permit, Work Holiday Pass, Special Pass and Short Term Visit Pass with a pass validity period of at least 60 days may call a Healthier SG General Practitioner (GP) clinic to book an <a href="https://vaccine.gov.sg/covid/">appointment</a>. The pass holder should bring along identifying documents such as a passport or approval of extension of stay in Singapore for verification purposes.
 								</p><p></p>
 							</div>
 					</div>
