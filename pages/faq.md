@@ -95,16 +95,16 @@ Please note that the Novavax/Nuvaxovid vaccine is only approved for use in perso
 <div class="tabs">	
 				<h3>Health and Safety</h3>
     			<div class="tab">
-    				<input id="question-3-2" type="checkbox">
-    				<label for="question-3-2" class="tab-label">What should I do if I’m experiencing side effects?
+    				<input id="question-3-1" type="checkbox">
+    				<label for="question-3-1" class="tab-label">I have recovered from COVID-19. How soon can I receive my next vaccination dose?
     				</label>
     				<div class="tab-content">
-    					<p>If you experience a severe allergic reaction, seek medical attention immediately. Call 995 or go to the nearest A&amp;E immediately.</p>
+    					<p>Recently recovered persons being vaccinated should receive a vaccine dose at the recommended interval after any previous dose(s), and at least 28 days after the infection although an interval of three months from the infection is recommended for better effectiveness.</p>
     				</div>
     			</div>				
 				<div class="tab">
-					<input id="question-3-1" type="checkbox">
-					<label for="question-3-1" class="tab-label">What are the possible side effects?
+					<input id="question-3-2" type="checkbox">
+					<label for="question-3-2" class="tab-label">What are the possible side effects?
 					</label>
 					<div class="tab-content">
 						<p>The vaccine has been assessed to be safe for use. However, you may experience common side effects, similar to other vaccines. Most side effects are mild or moderate, and usually get better within a few days. The table below lists some common side effects that have been reported with this vaccine, and how to manage them.
