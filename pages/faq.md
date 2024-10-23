@@ -19,7 +19,7 @@ variant: markdown
 						<div class="tab-content">
 							<p>
 								Unvaccinated individuals who are receiving COVID-19 vaccination in 2024/2025 should receive: <br>
-								
+<br>
 a)	Ages 6 months to 4 years: Two vaccine doses, eight weeks apart; and <br>
 b)	Ages 5 years and older: One vaccine dose.<br>
 <br>
