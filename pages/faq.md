@@ -153,5 +153,5 @@ Paracetamol 1 to 2 tablets for the other side effects every 6 hours for adults o
     					<p>The Islamic Religious Council of Singapore (MUIS) has permitted COVID-19 vaccines for Muslim use. Please refer to MUIS’ <a href="https://www.muis.gov.sg/Media/Media-Releases/13-Dec-20-Religious-Position-on-COVID-19-Vaccine">religious position</a> on the COVID-19 vaccine for more information.
 							</p>
     				</div>
-    			</div></div></div>
-For more information on additional doses, visit MOH's <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs-on-getting-vaccinated">website</a>.</div></div>
+    			</div>
+For more information on additional doses, visit MOH's <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs-on-getting-vaccinated">website</a>.</div></div></div></div>
