@@ -76,7 +76,7 @@ Please note that the Novavax/Nuvaxovid vaccine is only approved for use in perso
 							</div></div>					
     		</div>		
 <div class="tabs">	
-				<h3>Health and Safety</h3>
+				<h3>Vaccination Day</h3>
     			<div class="tab">
     				<input id="question-2-1" type="checkbox">
     				<label for="question-2-1" class="tab-label">What should I take note on vaccination day?
