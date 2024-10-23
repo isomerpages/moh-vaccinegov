@@ -39,9 +39,9 @@ Holders of Training Employment Pass, Training Work Permit, Work Holiday Pass, Sp
 							<label for="question-1-3" class="tab-label">How can my child/ward receive his/her vaccine doses?</label>
 						<div class="tab-content">
 							<p>Eligible children may book an appointment at a Healthier SG General Practitioner (GP) clinic through <a href="https://vaccine.gov.sg/covid/">appointment</a>, or at selected polyclinics through the HealthHub booking system. Alternatively, they may walk in with their parents/guardians to any Joint Testing and Vaccination Centre (JTVC)* without an appointment.<br>
-
-**The five JTVCs at Bukit Merah, Jurong East, Kaki Bukit, Sengkang and Woodlands will cease operations from 1 December 2024. Individuals who wish to receive their COVID-19 vaccinations at a JTVC should do so by 30 November 2024.*<br>
-
+<br>
+<i>*The five JTVCs at Bukit Merah, Jurong East, Kaki Bukit, Sengkang and Woodlands will cease operations from 1 December 2024. Individuals who wish to receive their COVID-19 vaccinations at a JTVC should do so by 30 November 2024.*</i>
+<br>
 You must accompany your child/ward if he/she is aged 12 years and below. Children/wards below 18 years will require the consent of their parents/guardians to get vaccinated. Identification document must be brought along on day of vaccination for verification purpose.</p>
 							</div>
 					</div>
@@ -50,6 +50,7 @@ You must accompany your child/ward if he/she is aged 12 years and below. Childre
 							<label for="question-1-4" class="tab-label">How can I receive the Novavax/Nuvaxovid COVID-19 vaccine?</label>
 						<div class="tab-content">
 							<p>You may book an appointment at a Healthier SG General Practitioner (GP) clinic that offer the Novavax/Nuvaxovid COVID-19 vaccine through <a href="https://vaccine.gov.sg/covid/">appointment</a>.<br>
+<br>
 Please note that the Novavax/Nuvaxovid vaccine is only approved for use in persons aged 12 years and above.</p> 
     				</div>
     			</div>   			
