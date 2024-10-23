@@ -19,7 +19,7 @@ sections:
           description: For more information
           url: /get-vaccinated/
       button: Book Appointment
-      url: https://book.health.gov.sg/covid
+      url: https://vaccine.gov.sg/covid
   - infobar:
       title: Primary & Additional Doses
       button: CLICK Here for locations
