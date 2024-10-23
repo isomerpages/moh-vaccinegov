@@ -67,54 +67,15 @@ Please note that the Novavax/Nuvaxovid vaccine is only approved for use in perso
     				</div>
     			</div>	
     			<div class="tab">
-    				<input id="question-1-10" type="checkbox">
-    				<label for="question-1-10" class="tab-label">How will I know that the SMS is authentic and not a scam? </label>
+    				<input id="question-1-7" type="checkbox">
+    				<label for="question-1-7" class="tab-label">How will I know that the SMS is authentic and not a scam? </label>
     				<div class="tab-content">
     					<p>The COVID-19 vaccination is free for all Singaporeans and long-term residents in Singapore and no one should ask you for a payment. The link that is provided in the SMS should go to <strong>"vaccine.gov.sg"</strong>. Only government officials can register for a <strong>gov.sg</strong> domain. Do not trust any other URLs that are not from a <strong>.gov.sg</strong> domain. </p><p>When in doubt, you should check with the agency who sent you the message to confirm the authenticity before responding to the message.</p>
 							</div>
 					</div>
-					<div class="tab">
-						<input id="question-1-11" type="checkbox">
-						<label for="question-1-11" class="tab-label">When can I get my child/ward vaccinated?</label>
-						<div class="tab-content">
-							<p>
-						Children must cross the age of 6 months to be eligible for vaccination.</p>
-							</div>
-					</div>
-					<div class="tab">
-						<input id="question-1-12" type="checkbox">
-						<label for="question-1-12" class="tab-label">I want to get my child/ward who is between 6 months and 11 years old
-vaccinated. What do I need to do?</label>
-						<div class="tab-content">
-							<p>Eligible children may walk in with their parents/guardians to any of the Joint Testing and Vaccination Centres (JTVCs) offering the vaccines recommended for the different age groups. Alternatively, parents/guardians may book an appointment at a JTVC or participating General Practitioner (GP) clinic for their child/ward to receive his/her vaccination using this <a href="https://book.health.gov.sg/covid">link</a>, or at selected polyclinics through the HealthHub booking system.<br><br>
-							Please visit <a href="https://gowhere.gov.sg/vaccine"> https://gowhere.gov.sg/vaccine</a> to locate the nearest vaccination site offering vaccines for children aged 6 months to 11 years.<br><br>
-							Parents/guardians must bring along their child/ward's identification document (e.g. Birth Certificate and Health booklet/Passport/Student Identification Card/Singpass) for verification purposes, as well as a duly completed and signed hard or electronic copy of the parental consent form, which can be downloaded <a href="go.gov.sg/parcf">here</a>.</p>
-							</div>
-					</div>								
-					<div class="tab">
-						<input id="question-1-13" type="checkbox">
-						<label for="question-1-13" class="tab-label">How can my child/ward receive his/her vaccine doses?</label>
-						<div class="tab-content">
-							<p>
-								Eligible children may book an appointment at a participating General Practitioner (GP) clinic using this <a href="https://book.health.gov.sg/covid">link</a>, or at selected polyclinics through the HealthHub booking system, or walk in with their parents/guardians to any of the Joint Testing and Vaccination Centres (JTVCs) to receive their vaccine dose. The nearest vaccination site and the types of vaccines offered at each site are listed at <a href="https://gowhere.gov.sg/vaccine">https://gowhere.gov.sg/vaccine</a>. Your child/ward will require your consent to receive his/her vaccinations.<br><br>
-								Children aged 6 months to 17 years who are healthy have a lower risk of severe disease. Nevertheless, they are encouraged to receive an additional dose of the updated vaccine around one year (and no earlier than 5 months) after their last  dose.<br><br>
-								Individuals must bring along their identification document (e.g. Birth Certificate/Passport/Student Identification Card/Singpass) for verification purposes, as well as a duly completed and signed
-hard or electronic copy of the parental consent form, which can be downloaded <a href="https://www.go.gov.sg/parcf/">here</a>.<br><br>
-								You do not need accompany your child/ward if he/she is aged 13 years and above. However, if he/she is 12 years old or a student in a Special Education (SPED) school you will need to accompany him/her, as per the arrangements for the previous COVID-19 vaccinations.
-								</p>
-							</div>
-					</div>				
-					<div class="tab">
-						<input id="question-1-14" type="checkbox">
-						<label for="question-1-14" class="tab-label">Will it be possible for parents/guardians to be vaccinated together with their child/ward?</label>
-						<div class="tab-content">
-							<p>
-						Parents/guardians who accompany their child/wards aged 12 years and under for vaccination will not be able to receive their vaccination together with their child/ward as the dosage for adults
-and children are different.
-							</p>
 							</div>
 					</div>					
-    		</div>				
+    						
 				<div class="tabs">
 				<h3>Vaccination Day</h3>							
 					<div class="tab">
@@ -261,7 +222,7 @@ BioNTech/Comirnaty’s dosage for persons aged 12 years and above is higher than
     					<p>Children who turn 5 years on the day of their first dose will receive the Pfizer-BioNTech/Comirnaty vaccine for children aged between 5 to 11 years or the Moderna/Spikevax vaccine for children aged between 6 months to 5 years.<br><br>
 								Those who received the Pfizer-BioNTech/Comirnaty vaccine when they were below 5 years will continue to receive the same vaccine and dosage for their subsequent doses, even if they have turned 5 years between any of the vaccine doses.</p>
     				</div>
-    			</div></div></div>
+    			</div></div>
 
 				
 -=-=-=-=-=-=-=
