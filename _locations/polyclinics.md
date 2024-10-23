@@ -7,7 +7,6 @@ variant: markdown
 
 * Please refer to the details of each polyclinic for the vaccines offered and specific operating hours.
 * Individuals who wish to receive their vaccination may book an appointment at selected polyclinics through the HealthHub booking system.
-* Individuals can alternatively visit JTVCs or participating General Practitioner (GP) clinics; given the higher vaccination capacity at JTVCs, waiting times should be shorter. 
 
 ###  **Central**
 <table>
@@ -23,12 +22,12 @@ variant: markdown
     <tr>
       <td>Geylang Polyclinic</td>
       <td>21 Geylang East Central, Singapore 389707</td>
-			<td> Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years old)<br><br>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)
+			<td> <b>[Children]</b>: Pfizer-BioNTech/Comirnaty JN.1 (5 to 11 years)<br><br><b>[Adults]</b>: Pfizer-BioNTech/Comirnaty JN.1 (12 years old &amp; above)
 				</td>
-			<td><b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years old):</b><br>
+			<td><b>[Children]</b>: Pfizer-BioNTech/Comirnaty JN.1 (5 to 11 years):<br>
 				Thursdays:<br>
 		  2-4pm<br><br>
-				<b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above):</b><br>
+				<b>[Adults]</b>: Pfizer-BioNTech/Comirnaty JN.1 (12 years old &amp; above):<br>
 				Tuesdays and Wednesdays:<br>
 				9am-12pm; 2-4pm 
 				</td>
@@ -36,12 +35,12 @@ variant: markdown
 		<tr>
       <td>Kallang Polyclinic</td>
       <td>701 Serangoon Road, Singapore 328263</td>
-			<td> Moderna/Spikevax XBB.1.5 (6 months to 5 years old)<br><br>
-			Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)</td>
-			<td><b>Moderna/Spikevax XBB.1.5 (6 months to 5 years old):</b><br>
+			<td> <b>[Children]</b>: Moderna/Spikevax JN.1 (6 months to 5 years old)<br><br>
+			<b>[Adults]</b>: Pfizer-BioNTech/Comirnaty JN.1 (12 years old &amp; above)</td>
+			<td><b>[Children]</b>: Moderna/Spikevax JN.1 (6 months to 5 years old):<br>
 				Wednesdays:<br>9-12pm<br><br>
 				Saturdays:<br> 9-11.30am<br><br>
-				<b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above):</b><br>Tuesdays and Wednesdays:<br>
+				<b>[Adults]</b>: Pfizer-BioNTech/Comirnaty JN.1 (12 years old &amp; above):<br>Tuesdays and Wednesdays:<br>
 			9am-12pm; 2-4pm</td>
     </tr>
   </tbody>
@@ -62,21 +61,22 @@ variant: markdown
     <tr>
       <td>Tampines Polyclinic</td>
       <td>1 Tampines Street 41, Singapore 529203</td>
-			<td> Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years old)<br><br>
-				Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)</td>
-			<td><b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years old):</b><br>
-				Fridays:<br>9am-12pm, 2-4.30pm<br><br><b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above):</b><br>Mondays to Thursdays:<br>9am-12pm; 2-4.30pm<br><br>
+			<td><b>[Children]</b>: Pfizer-BioNTech/Comirnaty JN.1 (5 to 11 years)<br><br>
+				<b>[Adults]</b>: Pfizer-BioNTech/Comirnaty JN.1 (12 years old &amp; above)</td>
+			<td><b>[Children]</b>: Pfizer-BioNTech/Comirnaty JN.1 (5 to 11 years):<br>
+				Fridays:<br>9am-12pm, 2-4.30pm<br><br><b>[Adults]</b>: Pfizer-BioNTech/Comirnaty JN.1 (12 years old &amp; above):<br>Mondays to Thursdays:<br>9am-12pm; 2-4.30pm<br><br>
 			Saturdays:<br>
 			9am-12pm</td>
     </tr>
 		<tr>
       <td>Eunos Polyclinic</td>
       <td>1 Chin Cheng Avenue, Singapore 429400</td>
-			<td>Moderna/Spikevax  XBB.1.5 (6 months to 5 years old)<br><br>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)</td>
-			<td><b>Moderna/Spikevax XBB.1.5 (6 months to 5 years old):</b><br>
+			<td><b>[Children]</b>: Moderna/Spikevax JN.1 (6 months to 5 years old)
+<br><br><b>[Adults]</b>: Pfizer-BioNTech/Comirnaty JN.1 (12 years old &amp; above)</td>
+			<td><b>[Children]</b>: Moderna/Spikevax JN.1 (6 months to 5 years old):<br>
 				Fridays:<br>9am-12pm, 2-4.30pm<br><br>
 				Saturdays:<br> 9am-12pm<br><br>
-				<b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above):</b><br>Mondays to Thursdays:<br>
+				<b>[Adults]</b>: Pfizer-BioNTech/Comirnaty JN.1 (12 years old &amp; above):<br>Mondays to Thursdays:<br>
 			9am-12pm, 2-4.30pm</td>
     </tr>
   </tbody>
