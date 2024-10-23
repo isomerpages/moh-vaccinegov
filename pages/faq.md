@@ -94,7 +94,14 @@ Please note that the Novavax/Nuvaxovid vaccine is only approved for use in perso
 
 <div class="tabs">	
 				<h3>Health and Safety</h3>
-				<p>For more information, visit <a href="https://www.moh.gov.sg/covid-19/vaccination">MOH's website</a>.</p>		
+    			<div class="tab">
+    				<input id="question-3-2" type="checkbox">
+    				<label for="question-3-2" class="tab-label">What should I do if I’m experiencing side effects?
+    				</label>
+    				<div class="tab-content">
+    					<p>If you experience a severe allergic reaction, seek medical attention immediately. Call 995 or go to the nearest A&amp;E immediately.</p>
+    				</div>
+    			</div>				
 				<div class="tab">
 					<input id="question-3-1" type="checkbox">
 					<label for="question-3-1" class="tab-label">What are the possible side effects?
