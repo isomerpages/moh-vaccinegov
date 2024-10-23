@@ -76,21 +76,6 @@ Please note that the Novavax/Nuvaxovid vaccine is only approved for use in perso
 					</div>
 							</div>
 					</div>					
-					
-<div class="tabs">
-    <h3>Vaccination Day</h3>							
-    <div class="tab">
-        <input id="question-2-1" type="checkbox">
-        <label for="question-2-1" class="tab-label">What should I take note on vaccination day?</label>
-        <div class="tab-content">
-            <p>				
-                <span>• Bring your ID (NRIC/FIN/Student Pass/Birth Certificate and Health Booklet)</span><br>
-                <span>• Please turn up on time</span><br>
-                <span>• Please wear short-sleeved attire, or sleeves loose enough to be rolled up</span><br>
-            </p>
-        </div>
-    </div>
-</div>
 
 
 <div class="tabs">	
