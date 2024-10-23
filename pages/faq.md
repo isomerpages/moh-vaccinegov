@@ -43,6 +43,7 @@ Holders of Training Employment Pass, Training Work Permit, Work Holiday Pass, Sp
 <br>
 <i>*The five JTVCs at Bukit Merah, Jurong East, Kaki Bukit, Sengkang and Woodlands will cease operations from 1 December 2024. Individuals who wish to receive their COVID-19 vaccinations at a JTVC should do so by 30 November 2024.*</i>
 <br>				
+
 You must accompany your child/ward if he/she is aged 12 years and below. Children/wards below 18 years will require the consent of their parents/guardians to get vaccinated. Identification document must be brought along on day of vaccination for verification purpose.</p>
 							</div>
 					</div>
