@@ -77,7 +77,6 @@ Please note that the Novavax/Nuvaxovid vaccine is only approved for use in perso
 					</div>					
     		</div>		
 
-
 <div class="tabs">	
 				<h3>Health and Safety</h3>
     			<div class="tab">
