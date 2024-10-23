@@ -49,7 +49,7 @@ You must accompany your child/ward if he/she is aged 12 years and below. Childre
 						<input id="question-1-4" type="checkbox">
 							<label for="question-1-4" class="tab-label">How can I receive the Novavax/Nuvaxovid COVID-19 vaccine?</label>
 						<div class="tab-content">
-							<p>You may book an appointment at a Healthier SG General Practitioner (GP) clinic that offer the Novavax/Nuvaxovid COVID-19 vaccine through <a href="https://vaccine.gov.sg/covid/">appointment</a>.<br>
+							<p>You may book an appointment at a Healthier SG General Practitioner (GP) clinic that offer the Novavax/Nuvaxovid COVID-19 vaccine through <a href="https://vaccine.gov.sg/covid/">vaccine.gov.sg/covid</a>.<br>
 <br>
 Please note that the Novavax/Nuvaxovid vaccine is only approved for use in persons aged 12 years and above.</p> 
     				</div>
