@@ -3,7 +3,9 @@ title: Frequently Asked Questions
 permalink: /faq/
 variant: markdown
 ---
-<h3>Registration and Appointments</h3>
+<div class="accordion">
+			<div class="tabs">			
+					<h3>Registration and Appointments</h3>
 <div class="tab">
 <input id="question-1-1" type="checkbox">
 <label for="question-1-1" class="tab-label">Is the vaccine free?</label>
@@ -41,13 +43,18 @@ You must accompany your child/ward if he/she is aged 12 years and below. Childre
 <label for="question-1-4" class="tab-label">How can I receive the Novavax/Nuvaxovid COVID-19 vaccine?</label>
 <div class="tab-content">
 <p>You may book an appointment at a Healthier SG General Practitioner (GP) clinic that offer the Novavax/Nuvaxovid COVID-19 vaccine through <a href="https://vaccine.gov.sg/covid/">appointment</a>.</p>.<br>
+Please note that the Novavax/Nuvaxovid vaccine is only approved for use in persons aged 12 years and above.
+</div>
+
+<input id="question-1-5" type="checkbox">
+<label for="question-1-5" class="tab-label">How can I receive the Novavax/Nuvaxovid COVID-19 vaccine?</label>
+<div class="tab-content">
+<p>You may book an appointment at a Healthier SG General Practitioner (GP) clinic that offer the Novavax/Nuvaxovid COVID-19 vaccine through <a href="https://vaccine.gov.sg/covid/">appointment</a>.</p>.<br>
 	
 Please note that the Novavax/Nuvaxovid vaccine is only approved for use in persons aged 12 years and above.
 <p></p></div>
 
 
-
-<a href="https://vaccine.gov.sg/covid/">appointment</a>.<p></p>		
 
 
 
@@ -317,4 +324,4 @@ BioNTech/Comirnaty’s dosage for persons aged 12 years and above is higher than
     				</div>
     			</div></div></div>
 
-For more information on additional doses, visit MOH's <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs-on-getting-vaccinated">website</a>.</div>
+For more information on additional doses, visit MOH's <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs-on-getting-vaccinated">website</a>.</div></div></div>
