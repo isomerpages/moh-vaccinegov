@@ -96,14 +96,13 @@ variant: markdown
     <tr>
       <td>Woodlands Polyclinic</td>
       <td>10 Woodlands Street 31, Singapore 738579</td>
-			<td> Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years old) <br><br>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years
-old &amp; above)</td>
-			<td><b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (5 to 11 years old):</b><br>
+			<td> <b>[Children]</b>: Pfizer-BioNTech/Comirnaty JN.1 (5 to 11 years)) <br><br><b>[Adults]</b>: Pfizer-BioNTech/Comirnaty JN.1 (12 years old &amp; above)</td>
+			<td><b>[Children]</b>: Pfizer-BioNTech/Comirnaty JN.1 (5 to 11 years):<br>
 			Fridays:<br>
 		  2-4pm<br><br>
 				Saturdays:<br>
 				9-11.30am<br><br>
-				<b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above):</b><br>
+				<b>[Adults]</b>: Pfizer-BioNTech/Comirnaty JN.1 (12 years old &amp; above):<br>
 				Wednesdays and Thursdays:<br>
 			2-4pm<br><br>
 			Saturdays:<br>
@@ -112,9 +111,9 @@ old &amp; above)</td>
 		<tr>
 			<td>Sembawang Polyclinic</td>
 			<td>21 Canberra Link, #01-03, Singapore 756973</td>
-			<td>Moderna/Spikevax XBB.1.5 (6 months to 5 years)<br><br>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)</td>
-			<td><b>Moderna/Spikevax XBB.1.5 (6 months to 5 years old):</b><br>Thursdays:<br>9am-12pm<br><br>
-		<b>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp;above)</b><br>Tuesdays: 9am-12pm, 2-4pm
+			<td><b>[Children]</b>: Moderna/Spikevax JN.1 (6 months to 5 years old)<br><br><b>[Adults]</b>: Pfizer-BioNTech/Comirnaty JN.1 (12 years old &amp; above)</td>
+			<td><b>[Children]</b>: Moderna/Spikevax JN.1 (6 months to 5 years old):<br>Thursdays:<br>9am-12pm<br><br>
+		<b>[Adults]</b>: Pfizer-BioNTech/Comirnaty JN.1 (12 years old &amp; above):<br>Tuesdays: 9am-12pm, 2-4pm
   </td></tr></tbody>
 </table>
 
