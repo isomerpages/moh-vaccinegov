@@ -3,34 +3,27 @@ title: Health Advisory
 permalink: /health-advisory/
 variant: markdown
 ---
-<li> Unvaccinated persons should receive two initial vaccine doses at an interval of eight weeks apart. </li>
-<li> An additional dose of an updated vaccine for 2024 continues to be recommended, and it should be administered around 1 year (and no earlier than 5 months) after the last dose received. The additional dose is: </li> 	
-<ul><li>Recommended for all persons aged 60 years and above, medically vulnerable individuals and residents of aged care facilities; 
-	</li><li>Encouraged for all individuals aged 6 months and above, in particular, healthcare workers, as well as household members and caregivers of medically vulnerable individuals </li><br></ul>
+The persons recommended for COVID-19 vaccination in 2024/2025 are: 
+* Individuals aged 60 years and above;
+* Medically vulnerable individuals aged 6 months and above; and
+* Residents of aged care facilities.<br>
 
-**Important reminders**:<br><br>
+Healthcare workers and persons living or working with medically vulnerable individuals are encouraged to consider receiving the vaccine. Other individuals aged 6 months and above who wish to receive the COVID-19 vaccine can continue to do so.
+ 
+Unvaccinated individuals who are receiving COVID-19 vaccination in 2024/2025 should receive:
 
-**On the day of vaccination**<br><br>
+* Ages 6 months to 4 years: Two vaccine doses, eight weeks apart; and
+* Ages 5 years and older: One vaccine dose. 
+	
+Vaccinated individuals aged 6 months and above who are receiving an additional dose of COVID-19 vaccination in 2024/2025, should receive it at an interval of around one year (and at least five months) from the last vaccine dose.
 
-* Wear short sleeved or clothes where the sleeves can be rolled up
-* Bring your ID (NRIC/FIN/Student Pass/Birth Certificate and Health Booklet)
-* Drink plenty of water and eat something before going for your vaccination
-* Postpone your appointment if you are unwell or had a fever in the last 24 hours
-	<br>
+**Important reminders**
+
+**On the day of vaccination**
+* Bring your ID (NRIC/FIN/Student Pass).
+* Please turn up on time.
+* Please wear short sleeved attire, or sleeves loose enough to be rolled up.
 
 **After vaccination**<br>
-
 Male vaccinees aged 12-29 years who are receiving any dose of Moderna/Spikevax, Pfizer-BioNTech/Comirnaty or Novavax/Nuvaxovid COVID-19 vaccines are advised to refrain from participating in strenuous physical activities for one week after vaccination. During this period, vaccinees should promptly seek medical attention if they experience chest pain, shortness of breath, or abnormal heartbeats.
  <br>
- 
- **COVID-19 Vaccination Related Documents**<br>
- [Parental Consent Form](https://go.gov.sg/parcf) <br>
- 
-[Screening Form and Vaccination Information Sheet - Pfizer / Comirnaty*(Adults and Children)](http://go.gov.sg/visp)<br>
-
- [Screening Form and Vaccination Information Sheet - Moderna / Spikevax*](https://go.gov.sg/vism)<br>
- 
- [Screening Form and Vaccination Information Sheet - Nuvaxovid*](https://go.gov.sg/visn)<br><br>
-
-
-  *These forms will be provided and filled up at the vaccination site
