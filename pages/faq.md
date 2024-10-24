@@ -150,7 +150,7 @@ Paracetamol 1 to 2 tablets for the other side effects every 6 hours for adults o
     				<label for="question-3-3" class="tab-label">Are the COVID-19 vaccines halal?
     				</label>
     				<div class="tab-content">
-    					<p>The Islamic Religious Council of Singapore (MUIS) has permitted COVID-19 vaccines for Muslim use. Please refer to MUIS’ <a href="https://www.muis.gov.sg/Media/Media-Releases/13-Dec-20-Religious-Position-on-COVID-19-Vaccine">religious position</a> on the COVID-19 vaccine for more information.
+    					<p>The Islamic Religious Council of Singapore (MUIS) has permitted COVID-19 vaccines for Muslim use.
 							</p>
     				</div>
     			</div>
