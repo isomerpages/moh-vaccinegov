@@ -86,14 +86,14 @@ book an appointment at Healthier SG General Practitioner (GP) clinics via
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>[Adults]:</strong>
-<br>Moderna/Spikevax XBB.1.5 (12 years old &amp; above),
+<br>Moderna/Spikevax JN.1 (12 years old &amp; above),
 <br>
-<br>Pfizer-BioNTech/Comirnaty Omicron XBB.1.5 (12 years old &amp; above)
+<br>Pfizer-BioNTech/Comirnaty JN.1 (12 years old &amp; above)
 <br>
 <br><strong>[Children]:</strong>
-<br>Moderna/Spikevax XBB.1.5 (6 months to 11 years)
+<br>Moderna/Spikevax JN.1 (6 months to 11 years)
 <br>
-<br>Pfizer-BioNTech/Comirnaty XBB.1.5 (6 months to 11 years)</p>
+<br>Pfizer-BioNTech/Comirnaty JN.1 (6 months to 11 years)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Monday - Friday: 9am-1pm, 2pm-7pm (Last walk-in 12.30pm &amp; 6.30pm)
