@@ -4,7 +4,7 @@ permalink: /locations/jtvc/
 description: ""
 variant: tiptap
 ---
-<h3><strong>JTVC Locations (Vaccination Wing)</strong></h3>
+<h3><strong>JTVC Locations</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>COVID-19 vaccinations are available at JTVCs Bukit Merah, Jurong East,
