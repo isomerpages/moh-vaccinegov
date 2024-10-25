@@ -154,4 +154,4 @@ Paracetamol 1 to 2 tablets for the other side effects every 6 hours for adults o
 							</p>
     				</div>
     			</div>
-For more information on additional doses, visit MOH's <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs-on-getting-vaccinated">website</a>.</div></div></div></div>
+For more information on, visit MOH's <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs-on-getting-vaccinated">website</a>.</div></div></div></div>
