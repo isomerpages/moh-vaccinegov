@@ -34,9 +34,9 @@ variant: markdown
 		<tr>
       <td>Kallang Polyclinic</td>
       <td>701 Serangoon Road, Singapore 328263</td>
-			<td> <b>[Children]</b>: Moderna/Spikevax JN.1 (6 months to 5 years old)<br><br>
+			<td> <b>[Children]</b>: Moderna/Spikevax JN.1 (6 months to 4 years old)<br><br>
 			<b>[Adults]</b>: Pfizer-BioNTech/Comirnaty JN.1 (12 years old &amp; above)</td>
-			<td><b>[Children]</b>: Moderna/Spikevax JN.1 (6 months to 5 years old):<br>
+			<td><b>[Children]</b>: Moderna/Spikevax JN.1 (6 months to 4 years old):<br>
 				Wednesdays:<br>9-12pm<br><br>
 				Saturdays:<br> 9-11.30am<br><br>
 				<b>[Adults]</b>: Pfizer-BioNTech/Comirnaty JN.1 (12 years old &amp; above):<br>Tuesdays and Wednesdays:<br>
@@ -70,9 +70,9 @@ variant: markdown
 		<tr>
       <td>Eunos Polyclinic</td>
       <td>1 Chin Cheng Avenue, Singapore 429400</td>
-			<td><b>[Children]</b>: Moderna/Spikevax JN.1 (6 months to 5 years old)
+			<td><b>[Children]</b>: Moderna/Spikevax JN.1 (6 months to 4 years old)
 <br><br><b>[Adults]</b>: Pfizer-BioNTech/ComirnatyJN.1 (12 years old &amp; above)</td>
-			<td><b>[Children]</b>: Moderna/Spikevax JN.1 (6 months to 5 years old):<br>
+			<td><b>[Children]</b>: Moderna/Spikevax JN.1 (6 months to 4 years old):<br>
 				Fridays:<br>9am-12pm, 2-4.30pm<br><br>
 				Saturdays:<br> 9am-12pm<br><br>
 				<b>[Adults]</b>: Pfizer-BioNTech/Comirnaty JN.1 (12 years old &amp; above):<br>Mondays to Thursdays:<br>
@@ -110,8 +110,8 @@ variant: markdown
 		<tr>
 			<td>Sembawang Polyclinic</td>
 			<td>21 Canberra Link, #01-03, Singapore 756973</td>
-			<td><b>[Children]</b>: Moderna/Spikevax JN.1 (6 months to 5 years old)<br><br><b>[Adults]</b>: Pfizer-BioNTech/Comirnaty JN.1 (12 years old &amp; above)</td>
-			<td><b>[Children]</b>: Moderna/Spikevax JN.1 (6 months to 5 years old):<br>Thursdays:<br>9am-12pm<br><br>
+			<td><b>[Children]</b>: Moderna/Spikevax JN.1 (6 months to 4 years old)<br><br><b>[Adults]</b>: Pfizer-BioNTech/Comirnaty JN.1 (12 years old &amp; above)</td>
+			<td><b>[Children]</b>: Moderna/Spikevax JN.1 (6 months to 4 years old):<br>Thursdays:<br>9am-12pm<br><br>
 		<b>[Adults]</b>: Pfizer-BioNTech/ComirnatyJN.1 (12 years old &amp; above):<br>Tuesdays: 9am-12pm, 2-4pm
   </td></tr></tbody>
 </table>
@@ -164,8 +164,8 @@ variant: markdown
     <tr>
       <td>Bukit Batok Polyclinic</td>
       <td>50 Bukit Batok West Avenue 3, Singapore 659164</td>
-			<td><b>[Children]</b>: Moderna/Spikevax JN.1 (6 months to 5 years old)<br><br><b>[Adults]</b>: Pfizer-BioNTech/Comirnaty JN.1 (12 years old &amp; above)</td>
-			<td><b>[Children]</b>: Moderna/Spikevax JN.1 (6 months to 5 years old):<br>
+			<td><b>[Children]</b>: Moderna/Spikevax JN.1 (6 months to 4 years old)<br><br><b>[Adults]</b>: Pfizer-BioNTech/Comirnaty JN.1 (12 years old &amp; above)</td>
+			<td><b>[Children]</b>: Moderna/Spikevax JN.1 (6 months to 4 years old):<br>
 				Fridays: <br>2-3.30pm<br><br>
 				Saturdays: <br> 9-11.30am<br><br>
 				<b>[Adults]</b>: Pfizer-BioNTech/Comirnaty JN.1 (12 years old &amp; above):<br>Weekdays:
