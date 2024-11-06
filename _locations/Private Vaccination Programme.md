@@ -32,12 +32,6 @@ Wai Shiu Hospital Block A #01-06, Singapore
 <b>[Adults]</b>: Moderna/Spikevax JN.1 (18 years old &amp; above)</td>
     </tr>
 		<tr>
-      <td>Fullerton Healthcare @ Drs Trythall Hoy Davies</td>
-      <td>1 Jurong West Central 2, Jurong Point Shopping Mall #B1-A19B, Singapore 648886</td>
-			<td>
-<b>[Adults]</b>: Moderna/Spikevax JN.1 (18 years old &amp; above)</td>
-    </tr>
-		<tr>
       <td>Healthway Medical (Millenia Walk)</td>
       <td>9 Raffles Boulevard, Millenia Walk #02-22, Singapore 039596</td>
 			<td><b>[Adults]</b>: Pfizer-BioNTech/Comirnaty JN.1 (12 years old &amp; above)</td>
