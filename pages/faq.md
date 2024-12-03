@@ -49,7 +49,7 @@ You must accompany your child/ward if he/she is aged 12 years and below. Childre
 						<div class="tab-content">
 							<p>Individals aged 12 years and above may book an appointment at a Healthier SG General Practitioner (GP) clinic that offer the Novavax/Nuvaxovid COVID-19 vaccine through <a href="https://vaccine.gov.sg/covid/">vaccine.gov.sg/covid</a>.<br>
 <br>
-Please note that from 1 January 2025, the Novavax/Nuvaxovid vaccine will no longer be available under the National Vaccination Programme (NVP) as the existing XBB.1.5 formulation of the vaccine is no longer supplied by the manufacturer. Individuals who wish to receive the Novavax/Nuvaxovid vaccine should do so by 31 December 2024.</p> 
+Please note that from 1 January 2025, the Novavax/Nuvaxovid vaccine will not be available under the National Vaccination Programme (NVP) as the existing XBB.1.5 formulation of the vaccine is no longer supplied by the manufacturer. Individuals who wish to receive the Novavax/Nuvaxovid vaccine should do so by 31 December 2024.</p> 
     				</div>
     			</div>   			
     			<div class="tab">
