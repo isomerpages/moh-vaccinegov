@@ -24,9 +24,7 @@ a)	Ages 6 months to 4 years: Two vaccine doses, eight weeks apart; and <br>
 b)	Ages 5 years and older: One vaccine dose.<br>
 <br>
 Vaccinated individuals aged 6 months and above who are receiving an additional dose of COVID-19 vaccination in 2024/2025, should receive it at an interval of around one year (and at least five months) from the last vaccine dose.<br><br>
-You may book an appointment at a Healthier SG General Practitioner (GP) clinic through <a href="https://vaccine.gov.sg/covid/">vaccine.gov.sg/covid</a>, or at selected polyclinics through the HealthHub booking system. Alternatively, individuals may walk in to any Joint Testing and Vaccination Centre (JTVC)* without an appointment.<br>
-<br>
-<i>*The five JTVCs at Bukit Merah, Jurong East, Kaki Bukit, Sengkang and Woodlands will cease operations from 1 December 2024. Individuals who wish to receive their COVID-19 vaccinations at a JTVC should do so by 30 November 2024.</i><br>
+The five Joint Testing and Vaccination Centre (JTVCs) at Bukit Merah, Jurong East, Kaki Bukit, Sengkang and Woodlands have ceased operations from 1 December 2024. Persons aged 6 months and above may book an appointment at a Healthier SG General Practitioner (GP) clinic through <a href="https://vaccine.gov.sg/covid/">vaccine.gov.sg/covid</a>, or at selected polyclinics through the HealthHub booking system.<br>
 <br>
 Children/wards below 18 years will require the consent of their parents/guardians to get vaccinated. Those aged 12 years and below must be accompanied by a parent/guardian. Identification document must be brought along on day of vaccination for verification purpose. <br>
 <br>
@@ -38,9 +36,9 @@ Holders of Training Employment Pass, Training Work Permit, Work Holiday Pass, Sp
 						<input id="question-1-3" type="checkbox">
 							<label for="question-1-3" class="tab-label">How can my child/ward receive his/her vaccine doses?</label>
 						<div class="tab-content">
-							<p>Eligible children may book an appointment at a Healthier SG General Practitioner (GP) clinic through <a href="https://vaccine.gov.sg/covid/">vaccine.gov.sg/covid</a>, or at selected polyclinics through the HealthHub booking system. Alternatively, they may walk in with their parents/guardians to any Joint Testing and Vaccination Centre (JTVC)* without an appointment.<br>
-<br>
-<i>*The five JTVCs at Bukit Merah, Jurong East, Kaki Bukit, Sengkang and Woodlands will cease operations from 1 December 2024. Individuals who wish to receive their COVID-19 vaccinations at a JTVC should do so by 30 November 2024.*</i><br>				
+							<p>The five Joint Testing and Vaccination Centres (JTVCs) at Bukit Merah, Jurong East, Kaki Bukit, Sengkang and Woodlands have ceased operations from 1 December 2024. Eligible children may book an appointment at a Healthier SG General Practitioner (GP) clinic through <a href="https://vaccine.gov.sg/covid/">vaccine.gov.sg/covid</a>, or at selected polyclinics through the HealthHub booking system.<br>
+<br> 
+								The nearest vaccination site and the types of vaccines offered at each site are listed at <a href="https://vaccine.gov.sg/covid/">gowhere.gov.sg/vaccine</a>.<br>
 <br>
 You must accompany your child/ward if he/she is aged 12 years and below. Children/wards below 18 years will require the consent of their parents/guardians to get vaccinated. Identification document must be brought along on day of vaccination for verification purpose.</p>
 							</div>
@@ -49,9 +47,9 @@ You must accompany your child/ward if he/she is aged 12 years and below. Childre
 						<input id="question-1-4" type="checkbox">
 							<label for="question-1-4" class="tab-label">How can I receive the Novavax/Nuvaxovid COVID-19 vaccine?</label>
 						<div class="tab-content">
-							<p>You may book an appointment at a Healthier SG General Practitioner (GP) clinic that offer the Novavax/Nuvaxovid COVID-19 vaccine through <a href="https://vaccine.gov.sg/covid/">vaccine.gov.sg/covid</a>.<br>
+							<p>Individals aged 12 years and above may book an appointment at a Healthier SG General Practitioner (GP) clinic that offer the Novavax/Nuvaxovid COVID-19 vaccine through <a href="https://vaccine.gov.sg/covid/">vaccine.gov.sg/covid</a>.<br>
 <br>
-Please note that the Novavax/Nuvaxovid vaccine is only approved for use in persons aged 12 years and above.</p> 
+Please note that from 1 January 2025, the Novavax/Nuvaxovid vaccine will no longer be available under the National Vaccination Programme (NVP) as the existing XBB.1.5 formulation of the vaccine is no longer supplied by the manufacturer. Individuals who wish to receive the Novavax/Nuvaxovid vaccine should do so by 31 December 2024.</p> 
     				</div>
     			</div>   			
     			<div class="tab">
