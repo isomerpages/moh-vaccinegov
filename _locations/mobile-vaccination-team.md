@@ -8,8 +8,8 @@ Mobile Vaccination Teams (MVTs) will continue to be deployed to selected heartla
 The operating hours for the mobile vaccination teams are:<br>
 
 **Operating Hours**:<br>
-AM: 9am – 11.30am<br>
-PM: 1pm – 5pm<br>
+AM: 9am – 1pm<br>
+PM: 2pm – 5.30pm<br>
 
 Please note:
 * Priority will be for seniors aged 60 years and above to walk in.<br>
